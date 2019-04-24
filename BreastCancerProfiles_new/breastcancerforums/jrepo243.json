@@ -1,0 +1,185 @@
+{
+  "AuthorID": "jrepo243",
+  "AuthorURL": "https://www.cancerforums.net/members/110946-jrepo243?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "willing",
+      "free"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "jrepo243",
+      "AuthorURL": "https://www.cancerforums.net/members/110946-jrepo243?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My GYN put me on Premarin for vaginal dryness. I am 67 turning 68 next month. My BC was estrogen positive also (her2 pos). I too am having hot flashes and profuse sweating. I am way past menopause. I only had a lumpectomy and was put on herceptin for one year. This was from 2006-2007. I have been cancer free , it will be 8 yrs. in Sept.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "<Z> <Z> <Z> I am 67 turning 68 next month <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 5.583333333333333
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "<Z> I am 67 turning 68 next month <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 5.666666666666667
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "estrogen",
+              "hot flashes",
+              "menopause",
+              "vaginal"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "06/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/32970-Someone-please-explain-Estrogen-factor-to-me?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Someone please explain Estrogen factor to me"
+    },
+    {
+      "AuthorID": "jrepo243",
+      "AuthorURL": "https://www.cancerforums.net/members/110946-jrepo243?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I had breast cancer when I was 60. I am now turning 68. I was all done with menopause by then. During the warmer months especially I sweat profusely. Can the chemo have caused this to be happening? It feels like menopause all over again. In the summer months the sweat just drips off my head and my back gets all wet also.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "breast cancer when I was 60 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> I am now turning 68 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 68
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "menopause",
+              "menopausal",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38422-post-cancer-treatment-menopausal-symptoms?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "post cancer treatment menopausal symptoms"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> I am now turning 68 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 68
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 136
+}

@@ -1,0 +1,122 @@
+{
+  "AuthorID": "OnkoGuide",
+  "AuthorURL": "https://www.cancerforums.net/members/124350-OnkoGuide?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "courageous",
+      "wonderful",
+      "compassionate",
+      "caring",
+      "thoughtful",
+      "challenged",
+      "willing",
+      "unique"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "2",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "OnkoGuide",
+    "AuthorURL": "https://www.cancerforums.net/members/124350-OnkoGuide?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I was wondering what you thought of Dr. DeVita's book, \"The Death of Cancer.\" In his book, Dr. DeVita, a world-renowned oncologist, recounts experiences of helping friends through prostate cancer live years longer than they otherwise would have. Dr. DeVita extends years to the life of his friends by not giving up (with their wishes) and having the expertise to be effective. This extraordinary level of care goes well beyond what physicians refer to today as the \"standard of care.\" While the standard of care works for many, the fate of those who standard therapy fails is left in the hands of an oncologist who isn't incentivized to try very hard to save them. So, when there is a particularly challenging case of prostate cancer that failed standard therapy, the experience and courage, like that of Dr. DeVita, to go the extra mile are necessary. Going the extra mile means researching and seeking out clinical trials and new drugs that are most likely to work and connecting patients to the absolute best oncologists in the field for any one particular type of cancer. Dr. DeVita is capable of this effort because of his expertise, the time he is willing to put into fighting for a friend, and the strings he is uniquely able to pull as a leader in the oncology community. Many of Dr. DeVita's friends go on to live years longer than expected. Unfortunately, much of this tenacity is missing in modern oncologist because they simply don't have the time to deal with bureaucracy (e.g. file for compassionate use of drugs only available in clinical trials) and individualize treatment plans. So, my question is how can we all get the same, extraordinary, level of prostate cancer care? Do I need to know someone like Dr. Devita so my friend with metastatic prostate cancer can live a few years longer to see his daughter graduate college?",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "friend",
+          "NarrationType": "second-person",
+          "PatientGender": "male",
+          "Relation": "friend"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "24/06/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/51434-Thoughts-on-quot-The-Death-of-Cancer-quot-and-implications-for-your-prostate-cancer-care?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Thoughts on \"The Death of Cancer\" and implications for your prostate cancer care"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 336
+}

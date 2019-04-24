@@ -1,0 +1,154 @@
+{
+  "AuthorID": "Watheri",
+  "AuthorURL": "https://www.cancerforums.net/members/17880-Watheri?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "encouraged",
+      "blessed",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Watheri",
+      "AuthorURL": "https://www.cancerforums.net/members/17880-Watheri?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My 61 years old mum had mastectomy on 2oth Aug 09. Prior to the operation she had become so weak. Out of the theatre okey but still very weak. She was discharged out of hospital on 7th Sep 09. On 17th Sep 09 she got a convulsion that left her confused and speechless. We took her back to hospital and straight away she was put on a drip (4) bottles and doctors said she had been dehydrated. She was feeding at home but very reluctantly as she has been taking TAMOXIFEN which usually makes the users lack appetite. Five days later she started talking and her memory started coming back slowly by slowly. On the 8th day - 24th Sep 09 she was discharged again. Her doctor had said that until she is strong, she CAN'T be started on chemo. She is still weak and eating is some sort of struggle. Along Tamoxifen, she has some drugs to control the convulsion attacks until 10th Oct when her next clinic is due. She is also on Ranferon (Blood Builder) and we have also introduced her to some supplements. Her tumor was further tested and the results BREAST INVASIVE CARCINOMA. The tumor - Multicentric with Venous / Lymphatic invasion. QUESTIONS : Is it a must she be done chemo? Are there any good supplements that can work in charge of chemo? Please Help",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> My 61 years old mum had mastectomy",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 61
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["BREAST"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mum",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mum"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/10/2009",
+      "Signature": "A reputation is precious, but a character is priceless.",
+      "ThreadURL": "https://www.cancerforums.net/threads/10603-Mum-s-mastectomy-on-20-08-09-Please-help-with-ideas?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Mum's mastectomy on 20.08.09 Please help with ideas."
+    },
+    {
+      "AuthorID": "Watheri",
+      "AuthorURL": "https://www.cancerforums.net/members/17880-Watheri?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you so much Cindy for responding back to me. I will have to discuss it with her and i trust that she will also go for the option of the chemo. I was just trying to see if we can save her the \"tough times\" that goes with chemo but i now realize the danger. Thank you. On Saturday 10.10.09 we are attending a group meeting for ladies who have been through mastectomy and i hope we can also learn more and get encouragement through the others. Be blessed.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "06/10/2009",
+      "Signature": "A reputation is precious, but a character is priceless.",
+      "ThreadURL": "https://www.cancerforums.net/threads/10603-Mum-s-mastectomy-on-20-08-09-Please-help-with-ideas?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Mum's mastectomy on 20.08.09 Please help with ideas."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> My 61 years old mum had mastectomy",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 61
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Urinary incontinence"],
+    "SideEffectTypeKeywords": ["drip"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 330
+}

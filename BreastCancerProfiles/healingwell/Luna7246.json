@@ -1,0 +1,155 @@
+{
+  "AuthorID": "Luna7246",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=391186&p=148135",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Luna7246",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=391186&p=148135",
+      "Content": " My damaged tissue was found through the mammograms... ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "12/06/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=391186",
+      "Title": "lump in breast"
+    },
+    {
+      "AuthorID": "Luna7246",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=391186&p=148135",
+      "Content": " Hello everyone! I'm new to this forum and found it very interesting and helpful for my concerns. I am 33 years old. Just yesterday had a mammogram done on me upon my Doctor's request. It was my very first one ever so was not sure at all of what to expect there. After my first images were taken, I was called in again for a second set, then a third set of images were requested. I started to freak out towards the end of the third set because I just thought this is just way too much in a day! So yes, Doctor at the radiology center had found something abnormal. I was then waiting to finalize my visit with an ultrasound in which the ultrasound tech called the doctor to let him proceed with the ultrasound himself. Doctor was there talking to me about\n some damaged tissue on my left breast, and a 5mm lump on same breast which was detected through ultrasound. I don't know what all this means now. He just told me that I have to previous test records to compare my new results with, and that I will need to go back in 6 months for a new test. I truly need some advice, if anybody could help will be greatly appreciate it! I'm thinking if wouldn't it be better if they check if is malignant first, instead of waiting 6 long months?\nThanks so much from the bottom of my heart!\nWill be anxiously waiting for some of your Replies :) ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 33 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 33
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "12/06/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=391186",
+      "Title": "lump in breast"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 33 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 33
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 269
+}

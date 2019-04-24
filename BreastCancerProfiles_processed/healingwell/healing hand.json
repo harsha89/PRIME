@@ -1,0 +1,189 @@
+{
+  "AuthorID": "healing hand",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120997",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "insistent",
+      "scared",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "healing hand",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120997",
+      "Content": " I have been diagnoseg with complex cyst on the right breast, last year in may.There is sometimes yellowish and greenish discharge(very small), from that breast.My MD did citology test and did not show any cancer cell.Under both arms i have small nodes that have been there for the past 2 years.Since last year i have been going regularly for ultrasound check every four months.Should i just insist on biopsy and solve that once and forever.My MD think that if the radiologist dont think biopsy is necesarry he would not advise it.Please help me I am so scared and afraid even to ask \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2087926",
+      "Title": "need help in making desicion please"
+    },
+    {
+      "AuthorID": "healing hand",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120997",
+      "Content": " Thank you so much for your respond ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2087926",
+      "Title": "need help in making desicion please"
+    },
+    {
+      "AuthorID": "healing hand",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120997",
+      "Content": " Thank you so much.I will do that ! \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "20/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2087926",
+      "Title": "need help in making desicion please"
+    },
+    {
+      "AuthorID": "healing hand",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120997",
+      "Content": " Thank you for taking time to explain that:) ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "06/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2087926",
+      "Title": "need help in making desicion please"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 139
+}

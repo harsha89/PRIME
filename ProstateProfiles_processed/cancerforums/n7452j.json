@@ -1,0 +1,294 @@
+{
+  "AuthorID": "n7452j",
+  "AuthorURL": "https://www.cancerforums.net/members/111102-n7452j?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "thoughtful",
+      "ok",
+      "thoughtful",
+      "touched",
+      "curious",
+      "anxious",
+      "willing",
+      "bad",
+      "anxious",
+      "nervous",
+      "touched",
+      "curious",
+      "anxious",
+      "willing",
+      "bad",
+      "anxious",
+      "nervous"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 41,
+    "min": 5.53,
+    "scores": [
+      41,
+      5.53,
+      14
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "n7452j",
+      "AuthorURL": "https://www.cancerforums.net/members/111102-n7452j?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello,I am 52, feel healthy, physically fit, active and in good condition.(no family history of pc) I had my first psa test at age 41 it was 1.19 my next was at 49 = 3.20. On 1/17/14 on my birthday at age 52 my psa test was 5.53 urologist ordered another test and on 2/5/14 it was 5.76, so he did a DRE and said it seemed ok but thought I should have a biopsy just in case,(I thought this was jumping the gun a bit) I ask if we could do anything else instead and he said we could try to rule out infection first which I thought sounded much better than the biopsy so he put me on minocycline 100MG twice a day for 50 days then I had another psa test on 4/29/14 it went down to 5.06 but now he wants to go forward with the biopsy. I was having to urinate more than normal and needed to get up once or twice a night, not always, it seems like it comes on for a few days then all is normal for a spell. This has been the case for a year or two. Is a biopsy the next best option to find out why my psa is still high ?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "best option Hello I am 52  feel healthy  physically fit  active",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 52
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "first psa test at age 41 it was 1 19 my",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 41
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "19 my next was at 49 = 3 20 <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 49
+          },
+          {
+            "Confidence": 0.8,
+            "Phrase": "on my birthday at age 52 my psa test was 5",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 52
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "5 14 it was 5 76  so he did a DRE",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 76
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38628-is-biopsy-next-best-option?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "is biopsy next best option"
+    },
+    {
+      "AuthorID": "n7452j",
+      "AuthorURL": "https://www.cancerforums.net/members/111102-n7452j?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello,I am 52, feel healthy, physically fit, active and in good condition.(no family history of pc) I had my first psa test at age 41 it was 1.19 my next was at 49 = 3.20. On 1/17/14 on my birthday at age 52 my psa test was 5.53 urologist ordered another test and on 2/5/14 it was 5.76, so he did a DRE and said it seemed ok but thought I should have a biopsy just in case,(I thought this was jumping the gun a bit) I ask if we could do anything else instead and he said we could try to rule out infection first which I thought sounded much better than the biopsy so he put me on minocycline 100MG twice a day for 50 days then I had another psa test on 4/29/14 it went down to 5.06 but now he wants to go forward with the biopsy. I was having to urinate more than normal and needed to get up once or twice a night, not always, it seems like it comes on for a few days then all is normal for a spell. This has been the case for a year or two. Is a biopsy the next best option to find out why my psa is still high ?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> Hello I am 52  feel healthy  physically fit  active",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 52
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "first psa test at age 41 it was 1 19 my",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 41
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "19 my next was at 49 = 3 20 <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 49
+          },
+          {
+            "Confidence": 0.8,
+            "Phrase": "on my birthday at age 52 my psa test was 5",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 52
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "5 14 it was 5 76  so he did a DRE",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 76
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "16/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38628-is-biopsy-next-best-option?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "is biopsy next best option"
+    },
+    {
+      "AuthorID": "n7452j",
+      "AuthorURL": "https://www.cancerforums.net/members/111102-n7452j?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, Highlander, He did not say anything about BPH. As for the urinating, it is more the night time and sudden urges that seems to come and go. I had about a three day spell last fall where, in the morning mostly, I would have to go every 15 minutes or so and when I had to go I had to go NOW, might have been partially coffee induced. It hasn't been near that bad since then. Most days I can go a couple hours between pit stops. One other symptom I have is a burning sensation between the scrotum and anus, which comes and goes also. I do have the biopsy scheduled for the end of the month. The uro has 40+ years in so I am good with that I guess. He just hasn't asked me much about any symptoms or really explained anything to me, so I am curious, nervous, anxious and a bit afeared. I don\u2019t personally know anyone that has experienced any of this, so I am very thankful for this forum. I will keep in touch.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["scrotum"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "16/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38628-is-biopsy-next-best-option?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "is biopsy next best option"
+    },
+    {
+      "AuthorID": "n7452j",
+      "AuthorURL": "https://www.cancerforums.net/members/111102-n7452j?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, Highlander, He did not say anything about BPH. As for the urinating, it is more the night time and sudden urges that seems to come and go. I had about a three day spell last fall where, in the morning mostly, I would have to go every 15 minutes or so and when I had to go I had to go NOW, might have been partially coffee induced. It hasn't been near that bad since then. Most days I can go a couple hours between pit stops. One other symptom I have is a burning sensation between the scrotum and anus, which comes and goes also. I do have the biopsy scheduled for the end of the month. The uro has 40+ years in so I am good with that I guess. He just hasn't asked me much about any symptoms or really explained anything to me, so I am curious, nervous, anxious and a bit afeared. I don\u2019t personally know anyone that has experienced any of this, so I am very thankful for this forum. I will keep in touch.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["scrotum"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "16/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38628-is-biopsy-next-best-option?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "is biopsy next best option"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "best option Hello I am 52  feel healthy  physically fit  active",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 52
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "infection"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 829
+}

@@ -1,0 +1,142 @@
+{
+  "AuthorID": "aandy8",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3065197&p=195157",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "hopeful",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "aandy8",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3065197&p=195157",
+      "Content": " hugs to you leen breast cysts are a total pain i have cysts as well drained and sometimes come back i hope someone can help you\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "29/04/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3065197",
+      "Title": "breast cyst"
+    },
+    {
+      "AuthorID": "aandy8",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3009949&p=195157",
+      "Content": " go and see your GP a ultrasound will show cysts straight away hopefully that is your problem ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "28/03/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3009949",
+      "Title": "Can Doctor's tell by if a lump is a cyst from an examination?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 43
+}

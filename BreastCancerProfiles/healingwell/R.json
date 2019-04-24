@@ -1,0 +1,143 @@
+{
+  "AuthorID": "R",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2427690&p=147065",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "R U SAVED",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2427690&p=147065",
+      "Content": " I had a lump that didn't feel right and have always had regular mammograms. I went to doc and he sent me for a mammogram and ultrasound and both test showed something abnormal. They did a core biopsy and sent it to be tested. Preliminary test show a non cancerous tumor but they have sent it to another lab for a second opinion. Has anyone ever had their second opinion come back diffferent and is this routine for them to do?\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "Breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/05/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2427690",
+      "Title": "Breast Cancer Biopsy"
+    },
+    {
+      "AuthorID": "R",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=257912&p=16882",
+      "Content": " I did not have to have booster rads! Thank goodness! But had I had to have them I was told that I would have a break between. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "25/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=257912",
+      "Title": "question about rads"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 112
+}

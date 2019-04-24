@@ -1,0 +1,144 @@
+{
+  "AuthorID": "sherburton",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2336091&p=139876",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "paranoid",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "sherburton",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2336091&p=139876",
+    "Content": " 2 years ago my GP sent me for a mammogram and breast ultrasound as he found a mass in my right breast. It came back that there was no malignancy suspected at that time. The mammogram was repeated 1 year later results were mass still there still no malignancy suspected at this time. (that was almost 2 months ago) for the last month and half I have encountered swelling in my upper arm and in my armpit area it actually difficult to put my arm down without feeling there is something there. I went for a auxilla ultrasound today and am awaiting the results which they indicated could be Friday or the beginning of next week.. GRRRR... anyways my concern being I am 42 years old, my Mother was diagnosed with breast cancer at 45 lost her battle at 49. My grandmother also had cancer diagnosed at 29 lost her battle at 32. (my Family was so very young when my Grama passed they are unclear if it was uterine or ovarion.) I am going for genetic testing March 15th. My question is, am I being paranoid just wanting the dr. to remove this lump to confirm that is definitly is not cancer or is this somthing they just generally dont do? Any help/advice would be greatly appreciated. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "my concern being I am 42 years old  my Mother was",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 42
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "diagnosed with breast cancer at 45 lost her battle at 49",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 45
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "45 lost her battle at 49  My grandmother also had cancer",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 49
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "07/02/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2336091",
+    "Title": "any advise would help"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "my concern being I am 42 years old  my Mother was",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 42
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 223
+}

@@ -1,0 +1,146 @@
+{
+  "AuthorID": "CAROL459",
+  "AuthorURL": "https://www.cancerforums.net/members/9453-CAROL459?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "loving",
+      "loved",
+      "loving",
+      "loved",
+      "willing",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "CAROL459",
+      "AuthorURL": "https://www.cancerforums.net/members/9453-CAROL459?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Breast cancer to liver bones etc..4 go around with chemo Now pill form Love to have info from survivors on side effects etc.... Know everyone is different but we are all in this together to help one another Thanks carol",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/09/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5259-XELODA-STARTED-TODAY-SIDE-EFFECTS-HELP-PLEASE?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "XELODA.STARTED TODAY..SIDE EFFECTS HELP PLEASE"
+    },
+    {
+      "AuthorID": "CAROL459",
+      "AuthorURL": "https://www.cancerforums.net/members/9453-CAROL459?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "hi new to this site. i got breast cancer in 1993 been doing tumor markers every 3 months since then yes it is scary.....it has returned 4 times.the cancer but god love the dr for doing the test.the numbers go up and the cancer is found with pet ct mri etc and chemo or radiation started and I am here to help you My last chemo was in feb this yr now markers in the 60's and chemo again started today XELODA...markers are keepin me alive and battling..no scare til they are in the 40 or so it seems hang in there we will help carol",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "12/09/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5032-CA-27-29?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "CA 27 29"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 160
+}

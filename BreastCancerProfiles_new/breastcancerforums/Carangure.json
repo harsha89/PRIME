@@ -1,0 +1,130 @@
+{
+  "AuthorID": "Carangure",
+  "AuthorURL": "https://www.cancerforums.net/members/123682-Carangure?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "touched",
+      "close",
+      "supportive",
+      "insistent",
+      "willing",
+      "sure",
+      "upset",
+      "upset"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "3",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Carangure",
+    "AuthorURL": "https://www.cancerforums.net/members/123682-Carangure?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hello, I am just starting on this journey and will be having my 2nd chemo treatment this week. My hair started falling out last week so I went ahead and shaved my head. I have two sisters that were insisting on shaving their heads in support but I was absolutely against it. I'm really not sure why it upset me so much but I tried to explain to them that it made me very uncomfortable and I didn'tr want to have to look at them and it be like looking in a mirror. I should also say we are not close and have not had much ch contact in the last 10 years. One of them went ahead and shaved her head and I believe the other one will too. Should this really bother me so much? Should I be touched that they were willing to do this? Age at diagnosis 54 Post menopausal ER pr negative her2 pos Stage 2 Occult primary",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> Age at diagnosis 54 Post menopausal ER pr negative",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 54
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["menopausal"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "08/05/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/50860-Sister-shaved-head?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Sister shaved head"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> Age at diagnosis 54 Post menopausal ER pr negative",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 54
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 168
+}

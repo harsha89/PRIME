@@ -1,0 +1,144 @@
+{
+  "AuthorID": "rasquel",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1388261&p=77380",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "rasquel",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1388261&p=77380",
+      "Content": " i was just wondering if anyone here has been misdiagnosed with dcis or any breast cancer for that fact. thank you rasquel ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/02/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1388261",
+      "Title": "dcis"
+    },
+    {
+      "AuthorID": "rasquel",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1388261&p=77380",
+      "Content": " i had a sterotactic done. out of 30 + calcifications, 8 were removed. sent out to lab. which they dx me with high grade comedo dcis. after partial mastectomy and node removed. surgical pathology said that no cancer was found. only fat calcifications. 1st lab that said that i had dcis disputed the post surgical biospy. so than onoclogist called the 1st lab and ask where the er/pr report was. lab stated that they will check into it. and call my dr back. they didnt call back. so a couple days later.my dr called than again. they told him that it got over looked and that they would test it. and give him the report in about\n a week. a week goes by. and nothing. so my dr calls lab again. this time they tell him that a dna is being tested on the tissue. and they will get back to him. another week goes by, my dr called them again. but got nothing for a answer. no explanation, nothing. my dr said that in all the years being in this profession. has he seen anything like this. so we dont know why 1st lab is doing this. did they lose my samples, did they misdiagnosed me . just dont know. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "dr",
+            "MainSubject": "dr",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "18/02/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1388261",
+      "Title": "dcis"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 233
+}

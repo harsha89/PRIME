@@ -1,0 +1,688 @@
+{
+  "AuthorID": "Flynn",
+  "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "forgiving",
+      "ok",
+      "sure",
+      "worried",
+      "wronged",
+      "understanding",
+      "important",
+      "sure",
+      "forgiving",
+      "ok",
+      "sure",
+      "worried",
+      "wronged",
+      "understanding",
+      "important",
+      "sure",
+      "interested",
+      "important",
+      "affected",
+      "sure",
+      "important",
+      "interested",
+      "important",
+      "affected",
+      "sure",
+      "important",
+      "willing",
+      "willing",
+      "interested",
+      "important",
+      "affected",
+      "sure",
+      "willing",
+      "interested",
+      "important",
+      "affected",
+      "sure",
+      "important",
+      "willing",
+      "important",
+      "forgiving",
+      "important",
+      "pleased",
+      "thoughtful",
+      "sure",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0.1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.15",
+      "HAPPY": "0.55",
+      "HELPLESS": "0",
+      "HURT": "0.15",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.25",
+      "LOVE": "0",
+      "OPEN": "0.45",
+      "POSITIVE": "0.2",
+      "SAD": "0",
+      "STRONG": "0.45"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 20,
+  "NPosts": 22,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello, I am new here. I have one question, maybe there is the same topic and if yes, then forgive me for asking the same again. I am very afraid of getting a breats cancer and though I am very young so far but still I visit doctor regurarly just to make sure that everything is ok becaue my grandmother had a breats cancer and I have been taking contraceptive pills for 5 years now and I am not planning to have a kids. So that is why I am so worried. My question is how often do you think I should see a doctor and have an echoscopy just to be sure that even if something is wrong it is not too late? Thanks very much",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "16/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "thank you all. I know that self exams are extremely important. I just don't trust myself and usually think that I might miss something. And what does PAP test mean? I am not sure what it is in lithuanian so I don't understand Is this cervix test?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["cervix"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "17/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My mother's mom had a breast cancer. I have never had any lums before. Thank you very much",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mother",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mother"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "16/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello, I am new here. I have one question, maybe there is the same topic and if yes, then forgive me for asking the same again. I am very afraid of getting a breats cancer and though I am very young so far but still I visit doctor regurarly just to make sure that everything is ok becaue my grandmother had a breats cancer and I have been taking contraceptive pills for 5 years now and I am not planning to have a kids. So that is why I am so worried. My question is how often do you think I should see a doctor and have an echoscopy just to be sure that even if something is wrong it is not too late? Thanks very much",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "16/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My mother's mom had a breast cancer. I have never had any lums before. Thank you very much",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mother",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mother"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "16/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "16/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "thank you all. I know that self exams are extremely important. I just don't trust myself and usually think that I might miss something. And what does PAP test mean? I am not sure what it is in lithuanian so I don't understand Is this cervix test?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["cervix"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "17/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/463-How-often-do-I-have-to-see-a-doctor?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How often do I have to see a doctor?"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I think it would be very interesting to discuss about how they can affect cancer because I read a lot different opinions and I am not sure what to believe. I know several women who developed mastophatia because they had been taken pills for a very long time. What do you think about it? Maybe you know some important links on this topic. Thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "So what would you suggest if taking those pills are extremely important for me? I have a big problem about it...I don't want kids. I am old enough and still I don't think that I'll ever want them And I don't want to get abortion, no way...I was considering sterilization but that is a very big step and requires much thinking",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I think it would be very interesting to discuss about how they can affect cancer because I read a lot different opinions and I am not sure what to believe. I know several women who developed mastophatia because they had been taken pills for a very long time. What do you think about it? Maybe you know some important links on this topic. Thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "So what would you suggest if taking those pills are extremely important for me? I have a big problem about it...I don't want kids. I am old enough and still I don't think that I'll ever want them And I don't want to get abortion, no way...I was considering sterilization but that is a very big step and requires much thinking",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "God..That is a big problem for me I always was thinking that if I go to doctor really regurarly if someone is not good, it will be time to do something, I mean BC is also curable if you start early. Because I still would kike to wait until I am 35 and then if I really don't want kids have my tubes tied. But that means 5 more years with contraceptive pills And all in all it would be about 10 years",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to wait until I am 35 and then if I really",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 35
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "God..That is a big problem for me I always was thinking that if I go to doctor really regurarly if someone is not good, it will be time to do something, I mean BC is also curable if you start early. Because I still would kike to wait until I am 35 and then if I really don't want kids have my tubes tied. But that means 5 more years with contraceptive pills And all in all it would be about 10 years",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to wait until I am 35 and then if I really",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 35
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "21/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I think it would be very interesting to discuss about how they can affect cancer because I read a lot different opinions and I am not sure what to believe. I know several women who developed mastophatia because they had been taken pills for a very long time. What do you think about it? Maybe you know some important links on this topic. Thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "God..That is a big problem for me I always was thinking that if I go to doctor really regurarly if someone is not good, it will be time to do something, I mean BC is also curable if you start early. Because I still would kike to wait until I am 35 and then if I really don't want kids have my tubes tied. But that means 5 more years with contraceptive pills And all in all it would be about 10 years",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to wait until I am 35 and then if I really",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 35
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 34,
+      "PostDate": "21/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I think it would be very interesting to discuss about how they can affect cancer because I read a lot different opinions and I am not sure what to believe. I know several women who developed mastophatia because they had been taken pills for a very long time. What do you think about it? Maybe you know some important links on this topic. Thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "So what would you suggest if taking those pills are extremely important for me? I have a big problem about it...I don't want kids. I am old enough and still I don't think that I'll ever want them And I don't want to get abortion, no way...I was considering sterilization but that is a very big step and requires much thinking",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "God..That is a big problem for me I always was thinking that if I go to doctor really regurarly if someone is not good, it will be time to do something, I mean BC is also curable if you start early. Because I still would kike to wait until I am 35 and then if I really don't want kids have my tubes tied. But that means 5 more years with contraceptive pills And all in all it would be about 10 years",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to wait until I am 35 and then if I really",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 35
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 24,
+      "PostDate": "21/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "So what would you suggest if taking those pills are extremely important for me? I have a big problem about it...I don't want kids. I am old enough and still I don't think that I'll ever want them And I don't want to get abortion, no way...I was considering sterilization but that is a very big step and requires much thinking",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 32,
+      "PostDate": "20/01/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/482-Contraceptive-pills?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Contraceptive pills"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I am not sure if there isn't a similar or even the same topic so if there is, forgive me and delete this. I thought it would be good that all we would write all the risks starting from the very important and ending with something that is not prooved yet but is considered as a risk too. So to start: GENDER (being a woman is almost the bigger risk factor because women get BC 100 times more often than men) AGE (the chances to get BC become bigger with the age) EARLY FIRST MENSTRUATION, LATE MENOPACE if I say something wrong please correct me",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "11/02/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/551-Risks?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Risks"
+    },
+    {
+      "AuthorID": "Flynn",
+      "AuthorURL": "https://www.cancerforums.net/members/241-Flynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "what does er/pr+ and er/pr- mean? And how would I know which is mine?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "11/02/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/551-Risks?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Risks"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "to wait until I am 35 and then if I really",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 35
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 1396
+}

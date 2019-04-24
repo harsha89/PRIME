@@ -49,19 +49,22 @@ public class CancerforumsMiner {
 
     public static void main(String... args) throws Exception {
         CancerforumsMiner cancerforumsMiner = new CancerforumsMiner();
-        cancerforumsMiner.collectThreadURLS();
-        Thread.sleep(300000);
-        cancerforumsMiner.readThreads();
-        Thread.sleep(300000);
+       // cancerforumsMiner.collectThreadURLS();
+       // Thread.sleep(300000);
+      //  cancerforumsMiner.r eadThreads();
+        //Thread.sleep(300000);
         cancerforumsMiner.collectAuthorProfiles();
     }
 
     private void collectAuthorProfiles() throws Exception {
         BufferedReader authorFileReader = new BufferedReader(new FileReader(authorFileName));
 
-        String folderName = "./ProstateProfiles/" + type;
+        String folderName = "ProstateProfiles/" + type;
         File temp = new File(folderName);
-        if(!temp.exists()) temp.mkdir();
+        if(!temp.exists())
+        {
+            temp.mkdirs();
+        }
 
         String line;
         while ((line = authorFileReader.readLine()) != null) {
@@ -91,7 +94,7 @@ public class CancerforumsMiner {
 
     private void readThreads() {
         try {
-            new Resty().json("http://localhost:9200/" + index + "/" + type + "/_mapping", Resty.put(Resty.content(DataCollectionUtils.getIndexMapping()))).object();
+            //new Resty().json("http://localhost:9200/" + index + "/" + type + "/_mapping", Resty.put(Resty.content(DataCollectionUtils.getIndexMapping()))).object();
             final Set<String> authors = new HashSet<>();
             BufferedWriter authorFileWriter = new BufferedWriter(new FileWriter(authorFileName));
             CSVParser csvParser = new CSVParser(new FileReader(threadFileName), CSVFormat.RFC4180.withHeader().withDelimiter(','));
@@ -134,8 +137,6 @@ public class CancerforumsMiner {
             e.printStackTrace();
         } catch (InterruptedException e) {
             e.printStackTrace();
-        } catch (JSONException e) {
-            e.printStackTrace();
         }
     }
 
@@ -149,7 +150,7 @@ public class CancerforumsMiner {
         try {
 
             String pageURL = threadURL + "/page" + pageNo++;
-            Document doc = Jsoup.connect(pageURL).timeout(10000).ignoreContentType(true).get();
+            Document doc = Jsoup.connect(pageURL).userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36").timeout(10000).ignoreContentType(true).get();
 
             int nPages = getNumberOfPages(doc);
             int i = 0;
@@ -181,7 +182,7 @@ public class CancerforumsMiner {
                 if(pageNo > nPages) break;
 
                 pageURL = threadURL + "/page" + pageNo++;
-                doc = Jsoup.connect(pageURL).timeout(10000).ignoreContentType(true).get();
+                doc = Jsoup.connect(pageURL).userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36").timeout(10000).ignoreContentType(true).get();
 
             }
         } catch (Exception e) {
@@ -217,12 +218,12 @@ public class CancerforumsMiner {
     private void collectThreadURLS() {
         Map<String,String> threadMap = new HashMap<>();
         try {
-            new Resty().json("http://localhost:9200/" + index + "/" + type + "/_mapping", Resty.put(Resty.content(DataCollectionUtils.getIndexMapping()))).object();
+         //   new Resty().json("http://localhost:9200/" + index + "/" + type + "/_mapping", Resty.put(Resty.content(DataCollectionUtils.getIndexMapping()))).object();
             CSVPrinter printer = new CSVPrinter(new FileWriter(threadFileName), CSVFormat.RFC4180.withHeader(new String[]{"Title", "Link"}).withDelimiter(','));
 
             for (int i = 1; i <= 106; i++) {
                 String pageURL = baseURL + "forums/14-Prostate-Cancer-Forum/page" + i;
-                Document doc = Jsoup.connect(pageURL).timeout(10000).ignoreContentType(true).get();
+                Document doc = Jsoup.connect(pageURL).userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36").timeout(10000).ignoreContentType(true).get();
 
                 Elements threads = doc.select("a[id^=thread_title_]");
                 for (Element thread : threads) {

@@ -1,0 +1,121 @@
+{
+  "AuthorID": "wicks2",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2512536&p=57998",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "hopeful",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "wicks2",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2512536&p=57998",
+    "Content": " Hi I have a few questions and hope someone anyone can give me some insight. \nI found a lump in my right breast a few weeks ago. I waited about\n 10 days and it was just keeping an eye on the lump. Then about\n 10 days ago I developed and ulceration right around the area that I found a lump. I called my doctor and I went in yesterday for an exam. I have a quarter size ulceration on my right breast and the doctor said that I had very dense tissue in the area of the lump and the ulceration. The ulceration also is oozing a yellowish fluid. I go tomorrow for a diagnostic mammogram and a biopsy. I was just wondering if anyone had ever had the same issues and how things turned out for you. I am scared to death! Thank you for your time. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "12/09/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2512536",
+    "Title": "I'm new here, and scared to death"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 156
+}

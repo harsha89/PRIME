@@ -1,0 +1,179 @@
+{
+  "AuthorID": "SDrunner",
+  "AuthorURL": "https://www.cancerforums.net/members/113203-SDrunner?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "amazed",
+      "animated",
+      "surprised",
+      "caring",
+      "willing",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "ignorant",
+      "worried",
+      "pained",
+      "pained",
+      "hopeful",
+      "bad",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0.5",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "SDrunner",
+      "AuthorURL": "https://www.cancerforums.net/members/113203-SDrunner?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for your replies! I'm still waiting to see what my PSA level is. My prostate is enlarged quite a bit from what I was told by the urgent care doctor. I'm trying to get in to see a Urologist quickly but first available appointment if Nov 14. The doctor at urgent care is going to try and get me seen asap and I'm waiting on a call from the office. I had prostatitis a few years ago so I'm very familiar with how it feels but this seems different. I've had a stiff lower back and pain in my left hip/groin area for a very long time ~1 year. I just have ignored it and stretched more trying to loosen it up. Now, I'm a bit worried after seeing the look on the nurses face when I told her my symptoms and they examined me. I've also had flu-like symptoms and a good feeling that something is just \"not right\" along with some mild headaches. I also have to \"milk\" my urethra after I urinate or else I'll be leaking every where. And another thing that I have started experiencing just over the last year or so is a very weak ejaculation. This was probably the first thing that I noticed that really got my attention. The irony of all this is that I've been so worried about heart disease due to my grandfather passing at 43, his son at 39 and several other male relatives all at early ages. I had a genetic study done when I was in my mid 30's, after developing symptoms, and of course I had all the genetic markers for early heart disease. So at that time instead of going on statins I went 100% plant based and eliminated all animal products, processed foods and processed oils from my diet. I also started running. I was able to drop all my numbers astronomically low and have felt absolutely amazing up until now. Which is why I am so surprised that this has happened. So, I went back and checked all the genetic testing that my doctor did and sure enough I'm also in the very high-risk category for prostate cancer. I'm still thinking this has to be something else but I remember my Urologist telling me when I had this first episode with prostatitis that I had \"calcium\" deposits in my prostate according to the CT scan. He also told me that prostate cancer in younger men can be very aggressive. Hopefully they will call me soon with an open appointment!",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.8,
+            "Phrase": "to my grandfather passing at 43  his son at 39 and",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 43
+          },
+          {
+            "Confidence": 0.8,
+            "Phrase": "at 43  his son at 39 and several other male relatives",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 39
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "21/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41313-Lower-Back-Pain-and-Stiffness?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Lower Back Pain and Stiffness"
+    },
+    {
+      "AuthorID": "SDrunner",
+      "AuthorURL": "https://www.cancerforums.net/members/113203-SDrunner?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, First time poster and still waiting on results but I had a question. Did any of you experience severe lower back stiffness and pain? It's so bad at times I can't even bend enough to put my socks and shoes on. Other days it is not so bad. I'm 41 so I hope that this is just prostatitis. Appreciate any replies. Thanks!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 41 so I hope that this",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41313-Lower-Back-Pain-and-Stiffness?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Lower Back Pain and Stiffness"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 41 so I hope that this",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 515
+}

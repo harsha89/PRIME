@@ -1,0 +1,124 @@
+{
+  "AuthorID": "ameotoko",
+  "AuthorURL": "https://www.cancerforums.net/members/29434-ameotoko?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "affected",
+      "insistent",
+      "aggressive",
+      "resentful",
+      "aggressive",
+      "ignorant",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "3",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "1",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "ameotoko",
+    "AuthorURL": "https://www.cancerforums.net/members/29434-ameotoko?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi everyone, First off I wish the best to everyone in whatever context cancer is affecting them. My mother was diagnosed with breast cancer last month through a core biopsy. They have said it is either Stage II or III, but won't know until the surgery, which is this Thursday. My mother has had her concerns about possible cancer ignored before, and I am very resentful that this is so, being as breast cancer takes time to develop and earlier detection was possible. At this point I am very concerned about the possibility of shed cancer cells from the biopsy having spread elsewhere. My mother has pain in her neck and moreso in her stomach. It is constant, and was not there before the biopsy. I have a friend who is a doctor and he told us the same thing my mother's surgeon did - it's highly unlikely, impossible, the cancer cells would die, and so on. However, there is a lot of contradictory information, and from medical journals and studies, that say it can and does happen. Does anyone have any experience with this having happened, or insisting these concerns be addressed? Can we ask that they somehow check during the mastectomy as well - for cancer spread, I mean (regardless of cause as seeding or simply cancer spreading as it does)? I just don't have faith in the medical system here (Canada) at all, and it seems you absolutely must aggressively pursue your concerns for anything to get done. I would really, truly appreciate any insight and experience anyone could shar ein this respect. Thank you for all and any help in advance.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "14/02/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/21573-How-to-pursue-concerns-about-cancer-cell-seeding-after-biopsy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "How to pursue concerns about cancer cell seeding after biopsy?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 287
+}

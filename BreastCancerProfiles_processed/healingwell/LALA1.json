@@ -1,0 +1,243 @@
+{
+  "AuthorID": "LALA1",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=890894&p=44808",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "upset",
+      "upset",
+      "scared",
+      "worried",
+      "anxious",
+      "anxious",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 5,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "LALA1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=890894&p=44808",
+      "Content": " GOD BLESS YOU & HOPE EVERYTHING GOES WELL FOR YOU, ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "23/08/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=890894",
+      "Title": "how common is this???????"
+    },
+    {
+      "AuthorID": "LALA1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=890894&p=44808",
+      "Content": " hello,  how did you find out it was calcification breast cancer?  was it in one breast or both?  god bless u ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "22/08/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=890894",
+      "Title": "how common is this???????"
+    },
+    {
+      "AuthorID": "LALA1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=746598&p=44808",
+      "Content": " HI ,  Im sitting here all worried & very upset,  I had my annual mamogram 2 weeks ago, & got a letter in the mail from the place stating that they would like for me to have a repeat mamogram in 6 months,  becasue there were calcifications on both breasts.  (no clusters)  same as they saw in 2005. (no change)   my OBGYN has concurred has said no need to worry that things like this happens from age,  I just turned 41.  Please shed some light on this for me if you can.   scared in nyc  Thank You \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "age   I just turned 41   Please shed some light",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/03/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=746598",
+      "Title": "breast mamogram"
+    },
+    {
+      "AuthorID": "LALA1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=746598&p=44808",
+      "Content": " in your opinion could you tell me what you think it means? its in both.  he says its best when it shows in both being scattered & has been the same since 05.  thanks so much ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "05/03/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=746598",
+      "Title": "breast mamogram"
+    },
+    {
+      "AuthorID": "LALA1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=746590&p=44808",
+      "Content": " hello,  im sitting here & feeling very anxious i had my mammogram 2 weeks ago & got a letter in the mail & when I had \nopened it ,  it had said that they wanted me to come back in 6 months for another mamogram as a follow -up.  Reason being is that there were some calcifications on both breasts.   scattered,  NO clusters....No changes  ( Same since 2005) as per my gynocolegist, he also says that calcification such as mine comes from age,  Im 41 turning 42 in July.   He says no need to worry.   What are your feeling?   Thank You  worried in NYC  \n ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.8,
+            "Phrase": "comes from age   Im 41 turning 42 in July <Z>",
+            "Relation": "first-person",
+            "Tense": "present",
+            "Value": 41
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "age   Im 41 turning 42 in July <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 42
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/03/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=746590",
+      "Title": "mamogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "age   I just turned 41   Please shed some light",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 269
+}

@@ -1,0 +1,131 @@
+{
+  "AuthorID": "kat31",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2212719&p=131321",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "satisfied",
+      "satisfied",
+      "ok",
+      "hopeful",
+      "worried",
+      "pained",
+      "aching",
+      "ached",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "3",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "kat31",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2212719&p=131321",
+    "Content": " Hi, I am 31 years old and found quite a large lump on my left breast. It appeared about\n 2 months ago, so I went to the doctors who refered me straight away to the breast clinic.  They did an ultrasound on the area and it was all clear and nothing to worry about\n! I since then realised that with my bra off it sits alot lower on my breast than where I originally found it and where they scanned. Over the next few weeks I had swelling in my left armpit (only twice), and now get  very occasional stabbing pains in it or aching heavy pains where the lump is,  so I went back..the doc said she could definetly feel a large lump so refered me again.  When I went back today they said they were happy with the previous scan and that it was thickening tissue (size2) if it was a size 3 they may worry and do more investigation, but it is fine, and this is normal for my breast! This is NOT normal for my breast and I was hoping to feel releived today but instead I still don't feel satisfied that its ok.  Can anyone tell me if this is normal or if I should seek advice from another doctor?",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "Thickening Tissue  Hi  I am 31 years old and found quite",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 31
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/09/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2212719",
+    "Title": "Breast Thickening Tissue"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Thickening Tissue  Hi  I am 31 years old and found quite",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 31
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 220
+}

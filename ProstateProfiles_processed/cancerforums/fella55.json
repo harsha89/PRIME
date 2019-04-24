@@ -1,0 +1,652 @@
+{
+  "AuthorID": "fella55",
+  "AuthorURL": "https://www.cancerforums.net/members/18212-fella55?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "forgiving",
+      "close",
+      "concerned",
+      "insistent",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "paranoid",
+      "terrified",
+      "obsess",
+      "important",
+      "certain",
+      "proactive",
+      "willing",
+      "certain"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "1.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "1",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "fella55",
+      "AuthorURL": "https://www.cancerforums.net/members/18212-fella55?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, I am a 52 year old male. My father passed from PCa at 74 years old. He was diagnosed in 1993 when he was 58 after an abnormal DRE. He had a radical prostatectomy with positive margins but no lymph node involvement. The doctor told him that the disease would probably return and it did. He had a rather poor outcome form his RP being completely incontinent and impotent. Watching him live with the disease and ultimately pass from it had a profound impact on me, and I am frankly terrified of the disease to the point that as I get close to the age at which he was diagnosed I am becoming more and and more obsessed with it. I am convinced I am going to end up in the same boat as my dad and I am admittedly borderline paranoid about it. I started getting PSA tests in 2006 at the age of 41 the following are my results over the years. 17-Oct-06 --- 1.61 24-Oct-07 --- 1.84 29-Oct-08 --- 1.60 01-Feb-10 --- 1.74 04-Jan-11 --- 1.85 09-Jan-12 --- 1.88 09-Feb-13 --- 1.87 05-Feb-14 --- 1.78 16-Feb-15 --- 2.28 23-Mar-15 --- 1.81 23-Feb-16 --- 2.18 17-Mar-16 --- 2.40 03-Aug-16 --- 1.80 01-Feb-17 --- 1.50 05-Oct-17 --- 1.90 As you can see I started with a quite high PSA (relative to the median which I think is 0.6). From what I have read, this means that I have a much higher chance of getting Prostate cancer and that it would like be more aggressive. As you can see my PSA has generally bounced around sometime quite a bit over the years. I don't understand why my PSA is higher that the median. Does it mean that there is a latent cancer there? In addition I recently started taking statins and a daily aspirin. I have read that this can artificially lower my PSA. In fact the 1.5 score on 1 feb 17 was a month after I started this regime. My doctor insists its coincidence and that a causation can't be drawn. My most recent test scored a 1.9 up from 1.5. I am concerned that if indeed statins/aspirin as masking a rise in PSA that this could actually be a higher numbers. I'm not sure if I should push my doctor to send me to a specialist and if I should insist of getting a biopsy at this point, or am I being too paranoid? I know so many people are in a much worse situation that I am in, but I have also read about folks who had fairly low PSAs, but who ended up with a nasty case of PCa. Thank you for your patience and your advice and forgive me my anxiety.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "Hello all  I am a 52 year old male <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 52
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "father passed from PCa at 74 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 74
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "2006 at the age of 41 the following are my results",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 41
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52696-Not-sure-what-to-do?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Not sure what to do"
+    },
+    {
+      "AuthorID": "fella55",
+      "AuthorURL": "https://www.cancerforums.net/members/18212-fella55?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you everyone for taking the time to respond. I like the suggestion on asking for a PHI test. I will ask my doctor about it today as I have an appointment. @DavefromMD my doctor has been quite proactive on PSA tests and is checking me every 6 months for now. My sense is that he is going to suggest I go yearly. He has also sent my blood draw to three separate labs each of the last three times so that we can see a consistent number. Two of the labs agreed and one was very different. For example on my latest round of tests, I received a 1.9, 2.0, and 1.43. The 1.43 must have used the WHO assay which can show up to a 23% difference. This really shows the importance of consistency getting results from the same lab or from labs that use the same assay. We also did a PCa3 about 6 months ago on which I scored a 9. In reading everyone's response to date, I realise that I should take a deep breath. I think I am doing everything I can do, and what I really want which is the certain knowledge that I don't have PCa simply doesn't exist. But then again there really is no certainty about anything in life Thank you all again for your patience",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52696-Not-sure-what-to-do?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Not sure what to do"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Hello all  I am a 52 year old male <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 52
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "forgiving",
+        "close",
+        "concerned",
+        "insistent",
+        "sure",
+        "aggressive",
+        "aggressive",
+        "paranoid",
+        "terrified",
+        "obsess",
+        "important",
+        "certain",
+        "proactive",
+        "willing",
+        "certain"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0",
+        "ANGRY": "1.5",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.5",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.5",
+        "LOVE": "0.5",
+        "OPEN": "1",
+        "POSITIVE": "1.5",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "09/10/2017",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["prostatectomy"]
+  },
+  "WordCount": 736
+}

@@ -1,0 +1,130 @@
+{
+  "AuthorID": "nana5878",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2662715&p=165598",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "blessed",
+      "touched",
+      "hopeful",
+      "bad",
+      "terrified",
+      "pained",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "2",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "nana5878",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2662715&p=165598",
+    "Content": " I have been having pain in left breat.  I did a self exam to check for possible lumps.  Thank God there is none that I can feel.  However this pain is horrible.  If I touch it I just want to throw myself on the floor it hurts so bad.  It hurts when I bend over like drying off after a shower.  I sqeezed my breast trying to pin point exactly where the pain was coming from and oh my lord.... it was awful.  I know your prob. saying go to the doctor.  I am terrified of the doctor.  I was hoping someone might have had the same syptoms.  I feel it in my breast but if I try and lay on my stomach to sleep the pain is so bad I feel it going in to the same area in my back so I have been sleeping on my back to make a little less painful. I am 34 yrs. old I have never had a mammograhm.  Thanks for taking the time to listen and God Bless. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 34 yrs <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 34
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/03/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2662715",
+    "Title": "Pain in left brest"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 34 yrs <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 34
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 181
+}

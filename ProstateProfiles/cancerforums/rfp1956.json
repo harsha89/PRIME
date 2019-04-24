@@ -1,0 +1,158 @@
+{
+  "AuthorID": "rfp1956",
+  "AuthorURL": "https://www.cancerforums.net/members/37981-rfp1956?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "concerned",
+      "willing",
+      "pained",
+      "pained",
+      "kind",
+      "great",
+      "concerned",
+      "willing",
+      "strained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "rfp1956",
+      "AuthorURL": "https://www.cancerforums.net/members/37981-rfp1956?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, I'm a 56 yr old male Was told a couple years ago I had a high PSA with slightly enlarged prostate. I dont know the PSA number. Doc said we will look at it down the road. He didn't seem concerned so I wasn't either. Fast forward to present, visible blood in urine, pelvic pain, stop/go always feel the need to pee urination. Went to see Doc and she did a DRE? Said my prostate was huge, really huge, and took blood for PSA. She said she expects high PSA numbers based on the size of the prostate. She referred me to urologist and he wants to do all the same tests including a cytoscope and those appointments may take several weeks. My question is if I have blood in urine, a very enlarged prostate, and elevated PSA, wouldnt it make sense to just go directly to biopsy and not waste time duplicating tests Ive already had? Thanks for any replies.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "please   Hi all  I'm a 56 yr old male Was told",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/09/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/25206-advice-please?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "advice please??"
+    },
+    {
+      "AuthorID": "rfp1956",
+      "AuthorURL": "https://www.cancerforums.net/members/37981-rfp1956?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the all the great replies. I will get the PSA number when I go back today. Doctor asked for STAT results. Doc was visibly kind of shaken when performing the DRE. Said 'wow! that is huge!!\" The urinating part is the worst. Have to strain hard to get it to start and then its just a weak stream. Constantly feel the need to go. And the dribbling afterwards is a pita. Medically things should start to move quickly. They did CT scans last night and I could tell the radiologist seemed concerned but wouldnt say much beyond \"your primary dr will call you tomorrow\". Anyway thanks for being here. Will keep you posted on the outcome.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "06/09/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/25206-advice-please?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "advice please??"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "please   Hi all  I'm a 56 yr old male Was told",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["blood in urine"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 287
+}

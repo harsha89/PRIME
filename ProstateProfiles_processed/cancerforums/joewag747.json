@@ -1,0 +1,121 @@
+{
+  "AuthorID": "joewag747",
+  "AuthorURL": "https://www.cancerforums.net/members/106797-joewag747?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": ["willing"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 2.6,
+    "min": 2,
+    "scores": [
+      2,
+      2.6
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "joewag747",
+    "AuthorURL": "https://www.cancerforums.net/members/106797-joewag747?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Had my prostate removed in 2002. Now have Stage 4 prostate cancer which has spread to my lumph nodes. Presently taking Hormone injections every 6 months. My last PSA was a 2.6, having risen from a 0.5. Doctor took me off of the small cancer pill I took along with the Hormone treatments. I have forgotten the name of the pill, but it was a \"Bi---------\" something. He stated that taking the Hormone shots and the pill sometimes worked against each other. After taking me off this pill, he scheduled me for another PSA test 2 months later, along with also checking my Testostone level. In taking me off this pill, he stated my PSA reading may now go down. He stated that chemotherapy was now a thing of the past due to the new medications on the market, although they are very expensive. Being retired from the Navy, I believe my Tricare will cover the costs. Anyone have experiences with this sudden rise in PSA while on Hormone treatment?",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "28/09/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/33984-joewag747?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "joewag747"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 173
+}

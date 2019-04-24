@@ -1,0 +1,132 @@
+{
+  "AuthorID": "miche22222",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2188033&p=129153",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "insistent",
+      "sore",
+      "boiling",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "miche22222",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2188033&p=129153",
+    "Content": " I have had a very large lump on the upper part of my left breast for about\n 10 years. I have asked my dr about\n it on several occasions and he seems not very worried about\n it..he said it was probably a rib??.\n about\n 4 years ago I was pushing him to tell me what it was, he finally agreed to measure it and I would come back in two months, he would remeasure and see if it grew..it did grow 20percent. but he still insisted it was a rib. a couple weeks ago i asked him for a mammogram, he said i was too young ( I am 37) but agreed to an ultrasound..I went for the ultrasound and the lady asked me why he hadnt sent me for a mammogram..geez..so I finally get the results back and they say it is a complex cyst with scar tissue on top of it, I also have multiple simple cysts in the same breast. My doctor said we would recheck it in 6 months. I was not ok with that, especially since it now causes me pain and originally had told me it was a rib..it almost feels like its pinching me from the inside? and I now have sores on my ariola similar to a boil, really hard but I can pick it up and move it a bit. It has a thick white and bloody discharge..as well as small almost like pimples on my ariola as well in the last couple weeks. So i go to see a surgeon on thursday, I really want it removed or checked or something and my dr seems to think the surgeon isnt going to do anything, almost like he thinks its normal? am i worried about\n nothing? ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "was too young   I am 37  but agreed to an ultrasound",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 37
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/08/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2188033",
+    "Title": "complex cyst with scar tissue and sores on ariola"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "was too young   I am 37  but agreed to an ultrasound",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 37
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 310
+}

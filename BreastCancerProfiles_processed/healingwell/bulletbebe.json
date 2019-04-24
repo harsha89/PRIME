@@ -1,0 +1,129 @@
+{
+  "AuthorID": "bulletbebe",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3009702&p=193589",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "supportive",
+      "cautious",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "bulletbebe",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3009702&p=193589",
+    "Content": " I'm a 19 year BC survivor who after being diagnosed with Stage 3, went through biopsy, underarm lymph node removal, mastectomy, radiation, chemo, reconstruction et al. In 2002 I had a core biopsy on my remaining breast following mammogram, but it was benign. Just had my annual mammogram last week and got a call the next day to come back and expect 2-3 hour visit b/c radiologist wants to meet with me.\nTo say I'm very afraid is putting it lightly. I am 65 years old with three adult kids and three grandkids ages 2,3 and 9. I'm hoping that they are being cautious b/c of my history and want to to ultrasound and perhaps biopsy. Please send some prayers my way because I don't want to have to go through all that again without the support of family nearby. They all live far away and have lives of their own. And I'm afraid because of all that I've read about\n cancer being harder to beat when it is a recurrence. Thanks to all.... ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 65 years old with three adult",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 65
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/03/2014",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3009702",
+    "Title": "(No Subject)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 65 years old with three adult",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 65
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 186
+}

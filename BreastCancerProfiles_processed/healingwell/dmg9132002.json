@@ -1,0 +1,140 @@
+{
+  "AuthorID": "dmg9132002",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=145259",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "eager",
+      "eager"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "dmg9132002",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=145259",
+      "Content": " Clanqc - I had a left side mastectomy in 2009 and have been on Tamoxifen almost 3 years. Have always had some problem with hot flashes during those 3 years but recently they have become much worse. I have been on Effexor-XR (150 mg) the entire time. How long have you been taking the Clonidine and can you tell if it helps any? Have you had any side effects you can attribute to the Clonidine? Thanks for the info. Congrats on being so close to the 5 year mark. That's definitely a milestone! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 45,
+      "PostDate": "28/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1461099",
+      "Title": "Tamoxifen Side Effects"
+    },
+    {
+      "AuthorID": "dmg9132002",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=145259",
+      "Content": " Clanqc - Thanks for the response. I think I'll ask my oncologist about\n trying the Clonidine. I'm not eager to take more meds but I have trouble just functioning with the hot spells. Best of Luck. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 46,
+      "PostDate": "30/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1461099",
+      "Title": "Tamoxifen Side Effects"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 131
+}

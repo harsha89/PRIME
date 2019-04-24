@@ -1,0 +1,159 @@
+{
+  "AuthorID": "Crashbk",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2206678&p=157526",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "cautious",
+      "thoughtful",
+      "willing",
+      "terrible",
+      "pained",
+      "aching",
+      "wronged",
+      "ached",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "4",
+      "INDIFFERENT": "0",
+      "INTERESTED": "3",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Crashbk",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2206678&p=157526",
+    "Content": " Hi there Ladies!\nI'm new to this online community and forum. I found this thread trying to gather information on IBC and breast pain.\nI'm 35 yrs old and have a 5 month old and a 21 mth old. \nI have several medical conditions (fibromyalgia, hypothyroidism, endometriosis, and issues with my spine)\n5 days ago, I began to experience severe throbbing and pain in my left breast. It came on suddenly. Throbbing, aching, shooting pains, tingling and itching which feels like its deep in my breast. When I took off my top and looked, my left breast was shockingly swollen! My husband said it looks at least two cup sizes larger than the right! (Btw, I was unable to breast feed our youngest and thus my milk dried up about\n 1 mth postpartum. My breasts have always been pretty even in size and shape.\nI went to the Dr on Tuesday and she agreed that there was a drastic difference in size and was quite concerned. She said it does not look like an infection and I had been on antibiotics for 7 days prior for strep throat (the same type which would be used to treat mastitis) and the issues with my breast came on after a week on the antibiotics. \nI had an ultrasound Wednesday but they said it takes 4-5 business days for the results :( \nThe pain is slightly less now on Day 5, but the swelling is still there, some slight darkening on the underside and I'm getting poking sensations within my nipple. \nI am trying to maintain cautious optimism but I am very very afraid. Does an ultrasound normally catch IBC? I am feeling that I will want a biopsy done either way, just to ease my mind. I really feel in my gut that something is terribly wrong but I keep looking for other possible things it could be.\nAny advice, thoughts or similar experiences would be appreciated.\nThank you, \nLisa ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 35 yrs old and have a",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 35
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "yrs old and have a 5 month old and a 21",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 0.4166666666666667
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "5 month old and a 21 mth old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 21
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "my milk dried up about\n 1 mth postpartum <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 1
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "endometriosis",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 27,
+    "PostDate": "02/11/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2206678",
+    "Title": "Burning sensation and pain in left breast"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 35 yrs old and have a",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 35
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 331
+}

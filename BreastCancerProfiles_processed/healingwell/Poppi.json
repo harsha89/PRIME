@@ -1,0 +1,143 @@
+{
+  "AuthorID": "Poppi",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=509881&p=33284",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "hopeful",
+      "frustrated"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Poppi",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=509881&p=33284",
+      "Content": " Hi, may name is Poppi I've been on Tamoxifen for 4 years and didn't kow it could cause weight gain, which I have done. It's been very frustrating since I have no appetite. I can't exercise at this point because of other medical problems. I thought the weight was coming on due to the meds I take for bipolar disorder. Maybe its just a double whammy, or everything rolled into one, like the roll around my belly.\nI recently had a hysterectomy and was hoping that not having ovaries I would not have to take Tamoxifen anymore, but they say I should stay the course.\nPoppi ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hysterectomy"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "25/06/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=509881",
+      "Title": "weight loss after tamoxifen?"
+    },
+    {
+      "AuthorID": "Poppi",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=523445&p=33284",
+      "Content": " Hi, this is Poppi,\n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/06/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=523445",
+      "Title": "Breast Cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 116
+}

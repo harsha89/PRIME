@@ -1,0 +1,124 @@
+{
+  "AuthorID": "julie24",
+  "AuthorURL": "https://www.cancerforums.net/members/2375-julie24?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sure",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "julie24",
+    "AuthorURL": "https://www.cancerforums.net/members/2375-julie24?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi people I am worried eversince I started haveing weightloss and felt a lump on my right breast. All my symptoms and also match to the following site. I also am obese, 42, did not breast feed and smoke. All these match in the following site: http://www.canceriscausedby.com/page...tion.php?cid=6 Not sure what to do. Have an mamograph appointment next week but am very worried. Is there anyone who had the above but it turned out not be cancer.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.8,
+        "Phrase": "<Z> I also am obese  42  did not breast feed and",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 42
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "31/05/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3042-Any-advice-worried?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Any advice worried"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "<Z> I also am obese  42  did not breast feed and",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 42
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 86
+}

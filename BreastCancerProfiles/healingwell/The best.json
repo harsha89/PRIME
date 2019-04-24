@@ -1,0 +1,147 @@
+{
+  "AuthorID": "The best",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3371916&p=217951",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "concerned",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "The best",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3371916&p=217951",
+      "Content": " I had that happen to many years ago after my first mammogram. They did not have anything to compare it to so they called me back because I have dense breasts and calcifications. Just keep us updated once you get the second one done. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "01/04/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3371916",
+      "Title": "mammorgram call back - first mammogram at 43"
+    },
+    {
+      "AuthorID": "The best",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3364125&p=217951",
+      "Content": " I have been in that position a time or two myself. I have very dense breasts and many calcifications. From what I understand, calcifications are very common. I was concerned also but all was benign. I will be looking forward to sharing the good news with you on April 15. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breasts"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "25/03/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3364125",
+      "Title": "call back after mammo"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 94
+}

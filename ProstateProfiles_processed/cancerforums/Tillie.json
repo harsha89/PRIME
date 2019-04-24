@@ -1,0 +1,234 @@
+{
+  "AuthorID": "Tillie",
+  "AuthorURL": "https://www.cancerforums.net/members/28945-Tillie?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "blessed",
+      "caring",
+      "hopeful",
+      "willing",
+      "hateful",
+      "bad",
+      "blessed",
+      "caring",
+      "hopeful",
+      "willing",
+      "hateful",
+      "bad",
+      "wonderful",
+      "blessed",
+      "wonderful",
+      "blessed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Tillie",
+      "AuthorURL": "https://www.cancerforums.net/members/28945-Tillie?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by newporter No one answer your post so let me give it a try. I assumed your doctor was already or was proposing to put you on Taxotere and Jevtana and that was why you asked? I do not have any experience with Jevtana so I have no personal experience to share. However, in \"preparing for the worst and hope for the best\" I have been reading up on some of the new treatment options to treat BCR (biochemical recurrence) and metastasized prostate cancer and here is what I found: Taxotere and Jevtana are two chemo drugs under a class of drugs called microtubule inhibitors which cause cell death by inhibiting cell functions especially when they divide (fast growing cancer cells). (My wife's breast cancer chemo soup contained Taxotere as one of the ingredients. It certainly was not a walk in the park for her, in fact she had a rough time.) Jevtana was recently approved by the FDA after a successful Phase III clinical trial. I believe it acts on a different pathway as microtubule inhibitor than Taxotere so patients that failed Taxotere often got positive result from Jevtana. However, the toxicity of this new drug is quite high so those who takes it requires careful monitoring. Side effects are mainly myelosuppression (the reduce ability of the bone marrow to produce blood cells), anemia, diarrhea and cardiac problems. Best wishes. I was asking for my Dad hes 83 years old he was on the taxotere until it started causing neuropathy in his feet so he was on a drug holiday since oct the psa is increasing and the bone scan shows new lesions so he will start the Jevtana tomorrow I guess we just have to hope for the best hes an active 83 yr old and just hates feeling so bad. have a blessed day",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "asking for my Dad hes 83 years old he was on",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 83
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "the best hes an active 83 yr old and just hates",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 83
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "25/01/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21155-Jevtana?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Jevtana"
+    },
+    {
+      "AuthorID": "Tillie",
+      "AuthorURL": "https://www.cancerforums.net/members/28945-Tillie?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by newporter No one answer your post so let me give it a try. I assumed your doctor was already or was proposing to put you on Taxotere and Jevtana and that was why you asked? I do not have any experience with Jevtana so I have no personal experience to share. However, in \"preparing for the worst and hope for the best\" I have been reading up on some of the new treatment options to treat BCR (biochemical recurrence) and metastasized prostate cancer and here is what I found: Taxotere and Jevtana are two chemo drugs under a class of drugs called microtubule inhibitors which cause cell death by inhibiting cell functions especially when they divide (fast growing cancer cells). (My wife's breast cancer chemo soup contained Taxotere as one of the ingredients. It certainly was not a walk in the park for her, in fact she had a rough time.) Jevtana was recently approved by the FDA after a successful Phase III clinical trial. I believe it acts on a different pathway as microtubule inhibitor than Taxotere so patients that failed Taxotere often got positive result from Jevtana. However, the toxicity of this new drug is quite high so those who takes it requires careful monitoring. Side effects are mainly myelosuppression (the reduce ability of the bone marrow to produce blood cells), anemia, diarrhea and cardiac problems. Best wishes. I was asking for my Dad hes 83 years old he was on the taxotere until it started causing neuropathy in his feet so he was on a drug holiday since oct the psa is increasing and the bone scan shows new lesions so he will start the Jevtana tomorrow I guess we just have to hope for the best hes an active 83 yr old and just hates feeling so bad. have a blessed day",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "asking for my Dad hes 83 years old he was on",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 83
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "the best hes an active 83 yr old and just hates",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 83
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "25/01/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21155-Jevtana?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Jevtana"
+    },
+    {
+      "AuthorID": "Tillie",
+      "AuthorURL": "https://www.cancerforums.net/members/28945-Tillie?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, Just wondering if anyone has been treated with taxotere and then with jevtana Looking to hearing about results and side effects with the jevtana any advise would be helpful. Have a blessed day",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "21/01/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21155-Jevtana?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Jevtana"
+    },
+    {
+      "AuthorID": "Tillie",
+      "AuthorURL": "https://www.cancerforums.net/members/28945-Tillie?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, Just wondering if anyone has been treated with taxotere and then with jevtana Looking to hearing about results and side effects with the jevtana any advise would be helpful. Have a blessed day",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/01/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21155-Jevtana?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Jevtana"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "asking for my Dad hes 83 years old he was on",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 83
+    },
+    "Gender": {
+      "Confidence": 0.75,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 689
+}

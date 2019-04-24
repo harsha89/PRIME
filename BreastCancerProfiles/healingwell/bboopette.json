@@ -1,0 +1,144 @@
+{
+  "AuthorID": "bboopette",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2384552&p=139242",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "close",
+      "thoughtful",
+      "hopeful",
+      "exhausted"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "bboopette",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2384552&p=139242",
+      "Content": " I am writing on behalf of my sister who had DIEP flap reconstruction in February. Her upper abdomen is larger than previous to the surgery. Shirts and sweaters are tight in the area around the ribcage, and she is very physically uncomfortable. She also has a feeling of getting out of breath more than before. She has returned to work and is so exhausted that she just doesn't have the energy to post herself right now.\nI know many of the details of her surgery and have attended some doctor visits with her. I hope no one minds responding to this post even though I am not the patient. I am in close contact with my sister and can supply pertinent details. It's also possible that my sister might register here depending on what information I get from this post.\nThanks so much for weighing in if you have any thoughts on this. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "sister"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2384552",
+      "Title": "Upper abdomen larger following diep flap"
+    },
+    {
+      "AuthorID": "bboopette",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2384552&p=139242",
+      "Content": " Bev,\nThank you so much for your reply. I am passing this along to my sister. As far as I know, she is about\n to begin physical therapy. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "09/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2384552",
+      "Title": "Upper abdomen larger following diep flap"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 189
+}

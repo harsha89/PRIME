@@ -1,0 +1,1003 @@
+{
+  "AuthorID": "MK44",
+  "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "caring",
+      "concerned",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "approachable",
+      "fortunate",
+      "comfortable",
+      "sensitive",
+      "comforted",
+      "cross",
+      "worried",
+      "pained",
+      "aching",
+      "ached",
+      "pained",
+      "hurtful",
+      "surprised",
+      "comfy",
+      "sensitive",
+      "warm",
+      "touched",
+      "concerned",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "sore",
+      "unpleasant",
+      "pained",
+      "rejected",
+      "aching",
+      "ached",
+      "pained",
+      "approachable",
+      "fortunate",
+      "comfortable",
+      "sensitive",
+      "comforted",
+      "cross",
+      "worried",
+      "pained",
+      "aching",
+      "ached",
+      "pained",
+      "hurtful",
+      "understanding",
+      "caring",
+      "concerned",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "surprised",
+      "comfy",
+      "sensitive",
+      "warm",
+      "touched",
+      "concerned",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "sore",
+      "unpleasant",
+      "pained",
+      "rejected",
+      "aching",
+      "ached",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.333",
+      "GOOD": "1",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "2.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "0.667",
+      "POSITIVE": "1",
+      "SAD": "1.333",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 45,
+    "min": 3.7,
+    "scores": [
+      45,
+      3.7,
+      7
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "MK44",
+      "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "All, Thank you very much for your replies. As someone who historically has not experienced health problems before, I suppose it is natural to be concerned. Its been impossible not to notice stories of people aged 40-50 with slightly raised PSA, who go on to battle the disease. Yet I also understand these are unusual cases. I had some back pain/vert last week after exercising, and tingling to accompany it. Thankfully that issue has largely gone now. Sometimes too much knowledge can be a bad thing. I am going to be careful not to fantasise about symptoms too much. Either way I am thankful for those who are raising awareness of PC. I first became aware of the disease a few years ago when I was working in healthcare. I decided to get yearly PSA from the age of 45, as a sensible precaution. Since my father experienced problems, I revised this, and vowed to test from the age of 40 onwards. I suppose it would be rather unfortunate to get it before the age of 35. Kidney stones were something that came to mind actually (though it seems a long shot), and I will be looking into this possibility next week when my GP surgery reopens next week. Odd symptoms though, which come and go. I have been to the loo twice today and no discomfort whatsoever. Strange times.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "notice stories of people aged 40 50 with slightly raised PSA",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          },
+          {
+            "Confidence": 0.78,
+            "Phrase": "stories of people aged 40 50 with slightly raised PSA  who",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 50
+          },
+          {
+            "Confidence": 0.95,
+            "Phrase": "PSA from the age of 45  as a sensible precaution <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 45
+          },
+          {
+            "Confidence": 0.95,
+            "Phrase": "test from the age of 40 onwards <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 40
+          },
+          {
+            "Confidence": 0.9800000000000001,
+            "Phrase": "it before the age of 35 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 35
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "24/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49775-PSA-3-7-aged-34?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 3.7 - aged 34"
+    },
+    {
+      "AuthorID": "MK44",
+      "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all. I am going to share my story so far here, and ask if anyone else has experienced similar things (as a younger person or otherwise). Any advice would be appreciated. My father was diagnosed at the age of 66 and treated for Stage 1 prostate cancer earlier this year. Fingers crossed for him, everything seems to have gone as well as it possibly could have done. He was the only person in our family to have experienced prostate problems. It was 3-4 months ago, at the age of 33 when I began to experience some odd urological symptoms. I am a reasonably physically fit vegetarian guy, who up until this year has had very few heath problems. That was until I woke up one morning, aching to the point that I struggled to walk downstairs. I was going on holiday on that day, but fortunately someone else was doing the driving, and I was able to sleep off the strange aching feelings from the comfort of the back seat. It was some hours later, when we had reached the destination, that I noticed mild stinging when I visited the bathroom. The aching feeling subsided quickly, but the stinging persisted and gradually became worse (over 3-4 days) to the point that I had visit a doctor promptly, where I was prescribed antibiotics. Going to urinate became unbearable for a while. The stinging got better gradually (starting the day after antibiotics) but it remained in a minor way, even after I had finished the course of antibiotics. Two weeks later I visited my own GP surgery and I told the doctor about my symptoms. I also mentioned the recent family history of prostate cancer. I was immediately told 'these are not the symptoms of prostate cancer'. I was advised that I could go for and STD test if I wanted to, and that I should come back if symptoms persisted. I also provided a urine sample which was negative for infection. From then on I continued to experience the occasional dysuria symptoms (I'd rate it only 2/10 on the pain scale by that time), but also other slightly odd feelings in the urethra and prostate area during the day, usually when not urinating. I went to the doctor again (same person), who this time asked me about urinary frequency (only at the very peak of the discomfort, some 2 months previously did I ever have to use the bathroom during the night, and then only on the odd occasion). I also had to answer questions about incontinence (none), as well as other questions about the usual indicators of prostate disorders (none). As none were applicable I was again told 'these are not the symptoms of prostate cancer' and I was offered further advice about watching out for STD's. I was sent for STD tests, which all came back negative. Shortly afterwards I turned 34, and I went on holiday again with some friends (an unlucky time for me clearly). By then the dysuria symptoms had faded to the point when they were barely noticeable but I still had an odd crawling feeling in what felt like the lower urethra, and occasional tingling at the tip of the penis. I would notice it while walking, during the day and also some mild discomfort while driving. Then quite suddenly one evening I experienced a sharp jabbing pain between my legs in what felt like the left hand side of what I'd imagine to be deep in my urethra. I made a point of going to the loo, which I was not pressed to do but did anyway ( urination did not hurt), and the pain went away. The pain lasted about 30 seconds and I'd rate it as about 8/10 for intensity. Odd feelings in that area remained for the rest of the holiday, but they were mild, and there was thankfully no further instances of extreme pain. On returning home I made a point of running my fingers along the urethra when there were odd feelings and I notices there was definitely a slightly stinging/painful area deep in the urethra. This was not a lump but it felt like a sensitive area on part of the tube. I visited the doctor again (different one this time) who agreed to blood tests and a precautionary PSA. He did not see the harm, his words not mine. We talked about various disorders, prostatitis, yeast in the prostate (my girlfriend has an infection 4-5 months previously) and other things. The blood test form sat in my drawer for several weeks as it happened. The symptoms basically went away and were barely noticeable (at least 95% back to normal). Then once again, the mild dysuria returned, and that reminded me to go for the test. Earlier this week I called the surgery and was told that everything was normal, there would be no further action needed, and I could visit again in the future if there were any more problems. I asked for a print of the results, which I wanted to keep as a record. However my heart sunk a bit when I saw that PSA was 3.7, which I know to be fairly unusual for someone of my age. It seems the theoretical cut off is 4 for PSA, and my GP has acted in line with that. I have a background in healthcare and I recognised that the other tests were indeed quite normal. Obviously the worry is that my symptoms, which continue as of today, plus the PSA score, indicates an more serious unwanted problem. I know that my fathers PSA reached 7-8 just before he was diagnosed. Then again I also know that I am not a man of 66.... Anyone else have experience approaching doctors in this sort of situation?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "diagnosed at the age of 66 and treated for Stage 1",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 66
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "ago  at the age of 33 when I began to experience",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 33
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "<Z> Shortly afterwards I turned 34  and I went on holiday",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 34
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "am not a man of 66     Anyone else have experience approaching",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 66
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "24/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49775-PSA-3-7-aged-34?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 3.7 - aged 34"
+    },
+    {
+      "AuthorID": "MK44",
+      "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi again. Two weeks on, I thought I would give you a quick update. My symptoms remained pretty much the same until about 7 days ago, when almost overnight the dysuria reduced quite significantly. A slightly odd warm feeling remains as I go to urinate, but no real burning sensation at the moment. It feels 90% normal (though not quite fully normal) much of the time. There is still a little aching in the lower back area, although the sensitive vert is no longer sensitive at all. The tingling spine has largely ceased now. The ache is worse when I bend or sit down so I have put a comfy cushion on my chair at work. That seems to have helped. I have decided to cut down on exercise for a few days in the hope it will fade away. Had a visit to the doctor earlier this week, and a DRE, which was described as 'a normal sized prostate, some curves which are normal. no concerns'. Not an unpleasant test to undergo either. I was a little surprised that my enquiry about a repeat PSA was rejected. The GP didn't seem too concerned about the PSA at all and said that prostate cancer is unlikely based on symptoms and age. That said, I was also told that I would be unlikely to get a diagnosis in general practice. I was booked in to see a NHS urologist with and appointment (due in the coming weeks) because symptoms do remain. I do sometimes have a slightly odd tingly feeling deep in the urethra (similar to, but lesser that 2 months ago) and the tube sometimes has a slightly grainy feel, which is a bit sore to touch. This feeling comes and goes. While I cannot say there is a significant lump in there, it does feel almost like there are a couple of microbeads (very small) objects in or around the urethra causing a pain and disturbance, so something is going on. Hope you are all having a good new year.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "07/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/49775-PSA-3-7-aged-34?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 3.7 - aged 34"
+    },
+    {
+      "AuthorID": "MK44",
+      "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all. I am going to share my story so far here, and ask if anyone else has experienced similar things (as a younger person or otherwise). Any advice would be appreciated. My father was diagnosed at the age of 66 and treated for Stage 1 prostate cancer earlier this year. Fingers crossed for him, everything seems to have gone as well as it possibly could have done. He was the only person in our family to have experienced prostate problems. It was 3-4 months ago, at the age of 33 when I began to experience some odd urological symptoms. I am a reasonably physically fit vegetarian guy, who up until this year has had very few heath problems. That was until I woke up one morning, aching to the point that I struggled to walk downstairs. I was going on holiday on that day, but fortunately someone else was doing the driving, and I was able to sleep off the strange aching feelings from the comfort of the back seat. It was some hours later, when we had reached the destination, that I noticed mild stinging when I visited the bathroom. The aching feeling subsided quickly, but the stinging persisted and gradually became worse (over 3-4 days) to the point that I had visit a doctor promptly, where I was prescribed antibiotics. Going to urinate became unbearable for a while. The stinging got better gradually (starting the day after antibiotics) but it remained in a minor way, even after I had finished the course of antibiotics. Two weeks later I visited my own GP surgery and I told the doctor about my symptoms. I also mentioned the recent family history of prostate cancer. I was immediately told 'these are not the symptoms of prostate cancer'. I was advised that I could go for and STD test if I wanted to, and that I should come back if symptoms persisted. I also provided a urine sample which was negative for infection. From then on I continued to experience the occasional dysuria symptoms (I'd rate it only 2/10 on the pain scale by that time), but also other slightly odd feelings in the urethra and prostate area during the day, usually when not urinating. I went to the doctor again (same person), who this time asked me about urinary frequency (only at the very peak of the discomfort, some 2 months previously did I ever have to use the bathroom during the night, and then only on the odd occasion). I also had to answer questions about incontinence (none), as well as other questions about the usual indicators of prostate disorders (none). As none were applicable I was again told 'these are not the symptoms of prostate cancer' and I was offered further advice about watching out for STD's. I was sent for STD tests, which all came back negative. Shortly afterwards I turned 34, and I went on holiday again with some friends (an unlucky time for me clearly). By then the dysuria symptoms had faded to the point when they were barely noticeable but I still had an odd crawling feeling in what felt like the lower urethra, and occasional tingling at the tip of the penis. I would notice it while walking, during the day and also some mild discomfort while driving. Then quite suddenly one evening I experienced a sharp jabbing pain between my legs in what felt like the left hand side of what I'd imagine to be deep in my urethra. I made a point of going to the loo, which I was not pressed to do but did anyway ( urination did not hurt), and the pain went away. The pain lasted about 30 seconds and I'd rate it as about 8/10 for intensity. Odd feelings in that area remained for the rest of the holiday, but they were mild, and there was thankfully no further instances of extreme pain. On returning home I made a point of running my fingers along the urethra when there were odd feelings and I notices there was definitely a slightly stinging/painful area deep in the urethra. This was not a lump but it felt like a sensitive area on part of the tube. I visited the doctor again (different one this time) who agreed to blood tests and a precautionary PSA. He did not see the harm, his words not mine. We talked about various disorders, prostatitis, yeast in the prostate (my girlfriend has an infection 4-5 months previously) and other things. The blood test form sat in my drawer for several weeks as it happened. The symptoms basically went away and were barely noticeable (at least 95% back to normal). Then once again, the mild dysuria returned, and that reminded me to go for the test. Earlier this week I called the surgery and was told that everything was normal, there would be no further action needed, and I could visit again in the future if there were any more problems. I asked for a print of the results, which I wanted to keep as a record. However my heart sunk a bit when I saw that PSA was 3.7, which I know to be fairly unusual for someone of my age. It seems the theoretical cut off is 4 for PSA, and my GP has acted in line with that. I have a background in healthcare and I recognised that the other tests were indeed quite normal. Obviously the worry is that my symptoms, which continue as of today, plus the PSA score, indicates an more serious unwanted problem. I know that my fathers PSA reached 7-8 just before he was diagnosed. Then again I also know that I am not a man of 66.... Anyone else have experience approaching doctors in this sort of situation?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "diagnosed at the age of 66 and treated for Stage 1",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 66
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "ago  at the age of 33 when I began to experience",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 33
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "<Z> Shortly afterwards I turned 34  and I went on holiday",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 34
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "am not a man of 66     Anyone else have experience approaching",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 66
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49775-PSA-3-7-aged-34?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 3.7 - aged 34"
+    },
+    {
+      "AuthorID": "MK44",
+      "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "All, Thank you very much for your replies. As someone who historically has not experienced health problems before, I suppose it is natural to be concerned. Its been impossible not to notice stories of people aged 40-50 with slightly raised PSA, who go on to battle the disease. Yet I also understand these are unusual cases. I had some back pain/vert last week after exercising, and tingling to accompany it. Thankfully that issue has largely gone now. Sometimes too much knowledge can be a bad thing. I am going to be careful not to fantasise about symptoms too much. Either way I am thankful for those who are raising awareness of PC. I first became aware of the disease a few years ago when I was working in healthcare. I decided to get yearly PSA from the age of 45, as a sensible precaution. Since my father experienced problems, I revised this, and vowed to test from the age of 40 onwards. I suppose it would be rather unfortunate to get it before the age of 35. Kidney stones were something that came to mind actually (though it seems a long shot), and I will be looking into this possibility next week when my GP surgery reopens next week. Odd symptoms though, which come and go. I have been to the loo twice today and no discomfort whatsoever. Strange times.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "notice stories of people aged 40 50 with slightly raised PSA",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          },
+          {
+            "Confidence": 0.78,
+            "Phrase": "stories of people aged 40 50 with slightly raised PSA  who",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 50
+          },
+          {
+            "Confidence": 0.95,
+            "Phrase": "PSA from the age of 45  as a sensible precaution <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 45
+          },
+          {
+            "Confidence": 0.95,
+            "Phrase": "test from the age of 40 onwards <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 40
+          },
+          {
+            "Confidence": 0.9800000000000001,
+            "Phrase": "it before the age of 35 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 35
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "24/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49775-PSA-3-7-aged-34?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 3.7 - aged 34"
+    },
+    {
+      "AuthorID": "MK44",
+      "AuthorURL": "https://www.cancerforums.net/members/121766-MK44?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi again. Two weeks on, I thought I would give you a quick update. My symptoms remained pretty much the same until about 7 days ago, when almost overnight the dysuria reduced quite significantly. A slightly odd warm feeling remains as I go to urinate, but no real burning sensation at the moment. It feels 90% normal (though not quite fully normal) much of the time. There is still a little aching in the lower back area, although the sensitive vert is no longer sensitive at all. The tingling spine has largely ceased now. The ache is worse when I bend or sit down so I have put a comfy cushion on my chair at work. That seems to have helped. I have decided to cut down on exercise for a few days in the hope it will fade away. Had a visit to the doctor earlier this week, and a DRE, which was described as 'a normal sized prostate, some curves which are normal. no concerns'. Not an unpleasant test to undergo either. I was a little surprised that my enquiry about a repeat PSA was rejected. The GP didn't seem too concerned about the PSA at all and said that prostate cancer is unlikely based on symptoms and age. That said, I was also told that I would be unlikely to get a diagnosis in general practice. I was booked in to see a NHS urologist with and appointment (due in the coming weeks) because symptoms do remain. I do sometimes have a slightly odd tingly feeling deep in the urethra (similar to, but lesser that 2 months ago) and the tube sometimes has a slightly grainy feel, which is a bit sore to touch. This feeling comes and goes. While I cannot say there is a significant lump in there, it does feel almost like there are a couple of microbeads (very small) objects in or around the urethra causing a pain and disturbance, so something is going on. Hope you are all having a good new year.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "07/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/49775-PSA-3-7-aged-34?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 3.7 - aged 34"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> Shortly afterwards I turned 34  and I went on holiday",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 34
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Urinary incontinence",
+      "Hernia",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "infection",
+      "incontinence",
+      "dysuria",
+      "lump",
+      "urinary frequency"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "Then once again, the mild dysuria returned, and that reminded me to go for the test. Earlier this week I called the surgery and was told that everything was normal, there would be no further action needed, and I could visit again in the future if there were any more problems....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "caring",
+        "concerned",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "approachable",
+        "fortunate",
+        "comfortable",
+        "sensitive",
+        "comforted",
+        "cross",
+        "worried",
+        "pained",
+        "aching",
+        "ached",
+        "pained",
+        "hurtful",
+        "approachable",
+        "fortunate",
+        "comfortable",
+        "sensitive",
+        "comforted",
+        "cross",
+        "worried",
+        "pained",
+        "aching",
+        "ached",
+        "pained",
+        "hurtful",
+        "understanding",
+        "caring",
+        "concerned",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "surprised",
+        "comfy",
+        "sensitive",
+        "warm",
+        "touched",
+        "concerned",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "sore",
+        "unpleasant",
+        "pained",
+        "rejected",
+        "aching",
+        "ached",
+        "pained",
+        "surprised",
+        "comfy",
+        "sensitive",
+        "warm",
+        "touched",
+        "concerned",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "sore",
+        "unpleasant",
+        "pained",
+        "rejected",
+        "aching",
+        "ached",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0.333",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.333",
+        "GOOD": "1",
+        "HAPPY": "0.333",
+        "HELPLESS": "0",
+        "HURT": "2.667",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1",
+        "LOVE": "2",
+        "OPEN": "0.667",
+        "POSITIVE": "1",
+        "SAD": "1.333",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [
+        "Infection",
+        "Urinary incontinence",
+        "Hernia",
+        "Bladder Irritation"
+      ],
+      "SideEffectTypeKeywords": [
+        "burning",
+        "infection",
+        "incontinence",
+        "dysuria",
+        "lump",
+        "urinary frequency"
+      ]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "24/12/2016",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 3127
+}

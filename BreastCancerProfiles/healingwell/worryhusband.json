@@ -1,0 +1,171 @@
+{
+  "AuthorID": "worryhusband",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1768263&p=111640",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "amazed",
+      "free",
+      "courageous",
+      "free",
+      "willing",
+      "free",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0.667",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.667",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "worryhusband",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1768263&p=111640",
+      "Content": " Hi Bev and the other ladies,\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "01/12/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1768263",
+      "Title": "Sorry I've been \"absent\" lately..."
+    },
+    {
+      "AuthorID": "worryhusband",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1768263&p=111640",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "01/12/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1768263",
+      "Title": "Sorry I've been \"absent\" lately..."
+    },
+    {
+      "AuthorID": "worryhusband",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1944194&p=111640",
+      "Content": " Hi Ladies,\nMy wife [41] was told she needed a biopsy. We are scheduled for Wednesday 11/24. We are scared to say the least. I've been going on the internet to find out more about\n her situation and came across this site. Ladies you are amazing and courageous. This has changed my life [a wake up call] how precious my wife is and everyday for that matter. We will pray for her to be cancer free. I will pray for you women too. Stay positive and smile ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "22/11/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1944194",
+      "Title": "Breast Biopsy Results"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 96
+}

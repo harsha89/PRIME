@@ -1,0 +1,278 @@
+{
+  "AuthorID": "sundrop15",
+  "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "bad",
+      "great",
+      "great news",
+      "loving",
+      "loved",
+      "curious",
+      "thoughtful",
+      "willing",
+      "hopeful",
+      "hopeful",
+      "thoughtful",
+      "bad",
+      "great",
+      "great news",
+      "loving",
+      "loved",
+      "curious",
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.333",
+      "GOOD": "0",
+      "HAPPY": "0.667",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0.667",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 262,
+    "scores": [
+      262,
+      150,
+      153
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "sundrop15",
+      "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad was having urinary issues and went to his general doctor to get checked out - DRE revealed a smooth, hard prostate, and a subsequent PSA test came out at 153. He's only 58 and has never had a PSA test before. He meets with the urologist next week for a biopsy. He has no signs of infection or anything like that. I'm googling around and there doesn't seem to be a lot of good news, but I want to be prepared for whatever scenario. Any thoughts? How bad is this likely to be?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He's only 58 and has never had a",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 58
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "23/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44298-PSA-150-and-a-smooth-hard-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 150 and a smooth, hard prostate"
+    },
+    {
+      "AuthorID": "sundrop15",
+      "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I just thought I'd return and report on this - after a barrage of tests/scans/etc. all summer, it was discovered that my dad has Stage 4 prostate cancer (mixed adenocarcinoma and small cell carcinoma) with bone and lymph mets. His Gleason score was an 8/9. Obviously this isn't great news. He has started hormone therapy and will start chemo in a couple of weeks. His PSA rose to 262 over the summer, too, while he was getting tests (trying to qualify for a clinical trial, but was missing the required retinoblastoma protein in his cancer cells). I'd love to hear from anybody who has had experience with the Rb loss or the small cell carcinoma - I've googled and neither is great, but I'd be curious to hear/read stories, too. Thanks in advance.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "17/08/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44298-PSA-150-and-a-smooth-hard-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 150 and a smooth, hard prostate"
+    },
+    {
+      "AuthorID": "sundrop15",
+      "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, everybody. Hopefully we'll get more info (and more hopeful info!) soon. I appreciate your responses.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "26/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44298-PSA-150-and-a-smooth-hard-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 150 and a smooth, hard prostate"
+    },
+    {
+      "AuthorID": "sundrop15",
+      "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, everybody. Hopefully we'll get more info (and more hopeful info!) soon. I appreciate your responses.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "26/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44298-PSA-150-and-a-smooth-hard-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 150 and a smooth, hard prostate"
+    },
+    {
+      "AuthorID": "sundrop15",
+      "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad was having urinary issues and went to his general doctor to get checked out - DRE revealed a smooth, hard prostate, and a subsequent PSA test came out at 153. He's only 58 and has never had a PSA test before. He meets with the urologist next week for a biopsy. He has no signs of infection or anything like that. I'm googling around and there doesn't seem to be a lot of good news, but I want to be prepared for whatever scenario. Any thoughts? How bad is this likely to be?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He's only 58 and has never had a",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 58
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "23/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44298-PSA-150-and-a-smooth-hard-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 150 and a smooth, hard prostate"
+    },
+    {
+      "AuthorID": "sundrop15",
+      "AuthorURL": "https://www.cancerforums.net/members/115976-sundrop15?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I just thought I'd return and report on this - after a barrage of tests/scans/etc. all summer, it was discovered that my dad has Stage 4 prostate cancer (mixed adenocarcinoma and small cell carcinoma) with bone and lymph mets. His Gleason score was an 8/9. Obviously this isn't great news. He has started hormone therapy and will start chemo in a couple of weeks. His PSA rose to 262 over the summer, too, while he was getting tests (trying to qualify for a clinical trial, but was missing the required retinoblastoma protein in his cancer cells). I'd love to hear from anybody who has had experience with the Rb loss or the small cell carcinoma - I've googled and neither is great, but I'd be curious to hear/read stories, too. Thanks in advance.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "17/08/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44298-PSA-150-and-a-smooth-hard-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA 150 and a smooth, hard prostate"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> He's only 58 and has never had a",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 58
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 515
+}

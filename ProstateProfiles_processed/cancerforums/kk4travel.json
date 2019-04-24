@@ -1,0 +1,167 @@
+{
+  "AuthorID": "kk4travel",
+  "AuthorURL": "https://www.cancerforums.net/members/101409-kk4travel?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 14,
+    "min": 14,
+    "scores": [14]
+  },
+  "Posts": [
+    {
+      "AuthorID": "kk4travel",
+      "AuthorURL": "https://www.cancerforums.net/members/101409-kk4travel?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you so much for your candid and informative responses. His prostate is not enlarged at all and he has no symptoms. He is at a stage T2a. He had abdominal and bone scans and those are negative. Any additional information or advice is greatly appreciated. Kristen",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "22/03/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/30215-My-Dad-diagnosed-with-Prostate-Cancer-so-many-questions-any-advice-info-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad diagnosed with Prostate Cancer-so many questions-any advice, info, help?"
+    },
+    {
+      "AuthorID": "kk4travel",
+      "AuthorURL": "https://www.cancerforums.net/members/101409-kk4travel?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My Dad diagnosed with Prostate Cancer-so many questions-any advice, info, help? My Dad is 62 and was diagnosed with prostate cancer. His PSA is 14 and his Gleason is 7 (4+3). Cones were removed...on one side 3 were 100% and 2 were 90%. On the other side they were 0%, so, it appears it is all on the right side. He has scheduled surgery, but, is torn between that and radiation and hormone treatment. What option have others gone with? How are the side effects? He is especially worried about incontinence and impotence. He is in great shape and is very active. All information and experiences with the above options would be greatly appreciated. Thank you! Kristen",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My Dad is 62 and was diagnosed with prostate",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/03/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/30215-My-Dad-diagnosed-with-Prostate-Cancer-so-many-questions-any-advice-info-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad diagnosed with Prostate Cancer-so many questions-any advice, info, help?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My Dad is 62 and was diagnosed with prostate",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 62
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urinary incontinence",
+      "Bladder neck contracture"
+    ],
+    "SideEffectTypeKeywords": [
+      "incontinence",
+      "impotence"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 184
+}

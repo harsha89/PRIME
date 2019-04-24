@@ -1,0 +1,171 @@
+{
+  "AuthorID": "vic0029",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3775646&p=250853",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "approachable",
+      "pleased",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "vic0029",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3775646&p=250853",
+      "Content": " I too had a burning and pulling sensation in my left breast. I started having mammograms and ultrasounds in my late thirties. I had non malignant nodules in two areas of my breast. These nodules were checked every 6 months for about\n three years. After three years I thought it was pointless to put me through all this stress. Out they went and I don't have to think about\n them any more. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "04/02/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3775646",
+      "Title": "Should I be concerned?"
+    },
+    {
+      "AuthorID": "vic0029",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2133459&p=250853",
+      "Content": " I too was just told I have a 6mm nodule in my left breast. I am 48 years old and have had yearly mammograms since I was 40. My sister was diagnosed with breast cancer at the age of 40 last year and had a double mastectomy. We do have a family history and because of this I am considered \"high risk\" and receive yearly MRI's and mammograms. My MRI picked up a 6mm nodule in my left breast. The mammogram did not pick this up. I was called back for an ultrasound for a better look. The ultrasound could not detect the nodule as it is deep within the breast and so small. Radiologist has suggested a wait and see approach. He doesn't think its anything and says I would do more harm than good doing anything at this point. I have an appointment with my doctor next week and will discuss with her. \nPlease don't get too worked up about\n this. I know its hard, trust me! The fact that its so small is good. Have your imaging done and then go from there. 9 out of 10 call backs turn out to be nothing. Good luck and please let us know how things work out. ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 48 years old and have had",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 48
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "yearly mammograms since I was 40 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "cancer at the age of 40 last year and had a",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "04/02/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2133459",
+      "Title": "6mm breast nodule"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "yearly mammograms since I was 40 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["burning"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 284
+}

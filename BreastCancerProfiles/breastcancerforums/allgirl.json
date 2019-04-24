@@ -1,0 +1,132 @@
+{
+  "AuthorID": "allgirl",
+  "AuthorURL": "https://www.cancerforums.net/members/9684-allgirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "glad",
+      "concerned",
+      "affected",
+      "hopeful",
+      "suspicious",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "allgirl",
+    "AuthorURL": "https://www.cancerforums.net/members/9684-allgirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi, Everybody - First, let me say how glad I am that this forum exists! I hope that someone can identify with what's happening to me and give me some feedback. I'll try to keep this short. I had a mammogram in Feb. '07 - normal. About a month ago I started having spontaneous bloody nipple discharge from my right breast (I am a 40 y.o. married mother of 2). I saw my OB/GYN who checked me over and found no masses, lumps, etc. but was concerned enough to send me for another mammogram and ultrasound. These showed \"echogenic material\" in my right breast which could be blood, pus, or something else (cancer, perhaps?). I was sent for an MRI on Monday and got the results today. I have \"three areas of suspicious enhancements, two in the right breast and one in the left breast. MRI guided biopsy for all of these lesions is suggested.\" As you can imagine I am scared out of my ever-lovin' mind. There's no history of breast cancer in my family, though both my parents died of lung cancer this year. Has anyone had spontaneous nipple discharge with abnormal scans/MRIs and NOT had it be cancer? I just can't believe this is happening. I know these \"suspicious enhancements\" can be caused by a number of things - hormones, scar tissue, etc., but I can't help but to worry. The bonus is not only is my right breast affected, but also my left breast. Yeesh. I would appreciate hearing from any of you who may have been/are in the same boat or those of you with any feedback. Thanks for reading, and for your time. Regards, Amy from VA",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7333333333333333,
+        "Phrase": "right breast  I am a 40 y o <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 40
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/10/2007",
+    "ThreadURL": "https://www.cancerforums.net/threads/5378-New-here-need-to-have-a-biopsy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "New here - need to have a biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7333333333333333,
+      "Phrase": "right breast  I am a 40 y o <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 297
+}

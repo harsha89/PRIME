@@ -1,0 +1,132 @@
+{
+  "AuthorID": "Mommy2two",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2563833&p=158310",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "forgiving",
+      "ok",
+      "concerned",
+      "sure",
+      "bad",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "2",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Mommy2two",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2563833&p=158310",
+    "Content": " I'm new here. And I'm not familiar with breast ultrasounds or mammograms. I am 27 and just had a dr visit with my obgyn to go over my medication for my pcos. Aside from that, I found a small bump on my breast a few weeks before that appointment and and, since I had that appointment set up, I told her then. She said it could be a fibroadenoma but she couldn't know for sure. So she called down and I went right in for a ultrasound. I really didn't understand all I was seeing. Then the tech said the radiologist would come in to take a look and feel around. Which was fine with me. He had her put up color on the screen. Which I was then told is blood flow. I guess the blood flow right on my limp was pretty crazy. But I don't know if th bad or good. Is that normal? He then said to do a mammogram so I went and did that right away. Then after a bit he cqe.back and showed me the pictures from the mammogram. You could clearly see the lump. He was thinking it to be a fibroadenoma. But told me we should do a stereotactic biopsy. I said ok and made the appointment for the fallowing week. I went home to do some research because I have no clue about\n any of this stuff. I read something about\n blood flow over lumps being cancerous because cancer needs a strong blood flow. True or not, I don't know. I became concerned but everything I read soundest in my favour. I went in for my biopsy and it wasnt all that bad. Weird and uncomfortable but pretty much painless. I took a couple more images after (with the clip in place) and was then told that he would call me in 2-3 days with the results. Well today (3 days later) I recievws a call from a lady in radiology saying she needed to schedual a appointment for more imaging. So I go in tomorrow morning. I'm confused. Why do I need even more imaging? Why didn't I get my answer on the phone. Now I'm worried. But why would I have been told fibroadenoma if they don't think thats what it is? They would have told me if not. I think? Has this happened to anyone else? \n*forgive me if my spelling is bad, I'm typing on my cell and it has a mind of its own most times :) Thanks! ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 27 and just had a dr",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 27
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/11/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2563833",
+    "Title": "breast lump... fibroadenoma?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 27 and just had a dr",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 27
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 438
+}

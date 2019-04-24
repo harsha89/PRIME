@@ -1,0 +1,157 @@
+{
+  "AuthorID": "meallem",
+  "AuthorURL": "https://www.cancerforums.net/members/124990-meallem?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "wonderful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {"scores": [14]},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 33,
+    "min": 3,
+    "scores": [
+      33,
+      3
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "meallem",
+      "AuthorURL": "https://www.cancerforums.net/members/124990-meallem?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thaks tim for your reply.i am now pushing my self not to sleep.we shall see what will happen the next few days.ezra",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "10/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52319-I-keep-falling-asleep-but-no-tiredness-advanced-prostate-canacer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "I keep falling asleep but no tiredness -advanced prostate canacer."
+    },
+    {
+      "AuthorID": "meallem",
+      "AuthorURL": "https://www.cancerforums.net/members/124990-meallem?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I have had prostate cancer for 13 years.in 2004 i had 45 radiations and couple of biopsies.in 2008 i had cryotherapy which did not succeed.i had gleason 7 +7 and maximum 25 psa.after2008. i have been having casodex during the last 9 years which managed to keep down the psa to maximum to 3 .two years ago i had a urine blockage and had to go to hospital .they found that my psa went up to 33 and the cancer got out to the bones. i am treated now with an injection called decaptil each 3 months and stopped the casodex.i started also to take xtandi for the lasr 2 months and i found that i am wanting to sleep all the time.and my urine problems aggavated. i am wondering if some patients are in a similar situiation and what have they done about it.i am 78 years old. Thanks. ezra meallem",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> am 78 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 78
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52319-I-keep-falling-asleep-but-no-tiredness-advanced-prostate-canacer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "I keep falling asleep but no tiredness -advanced prostate canacer."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> am 78 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 78
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["tiredness"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 194
+}

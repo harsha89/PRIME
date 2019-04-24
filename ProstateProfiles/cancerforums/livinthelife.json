@@ -1,0 +1,712 @@
+{
+  "AuthorID": "livinthelife",
+  "AuthorURL": "https://www.cancerforums.net/members/125171-livinthelife?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "glad",
+      "supportive",
+      "caring",
+      "bad",
+      "interested",
+      "glad",
+      "supportive",
+      "caring",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0.5",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 6,
+    "scores": [
+      6,
+      7
+    ]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 12.7,
+    "min": 12.7,
+    "scores": [12.7]
+  },
+  "Posts": [
+    {
+      "AuthorID": "livinthelife",
+      "AuthorURL": "https://www.cancerforums.net/members/125171-livinthelife?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all your replies. My husband is a patient at the Mayo Clinic in Phoenix. He has been on AS for one year but at a different hospital in a different city. One year ago, he had one core of 3+3=6. We moved to AZ a couple of years ago. His biopsy last year indicted one 3+3 Gleason scores. A month ago he had his annual biopsy which showed several 4+3 Gleason scores and 3+4 scores. His PSA has been up and down for several years now with the highest being 12.7. Here are his PSA levels: 1996 - Aug. 2014 Range = 1 - 5.4 Sept. 2014 - 6.9 Feb. 2016 - 10.7 June 2016 - 8.2 Feb. 2017 - 11 July 2017 - 12.7 The Mayo Clinic scheduled his bone scan and CT for abdomen and pelvic on 9/13. We believe this is the first available appointment time. What does it mean he has \"9 positive cores\"? Also, he does have an enlarged prostate but not for a 75 year old. If that makes sense. Thanks again for all the good advice.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "prostate but not for a 75 year old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "01/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52269-Doc-says-time-to-do-something?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Doc says time to do something."
+    },
+    {
+      "AuthorID": "livinthelife",
+      "AuthorURL": "https://www.cancerforums.net/members/125171-livinthelife?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all your replies. My husband is a patient at the Mayo Clinic in Phoenix. He has been on AS for one year but at a different hospital in a different city. One year ago, he had one core of 3+3=6. We moved to AZ a couple of years ago. His biopsy last year indicted one 3+3 Gleason scores. A month ago he had his annual biopsy which showed several 4+3 Gleason scores and 3+4 scores. His PSA has been up and down for several years now with the highest being 12.7. Here are his PSA levels: 1996 - Aug. 2014 Range = 1 - 5.4 Sept. 2014 - 6.9 Feb. 2016 - 10.7 June 2016 - 8.2 Feb. 2017 - 11 July 2017 - 12.7 The Mayo Clinic scheduled his bone scan and CT for abdomen and pelvic on 9/13. We believe this is the first available appointment time. What does it mean he has \"9 positive cores\"? Also, he does have an enlarged prostate but not for a 75 year old. If that makes sense. Thanks again for all the good advice.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "prostate but not for a 75 year old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "01/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52269-Doc-says-time-to-do-something?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Doc says time to do something."
+    },
+    {
+      "AuthorID": "livinthelife",
+      "AuthorURL": "https://www.cancerforums.net/members/125171-livinthelife?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband recently had a biopsy and based on the results, his doctor says no more surveillance. Next up is a bone scan on 9/13. This is what his biopsy report said: DIAGNOSIS: A. Prostate, left anterior, region of interest #1, biopsy: Prostatic adenocarcinoma, Gleason grade 4 + 3 = 7/10, involving four of five cores and occupying a maximum linear length of up to 6 mm. B. Prostate, right apex, region of interest #2, biopsy: Prostatic adenocarcinoma, Gleason grade 3 + 4 = 7/10, involving two of three cores and occupying a maximum linear length of up to 4 mm. C. Prostate, right base, biopsy: Prostatic adenocarcinoma, Gleason grade 3+ 3 = 6/10, involving one of two cores and occupying a maximum linear length of less than 1 mm. Perineural invasion is present. D. Prostate, right mid, biopsy: Prostatic adenocarcinoma, Gleason grade 3 + 3 = 6/10, involving two of two cores and occupying a maximum linear length of up to 3 mm. Perineural invasion is present. E. Prostate, right apex, biopsy: Benign prostatic tissue. F. Prostate, left base, biopsy: Benign prostatic tissue. G. Prostate, left mid, biopsy: Benign prostatic tissue. H. Prostate, left apex, biopsy: Benign prostatic tissue. CLINICAL INFORMATION: Elevated PSA. His PSA is 12.7. My husband is 75 yrs old and is very active and healthy (except for his prostate). I would like your input on how bad these results are based on your experience. We are looking at the options (before the bone scan) just so we can get educated and be informed. I appreciate any and all advice. I am very glad I found this forum. There are so many caring and supportive people here plus VERY knowledgable.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband is 75 yrs old and is very",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "Prostatic",
+              "Prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "31/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52269-Doc-says-time-to-do-something?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Doc says time to do something."
+    },
+    {
+      "AuthorID": "livinthelife",
+      "AuthorURL": "https://www.cancerforums.net/members/125171-livinthelife?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband recently had a biopsy and based on the results, his doctor says no more surveillance. Next up is a bone scan on 9/13. This is what his biopsy report said: DIAGNOSIS: A. Prostate, left anterior, region of interest #1, biopsy: Prostatic adenocarcinoma, Gleason grade 4 + 3 = 7/10, involving four of five cores and occupying a maximum linear length of up to 6 mm. B. Prostate, right apex, region of interest #2, biopsy: Prostatic adenocarcinoma, Gleason grade 3 + 4 = 7/10, involving two of three cores and occupying a maximum linear length of up to 4 mm. C. Prostate, right base, biopsy: Prostatic adenocarcinoma, Gleason grade 3+ 3 = 6/10, involving one of two cores and occupying a maximum linear length of less than 1 mm. Perineural invasion is present. D. Prostate, right mid, biopsy: Prostatic adenocarcinoma, Gleason grade 3 + 3 = 6/10, involving two of two cores and occupying a maximum linear length of up to 3 mm. Perineural invasion is present. E. Prostate, right apex, biopsy: Benign prostatic tissue. F. Prostate, left base, biopsy: Benign prostatic tissue. G. Prostate, left mid, biopsy: Benign prostatic tissue. H. Prostate, left apex, biopsy: Benign prostatic tissue. CLINICAL INFORMATION: Elevated PSA. His PSA is 12.7. My husband is 75 yrs old and is very active and healthy (except for his prostate). I would like your input on how bad these results are based on your experience. We are looking at the options (before the bone scan) just so we can get educated and be informed. I appreciate any and all advice. I am very glad I found this forum. There are so many caring and supportive people here plus VERY knowledgable.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband is 75 yrs old and is very",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "Prostatic",
+              "Prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52269-Doc-says-time-to-do-something?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Doc says time to do something."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "prostate but not for a 75 year old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 75
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [
+        "interested",
+        "glad",
+        "supportive",
+        "caring",
+        "bad",
+        "interested",
+        "glad",
+        "supportive",
+        "caring",
+        "bad"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "1",
+        "GOOD": "0",
+        "HAPPY": "1",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "2",
+        "OPEN": "1",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "01/09/2017",
+    "TreatmentType": "Surveillance",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surveillance"],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": [
+      "AS",
+      "surveillance"
+    ]
+  },
+  "WordCount": 964
+}

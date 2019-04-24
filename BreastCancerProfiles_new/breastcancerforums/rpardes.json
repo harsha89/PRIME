@@ -1,0 +1,116 @@
+{
+  "AuthorID": "rpardes",
+  "AuthorURL": "https://www.cancerforums.net/members/1800-rpardes?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": ["willing"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "rpardes",
+    "AuthorURL": "https://www.cancerforums.net/members/1800-rpardes?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My wife will be undergoing chemo (combo of Adriamycin and Cytoxen for 2 months and Taxal and Herceotin for 2 months) She has hair down to her hips and and is having a difficult time dealing with losing her hair as it will take many years to grow back. Has anyone had experience or know of anyone who has had success with a product/cap called SCS II made in Israel or other similar treatment which provides a reasonable chance of avoiding the hair loss. She knows that, at best it iks a question of a reasonable possibility rather than a likelyhoodl. Any advice or experience is appreciated",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "wife",
+          "NarrationType": "second-person",
+          "NarratorGender": "male",
+          "PatientGender": "female",
+          "Relation": "wife"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "24/02/2006",
+    "Signature": "Rob",
+    "ThreadURL": "https://www.cancerforums.net/threads/2564-Breast-Cancer-Hair-Loss-SCS-II?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Breast Cancer/Hair Loss -SCS II"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 114
+}

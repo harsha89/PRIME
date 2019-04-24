@@ -1,0 +1,165 @@
+{
+  "AuthorID": "Roostergal",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3735115&p=246922",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "approachable",
+      "scared",
+      "tortured",
+      "aching",
+      "ached",
+      "easy",
+      "wonderful",
+      "nice"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Roostergal",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3735115&p=246922",
+      "Content": " Hi there, \nI am brand new to this forum. I am just looking for a little feedback because I am a little scared and the waiting is killing me. I am 46 years old, and last year I found a small, hard lump under my left breast. An ultrasound found a 5mm lesion at 5 O'clock felt to represent an intraframmary lymph node. On my most recent ultrasound (Oct 6/16) that lesion is not identified BUT there is a 5mm hypechoic lesion deep within the breast parenchyma containing intrnal septation and echogenic debris. Deep to this, there is also a new undulation with a small amount of localized fluid, and dilated retroareolar ducts. I live in a small town where the Doctors seem to take a sit back and wait approach. My breast is HOT all inside, especially deep under my nipple and it aches. Does anyone know what could be going on? I have to wait another 6 months for my next ultrasound and the waiting is torture.\nThanks for listening \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 46 years old  and last year",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 46
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "02/11/2016",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3735115",
+      "Title": "Strange symptoms in left breast"
+    },
+    {
+      "AuthorID": "Roostergal",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3735115&p=246922",
+      "Content": " Hi Exqualls\nThank you so much for responding \n It's nice to know someone is listening.\nI have a doctor (who is also breast cancer surgeon) in the next town (an hour away) who does my varicose veins (funny I know) but anyway, I was there having an appointment for my veins and I asked her to feel my lump. She said \"oh! it feels like a small rock\" and sent me for the first ultrasound. \nI haven't actually seen her since that day (about\n 8 months ago). The hospital just keeps sending me follow up ultrasounds (third one is coming up in April). I haven't heard a word from the doctor on this. I requested my ultrasound results myself and read them (I am a medical transcript\nionist) so the reports are easy for me to read. I am wondering why she hasn't asked to see me. I would like to have it excised and be done with it. My mother just went through breast cancer last year, my Aunt (her sister) just went through ovarian cancer 3 years ago, my sister has had two benign massed removed from her breast, My 18-year-old daughter had a mass removed from her breast that was benign. I just want this removed! Then they can take all the time they want to \"watch it change and grow.\"\nI guess the pocket of fluid is confusing as well, same with the dilated ducts and inverted nipple. Its just that they warn you about\n all of these symptoms (lump, inverted nipple, heat, etc) and then when you go to the doctor, they TAKE THERE TIME in getting the bottom of things. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "removed from her breast  My 18 year old daughter had a",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 18
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "ovarian",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "03/11/2016",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3735115",
+      "Title": "Strange symptoms in left breast"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 46 years old  and last year",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 46
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 460
+}

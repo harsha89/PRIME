@@ -1,0 +1,177 @@
+{
+  "AuthorID": "Smasherie",
+  "AuthorURL": "https://www.cancerforums.net/members/129548-Smasherie?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "aggressive",
+      "aggressive",
+      "overwhelmed",
+      "scared",
+      "understanding",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "aggressive",
+      "aggressive",
+      "overwhelmed",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Smasherie",
+      "AuthorURL": "https://www.cancerforums.net/members/129548-Smasherie?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi everyone, I'm new here. My dad was recently diagnosed with prostate cancer and underwent a radical prostatectomy with the belief that his gleason score was around a 7. That changed after the pathology report confirmed that it was actually a 9. As of right now, it has not spread outside the prostate or into the lymph nodes they removed. Will not know for another month when they are able to re-check his PSA levels if they removed it all from the surrounding tissue. I'm really scared. He's only 59, and he's the last guy on the planet I thought would ever get cancer. He doesn't deal well with this stuff and doesn't relay all of the information as he has trouble understanding it himself. I live in another state and although I was there for the surgery, I am back home now. So far, the urologist has not told him what to expect with a Gleason score that high. I've been trying to do some research myself but it's overwhelming. Does this mean that there is little hope? From everything I'm reading it sounds like it's going to come back and spread. If anyone has any advice or can give me more information on the realities of aggressive prostate cancer, I would appreciate it. I'm just at a loss. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> He's only 59  and he's the last guy",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 59
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/04/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56651-Gleason-score-of-9-what-can-we-expect?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason score of 9... what can we expect?"
+    },
+    {
+      "AuthorID": "Smasherie",
+      "AuthorURL": "https://www.cancerforums.net/members/129548-Smasherie?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi everyone, I'm new here. My dad was recently diagnosed with prostate cancer and underwent a radical prostatectomy with the belief that his gleason score was around a 7. That changed after the pathology report confirmed that it was actually a 9. As of right now, it has not spread outside the prostate or into the lymph nodes they removed. Will not know for another month when they are able to re-check his PSA levels if they removed it all from the surrounding tissue. I'm really scared. He's only 59, and he's the last guy on the planet I thought would ever get cancer. He doesn't deal well with this stuff and doesn't relay all of the information as he has trouble understanding it himself. I live in another state and although I was there for the surgery, I am back home now. So far, the urologist has not told him what to expect with a Gleason score that high. I've been trying to do some research myself but it's overwhelming. Does this mean that there is little hope? From everything I'm reading it sounds like it's going to come back and spread. If anyone has any advice or can give me more information on the realities of aggressive prostate cancer, I would appreciate it. I'm just at a loss. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> He's only 59  and he's the last guy",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 59
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "01/04/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56651-Gleason-score-of-9-what-can-we-expect?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason score of 9... what can we expect?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "<Z> <Z> <Z> He's only 59  and he's the last guy",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 59
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "prostatectomy",
+      "surgery"
+    ]
+  },
+  "WordCount": 476
+}

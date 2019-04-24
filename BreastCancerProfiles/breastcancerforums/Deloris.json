@@ -1,0 +1,148 @@
+{
+  "AuthorID": "Deloris",
+  "AuthorURL": "https://www.cancerforums.net/members/301-Deloris?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "inspired",
+      "kind",
+      "blessed",
+      "caring",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0.5",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Deloris",
+      "AuthorURL": "https://www.cancerforums.net/members/301-Deloris?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello, I was diagnosed Oct. 1, 2004 with breast cancer, I had bi-lateral mastectomy and have went through 4 A/C treatments and today I'm going for my 3rd of four taxol treatments. Since the second treatment, I have this itching, feels like pins and needles, nvery bothersome. I'm taking the meth pack and benadryl every four hours and it is barely keeping it away. Has anyone else out there had this side effect? If so, I was wondering if they are going to change my treatment. I just want it to all be over with, but don't think I can take this for another month. Your posts are such an inspiration, I just found this website. Thank you all, Deloris",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/02/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/548-Taxol-and-itching-hands-feet?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Taxol and itching hands, feet?"
+    },
+    {
+      "AuthorID": "Deloris",
+      "AuthorURL": "https://www.cancerforums.net/members/301-Deloris?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you so much for that information. I went for my other treatment of taxol this morning and they definitely said that is was neuropathy. He changed me to taxotere. I'm just hoping he can give it to me again in 2 weeks, because I have recsontruction surgery and ovaries to be removed on the 21st of March. Thand you for your kind response. I will keep watching this website, it is so very helpful to get other's experiences. Take care and God bless you, Deloirs",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "10/02/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/548-Taxol-and-itching-hands-feet?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Taxol and itching hands, feet?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 218
+}

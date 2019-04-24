@@ -1,0 +1,137 @@
+{
+  "AuthorID": "Leeby",
+  "AuthorURL": "https://www.cancerforums.net/members/1207-Leeby?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "amazed",
+      "pleased",
+      "willing",
+      "sore",
+      "upset",
+      "upset",
+      "worried",
+      "pained",
+      "numb",
+      "pained",
+      "crying",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "3",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Leeby",
+    "AuthorURL": "https://www.cancerforums.net/members/1207-Leeby?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I've had breast discharge for months. I'm just outside of the nursing window but I had it checked anyway. OB ran a blood test and said I was a high regular. Between that and the fact it is a milky discharge from both breasts she said not to worry. She did a breast exam for me. Skip to one month later, I got horrible right arm pain with numbness. The next day my armpit swelled and I could feel a swollen gland. The next day two small hard peas appeared above my right breast at the bottom of the brastrap line. These were so painful. The next day I got two more on the other side. These didn't hurt as much and it didn't go into that armpit. I happened to be at my family doc and brought this up. He said it is normal for some women to get swollen glands during their period and this is when it all occured. I've never heard of this, nor can I find any info. Meanwhile my arm will still hurt - sore, numb, tingly. He says not to worry about it. Could this be breast cancer?? Are these symptoms? Are brastrap lumps considered part of the breast? I'm so upset. I cry, don't sleep well. I'm only 31 with beautiful, young children and an amazing husband. I'm so worried, please HELP. Any info will be greatly appreciated!!",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I'm only 31 with beautiful  young children and",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 31
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "22/09/2005",
+    "ThreadURL": "https://www.cancerforums.net/threads/2069-Please-help-me-possible-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Please help me - possible breast cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I'm only 31 with beautiful  young children and",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 31
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 250
+}

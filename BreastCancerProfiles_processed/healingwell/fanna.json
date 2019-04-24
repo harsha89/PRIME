@@ -1,0 +1,141 @@
+{
+  "AuthorID": "fanna",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2206678&p=156540",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "touched",
+      "anxious",
+      "willing",
+      "sure",
+      "sore",
+      "bad",
+      "cold",
+      "anxious",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "1",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "fanna",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2206678&p=156540",
+    "Content": " Hi i am new on this forum, i am 21 years old and last night i woke up with really bad sharp pain around my left breast especially nipple area and also felt a burning sensation. I felt like screaming as pain was very bad. After tossing and turning for about\n 5 minutes i pulled my bra away from left breast and checked nipple in case there was blood or discharge but it was all normal just pain so i left it \nopen in bed and slowly in next 5 minutes it stopped but since last 24 hours my left breast are little sore. I have a weird history around the age of 14-16 when i used to walk to school in winter and the cold would make my nipples a little painful but thats stopped since and one other thing i noticed was during this summer before one of my period my nipples were both sore to touch but no pain. Now im in a really bad situation, i will go see my male gp tomorrow but im preety sure he will not send me to any scans or tests so please anyone could give me some advice and help because i am a very anxious person and recently i have been suffering with anxiety really badly to the point my mind starts racing and is uncontrolable so you can imagine how im feeling now after last nights episode. I had a dream already being told i have breast cancer, allah forbid! ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "on this forum  i am 21 years old and last night",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 21
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "history around the age of 14 16 when i used to",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 14
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 39,
+    "PostDate": "17/10/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2206678",
+    "Title": "Burning sensation and pain in left breast"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["burning"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 254
+}

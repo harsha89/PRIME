@@ -1,0 +1,121 @@
+{
+  "AuthorID": "Diane S",
+  "AuthorURL": "https://www.cancerforums.net/members/8573-Diane-S?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "hopeful",
+      "sore",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Diane S",
+    "AuthorURL": "https://www.cancerforums.net/members/8573-Diane-S?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I am, at present, undergoing 6 sessions of Taxotere for advanced Breast Cancer. Original breast cancer was 10 years ago and was treated with chemo and radiotherapy. I have been fine ever since until the end of January this year. The reason I am posting is because one of my side effects of the Taxotere is having a very sore nose. It is extremely painful and dry and feels like I am constantly congested and bleeds. However, I have found a simple solution that really helps. I use the 'Breath Right' strips that adhere to the lower part of your nose. I can't tell you how much these have improved my breathing and reduced the bleeding. I would recommend them to any of you who are suffering in the same way. Give them a go. I was unable to get a decent nights sleep. I was waking up every hour or so unable to breath through my nose. This obvioulsy, meant that my mouth was open and was getting very dry and sore and was not helping with the mouth ulcers. The strips have solved this problem. Also, I had lots of problems with mouth ulcers which were horrendous. Washing my mouth out with soluble asprin (spit out after rinsing), 4 times a day, really helps. Try and do it about 15 minutes before mealtimes. Probably best to check with chemo staff that it is ok for you to do so. Both of the above bring such relief and have helped so much, I just felt that I couldn't feel the benefits of this without passing it on to others. Hope this is helpful for you if you are suffering in the same way.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "13/07/2007",
+    "Signature": "Diane",
+    "ThreadURL": "https://www.cancerforums.net/threads/4885-Taxotere-Side-Effects-Help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Taxotere Side Effects - Help"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bleeding"],
+    "SideEffectTypeKeywords": ["bleeding"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiotherapy"]
+  },
+  "WordCount": 292
+}

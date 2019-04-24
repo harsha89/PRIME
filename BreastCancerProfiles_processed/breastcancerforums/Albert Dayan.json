@@ -1,0 +1,144 @@
+{
+  "AuthorID": "Albert Dayan",
+  "AuthorURL": "https://www.cancerforums.net/members/105927-Albert-Dayan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "uplifting",
+      "challenged",
+      "hopeful",
+      "overwhelmed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Albert Dayan",
+      "AuthorURL": "https://www.cancerforums.net/members/105927-Albert-Dayan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Last year my wife was diagnosed with stage 3A breast cancer and went through a dizzying array of treatments. It was a challenging time for her (and for our son) but I'm happy to report that she's doing better. We are hopeful that the worst is behind us. This past weekend a colleague and I produced a short radio piece detailing her experience. The story is honest and funny and uplifting and so we wanted to share it with this community. We hope that some of you might find it meaningful. \"State of Overwhelm\"",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33243-Radio-Program?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Radio Program"
+    },
+    {
+      "AuthorID": "Albert Dayan",
+      "AuthorURL": "https://www.cancerforums.net/members/105927-Albert-Dayan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks, David! So glad you liked it. Meanwhile, my thoughts and wishes are with you, your family, and your loved ones. All the best, Albert",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "23/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33243-Radio-Program?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Radio Program"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 123
+}

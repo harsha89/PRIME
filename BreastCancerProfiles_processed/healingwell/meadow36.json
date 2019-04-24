@@ -1,0 +1,143 @@
+{
+  "AuthorID": "meadow36",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1255800&p=72058",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "meadow36",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1255800&p=72058",
+      "Content": " Hello everyone,\nI have been quietly following along in this forum since I found out I may have a problem - some lumps found on physial exam and I'm waiting on my mammogram/ultrasound appointment in 2 weeks. I don't mean to highjack this thread but I was just wondering what \"reconstruction\" means when talking about\n mastectomy - is this placement of an implant at the same time as the other procedure? Sorry if this is a stupid question, I'm still new to all this. Thanks! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "08/11/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1255800",
+      "Title": "Sister just diagnosed"
+    },
+    {
+      "AuthorID": "meadow36",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1255800&p=72058",
+      "Content": " Thanks for the answer to my question, and Les I hope your sister has a speedy and uneventful recovery !!!!\nMeadow ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "12/11/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1255800",
+      "Title": "Sister just diagnosed"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 107
+}

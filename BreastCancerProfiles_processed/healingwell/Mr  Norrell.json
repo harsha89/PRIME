@@ -1,0 +1,162 @@
+{
+  "AuthorID": "Mr. Norrell",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2487959&p=152237",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "comfortable",
+      "comforted",
+      "thoughtful",
+      "free",
+      "embarrassed",
+      "worried",
+      "amazed",
+      "lucky",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Mr. Norrell",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2487959&p=152237",
+      "Content": " I am a 42-year-old man. I thought a mammogram was something that simply did not apply to me. I had one this morning.\nI found a small lump near my right nipple about\n three weeks ago. I was startled when my doctor recommended a mammogram. I had the classic, \"But I'm a guy!\" reaction. Once I did some research I realized that male breast cancer rates, while low, were higher than I had realized. The mammo tech told me this morning that she performs the procedure on a lot more men that you would commonly expect.\nSo I did the mammogram. It was much...clampier than I expected. And women go through this regularly? Wow.\nNow I wait. While I was in the mammography suite, the tech told me (unofficially, of course) that it didn't look like much. I was called in for two more images, as my nipple had apparently gotten in the way before. Once she released me from the waiting room, I asked her if things still looked good. She smiled, said, \"I don't diagnose\", and walked away.\nWas that because they found something worse on the secondary images, or simply that she did not feel free to speak unofficially in the hallway? I guess I'll find out in a week or two.\nI'm trying to keep my worrying to a realistic level, but I come from a long line of worrywarts. I comfort myself with the fact that I was not embarrassed or reluctant to inform my doctor when I noticed a change in my body. My definition of masculinity has never included taking foolish risks with my health. I'm going to stay positive and wait to see my doc. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "first mammogram  I am a 42 year old man <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 42
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/08/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2487959",
+      "Title": "My first mammogram"
+    },
+    {
+      "AuthorID": "Mr. Norrell",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2487959&p=152237",
+      "Content": " Well, it seems I'm a lucky man in more ways than one. My doctor had the mammogram results by suppertime today, and there's nothing to worry about\n (it's just gynecomastia). I was relieved over that, and also amazed by the speed of the news. It turns out that my province (I'm Canadian) launched an electronic medical records system a while back. All my doc had to do was log in on his end and the results were waiting. I'm also grateful that I don't have to pay for any of this!\nNow I just need to get through another medical exam on Monday (with a neuro-opthalmologist, for an unrelated eye condition), and I can stop worrying. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "14/08/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2487959",
+      "Title": "My first mammogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "first mammogram  I am a 42 year old man <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 42
+    },
+    "Gender": {
+      "Confidence": 0.5709999799728394,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 418
+}

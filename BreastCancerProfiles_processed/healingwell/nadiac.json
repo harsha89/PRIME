@@ -1,0 +1,122 @@
+{
+  "AuthorID": "nadiac",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=164131&p=10827",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": 0,
+      "ALIVE": 0,
+      "ANGRY": 0,
+      "CONFUSED": 0,
+      "DEPRESSED": 0,
+      "GOOD": 0,
+      "HAPPY": 0,
+      "HELPLESS": 0,
+      "HURT": 0,
+      "INDIFFERENT": 0,
+      "INTERESTED": 0,
+      "LOVE": 0,
+      "OPEN": 0,
+      "POSITIVE": 0,
+      "SAD": 0,
+      "STRONG": 0
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 0,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "nadiac",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=164131&p=10827",
+    "Content": " Dear Fellow Survivors, I am a 31-year-old 2-time breast cancer survivor, who was first diagnosed at 27- and then again at 30-years-old. It's been a long and arduous journey but thankfully, after multiple surgeries and intense chemotherapy, I am doing well and enjoying life. Overall, I have found my cancer experience to be a struggle. Inevitably, however, glimmers of joy, hope and laughter have presented themselves throughout my experience, along with new perspectives and at times a renewed passion for living life to the fullest.  And sometimes they presented themselves at the most opportune moments. I would like to share my positive experiences and the experiences of all of you, with women coping with this horrible disease. As such, I've created a project to collect thoughts, quotes, anecdotes or short stories from women across the world and compile them into a book that can be given to women who have or have had breast cancer. I want the book to be a forum in which you can share your best thought, moment or memory during your personal experience. Your entry can be funny, silly, emotional, introspective, or any combination of these and can be as short as one sentence or as long as a couple of paragraphs. With your permission, I would like to acknowledge you by name directly after your entry. If you would prefer to remain anonymous, please indicate so. This book will be a book about the \"silver linings\" of breast cancer and hopefully, you will be a part of it. Please partake in making this book a part of you. Entries can be sent to   bcsilverlinings@hotmail.com A portion of the proceeds from the book will be donated to a breast cancer affiliated foundation.    If you know of others who you think would like to contribute to the book, please be sure to pass this message along. On behalf of myself and of those who will eventually benefit from this book, I thank you for your creative and generous contribution. Nadia Cervoni mailto:bcsilverlinings@hotmail.com ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "Fellow Survivors  I am a 31 year old 2 time breast",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 31
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "27  and then again at 30 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 30
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "You",
+          "NarrationType": "advice"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "06/11/2004",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=164131",
+    "Title": "In need of positive thoughts for my book"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Fellow Survivors  I am a 31 year old 2 time breast",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 31
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "WordCount": 343
+}

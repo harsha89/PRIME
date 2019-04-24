@@ -1,0 +1,138 @@
+{
+  "AuthorID": "musella",
+  "AuthorURL": "https://www.cancerforums.net/members/14221-musella?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "musella",
+    "AuthorURL": "https://www.cancerforums.net/members/14221-musella?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I'm a new poster here with a question. Despite having mammograms yearly since the age of 44 (I'm now 54), I'm not sure how much of the \"armpit\" area is included. I have recently noticed a lump on my right about half way (on a diagonal) between my breast and my armpit. It can be tricky to locate at times and I really don't think it's anything serious as it feels smooth and round. I do have very dense breasts. I had a core biopsy done on the same breast, upper & outer quadrant, some years ago that was benign. Anyway my regular screening mammo is in Dec. and I was wondering if this area between the breast and the armpit will be covered? Thanks! MusellaRose",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.8833333333333334,
+          "Phrase": "yearly since the age of 44  I'm now 54   I'm not",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 44
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "age of 44  I'm now 54   I'm not sure how much",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 54
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "Mammogram",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "01/11/2008",
+    "ThreadURL": "https://www.cancerforums.net/threads/7982-Mammogram-Question?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Mammogram Question?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "age of 44  I'm now 54   I'm not sure how much",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 54
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 133
+}

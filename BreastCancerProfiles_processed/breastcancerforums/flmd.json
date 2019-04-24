@@ -1,0 +1,158 @@
+{
+  "AuthorID": "flmd",
+  "AuthorURL": "https://www.cancerforums.net/members/5591-flmd?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "thoughtful",
+      "cramped",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "flmd",
+      "AuthorURL": "https://www.cancerforums.net/members/5591-flmd?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, I am a 55 yo 1.5 years out from bilateral mastectomy(one side prophylactically) for Stage 1 min invasive ductal Ca with neg sentinal node and neg 9 other nodes. I had 4 rounds of cytoxan and adriamycin and 10 months of Tamoxifen(this was discontinued at 10 months because of severe leg cramps). I was then switched over to Arimidex that I have been on for 3 months now. I was premenapausal at diagnosis but went into menopause after chemo. I had a pelvic ultrasound after being on Tamoxifen for 6 months which was negative for uterine lining problems. I had a follow up U/S today (off Tamoxifen for about 3 months now) which show nothing in my uterus but showed multiple ovarian cysts(7- that were small(largest was 8mm) on one ovary only. My oncologists states that this is not a side effect of the Arimidex but I am concerned because I was unaware that being more than a year post menopausal that I should develop multiple ovarian cysts. Do you have an thoughts or recommendations other than repeat U/S in 3 months?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> Hi  I am a 55 yo 1 5 years out",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "menopause",
+              "menopausal",
+              "ovarian",
+              "ovary",
+              "uterus"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/04/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4558-Arimidex-side-effect?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Arimidex side effect?"
+    },
+    {
+      "AuthorID": "flmd",
+      "AuthorURL": "https://www.cancerforums.net/members/5591-flmd?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks for the reply. I am having a more detailed U/S tomorrow as well as Ca125. I guess I will know more then.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "26/04/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4558-Arimidex-side-effect?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Arimidex side effect?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> Hi  I am a 55 yo 1 5 years out",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 55
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 217
+}

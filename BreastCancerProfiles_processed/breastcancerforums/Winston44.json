@@ -1,0 +1,133 @@
+{
+  "AuthorID": "Winston44",
+  "AuthorURL": "https://www.cancerforums.net/members/21119-Winston44?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "confident",
+      "accepting",
+      "encouraged",
+      "certain",
+      "confident",
+      "hopeful",
+      "willing",
+      "certain",
+      "decisive",
+      "ignorant"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "1",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "3",
+      "POSITIVE": "3",
+      "SAD": "0",
+      "STRONG": "2"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Winston44",
+    "AuthorURL": "https://www.cancerforums.net/members/21119-Winston44?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Bone and liver mets. I have looked for months for a site like this to try to help me get my head round this thing. My wife was diagnosed with BC in January 2008. Mastectomy, taxotere and herceptin with tamoxifen. Herceptin has continued, as in July 2009 at age of 46, routine blood tests suggested liver involvement and confirmed on CT scan. Mets to bones on pelvis, rib, sternum, backbone etc, and diffuse cancer to liver. They measured one major area. Placed straight on to navelbein, continued with herceptin, and zometa for bones. Navelbein kept thigs stable for 7 months, but in Jan 2010, started to fail evidenced by rising liver blood tests. Resulting scan showed growth on the largest tumour between October 09 and March 10 of 40% from 6.1cm to 8.7cm which seems large to me. This was to the largest lesion on the liver, and scan said cancer on the liver was still difuse. Moved on to Xeloda. The Onc in April said that would try Xeloda first, then had another one to try after that (Gemzar), but after that, it would be clinical trials. Mercifully, the Xeloda has shown an improvement. The latest scan in July suggests at least a partial response. The small amount of ascites remains stable, and whilst there are multiple low density areas remaining with the liver, but associated contrast enhancement has much reduced. Conclusion was a good partial response. What struck me about this site was the balance of hope and realism. I understand that there are no certainties, any advice can only be in general terms, but even that is better than what I have at the moment which is total ignorance of how things are likely to pan out. We accepted months ago that the prognosis is poor, will not improve, and my wife is almost certain to die from this condition. I try to plan ahead, but it is difficult when I don't know if I am likely to be talking about years, or months. The response to Xeloda is encouraging, but the response to navelbein was only 7 months, 5 months less than the Onc was hoping. We are living life to the full, but some decisions might be slightly different if I knew what the likely timescales were. I appreciate that nobody could possibly be totally confident in any prediction, there are so many variables, but I would be grateful if anyone could give any pointers on likely time frames.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.8,
+        "Phrase": "July 2009 at age of 46  routine blood tests suggested liver",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 46
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "12/08/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/14049-Liver-and-Bone-Mets?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Liver and Bone Mets."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "July 2009 at age of 46  routine blood tests suggested liver",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 46
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 422
+}

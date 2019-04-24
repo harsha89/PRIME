@@ -1,0 +1,550 @@
+{
+  "AuthorID": "Woodbine130",
+  "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "ok",
+      "great",
+      "willing",
+      "willing",
+      "great",
+      "willing",
+      "ok",
+      "great",
+      "willing",
+      "willing",
+      "great",
+      "willing",
+      "ok",
+      "willing",
+      "ok"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.333",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 12,
+  "NPosts": 16,
+  "PSAInfo": {
+    "max": 60,
+    "min": 9.11,
+    "scores": [
+      9.11,
+      60
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the info. It\u2019s my first PSA. My dad did have prostate cancer at age 87 but they didn\u2019t do anything as it was slow going and age was going to get him not the cancer. I will keep you posted. Appt june 15. Thanks again.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "have prostate cancer at age 87 but they didn\u2019t do anything",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 87
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, Just joined the forum. I\u0092m 60 and this past march I had my first urinary infection. Went on antibiotics for a week. Since then I notice my prostate and when I ejaculate very little comes out which is a definite change since the infection. Feeling is the same but not much volume so I went to my doctor. Doc said get a blood test to get a PSA. The Dre was ok. PSA came back 9.11. Have an appt with a uro. What should I ask or expect from the first appt. thanks for any advise",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> <Z> I\u0092m 60 and this past march I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for great insight and advise. This is truly a great forum. I like the 9.11 will live in infamy. I like it to a porsche 911. I will keep everyone updated. App is 6-15.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the info. It\u2019s my first PSA. My dad did have prostate cancer at age 87 but they didn\u2019t do anything as it was slow going and age was going to get him not the cancer. I will keep you posted. Appt june 15. Thanks again.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "have prostate cancer at age 87 but they didn\u2019t do anything",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 87
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for great insight and advise. This is truly a great forum. I like the 9.11 will live in infamy. I like it to a porsche 911. I will keep everyone updated. App is 6-15.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by chiguy Did you get your bloodwork done before or after the DRE? It should be done before, because the DRE will cause PSA to spike. Also, you'll want to avoid ejaculating, bike riding or intense physical activity for a few days before bloodwork as those activities will also raise PSA levels. Good luck with your appointment. Hi Chiguy, It was just a blood test. The Dre was done a few weeks earlier. I did have physical activity in the early morning so maybe that had an effect and it feels like I still have something going on with my prostate because of a urinary infection in March of this year. Thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, Just joined the forum. I\u0092m 60 and this past march I had my first urinary infection. Went on antibiotics for a week. Since then I notice my prostate and when I ejaculate very little comes out which is a definite change since the infection. Feeling is the same but not much volume so I went to my doctor. Doc said get a blood test to get a PSA. The Dre was ok. PSA came back 9.11. Have an appt with a uro. What should I ask or expect from the first appt. thanks for any advise",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> <Z> I\u0092m 60 and this past march I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for great insight and advise. This is truly a great forum. I like the 9.11 will live in infamy. I like it to a porsche 911. I will keep everyone updated. App is 6-15.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 37,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by chiguy Did you get your bloodwork done before or after the DRE? It should be done before, because the DRE will cause PSA to spike. Also, you'll want to avoid ejaculating, bike riding or intense physical activity for a few days before bloodwork as those activities will also raise PSA levels. Good luck with your appointment. Hi Chiguy, It was just a blood test. The Dre was done a few weeks earlier. I did have physical activity in the early morning so maybe that had an effect and it feels like I still have something going on with my prostate because of a urinary infection in March of this year. Thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 38,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the info. It\u2019s my first PSA. My dad did have prostate cancer at age 87 but they didn\u2019t do anything as it was slow going and age was going to get him not the cancer. I will keep you posted. Appt june 15. Thanks again.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "have prostate cancer at age 87 but they didn\u2019t do anything",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 87
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 32,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for great insight and advise. This is truly a great forum. I like the 9.11 will live in infamy. I like it to a porsche 911. I will keep everyone updated. App is 6-15.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by chiguy Did you get your bloodwork done before or after the DRE? It should be done before, because the DRE will cause PSA to spike. Also, you'll want to avoid ejaculating, bike riding or intense physical activity for a few days before bloodwork as those activities will also raise PSA levels. Good luck with your appointment. Hi Chiguy, It was just a blood test. The Dre was done a few weeks earlier. I did have physical activity in the early morning so maybe that had an effect and it feels like I still have something going on with my prostate because of a urinary infection in March of this year. Thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, Just joined the forum. I\u0092m 60 and this past march I had my first urinary infection. Went on antibiotics for a week. Since then I notice my prostate and when I ejaculate very little comes out which is a definite change since the infection. Feeling is the same but not much volume so I went to my doctor. Doc said get a blood test to get a PSA. The Dre was ok. PSA came back 9.11. Have an appt with a uro. What should I ask or expect from the first appt. thanks for any advise",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> <Z> I\u0092m 60 and this past march I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the info. It\u2019s my first PSA. My dad did have prostate cancer at age 87 but they didn\u2019t do anything as it was slow going and age was going to get him not the cancer. I will keep you posted. Appt june 15. Thanks again.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "have prostate cancer at age 87 but they didn\u2019t do anything",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 87
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, Just joined the forum. I\u0092m 60 and this past march I had my first urinary infection. Went on antibiotics for a week. Since then I notice my prostate and when I ejaculate very little comes out which is a definite change since the infection. Feeling is the same but not much volume so I went to my doctor. Doc said get a blood test to get a PSA. The Dre was ok. PSA came back 9.11. Have an appt with a uro. What should I ask or expect from the first appt. thanks for any advise",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> First PSA test age 60 Hello all  Just joined the",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 60
+          },
+          {
+            "Confidence": 0.8,
+            "Phrase": "<Z> <Z> <Z> <Z> I\u0092m 60 and this past march I",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    },
+    {
+      "AuthorID": "Woodbine130",
+      "AuthorURL": "https://www.cancerforums.net/members/127854-Woodbine130?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by chiguy Did you get your bloodwork done before or after the DRE? It should be done before, because the DRE will cause PSA to spike. Also, you'll want to avoid ejaculating, bike riding or intense physical activity for a few days before bloodwork as those activities will also raise PSA levels. Good luck with your appointment. Hi Chiguy, It was just a blood test. The Dre was done a few weeks earlier. I did have physical activity in the early morning so maybe that had an effect and it feels like I still have something going on with my prostate because of a urinary infection in March of this year. Thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 28,
+      "PostDate": "05/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55201-First-PSA-test-age-60?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA test age 60"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> First PSA test age 60 Hello all  Just joined the",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 1213
+}

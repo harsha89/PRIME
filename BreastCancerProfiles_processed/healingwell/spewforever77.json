@@ -1,0 +1,137 @@
+{
+  "AuthorID": "spewforever77",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2899436&p=184170",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "thoughtful",
+      "willing",
+      "bad",
+      "terrified",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "spewforever77",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2899436&p=184170",
+    "Content": " \n  I am 36 years old. They found a 1 millimeter lump in the left breast at the 10 O Clock position. Going in for biopsy Thursday. They kept telling me it was nothing, it was no big deal. I was shaking so bad they thought I was being a drama queen. Will know the results Monday. I am so scared. I am a single mom to 3 awesome kiddos, one that is handicapped. I don't want to die or have anything happen to me. Any ideas? thoughts? Is 1 millimeter pretty big? Also, should I tell my ex about\n this now or wait for the results Monday? The divorce did not go well and there is a protective order in place. I don't need any drama from him or him wanting to take my kiddos away due to my illness. Thank you. \n ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 36 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 36
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "am a single mom to 3 awesome kiddos  one that is",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 3
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/11/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2899436",
+    "Title": "Please help. Found lump. Am terrified!!!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 36 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 150
+}

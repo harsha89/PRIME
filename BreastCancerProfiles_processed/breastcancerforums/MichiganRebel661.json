@@ -1,0 +1,131 @@
+{
+  "AuthorID": "MichiganRebel661",
+  "AuthorURL": "https://www.cancerforums.net/members/1085-MichiganRebel661?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "comfortable",
+      "comforted",
+      "willing",
+      "sure",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "MichiganRebel661",
+    "AuthorURL": "https://www.cancerforums.net/members/1085-MichiganRebel661?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Im new, but not new to the conversions of breast cancer...or cancer in general. I had a left breast bx and removal of sub areola mass which I found last January. Had mammo and ultra sound then but they didn't see anything. It was blamed on steroid treatment for joint pain and was figured to cause imflammation to the scar tissue from a previous bx 16 years ago. This time it was the same instantanious pain that woke me from a sound sleep. I waited 2 days and decided to go see my plastics guy and figured we'd just revise the incision and end this. Well he decided to use compresses and compression for a week and see. I didn't feel comfortable with this so I called my gyn and told her about it. She knew of the previous problem...she had me scheduled for mammo and ultra sound that next day. Well they found nothing in the mammo but I had the ultra sound and a mass (solid) was found...looked to be about 2 cm. Radiologist said I had to have it surgically removed. She said in was in the duct and said it was very common. I had a hysterectomy back in Nov 04 for fibroids...no HRT..after. Im 44 years old and have been able to get through all the side effects without meds. Not sure if theres a question to this...but would like to know if there are similar circumstances as mine...and what is everyone thinking about what my situation is. I know I need to wait till I get the results back, which will be in a couple of days but as you probably can tell.....I don't have a good feeling about this. Thanks for just being there",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> <Z> Im 44 years old and have been",
+        "Relation": "first-person",
+        "Tense": "present",
+        "Value": 44
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hysterectomy",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "22/08/2005",
+    "ThreadURL": "https://www.cancerforums.net/threads/1851-awaiting-bx-results?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "awaiting bx results"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> Im 44 years old and have been",
+      "Relation": "first-person",
+      "Tense": "present",
+      "Value": 44
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 306
+}

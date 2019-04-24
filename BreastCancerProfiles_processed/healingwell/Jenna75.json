@@ -1,0 +1,148 @@
+{
+  "AuthorID": "Jenna75",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=106065",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "aggressive",
+      "aggressive",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Jenna75",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=106065",
+    "Content": " My name is Jennifer, I'm 28. I know this is a breast cancer forum, but I really couldn't find any other category that fit me. Since my cancer is of the \"female\" sort, I thought I'd try to fit in here. I was diagnosed with Stage II-A ovarian dysgerminoma in June 2006. It is a VERY rare ovarian cancer, comprising only 1%-3% of all ovarian cancer diagnoses. It occurs in late adolescence to early adulthood (I was 23 at the time of my diagnosis). I had my left ovary and tube taken in 6/06, aggressive chemo through 12/06, and went into remission. Then I relapsed in 2/07 and had a mass removed from the right ovary. I have been in remission since late Feb. of 2007. I already had a son at that time, so my doctor tried to convince me to have a complete hysterectomy. At 23, and being unmarried at the time, I was very much against that. It's a good thing too, because I found my soul mate and married him in 2008, and welcomed our beautiful daughter Isabella to our family 9/2/09! Now I'm facing something really scary,though... I went to the ER with severe abdominal pain 2 weeks ago, and a CT scan found lesions on my ovary, right adrenal gland and liver. I had a follow-up MRI yesterday to investigate further. Now I'm sitting here with my phone in a death grip, waiting for that make-or-break-it call from my doctor with the results... ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "My name is Jennifer  I'm 28 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 28
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "to early adulthood  I was 23 at the time of my",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 23
+        },
+        {
+          "Confidence": 0.6717171717171718,
+          "Phrase": "<Z> <Z> <Z> <Z> At 23  and being unmarried at the",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 23
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hysterectomy",
+            "ovarian",
+            "ovary",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 136,
+    "PostDate": "11/08/2010",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=110474",
+    "Title": "ROLL CALL name, age, state and any other info to share"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "My name is Jennifer  I'm 28 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 28
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 269
+}

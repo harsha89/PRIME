@@ -1,0 +1,130 @@
+{
+  "AuthorID": "beto1234",
+  "AuthorURL": "https://www.cancerforums.net/members/101714-beto1234?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "certain",
+      "hopeful",
+      "willing",
+      "certain",
+      "provoked",
+      "terrible",
+      "fearful",
+      "terrified",
+      "pained",
+      "offended",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "beto1234",
+    "AuthorURL": "https://www.cancerforums.net/members/101714-beto1234?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I truly hope I am not offending anyone by posting on here. I am just going insane, and I need some advice and have nowhere else to turn. I am probably in the gym 5 days a week, and do a lot of weight lifting. About 3 weeks ago, I noticed I was getting a pain in one breast that felt like shooting/ stabbing pain. I brushed it off for a few days, until I started googling it.... and what I found really freaked me out. The pain seems to be provoked by certain movements of my arm... and has improved a bit... but it is still there. I exam my breasts 10 times a day since this started, and haven't felt anything unusual. ALSO, about a month ago... I had a respiratory infection or something and developed underarm pain around that time. It seemed to subside until I started prodding at my breasts and underarms and it came back. I also found on google, axillary node pain that comes and goes is a red flag. Needless to say I am freaking out and thinking the worst. I have an appointment tomorrow, and I am terrified.... to the point to where I don't even want to go in fear that I will find out something terrible. I really need help, I can't think straight!",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "27/03/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/30329-I-am-losing-my-mind-Please-help-me!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "I am losing my mind. Please help me!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 235
+}

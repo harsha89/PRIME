@@ -1,0 +1,150 @@
+{
+  "AuthorID": "Enigma2010",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3813520&p=252865",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "reassured",
+      "ok",
+      "hopeful",
+      "willing",
+      "scared",
+      "worried",
+      "threatened"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "3",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Enigma2010",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3813520&p=252865",
+      "Content": " thank u for ur kind words ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/03/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3813520",
+      "Title": "mammogram call back"
+    },
+    {
+      "AuthorID": "Enigma2010",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3813520&p=252865",
+      "Content": " hello to all of you ladies,\ni am hoping some of you will read and reply. I am worried,scared and need some reassurance that everything will be ok. A month ago i had my screening mammogram and 2 days later i got the call from my doc that i need to go back for more pics.She said that my left breast looks slightly different than the right she said ,,asymmetry.She told me not to worry 9 out of 10 is nothing and she gets quite a lot of those . I got a letter as well that states that there are findings that requires more pictures and such findings are benign. Any similar experiences? Need to mention that they schedule me 1 month later for follow-up.I am thinking if it was life threatening they wouldn't waited 1 month? Please help and share w me your experiences \n Thanks in advance ladies.I am not myself need good vibes\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/03/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3813520",
+      "Title": "mammogram call back"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 171
+}

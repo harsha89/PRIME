@@ -1,0 +1,137 @@
+{
+  "AuthorID": "tulip",
+  "AuthorURL": "https://www.cancerforums.net/members/8338-tulip?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": ["scared"],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "tulip",
+      "AuthorURL": "https://www.cancerforums.net/members/8338-tulip?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, im new to this site. My mum has stage 3 breast cancer and has gone through 3 fec chemo already. She was suppsed to have another 3 Taxotere but took an extreme reaction to the first dose and was seriously ill in hospital, so shes back on the fec for 3 more, followed by 29 sessions of radiotherapy. Do you have an idea/knowledge of the likely outcome? Im so scared as the docs arent saying much. She had the lump plus all her lymph glands removed. x",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mum",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mum"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/07/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4794-My-Mother-has-stag-3-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "My Mother has stag 3 breast cancer"
+    },
+    {
+      "AuthorID": "tulip",
+      "AuthorURL": "https://www.cancerforums.net/members/8338-tulip?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, thanks so much for your replies & kind words. xxx",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "02/07/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4794-My-Mother-has-stag-3-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "My Mother has stag 3 breast cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiotherapy"]
+  },
+  "WordCount": 107
+}

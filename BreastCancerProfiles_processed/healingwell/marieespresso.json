@@ -1,0 +1,183 @@
+{
+  "AuthorID": "marieespresso",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2631086&p=163298",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "sure",
+      "worried",
+      "pleased",
+      "ok",
+      "willing",
+      "scared",
+      "worried",
+      "willing",
+      "pained",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.667",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0.667",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "marieespresso",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2631086&p=163298",
+      "Content": " My mom found out that she has ducatal cancer. The doctors say its the best one and they caught it in time. She is going for an MRI this Thursday to see if It spread to the other breast and just to make sure I think she is looking towards reconstructive surgery. I told her at least she will be a bombshell lol. It made her laugh. Everyone she is doing well and is positive as can be. The most think that she was worried about\n was under her arm which happened to be a lymph node get that one. Anyway will keep everyone updated ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mom",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mom"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "01/02/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2631086",
+      "Title": "My Mother has Microcalcification 10yrs ago had same thing but with tumor NEED HELP"
+    },
+    {
+      "AuthorID": "marieespresso",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2631086&p=163298",
+      "Content": " Hello everyone I am at loss for words. Tomorrow my mom goes in for 3 needle invasive biopsies. They have found that she has micro calcification and a lump under her arm the doctor said there is nothing to worry about\n under the arm just wants to test it. Now my mom had breast Cancer Micro-Calcification 2 years ago had a lumpectomy done to take out the lump and some of her lymphnodes I dont know if it was all or not. Anyway she is scared. She is 70yrs old and is Afraid that she is going to die. What do I do What do I say to make her feel ok She will know the results on Friday. Please everyone pray for her. Whats the life expectancy? and there are no tumors that she can feel or the doctor can feel. The reason I ask for life expectancy is because I wanna stop my mother from thinking that she is going to die? \n \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> She is 70yrs old and is Afraid that",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mom",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mom"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/01/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2631086",
+      "Title": "My Mother has Microcalcification 10yrs ago had same thing but with tumor NEED HELP"
+    },
+    {
+      "AuthorID": "marieespresso",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2631086&p=163298",
+      "Content": " Thank you that means alot to me. My mom is my everything. She adopted me when I was twelve and made me the strong woman I am today I help her keep positive it just hurts me a lot when she says that she doesnt want to die. It hurts. But I know shes in alot of pain. I will let you know how she does. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mom",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mom"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "30/01/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2631086",
+      "Title": "My Mother has Microcalcification 10yrs ago had same thing but with tumor NEED HELP"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> She is 70yrs old and is Afraid that",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 70
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 350
+}

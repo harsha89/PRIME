@@ -1,0 +1,148 @@
+{
+  "AuthorID": "JTQ",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2822080&p=177505",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "affected",
+      "willing",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "JTQ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2822080&p=177505",
+      "Content": " Hi Gingerda,\nI had a stereo biopsy around 2 weeks ago... You just have to try to find the most comfortable position and then hold it for the next 45 minutes to an hour. Try to breathe shallow but steadily so as not to have a panic attack in the middle of it. I faced away from the doctor and nurse so I can only hear them and not see what was going on. They will give you lots of local anesthesia and you will feel no pain while the tug and poke you for the biopsy. Truthfully the hardest part was the strained neck I got from the position... You have to slowly get out of the position so you won't hurt you neck further. Do keep on icing the area and after the meds wear off ... You will feel major soreness and some pain as if you got clobbered in the boobs but that lasted a couple of days ( Tylenol helps)\nMy biopsy unfortunately came back positive for DCIS so imbue for a lumpectomy... Good luck and just get it done and over with. 🙏 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "15/08/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2822080",
+      "Title": "anxiety over having to have a stereotactic biopsy"
+    },
+    {
+      "AuthorID": "JTQ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2799100&p=177505",
+      "Content": " Hi \nLike most of you, I got a call back from my annual mammo... Long story short, after further tests and a stereo biopsy.. I have DCIS on my right breast. Grade 2 noninvasive early stage. I need a lumpectomy and am scheduled with a highly recommended surgeon who unfortunately was going on a 2 week vacation when I made the appt....the wait is killing me...I know I'll be in good hands . My oncologist is renown and her husband is the head of pathology and read my results. I'm having psychosomatic tendencies and just felt a lump that wasn't there before ( could be the biopsy site healing?)\nAm worried about\n possible radiation and hormone therapy with all its scary side effects... They tell me they won't know the additional treatments until after they go in there. I was assured that this extended wait ( its been over 2 weeks since the biopsy plus another week till the appt then who knows how much longer for the actual surgery) ...will not affect the movement or growth of the DCIS \n🙏Staying positive\nJTQ ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "15/08/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2799100",
+      "Title": "Microcalcifications"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 373
+}

@@ -1,0 +1,203 @@
+{
+  "AuthorID": "terr",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=135733",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "comfortable",
+      "comforted",
+      "willing",
+      "worried",
+      "wonderful",
+      "caring",
+      "affected",
+      "scared",
+      "pained",
+      "pained",
+      "hurtful",
+      "great",
+      "ok",
+      "supportive",
+      "concerned",
+      "willing",
+      "nervous",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.667",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "0.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.667",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "terr",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=135733",
+      "Content": " I guess I'm jumping to conclusions and I will try not to worry so much. It has been a comfort reading other peoples stories and I will try to keep a positive attitude. \nThank you for your prayers Amy, ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "04/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2276474",
+      "Title": "Called Back Scared....."
+    },
+    {
+      "AuthorID": "terr",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=135733",
+      "Content": " I am 43 and just got called back and am going on 12/6 for my appt. I am scared my aunt died at 42 of breast cancer and my grandma had it but died late in life not from the cancer. My younger sister is dying of lung cancer. I have never smoked but grew up in a smoking house. I have had back pain for years and recently my low back and hip hurt so you can imagine what is going through my mind. I just pray I have the strength to deal with what comes my way. I have 3 kids all in high school and a wonderful husband and I take care of my mother who has dementia and lives with us. I own and manage an adult family home for the elderly and am stressed out. I was also on my first day of menstrual cycle when I had my mammo does anyone know if this would affect results? I am supposed to be the strong one emotionally and I'm falling apart... ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 43 and just got called back",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 43
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "scared my aunt died at 42 of breast cancer and my",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 42
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "menstrual"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2276474",
+      "Title": "Called Back Scared....."
+    },
+    {
+      "AuthorID": "terr",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=135733",
+      "Content": " Well I feel kinda foolish! I went in for second mammo they said they needed just one picture. After the radiologist looked at it he wanted 2 more pictures. Then they asked for ultra sound. I was pretty nervous but they said my breast have become more dense and everything turned out ok. I am however still nervous about\n my Left breast because it has been painful and nothing showed up on mammo but they didn't want to ultra sound it because they were only concerned about\n the right side. I think I will follow up with a specialist to have it checked out. Thanks again for the support this is a great website and I would like to continue to be a part of it. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "06/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2276474",
+      "Title": "Called Back Scared....."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 43 and just got called back",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 43
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 348
+}

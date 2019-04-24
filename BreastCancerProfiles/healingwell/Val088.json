@@ -1,0 +1,230 @@
+{
+  "AuthorID": "Val088",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3359195&p=217470",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "willing",
+      "scared",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.2",
+      "POSITIVE": "0.4",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 5,
+  "NPosts": 5,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Val088",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3359195&p=217470",
+      "Content": " So I had my contrast mammogram..they told me what they are looking for are hotspots and cellular changes..the first minute of the contrast gave me a hot throat and my behind felt hot..they said it would feel like I was peeing myself which it did..then I had an ultra sound which they said was to have a good look because sometimes the tissue is folded over and they cant see..it was kind of uncomfortable..so now I wait again ..this will be a long stressful wait.... ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "28/03/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3359195",
+      "Title": "Contrast"
+    },
+    {
+      "AuthorID": "Val088",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3359195&p=217470",
+      "Content": " I got a call first thing this morning ...cystoma..they said everything is fine.. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "30/03/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3359195",
+      "Title": "Contrast"
+    },
+    {
+      "AuthorID": "Val088",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3359195&p=217470",
+      "Content": " I called to confirm my appointments,they said they wanted blood work because Im over 50 and they are going to do a contrast mammogram and an ultra sound...she said that the radiologist didnt know exactly what he was seeing with the first 2 and wants to take a better look..... ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "blood work because Im over 50 and they are going to",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 50
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/03/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3359195",
+      "Title": "Contrast"
+    },
+    {
+      "AuthorID": "Val088",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3358606&p=217470",
+      "Content": " I am 55 and had a mammogram 2 weeks ago they called me back for a second and now they have called me back for blood work and an 1 hour exam..Im pretty scared..I dont know if they are doing my xrays or ultrasound..Im a mess ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> mammogram  I am 55 and had a mammogram 2",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/03/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3358606",
+      "Title": "mammogram"
+    },
+    {
+      "AuthorID": "Val088",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3358606&p=217470",
+      "Content": " Thanks ...I will ...waiting is hell..:( ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "18/03/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3358606",
+      "Title": "mammogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "blood work because Im over 50 and they are going to",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 50
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 214
+}

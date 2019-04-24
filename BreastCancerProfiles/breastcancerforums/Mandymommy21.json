@@ -1,0 +1,129 @@
+{
+  "AuthorID": "Mandymommy21",
+  "AuthorURL": "https://www.cancerforums.net/members/20027-Mandymommy21?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "concerned",
+      "tired",
+      "terrified",
+      "scared",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "1",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Mandymommy21",
+    "AuthorURL": "https://www.cancerforums.net/members/20027-Mandymommy21?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Good afternoon, My name is Mandy, I am 28 and two days ago, I found a BB sized lump in my left breast, on the upper, outer portion of my breast. Its very deep in the tissue and is very hard. Its not moving anywhere and not painful... As an RN, I do not know much about breast tumors, but what I do know... these findings are making me that much more scared. My mom is a breast cancer survivor, This month, she is in her 5yr remission . We have breast cancer in the family. An Aunt was diagnosed and died in her 30s as well. I am waiting to go to the dr. next week and am terrified. I had my mom come over and feel the lump and she looked at me like she saw a ghost and said, \"I dont like that.\".... (great, way to make me feel better)...j/k... she is honestly very concerned. Prior to feeling it, she told me it is probably a cyst. Which she has had many of. After feeling it, she told me it did not feel like any cysts she has ever had. I am still not trying to freak myself out until I know more. Past hx: real fast... I have two small children, I breast fed them both for over a year. In the last two months, I have been so tired, I cant stay awake during the day. I also had two strange bleeding episodes under my skin (called petechiae), and went to my dr who did blood work and was worried about Leukemia... my RBC and my Hemoglobin, and hematrocrit were all low. He told me we were going to do a 'watch and wait' and do follow up blood work next month. Now I found this lump two days ago. Since I am waiting right now, my biggest concern is what this feels like. Can anyone else tell me what their lumps felt like to them? I just cant get my head around this right now and need some perspective before I lose my mind... Thanks Ladies..",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/04/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/12854-New-Here-Questions-and-Waiting?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "New Here, Questions and Waiting"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "bleeding",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surveillance"],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": ["watch and wait"]
+  },
+  "WordCount": 359
+}

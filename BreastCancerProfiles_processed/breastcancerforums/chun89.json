@@ -1,0 +1,151 @@
+{
+  "AuthorID": "chun89",
+  "AuthorURL": "https://www.cancerforums.net/members/127443-chun89?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "affected",
+      "willing",
+      "pained",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "2",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "chun89",
+      "AuthorURL": "https://www.cancerforums.net/members/127443-chun89?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "thank you very much lisa1962 for your answer and i appreciate the approach of this forum very much because i dont believe this quack as well. it is already immensely helpful that you gave the answers to the questions i had. thank you again.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "20/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54873-seeking-advice-on-behalf-of-my-mother-terminal-breat-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "seeking advice on behalf of my mother, terminal breat cancer"
+    },
+    {
+      "AuthorID": "chun89",
+      "AuthorURL": "https://www.cancerforums.net/members/127443-chun89?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello cancerforums, Please excuse any mistakes in language as I am not a native speaker: I am currently in China with my mother (62 y/o) who was diagnosed with breast cancer. Unfortunately, because of the language barrier (as I am not fluent in Chinese) I can\u0092t give specifics but the breast cancer spread to organs such as liver, kidney and bones (femur, hip bone). To cut a long story short: chemotherapy and conventional medicine can\u0092t help her anymore (that is what i was told). This is why the last resort of my family was to take her out of the hospital and try a method of fasting and vitamins \u0093prescribed by a miracle healer\u0094. My take on it is that it doesn\u0092t and will not work and that we have to get her back to the hospital as soon as possible because her bones which are affected by the cancer began to hurt some days ago. I read up on it and it seems to be quite common to experience this pain with her diagnosis but pain killers should be able to relieve said pain. My mother trusts in this miracle healer and doesn\u0092t want to return to the hospital because he advised her not to because the hospital \u0093would ruin the results of the fasting\u0094 with pain killers. So I guess I would just like to have any input on the situation and possibly answers to some questions I have: Is it possible to see whether the cancer shrank just via blood tests (That\u0092s the only thing we have access to in our village)? Is it dangerous to not have her in the hospital because I read that the bone will weaken because of the cancer (because of possible fractures)? Is it possible for ANY fast to do something against cancer? I apologize for the wall of text, thank you for reading and any input on the situation.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "in China with my mother  62 y o  who was diagnosed",
+          "Relation": "second-person",
+          "Tense": "past",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54873-seeking-advice-on-behalf-of-my-mother-terminal-breat-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "seeking advice on behalf of my mother, terminal breat cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 374
+}

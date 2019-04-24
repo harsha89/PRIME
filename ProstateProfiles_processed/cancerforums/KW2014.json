@@ -1,0 +1,1692 @@
+{
+  "AuthorID": "KW2014",
+  "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "surprised",
+      "thoughtful",
+      "sure",
+      "decisive",
+      "lucky",
+      "concerned",
+      "lucky",
+      "concerned",
+      "important",
+      "decisive",
+      "important",
+      "decisive",
+      "important",
+      "decisive",
+      "surprised",
+      "thoughtful",
+      "sure",
+      "decisive",
+      "concerned",
+      "decisive",
+      "concerned",
+      "decisive",
+      "concerned",
+      "decisive",
+      "lucky",
+      "concerned",
+      "surprised",
+      "thoughtful",
+      "sure",
+      "decisive",
+      "surprised",
+      "thoughtful",
+      "sure",
+      "decisive",
+      "concerned",
+      "decisive",
+      "lucky",
+      "concerned",
+      "surprised",
+      "thoughtful",
+      "sure",
+      "decisive",
+      "lucky",
+      "concerned",
+      "surprised",
+      "thoughtful",
+      "sure",
+      "decisive",
+      "important",
+      "decisive",
+      "concerned",
+      "decisive",
+      "important",
+      "decisive",
+      "concerned",
+      "decisive",
+      "important",
+      "decisive",
+      "lucky",
+      "concerned",
+      "chill",
+      "ok",
+      "sure",
+      "sore",
+      "upset",
+      "upset",
+      "worried",
+      "chill",
+      "ok",
+      "sure",
+      "sore",
+      "upset",
+      "upset",
+      "worried",
+      "lucky",
+      "at ease",
+      "anxious",
+      "hopeful",
+      "anxious",
+      "lucky",
+      "at ease",
+      "anxious",
+      "hopeful",
+      "anxious",
+      "bad",
+      "thoughtful",
+      "insistent",
+      "willing",
+      "bad",
+      "thoughtful",
+      "insistent",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.125",
+      "ALIVE": "0",
+      "ANGRY": "0.125",
+      "CONFUSED": "0.062",
+      "DEPRESSED": "0.062",
+      "GOOD": "0.375",
+      "HAPPY": "0.438",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.625",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.25",
+      "SAD": "0",
+      "STRONG": "0.812"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 32,
+  "NPosts": 36,
+  "PSAInfo": {
+    "max": 4.7,
+    "min": 0.1,
+    "scores": [
+      1,
+      4,
+      0.2,
+      0.1,
+      4.7
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Hello, I am a new member, 53 years old and was recently diagnosed with prostate cancer. Gleason 6 (3+3), PSA 4.7, Stage T1c, cancer positive on only one core of twenty. I haven't had symptoms, but have always tracked my PSA as my father was diagnosed with this disease in his forties and died within 10 years after multiple surgeries/treatment attempts. I am struggling with the pros and cons of the two procedures. I have met with both a surgeon and a radiation oncologist and they both agree either method is viable at this stage and (surprise) each favors their own method somewhat over the other. I have ruled out other potential methods for a variety of reasons. Do the potential long term effects of the seeds outweigh the definite short term and potential long term effects from surgery? I do like the idea of having the thing out of me and be able to know for sure if the cancer has come back by tracking the PSA, which can be more of a problem to evaluate with the seeds since some PSA is expected. I have read some related threads, but I thought I would ask for input on members experiences as this is tough and possibly life-changing decision.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I am a new member  53 years old and was recently",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Thanks, I am lucky to have found this so early. My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "surgery procedures but only about 25 da Vinci operatons <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Thanks, I am lucky to have found this so early. My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "surgery procedures but only about 25 da Vinci operatons <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "I should say also my prostate isn't very large and I have only minor associated symptoms at present. The family history is extremely strong though. Not only did my father have the disease, he had a total of 7 or 8 uncles on both sides of his family that were also diagnosed (although most were in their 60s or 70s) and several eventually succumbed to it. My wife and son (med student) are both strong proponents of the surgery option, but the ED issue is important to me. I guess there are no guarantees either way in this case. I have weighed the pros and cons a hundred times and lean towards a different option each day it seems. I have time to make this decision, but I would like to come to a conclusion soon and plan a course of action.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "I should say also my prostate isn't very large and I have only minor associated symptoms at present. The family history is extremely strong though. Not only did my father have the disease, he had a total of 7 or 8 uncles on both sides of his family that were also diagnosed (although most were in their 60s or 70s) and several eventually succumbed to it. My wife and son (med student) are both strong proponents of the surgery option, but the ED issue is important to me. I guess there are no guarantees either way in this case. I have weighed the pros and cons a hundred times and lean towards a different option each day it seems. I have time to make this decision, but I would like to come to a conclusion soon and plan a course of action.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "I should say also my prostate isn't very large and I have only minor associated symptoms at present. The family history is extremely strong though. Not only did my father have the disease, he had a total of 7 or 8 uncles on both sides of his family that were also diagnosed (although most were in their 60s or 70s) and several eventually succumbed to it. My wife and son (med student) are both strong proponents of the surgery option, but the ED issue is important to me. I guess there are no guarantees either way in this case. I have weighed the pros and cons a hundred times and lean towards a different option each day it seems. I have time to make this decision, but I would like to come to a conclusion soon and plan a course of action.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Hello, I am a new member, 53 years old and was recently diagnosed with prostate cancer. Gleason 6 (3+3), PSA 4.7, Stage T1c, cancer positive on only one core of twenty. I haven't had symptoms, but have always tracked my PSA as my father was diagnosed with this disease in his forties and died within 10 years after multiple surgeries/treatment attempts. I am struggling with the pros and cons of the two procedures. I have met with both a surgeon and a radiation oncologist and they both agree either method is viable at this stage and (surprise) each favors their own method somewhat over the other. I have ruled out other potential methods for a variety of reasons. Do the potential long term effects of the seeds outweigh the definite short term and potential long term effects from surgery? I do like the idea of having the thing out of me and be able to know for sure if the cancer has come back by tracking the PSA, which can be more of a problem to evaluate with the seeds since some PSA is expected. I have read some related threads, but I thought I would ask for input on members experiences as this is tough and possibly life-changing decision.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I am a new member  53 years old and was recently",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "17/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Thanks for the reply, I am marginally leaning towards surgery for the reasons you highlighted. However, the increased risk of side effects are a concern to me. I appreciate whatever input everyone can give with personal experiences to help me make this decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Thanks for the reply, I am marginally leaning towards surgery for the reasons you highlighted. However, the increased risk of side effects are a concern to me. I appreciate whatever input everyone can give with personal experiences to help me make this decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Thanks for the reply, I am marginally leaning towards surgery for the reasons you highlighted. However, the increased risk of side effects are a concern to me. I appreciate whatever input everyone can give with personal experiences to help me make this decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Thanks, I am lucky to have found this so early. My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "surgery procedures but only about 25 da Vinci operatons <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 26,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=8b0ee207b3a136bade880640f42fce6c",
+      "Content": "Hello, I am a new member, 53 years old and was recently diagnosed with prostate cancer. Gleason 6 (3+3), PSA 4.7, Stage T1c, cancer positive on only one core of twenty. I haven't had symptoms, but have always tracked my PSA as my father was diagnosed with this disease in his forties and died within 10 years after multiple surgeries/treatment attempts. I am struggling with the pros and cons of the two procedures. I have met with both a surgeon and a radiation oncologist and they both agree either method is viable at this stage and (surprise) each favors their own method somewhat over the other. I have ruled out other potential methods for a variety of reasons. Do the potential long term effects of the seeds outweigh the definite short term and potential long term effects from surgery? I do like the idea of having the thing out of me and be able to know for sure if the cancer has come back by tracking the PSA, which can be more of a problem to evaluate with the seeds since some PSA is expected. I have read some related threads, but I thought I would ask for input on members experiences as this is tough and possibly life-changing decision.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I am a new member  53 years old and was recently",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "17/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=8b0ee207b3a136bade880640f42fce6c",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, I am a new member, 53 years old and was recently diagnosed with prostate cancer. Gleason 6 (3+3), PSA 4.7, Stage T1c, cancer positive on only one core of twenty. I haven't had symptoms, but have always tracked my PSA as my father was diagnosed with this disease in his forties and died within 10 years after multiple surgeries/treatment attempts. I am struggling with the pros and cons of the two procedures. I have met with both a surgeon and a radiation oncologist and they both agree either method is viable at this stage and (surprise) each favors their own method somewhat over the other. I have ruled out other potential methods for a variety of reasons. Do the potential long term effects of the seeds outweigh the definite short term and potential long term effects from surgery? I do like the idea of having the thing out of me and be able to know for sure if the cancer has come back by tracking the PSA, which can be more of a problem to evaluate with the seeds since some PSA is expected. I have read some related threads, but I thought I would ask for input on members experiences as this is tough and possibly life-changing decision.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I am a new member  53 years old and was recently",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "17/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the reply, I am marginally leaning towards surgery for the reasons you highlighted. However, the increased risk of side effects are a concern to me. I appreciate whatever input everyone can give with personal experiences to help me make this decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, I am lucky to have found this so early. My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "surgery procedures but only about 25 da Vinci operatons <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, I am a new member, 53 years old and was recently diagnosed with prostate cancer. Gleason 6 (3+3), PSA 4.7, Stage T1c, cancer positive on only one core of twenty. I haven't had symptoms, but have always tracked my PSA as my father was diagnosed with this disease in his forties and died within 10 years after multiple surgeries/treatment attempts. I am struggling with the pros and cons of the two procedures. I have met with both a surgeon and a radiation oncologist and they both agree either method is viable at this stage and (surprise) each favors their own method somewhat over the other. I have ruled out other potential methods for a variety of reasons. Do the potential long term effects of the seeds outweigh the definite short term and potential long term effects from surgery? I do like the idea of having the thing out of me and be able to know for sure if the cancer has come back by tracking the PSA, which can be more of a problem to evaluate with the seeds since some PSA is expected. I have read some related threads, but I thought I would ask for input on members experiences as this is tough and possibly life-changing decision.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I am a new member  53 years old and was recently",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "17/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, I am lucky to have found this so early. My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "surgery procedures but only about 25 da Vinci operatons <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 26,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, I am a new member, 53 years old and was recently diagnosed with prostate cancer. Gleason 6 (3+3), PSA 4.7, Stage T1c, cancer positive on only one core of twenty. I haven't had symptoms, but have always tracked my PSA as my father was diagnosed with this disease in his forties and died within 10 years after multiple surgeries/treatment attempts. I am struggling with the pros and cons of the two procedures. I have met with both a surgeon and a radiation oncologist and they both agree either method is viable at this stage and (surprise) each favors their own method somewhat over the other. I have ruled out other potential methods for a variety of reasons. Do the potential long term effects of the seeds outweigh the definite short term and potential long term effects from surgery? I do like the idea of having the thing out of me and be able to know for sure if the cancer has come back by tracking the PSA, which can be more of a problem to evaluate with the seeds since some PSA is expected. I have read some related threads, but I thought I would ask for input on members experiences as this is tough and possibly life-changing decision.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I am a new member  53 years old and was recently",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I should say also my prostate isn't very large and I have only minor associated symptoms at present. The family history is extremely strong though. Not only did my father have the disease, he had a total of 7 or 8 uncles on both sides of his family that were also diagnosed (although most were in their 60s or 70s) and several eventually succumbed to it. My wife and son (med student) are both strong proponents of the surgery option, but the ED issue is important to me. I guess there are no guarantees either way in this case. I have weighed the pros and cons a hundred times and lean towards a different option each day it seems. I have time to make this decision, but I would like to come to a conclusion soon and plan a course of action.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the reply, I am marginally leaning towards surgery for the reasons you highlighted. However, the increased risk of side effects are a concern to me. I appreciate whatever input everyone can give with personal experiences to help me make this decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I should say also my prostate isn't very large and I have only minor associated symptoms at present. The family history is extremely strong though. Not only did my father have the disease, he had a total of 7 or 8 uncles on both sides of his family that were also diagnosed (although most were in their 60s or 70s) and several eventually succumbed to it. My wife and son (med student) are both strong proponents of the surgery option, but the ED issue is important to me. I guess there are no guarantees either way in this case. I have weighed the pros and cons a hundred times and lean towards a different option each day it seems. I have time to make this decision, but I would like to come to a conclusion soon and plan a course of action.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the reply, I am marginally leaning towards surgery for the reasons you highlighted. However, the increased risk of side effects are a concern to me. I appreciate whatever input everyone can give with personal experiences to help me make this decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I should say also my prostate isn't very large and I have only minor associated symptoms at present. The family history is extremely strong though. Not only did my father have the disease, he had a total of 7 or 8 uncles on both sides of his family that were also diagnosed (although most were in their 60s or 70s) and several eventually succumbed to it. My wife and son (med student) are both strong proponents of the surgery option, but the ED issue is important to me. I guess there are no guarantees either way in this case. I have weighed the pros and cons a hundred times and lean towards a different option each day it seems. I have time to make this decision, but I would like to come to a conclusion soon and plan a course of action.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, I am lucky to have found this so early. My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "surgery procedures but only about 25 da Vinci operatons <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "18/04/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/22726-Brachytherapy-versus-Robotic-(daVinci)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Brachytherapy versus Robotic (daVinci)"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Everyone, Well, I have made it to other side. The surgery took a bit longer than expected, 8 hr and 15 minutes. Little weak and sore and I always gets chills on and off for a while after anesthesia. I had a fair amount of bleeding post-op. They had to do a small (2.5 inch) incision at the belly button to finish things up. Still have catheter for another week, but got the staples and drain line out today. I have been walking every day and feel OK all things considered. The nurse called today and read the doctors notes and relayed his comments which seem a bit contradictory. He said the tumor was contained within the prostate, but there was a small focus of cancer at the margin. She also said he would discuss options during my office visit next week. This sounds to be as if there is a chance it may have spread and they are going to offer the option of radiation. Not sure what to think and my wife is trying not to show she is upset and worried. Any advice or comments?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "nurse",
+            "MainSubject": "nurse",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "31/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24340-Surgery-Tomorrow?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Tomorrow"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Everyone, Well, I have made it to other side. The surgery took a bit longer than expected, 8 hr and 15 minutes. Little weak and sore and I always gets chills on and off for a while after anesthesia. I had a fair amount of bleeding post-op. They had to do a small (2.5 inch) incision at the belly button to finish things up. Still have catheter for another week, but got the staples and drain line out today. I have been walking every day and feel OK all things considered. The nurse called today and read the doctors notes and relayed his comments which seem a bit contradictory. He said the tumor was contained within the prostate, but there was a small focus of cancer at the margin. She also said he would discuss options during my office visit next week. This sounds to be as if there is a chance it may have spread and they are going to offer the option of radiation. Not sure what to think and my wife is trying not to show she is upset and worried. Any advice or comments?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "nurse",
+            "MainSubject": "nurse",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "31/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24340-Surgery-Tomorrow?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Tomorrow"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I report to the hospital at 5:30 am tomorrow for my daVinci procedure. Surprisingly, not too anxious at this point. Lots of good information found here has me knowing what to expect and that makes me feel more at ease. Just have to hope I am one of the lucky ones with no complications and a speedy recovery. Wish me luck and I'll let you all know how things turn out in the future.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24340-Surgery-Tomorrow?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Tomorrow"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I report to the hospital at 5:30 am tomorrow for my daVinci procedure. Surprisingly, not too anxious at this point. Lots of good information found here has me knowing what to expect and that makes me feel more at ease. Just have to hope I am one of the lucky ones with no complications and a speedy recovery. Wish me luck and I'll let you all know how things turn out in the future.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "22/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24340-Surgery-Tomorrow?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Tomorrow"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by white08gt not exactly the same as you but PSA rose steadily from 1st month after DaVinci. 0.06, 0.07, 0.08 to 0.10 at 4th month after surgery. finished my salvage radiation october 3, 39 treatmants, 65 years old. really was not to bad, a little burning in the rectum with a bm. this only started after about 5 weeks in, if you watch your diet and eat bland food it helps. no Mexican food, at least for me, i tried. what little burning i did have was gone 1 week at last treatmant. i did receive some manscaping below my navel to top of Little Elvis. did not realize before the RP that i would have this shrinkage, need to be circumcised know. just as i was getting all my functions back, they put me on HT. this is worse than the radiation, hard to deal with these side effects. The no spicy food would be tough for me lol, my wife is Korean and more than half of what we eat is pretty hot. The side effects of the HT sound pretty bad, I am pretty active with working out 3-4 times per week, golfing, and home projects but have always struggled with my weight.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "radiation october 3  39 treatmants  65 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 65
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Everyone, I had the DaVinci done in July 2012 and have done well since. I have moderate ED, but usually solved by a little blue pill. No urinary problems so I thought I was good. My PSA has risen to .04 as of this month, which I realize is very low. However, I had a small positive margin and my father (age <60) and several of his uncles died of prostate cancer. My urologist suggested salvage radiation as an option, but wasn't very insistent. I told him I would wait and see. From what I read radiation following surgery indicates impotence is likely if not guaranteed. Urinary/rectal problems also very possible. I told him I would wait at least until my PSA hit 0.2, but I really have no desire to go through this. I am 56 and will not go through the chemical route either. What are yours thoughts and advice?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "margin and my father  age  60  and several of his uncles",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 60
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 56 and will not go through",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 56
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Fairwind Radiation treatment still offers you the possibility of a cure...If you wait too long, that opportunity is lost..The LINACS used today by most hospitals are MUCH improved over the equipment they were using just 10 years ago when most of the radiation horror stories were written. They can pinpoint their target and avoid damage to healthy tissue much better than in the past. You owe it to yourself to at least talk to a Radiation Oncologist about Salvage Radiation..It's not the horror show it once was..They might want to put you on HT for 12 months or so along with the radiation..The combined treatment works considerably better than either one alone..For sure it's no fun but it's better than dying.. If my PSA gets above 0.1 and approaches 0.2 I will probably end up doing the radiation but I don't think I want HT. Just a personal issue, but I am sure my wife will try to convince me.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by white08gt not exactly the same as you but PSA rose steadily from 1st month after DaVinci. 0.06, 0.07, 0.08 to 0.10 at 4th month after surgery. finished my salvage radiation october 3, 39 treatmants, 65 years old. really was not to bad, a little burning in the rectum with a bm. this only started after about 5 weeks in, if you watch your diet and eat bland food it helps. no Mexican food, at least for me, i tried. what little burning i did have was gone 1 week at last treatmant. i did receive some manscaping below my navel to top of Little Elvis. did not realize before the RP that i would have this shrinkage, need to be circumcised know. just as i was getting all my functions back, they put me on HT. this is worse than the radiation, hard to deal with these side effects. The no spicy food would be tough for me lol, my wife is Korean and more than half of what we eat is pretty hot. The side effects of the HT sound pretty bad, I am pretty active with working out 3-4 times per week, golfing, and home projects but have always struggled with my weight.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "radiation october 3  39 treatmants  65 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 65
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Everyone, I had the DaVinci done in July 2012 and have done well since. I have moderate ED, but usually solved by a little blue pill. No urinary problems so I thought I was good. My PSA has risen to .04 as of this month, which I realize is very low. However, I had a small positive margin and my father (age <60) and several of his uncles died of prostate cancer. My urologist suggested salvage radiation as an option, but wasn't very insistent. I told him I would wait and see. From what I read radiation following surgery indicates impotence is likely if not guaranteed. Urinary/rectal problems also very possible. I told him I would wait at least until my PSA hit 0.2, but I really have no desire to go through this. I am 56 and will not go through the chemical route either. What are yours thoughts and advice?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "margin and my father  age  60  and several of his uncles",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 60
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 56 and will not go through",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 56
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Jim215 I'm confused. You had a small positive margin after DaVinci -- so did I and a number of others on this site. My DaVinci was in Nov., 2010 and the cancer returned 3 years later. I selected salvage radiotherapy last year - 40 sessions - and the results (please see signature) are just fine. I gave zero credibility to possible side effects of the radiation because side effects can't hurt you if you're dead. Since you asked, these are my thoughts: if you have already decided what you're NOT going to do at age 56 to save your life, why are you asking us? Jim Thanks for your comments.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "going to do at age 56 to save your life  why",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Jim215 I'm confused. You had a small positive margin after DaVinci -- so did I and a number of others on this site. My DaVinci was in Nov., 2010 and the cancer returned 3 years later. I selected salvage radiotherapy last year - 40 sessions - and the results (please see signature) are just fine. I gave zero credibility to possible side effects of the radiation because side effects can't hurt you if you're dead. Since you asked, these are my thoughts: if you have already decided what you're NOT going to do at age 56 to save your life, why are you asking us? Jim Thanks for your comments.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "going to do at age 56 to save your life  why",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    },
+    {
+      "AuthorID": "KW2014",
+      "AuthorURL": "https://www.cancerforums.net/members/30766-KW2014?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Fairwind Radiation treatment still offers you the possibility of a cure...If you wait too long, that opportunity is lost..The LINACS used today by most hospitals are MUCH improved over the equipment they were using just 10 years ago when most of the radiation horror stories were written. They can pinpoint their target and avoid damage to healthy tissue much better than in the past. You owe it to yourself to at least talk to a Radiation Oncologist about Salvage Radiation..It's not the horror show it once was..They might want to put you on HT for 12 months or so along with the radiation..The combined treatment works considerably better than either one alone..For sure it's no fun but it's better than dying.. If my PSA gets above 0.1 and approaches 0.2 I will probably end up doing the radiation but I don't think I want HT. Just a personal issue, but I am sure my wife will try to convince me.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "28/10/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/41433-PSA-rising-(slowly)-after-prostatectomy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA rising (slowly) after prostatectomy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "I am a new member  53 years old and was recently",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 53
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Bladder Irritation",
+      "Erectile dysfunction",
+      "Bladder neck contracture",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "bleeding",
+      "impotence",
+      "ED"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 1,
+      "Erectile dysfunction": 0,
+      "Financial": 1,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "My DaVinci was in Nov., 2010 and the cancer returned 3 years later. I selected salvage radiotherapy last year - 40 sessions - and the results (please see signature) are just fine....My age should help the odds of things working out well. Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons....Due to insurance I would be using a local surgeon, he has done hundreds of open surgery procedures but only about 25 da Vinci operatons. I am a bit concerned about the experience factor, but he is about my age and did come to the local clinic from Sloan-Kettering so he has solid experience and training....",
+      "Source": 0,
+      "Surgeon": 1,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "lucky",
+        "at ease",
+        "anxious",
+        "hopeful",
+        "anxious",
+        "lucky",
+        "at ease",
+        "anxious",
+        "hopeful",
+        "anxious",
+        "chill",
+        "ok",
+        "sure",
+        "sore",
+        "upset",
+        "upset",
+        "worried",
+        "chill",
+        "ok",
+        "sure",
+        "sore",
+        "upset",
+        "upset",
+        "worried"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0.5",
+        "DEPRESSED": "0",
+        "GOOD": "1.5",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0.5"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Bleeding"],
+      "SideEffectTypeKeywords": ["bleeding"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "22/07/2012",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "davinci",
+      "da vinci",
+      "radiation",
+      "prostatectomy",
+      "brachytherapy",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 4739
+}

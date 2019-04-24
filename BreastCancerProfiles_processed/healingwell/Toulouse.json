@@ -1,0 +1,155 @@
+{
+  "AuthorID": "Toulouse",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3745057&p=225762",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "suspicious",
+      "worried",
+      "pleased"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Toulouse",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3745057&p=225762",
+      "Content": " Hello, as the subject line states, my 40 year old wife was just diagnosed with non-invasive, stage 0, level one DCIS. It was a routine mammogram that detected the abnormality and we are both shocked by this diagnosis. They did the biopsy in the right breast after seeing suspicious calcification. Her left breast has similar calcification, but not as prominent as the right breast. She is going back to have her left breast reevaluated since the right breast turned up positive. After those results we will meet with a surgeon to discuss a mastectomy. (she has two areas in the breast and a lumpectomy isn't an option). We know we have to tough through this and try to remain positive but am having a hard time with it. I keep thinking the worst even though the doctor claimed she is in a good spot because of how early it was caught. I want to be strong for my wife and she needs me to be strong, but I am having a tough time with my worries. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "the subject line states  my 40 year old wife was just",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 40
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/11/2016",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3745057",
+      "Title": "Wife just diagnosed DCIS stage 0 level 1"
+    },
+    {
+      "AuthorID": "Toulouse",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3745057&p=225762",
+      "Content": " Moderator - Please delete my post. Thanks ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "27/11/2016",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3745057",
+      "Title": "Wife just diagnosed DCIS stage 0 level 1"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "the subject line states  my 40 year old wife was just",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 192
+}

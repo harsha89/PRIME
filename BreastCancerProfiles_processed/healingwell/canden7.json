@@ -1,0 +1,164 @@
+{
+  "AuthorID": "canden7",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1255357&p=69405",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "suspicious",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "canden7",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1255357&p=69405",
+      "Content": " Hello, sorry I haven't posted lately but I have been to the doctors about\n everyday since Friday, which was first ongologist visit.  Dr. said that I need to have chemo asap, because I have a fast growing cancer.  He send me to have alot of test this week from node biopsy to PET scan. He called and left a message saying that my scan came back abnormal, with a suspicious spot on my back.  Now I have to go back to the hospital tommorrow for a ct scan, ultrasound, and possible biopsy of my back.  I have had a lump in the upper left side for years, I was always told it was because I have scholiosis (sorry if I spelled it wrong).  Basically they are putting me in the stage IV range. Has anyone else out there been in this predictament? If so any information would be greatfull.\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/10/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1255357",
+      "Title": "PET Scan abnormal"
+    },
+    {
+      "AuthorID": "canden7",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1245316&p=69405",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "25/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1245316",
+      "Title": "Confused and waiting for answers"
+    },
+    {
+      "AuthorID": "canden7",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1244565&p=69405",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1244565",
+      "Title": "confused"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 150
+}

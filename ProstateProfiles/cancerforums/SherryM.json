@@ -1,0 +1,165 @@
+{
+  "AuthorID": "SherryM",
+  "AuthorURL": "https://www.cancerforums.net/members/124022-SherryM?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "willing",
+      "quiet",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 154,
+    "scores": [154]
+  },
+  "Posts": [
+    {
+      "AuthorID": "SherryM",
+      "AuthorURL": "https://www.cancerforums.net/members/124022-SherryM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband's last PSA was 154 and his prostate is very large. He had a biopsy which came back negative. In a few weeks he will have an MRI of the prostate. Wondering if anyone has had anything similar?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51147-Enlarged-prostate-with-negative-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Enlarged prostate with negative biopsy"
+    },
+    {
+      "AuthorID": "SherryM",
+      "AuthorURL": "https://www.cancerforums.net/members/124022-SherryM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Chuck and thanks for your reply. All of my husband's blood work is negative for an infection. He is 77 years old. He is on Plavix and Xarelto after a stroke 3 years ago. He had major complications with bleeding after the biopsy, 5 ER visits and two hospitalizations in 3 weeks. For now everything is quiet. He has lost about 10 lbs in the last 6 months and his energy level is very low.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 77 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 77
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51147-Enlarged-prostate-with-negative-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Enlarged prostate with negative biopsy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> He is 77 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 77
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Stroke",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "bleeding",
+      "stroke"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 122
+}

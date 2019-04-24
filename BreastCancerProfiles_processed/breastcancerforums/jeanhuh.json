@@ -1,0 +1,139 @@
+{
+  "AuthorID": "jeanhuh",
+  "AuthorURL": "https://www.cancerforums.net/members/2367-jeanhuh?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "considerate",
+      "hopeful",
+      "willing",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 3,
+    "min": 3,
+    "scores": [3]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "jeanhuh",
+    "AuthorURL": "https://www.cancerforums.net/members/2367-jeanhuh?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I lost my mother when I was 21 to breast cancer, she was the youthful age of 53. I felt as though there was nothing that I could do during her 8 month battle with the cancer to help her. I felt as though I was watching from the sidelines as my mom was disappearing before my eyes. Now I know there are things that I can do to help myself and to help other families such as mine. I am participating in the susan g. Komen 3-day. I am raising money to benefit breast cancer in hopes that my children and grandchildren will never have to live their life without a mother. I hope that you will read my personal story and find it in your heart to donate whatever amount you may be able at www.The3day.Org/tampabay06/ginawitte thank you for your time and consideration. Gina witte",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "my mother when I was 21 to breast cancer  she was",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 21
+        },
+        {
+          "Confidence": 0.85,
+          "Phrase": "was the youthful age of 53 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 53
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "30/05/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3038-60-mile-walk-for-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "60 mile walk for breast cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.85,
+      "Phrase": "was the youthful age of 53 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 53
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 158
+}

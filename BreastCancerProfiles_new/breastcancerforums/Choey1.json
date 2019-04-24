@@ -1,0 +1,127 @@
+{
+  "AuthorID": "Choey1",
+  "AuthorURL": "https://www.cancerforums.net/members/128169-Choey1?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "pleased",
+      "nice",
+      "affected",
+      "intent",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Choey1",
+    "AuthorURL": "https://www.cancerforums.net/members/128169-Choey1?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi, I was classified when diagnostic as locally advanced breast cancer. In surgery after neoadjuvant chemotherapy (AC-T) , I had 2 lymph nodes affected with Extracapsular Extension and skin involvement. I was a candidate for the Pallas trial but I was randomized to the Standard adjuvant endocrine therapy. I would like to take IBRANCE. I looked at the indication for IBRANCE (Palbociclib) in \"EMA\" and in \"NICE\" \"Technology appraisal guidance\" and as far as I understand it is indicated for locally advance breast cancer. (Please look at the attached quotes and links below) My questions: 1. Is IBRANCE indicated for locally advanced breast cancer based on the indication from NICE or EMA? 2. What is the definition of locally advanced in the indication for IBRANCE in NICE or EMA? 3. Is the indication for IBRANCE from NICE and EMA, also valid for locally advanced breast cancer that is amenable to resection or radiation therapy with curative intent? 4. Are you aware of specific countries in the world or other recommendation that will indicate IBRANCE for locally advanced breast cancer that is amenable to resection or radiation therapy with curative intent? The \"Marketing authorisation\" from NICE website: ( Technology appraisal guidance [TA495]) Palbociclib is indicated for treating 'hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative \"locally advanced\" or metastatic breast cancer: in combination with an aromatase inhibitor\u0093 The \"Therapeutic indications\" from EMA: \"Therapeutic indications IBRANCE is indicated for the treatment of hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative \"locally advanced\" or metastatic breast cancer: \u0095 - in combination with an aromatase inhibitor;\u0094 Thank you.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/07/2018",
+    "ThreadURL": "https://www.cancerforums.net/threads/55453-What-is-the-definition-of-locally-advanced-in-the-indication-for-IBRANCE-in-NICE-EMA?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "What is the definition of locally advanced in the indication for IBRANCE in NICE/EMA?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 285
+}

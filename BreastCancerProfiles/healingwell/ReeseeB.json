@@ -1,0 +1,125 @@
+{
+  "AuthorID": "ReeseeB",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1649831&p=132252",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "interested",
+      "supportive",
+      "hopeful",
+      "willing",
+      "miserable",
+      "tense",
+      "frustrated",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "2",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "ReeseeB",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1649831&p=132252",
+    "Content": " Hi. I have had Post Breast Therapy Pain Syndrome (PBTPS) since my bilateral mastectomy in 2005. I've tried Neurontin, Lyrica, antidepressants, desensitization, Lidocaine patches, ice, acupuncture, electric stem TENS unit, physical therapy, massage, and injections Unfortunately none of the treatments I have tried have helped long term. I am hoping that one day a cure will be available. I am part of an online support group for PBTPS. There are 12 members so far. Here is the link if you are interested: http://www.facebook.com/groups/265320350156856/#!/groups/265320350156856/ \nBeacher - I had an MRI 6 months ago hoping to find answers but unfortunately it didn't show anything abnormal. My Lynphedema PT suspects that a neuroma may be the cause but the MRI didn't show one. Though my pain specialist Dr. said that PET scans are better for picking up neuromas. I had my annual PET/CT two months ago and that didn't show anything either. \nI understand your frustration and really wish I didn't have to live in constant pain either. It truly is miserable. For now I use distraction to get through the pain. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 11,
+    "PostDate": "30/09/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1649831",
+    "Title": "Post mastectomy pain syndrome"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 192
+}

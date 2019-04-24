@@ -1,0 +1,154 @@
+{
+  "AuthorID": "Dave Bush",
+  "AuthorURL": "https://www.cancerforums.net/members/125164-Dave-Bush?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 11.7,
+    "min": 11.7,
+    "scores": [11.7]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Dave Bush",
+      "AuthorURL": "https://www.cancerforums.net/members/125164-Dave-Bush?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I thought that BPH and Proatatis always presented with an enlarged prostate which the pcp said it was not.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "31/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52263-New-test-results-which-are-confusing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New test results which are confusing"
+    },
+    {
+      "AuthorID": "Dave Bush",
+      "AuthorURL": "https://www.cancerforums.net/members/125164-Dave-Bush?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I finally convinced my VA pcp that I wanted a PSA test done because I will be 55 this year. On Aug 11th, my PSA level was 11.7, did a urinalysis that day all negative and normal. pCP did a DRE and said nothing abnormal or enlarged. Aug 24th I did a second PSA and this one went down to 7.7. I do have frequency of urination issues and having to urinate immediately at times. I have initial appointment with Urologist on September 12th. Question is why would my PSA go down that much in 2 weeks with no apparent infection?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "done because I will be 55 this year <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52263-New-test-results-which-are-confusing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New test results which are confusing"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "done because I will be 55 this year <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 55
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 128
+}

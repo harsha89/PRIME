@@ -1,0 +1,614 @@
+{
+  "AuthorID": "Repullo",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1965760&p=124433",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "warm",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Repullo",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1965760&p=124433",
+      "Content": " Hello! I am new to this site. I need some help. I got some red spots on my arm with lymphedema and I don't know how it started. Saw my primary doctor yesterday and requested some lab work done. Also saw my oncologist and requested an ultrasound done on the arm. The red spots started about\n 5 days ago and it is spreading up to my armpit. And it looks like measles to me. I will be traveling to Alaska on the 21st and I want to know if this is a big problem. Was diagnosed with cancer in 2007, went through mastectomy, chemo, radiation and a year on Herceptin. Three years later, in April of 2010, cancer came back and metastasized to liver and lungs. Was in chemo for one year, and last April. CT scan of pelvis, chest and abdomen showed no tumor. So doctor stop chemo treatment and now on Herceptin for maintenance. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "10/06/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1965760",
+      "Title": "Red spots/rash on lymphedema arm"
+    },
+    {
+      "AuthorID": "Repullo",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1965760&p=124433",
+      "Content": " The red spots slowly disappeared and as of today, my arm is back to normal. My lab work showed no infection and I haven't gotten the result yet for my ultrasound which was just done this afternoon. I am thinking whether my applying lotion on the\narm with a little pressure did it. The thing is my arm was not warm with the red spots. The ultrasound was requested to rule out blood clot. Will keep you posted once I get the result. \nThanks, Bev ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "13/06/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1965760",
+      "Title": "Red spots/rash on lymphedema arm"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Clot"
+    ],
+    "SideEffectTypeKeywords": [
+      "clot",
+      "infection"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "warm",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.5",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [
+        "Infection",
+        "Clot"
+      ],
+      "SideEffectTypeKeywords": [
+        "clot",
+        "infection"
+      ]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "10/06/2011",
+    "TreatmentType": "Radiation",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 243
+}

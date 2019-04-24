@@ -1,0 +1,183 @@
+{
+  "AuthorID": "chickpea1954",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1618367&p=91466",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "scared",
+      "worried",
+      "pained",
+      "pained",
+      "easy",
+      "ok",
+      "concerned",
+      "hopeful",
+      "frightened",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.333",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "1",
+      "SAD": "0.333",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "chickpea1954",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1618367&p=91466",
+      "Content": " Hi - I am 55 - and found a \"ridge\" like tissue, stationary in my right breast. It's not large, but I felt it. I went to my Dr. and the nurse practitioner said I should go for an u/s. I have never had an abnormal mammo, but one of my sisters got b/c in her late 40's. I go in two weeks. I am scared to death. No pain, no abnormal looking nipples, skin, etc. Any comments? Thank you. Chickpea ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> Hi   I am 55   and found a  ridge  like",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/10/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1618367",
+      "Title": "Worried - waiting for ultrasound!"
+    },
+    {
+      "AuthorID": "chickpea1954",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1618367&p=91466",
+      "Content": " Hi Bev\nThanks for your input. It's so good to hear from a woman with knowledge. My u/s is scheduled for October 26 a.m. I'm hoping all is ok. I cannot believe how frightened I am. It is so easy to be up and positive when it comes to someone else, isn't it? Thanks for your concern. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "17/10/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1618367",
+      "Title": "Worried - waiting for ultrasound!"
+    },
+    {
+      "AuthorID": "chickpea1954",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1618367&p=91466",
+      "Content": " Thank you Bev for the very, very informative reply! You have offered me hope, regardless of which way my diagnosis turns out! Naturally, I am hoping for the best, but I have done a lot of soul-searching and realize I cannot change what 'is' - and I will have to deal with it, if I have to. I too will be doing a 'happy dance' on the 26th if all is well. I will keep you posted. Thank you so much for your words! - Chickpea ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "19/10/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1618367",
+      "Title": "Worried - waiting for ultrasound!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> Hi   I am 55   and found a  ridge  like",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 55
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 236
+}

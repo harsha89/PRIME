@@ -1,0 +1,154 @@
+{
+  "AuthorID": "jose2424",
+  "AuthorURL": "https://www.cancerforums.net/members/117474-jose2424?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "ok",
+      "wonderful",
+      "affected",
+      "willing",
+      "embarrassed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "jose2424",
+      "AuthorURL": "https://www.cancerforums.net/members/117474-jose2424?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Who should I private message? Im not that great on the internet. Or is it ok to post details straight here Thank you all",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "13/10/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46051-Prostate-Cancer-IBS-and-Viagra-Help-!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer, IBS, and Viagra? Help?!"
+    },
+    {
+      "AuthorID": "jose2424",
+      "AuthorURL": "https://www.cancerforums.net/members/117474-jose2424?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi-My name is Jose and I am 59 years young, and I have IBS and prostate cancer. I will be starting my prostate cancer treatments the last week of October and my doctor prescribed me Viagra that I am supposed to take beginning the week before my treatment begins. I don't have a lot of money (the treatment is taking every bit of my HSA) and he told me there were places online I could buy it and save some money, as Im going to be working a lot less during the treatments. Also, I am wondering if anyone has taken Viagra and if it affected your IBS at all? I found a place that sells it but I don't know how to order something like this. I'm also a bit embarrassed and I dont want to call their customer service line. Can someone help? I have a 20% off coupon code that is \"CPRX20\" and I have no idea what to do with it. This is the website: [LINK REMOVED BY MODERATOR]",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "is Jose and I am 59 years young  and I have",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 59
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/10/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46051-Prostate-Cancer-IBS-and-Viagra-Help-!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer, IBS, and Viagra? Help?!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "is Jose and I am 59 years young  and I have",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 59
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 209
+}

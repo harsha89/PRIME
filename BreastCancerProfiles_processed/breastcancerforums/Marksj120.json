@@ -1,0 +1,125 @@
+{
+  "AuthorID": "Marksj120",
+  "AuthorURL": "https://www.cancerforums.net/members/27678-Marksj120?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "scared",
+      "worried",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Marksj120",
+    "AuthorURL": "https://www.cancerforums.net/members/27678-Marksj120?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi my name is Jennifer. I'm 21 years old. About 3 months ago I found a lump on my right breast . I went to my primary doctor and he assured me it was nothing. I'm young and not to worry about it. This month I noticed it got slightly bigger and got worried so I went to see another doctor about a week ago about a second opinion. She felt the lump as well and immediately sent me to get an ultrasound. I got the ultrasound and it showed a mass that looking solid in my right breast. It does not look like a cyst. And they ruled out fibroadenoma They scheduled me to have a biopsy on Monday. I realize the likelihood of someone having breast cancer at my age is slim. At least that's what I'm told and I keep telling myself it's nothing. But I'm really scared. And I guess I needed to write it somewhere. Does a biopsy hurt? They told me I would know within 3-4 days the results. Is that true?",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> <Z> I'm 21 years old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 21
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "10/11/2011",
+    "ThreadURL": "https://www.cancerforums.net/threads/19912-Scared-and-helpful-information-would-be-great?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Scared and helpful information would be great"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 191
+}

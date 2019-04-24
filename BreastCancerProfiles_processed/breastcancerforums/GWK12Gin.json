@@ -1,0 +1,134 @@
+{
+  "AuthorID": "GWK12Gin",
+  "AuthorURL": "https://www.cancerforums.net/members/19849-GWK12Gin?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "tender",
+      "caring",
+      "concerned",
+      "hopeful",
+      "sure",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "GWK12Gin",
+    "AuthorURL": "https://www.cancerforums.net/members/19849-GWK12Gin?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "What were your results? I'm waiting for answers, too, for both ovarian cancer and breast questions. Im also 40 years old. My aunt had breast cancer (survived), and her two daughters (my cousins) both have ovarian cancer. Had ultrasound and mammogram done yesterday (and blood tests and pap done last week). Very concerned about both cancers, especially now that I've seen the mammogram. They said I had fibrous breasts but the right one was all gray in the xray where the left one had BIG white spots in the middle. Usually my right breast is slightly bigger than my right, but not anymore - now the left one is bigger and tender. Sure makes me prepare myself for the worst. I'm a fan of educating myself and empowering myself so I'm prepared for the worst. I can always downshift into the freedom of good news, but find it harder to ask the right questions if given bad news. I suppose everyone is different in this regard. Hope you get your answers soon and that all is well. Please let us know. Take care, G",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> Im also 40 years old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 40
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "ovarian",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 1,
+    "PostDate": "13/04/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/12553-Waiting-for-results?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Waiting for results"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Im also 40 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 187
+}

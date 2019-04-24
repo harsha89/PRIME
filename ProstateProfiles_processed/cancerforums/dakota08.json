@@ -1,0 +1,157 @@
+{
+  "AuthorID": "dakota08",
+  "AuthorURL": "https://www.cancerforums.net/members/115294-dakota08?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "caring",
+      "willing",
+      "wronged",
+      "pleased",
+      "caring",
+      "willing",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 38,
+    "min": 38,
+    "scores": [38]
+  },
+  "Posts": [
+    {
+      "AuthorID": "dakota08",
+      "AuthorURL": "https://www.cancerforums.net/members/115294-dakota08?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "my psa is between 38 to 40 11 of the 12 biopsy are cancer gleason score of 7 cancer is on both sides of prostate had a ct and bone scan didn't show any signs in the tissue around the prostate the is seen in the ct and bone scan the doctor gave me 2 choices radiation therapy or remove the prostate I feel no signs of the prostate cancer as if there is nothing wrong I live in Warren, Michigan I have plan f coverage it is the best coverage for health care I am looking for the best doctor and hospital to be treated by in Michigan if possible but I will travel to find help Please reply back to me at my <email and phone redacted> leave me your phone number and I will call you back I need your help or someone to talk to me about what happen after the treatment Ron Florka",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "08/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43733-need-help-about-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "need help about prostate cancer"
+    },
+    {
+      "AuthorID": "dakota08",
+      "AuthorURL": "https://www.cancerforums.net/members/115294-dakota08?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "my psa is between 38 to 40 11 of the 12 biopsy are cancer gleason score of 7 cancer is on both sides of prostate had a ct and bone scan didn't show any signs in the tissue around the prostate the is seen in the ct and bone scan the doctor gave me 2 choices radiation therapy or remove the prostate I feel no signs of the prostate cancer as if there is nothing wrong I live in Warren, Michigan I have plan f coverage it is the best coverage for health care I am looking for the best doctor and hospital to be treated by in Michigan if possible but I will travel to find help Please reply back to me at my <email and phone redacted> leave me your phone number and I will call you back I need your help or someone to talk to me about what happen after the treatment Ron Florka",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43733-need-help-about-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "need help about prostate cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 323
+}

@@ -1,0 +1,123 @@
+{
+  "AuthorID": "Boaz",
+  "AuthorURL": "https://www.cancerforums.net/members/112417-Boaz?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "nervous",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 4.11,
+    "min": 4.11,
+    "scores": [4.11]
+  },
+  "Posts": [{
+    "AuthorID": "Boaz",
+    "AuthorURL": "https://www.cancerforums.net/members/112417-Boaz?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Decided to have a routine check-up since I had not had one since I retired from the military in 2006. Well my numbers were out of whack, low testosterone, low vitamin D, the only thing that was high was my PSA which was 4.11, he told me he would feel better referring my to a urologist, so I went and as I was filling out the paper work I was suffering allot of the urinary symptoms. He performed a DRE and said prostrate was enlarged and I was suffering from a bladder infection. The Dr. put me on a round of Cipro and Flomax, now Monday I have to have PSA redone and my urinary symptoms seem worse, I'm getting up at least 6 to 8 times a night to pee and I'm having allot of hip and back pain, I found out my father had high PSA and even had a biopsy but never returned to Dr. am I worrying to much? Its been 4 weeks since my first Urologist appointment and I'm nervous about my follow-up, any input would be welcomed...",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["testosterone"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "23/08/2014",
+    "ThreadURL": "https://www.cancerforums.net/threads/40451-PSA-Anxiety?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "PSA Anxiety"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 191
+}

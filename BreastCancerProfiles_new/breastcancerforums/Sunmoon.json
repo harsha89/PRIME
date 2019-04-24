@@ -1,0 +1,130 @@
+{
+  "AuthorID": "Sunmoon",
+  "AuthorURL": "https://www.cancerforums.net/members/2562-Sunmoon?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "glad",
+      "touched",
+      "supportive",
+      "affected",
+      "thoughtful",
+      "hopeful",
+      "bad",
+      "hopeless"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Sunmoon",
+    "AuthorURL": "https://www.cancerforums.net/members/2562-Sunmoon?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I've read a lot of the stories in this forum and I'm very affected by them. My best friend has got breast cancer... being only 34 years old. At first, we only thought about surgical traetment etc. But then we learndes new things about healing in another way. Even if a situation seems to be hopeless, there might somewhere be a touch of light within all the darkness around us. there are other ways to help and heal. in the beginning we were very sceptical, but meanwhile we found conviction that these ways really do exist. The cancer's smaller now. We are so glad and want to shout it out loud!!! If you wish to get more informations and support, just write a mail to: [email protected] Best wishes for you! Sunmoon Hope, my English isn't too bad...",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "got breast cancer    being only 34 years old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 34
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/07/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3192-Help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Help"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "got breast cancer    being only 34 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 34
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 143
+}

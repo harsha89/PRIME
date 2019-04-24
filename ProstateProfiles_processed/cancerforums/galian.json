@@ -1,0 +1,541 @@
+{
+  "AuthorID": "galian",
+  "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "willing",
+      "free",
+      "lost",
+      "free",
+      "free",
+      "willing",
+      "free",
+      "lost",
+      "free",
+      "free",
+      "willing",
+      "free",
+      "lost",
+      "certain",
+      "thoughtful",
+      "hopeful",
+      "certain",
+      "bad",
+      "understanding",
+      "kind"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0.333",
+      "DEPRESSED": "0.111",
+      "GOOD": "0.111",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.111",
+      "LOVE": "0",
+      "OPEN": "0.556",
+      "POSITIVE": "0.444",
+      "SAD": "0",
+      "STRONG": "0.444"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 9,
+  "NPosts": 15,
+  "PSAInfo": {
+    "max": 2.4,
+    "min": 0.26,
+    "scores": [
+      2.4,
+      2,
+      0.6,
+      2.3,
+      0.26
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello everyone, I m from europe 38 years old. My situation has confused me so much. I will start from some years back when i starting realized i have some problems with prostate and sex life. I was taking 1mg finasteride for hairloss from age 27 to 32. Some people mention sexual and mental side effects even in that low dose. I believe for enlarge prostate people take 5mg daily. I lost my morning erections but i could perfom with no any problem when i was with a girl. The last year before i quit finasteride i got a UTI (frequent urination, and burn feeling). I got cipro for 2 weeks and symptoms dissapear. But from then my libido and sex life went to the bottom. I stopped finasteride then as i though it was because of that. For years because of my very busy work and because i travel all the time for work i didnt had time to make any blood tests and check why my erectile problems. Some internet searching i found people who has taken finasteride and couldnt find any solution even their blood tests looked normal, so i also though theres not much i can do. Time by time my sexual function was getting better and better. It was this year that i finally got some blood tests to see whats happening. So all my sex hormones looked in normal to high levels. What seemed to be not normal was white blood cells was a bit higher than normal levels and also i had increased pus cells in urine. My doctor said probably i have an infection or chronic prostatitis. I made sperm tests for viruses but all came back negative. Then i tested psa and it was 2.40. My prostate scan showed my prostate volume was 43cc. I retested psa 2 weeks later in another lab and the result was 3.7!!! I was socked. My doctor wanted to put me on cipro for a month but i asked him if i could use another antibiotic instead and he told me i can use prulifloxacin and test psa again also the free psa ratio. So one month i have been like a ghost, waiting to finish the antibiotic course and test psa again. I finished the antibiotic last week and retested again. ( in third different lab) So my psa was 2.30 my free psa was 0.60 and they also gave me the free/total psa ratio to be 0.26 So according to the free/total ratio it seems that more possible is that i dont have cancer? If not then what?? I have a date with my doctor in 2 weeks but i would like to hear your opinion. Thank you",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> <Z> 38 years old very confused about",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 38
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "everyone  I m from europe 38 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 38
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "finasteride for hairloss from age 27 to 32 <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 27
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "sperm"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, thank you for your answer, but can prostatitis make prostate larger? I mean my prostate size in 43 cc is big for my age",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "i feel somehow relieved, i also forgot to mention crp test was 1, normal nevel and also that before all the times i got the psa tests i had sex/ or masturbation the night before. I had read that you should not before psa test but from agony before the tests i couldnt sleep other way.. but i dont think it can raise the psa too much right? i was reading somewhere something like 0.10 raise. If my doctor suggests me to do biopsy do you think i should or no? I appreciate your answers and help.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "i feel somehow relieved, i also forgot to mention crp test was 1, normal nevel and also that before all the times i got the psa tests i had sex/ or masturbation the night before. I had read that you should not before psa test but from agony before the tests i couldnt sleep other way.. but i dont think it can raise the psa too much right? i was reading somewhere something like 0.10 raise. If my doctor suggests me to do biopsy do you think i should or no? I appreciate your answers and help.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 24,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "i feel somehow relieved, i also forgot to mention crp test was 1, normal nevel and also that before all the times i got the psa tests i had sex/ or masturbation the night before. I had read that you should not before psa test but from agony before the tests i couldnt sleep other way.. but i dont think it can raise the psa too much right? i was reading somewhere something like 0.10 raise. If my doctor suggests me to do biopsy do you think i should or no? I appreciate your answers and help.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, thank you for your answer, but can prostatitis make prostate larger? I mean my prostate size in 43 cc is big for my age",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Yes i know what you mean, thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello everyone, I m from europe 38 years old. My situation has confused me so much. I will start from some years back when i starting realized i have some problems with prostate and sex life. I was taking 1mg finasteride for hairloss from age 27 to 32. Some people mention sexual and mental side effects even in that low dose. I believe for enlarge prostate people take 5mg daily. I lost my morning erections but i could perfom with no any problem when i was with a girl. The last year before i quit finasteride i got a UTI (frequent urination, and burn feeling). I got cipro for 2 weeks and symptoms dissapear. But from then my libido and sex life went to the bottom. I stopped finasteride then as i though it was because of that. For years because of my very busy work and because i travel all the time for work i didnt had time to make any blood tests and check why my erectile problems. Some internet searching i found people who has taken finasteride and couldnt find any solution even their blood tests looked normal, so i also though theres not much i can do. Time by time my sexual function was getting better and better. It was this year that i finally got some blood tests to see whats happening. So all my sex hormones looked in normal to high levels. What seemed to be not normal was white blood cells was a bit higher than normal levels and also i had increased pus cells in urine. My doctor said probably i have an infection or chronic prostatitis. I made sperm tests for viruses but all came back negative. Then i tested psa and it was 2.40. My prostate scan showed my prostate volume was 43cc. I retested psa 2 weeks later in another lab and the result was 3.7!!! I was socked. My doctor wanted to put me on cipro for a month but i asked him if i could use another antibiotic instead and he told me i can use prulifloxacin and test psa again also the free psa ratio. So one month i have been like a ghost, waiting to finish the antibiotic course and test psa again. I finished the antibiotic last week and retested again. ( in third different lab) So my psa was 2.30 my free psa was 0.60 and they also gave me the free/total psa ratio to be 0.26 So according to the free/total ratio it seems that more possible is that i dont have cancer? If not then what?? I have a date with my doctor in 2 weeks but i would like to hear your opinion. Thank you",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "everyone  I m from europe 38 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 38
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "finasteride for hairloss from age 27 to 32 <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 27
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "sperm"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, thank you for your answer, but can prostatitis make prostate larger? I mean my prostate size in 43 cc is big for my age",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Yes i know what you mean, thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello everyone, I m from europe 38 years old. My situation has confused me so much. I will start from some years back when i starting realized i have some problems with prostate and sex life. I was taking 1mg finasteride for hairloss from age 27 to 32. Some people mention sexual and mental side effects even in that low dose. I believe for enlarge prostate people take 5mg daily. I lost my morning erections but i could perfom with no any problem when i was with a girl. The last year before i quit finasteride i got a UTI (frequent urination, and burn feeling). I got cipro for 2 weeks and symptoms dissapear. But from then my libido and sex life went to the bottom. I stopped finasteride then as i though it was because of that. For years because of my very busy work and because i travel all the time for work i didnt had time to make any blood tests and check why my erectile problems. Some internet searching i found people who has taken finasteride and couldnt find any solution even their blood tests looked normal, so i also though theres not much i can do. Time by time my sexual function was getting better and better. It was this year that i finally got some blood tests to see whats happening. So all my sex hormones looked in normal to high levels. What seemed to be not normal was white blood cells was a bit higher than normal levels and also i had increased pus cells in urine. My doctor said probably i have an infection or chronic prostatitis. I made sperm tests for viruses but all came back negative. Then i tested psa and it was 2.40. My prostate scan showed my prostate volume was 43cc. I retested psa 2 weeks later in another lab and the result was 3.7!!! I was socked. My doctor wanted to put me on cipro for a month but i asked him if i could use another antibiotic instead and he told me i can use prulifloxacin and test psa again also the free psa ratio. So one month i have been like a ghost, waiting to finish the antibiotic course and test psa again. I finished the antibiotic last week and retested again. ( in third different lab) So my psa was 2.30 my free psa was 0.60 and they also gave me the free/total psa ratio to be 0.26 So according to the free/total ratio it seems that more possible is that i dont have cancer? If not then what?? I have a date with my doctor in 2 weeks but i would like to hear your opinion. Thank you",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "everyone  I m from europe 38 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 38
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "finasteride for hairloss from age 27 to 32 <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 27
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "sperm"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Yes i know what you mean, thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 26,
+      "PostDate": "12/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47431-38-years-old-very-confused-about-whats-going-on?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "38 years old very confused about whats going on"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Michael F Hi galian! Can't help you with the MRI-Guided Prostate Laser Ablation. Re: Trans-urethral prostate hyperthermia treatment Try \"googling\" HIFU. If you are in the U.S., try \"HIFU in United States\" as it was recently cleared by the FDA for \"ablation of prostate tissue.\" Good luck identifying a suitable treatment modality. As with all interventions, be certain that the MD you select is a highly experienced expert in that specific field and is doing at least 4 cases per week. Best wishes! MF I believe HIFU AND hyperthermia treatment are not the same? HIFU seems to include the bad side effects packet. I m in Europe, also i havent had a biopsy so for now i hope i ll not be needed any treatment but I thought other people would like also to have some information.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "28/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47552-MRI-Guided-Prostate-Laser-Ablation-and-Trans-urethral-prostate-hyperthermia-treatmen?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "MRI-Guided Prostate Laser Ablation and Trans-urethral prostate hyperthermia treatmen"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I cant find much of information and people who had any of these 2 procedures as they are kind of new i guess. I understand that are not for advanced cancer and also that there is always the risk of cancer coming back, but if they have lower % of the side effects as they claim some people would choose them. So any experiences?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47552-MRI-Guided-Prostate-Laser-Ablation-and-Trans-urethral-prostate-hyperthermia-treatmen?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "MRI-Guided Prostate Laser Ablation and Trans-urethral prostate hyperthermia treatmen"
+    },
+    {
+      "AuthorID": "galian",
+      "AuthorURL": "https://www.cancerforums.net/members/118801-galian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "thanx everyone for the info",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "29/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47552-MRI-Guided-Prostate-Laser-Ablation-and-Trans-urethral-prostate-hyperthermia-treatmen?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "MRI-Guided Prostate Laser Ablation and Trans-urethral prostate hyperthermia treatmen"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> <Z> 38 years old very confused about",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 0.5709999799728394,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "frequent urination",
+      "UTI"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 2008
+}

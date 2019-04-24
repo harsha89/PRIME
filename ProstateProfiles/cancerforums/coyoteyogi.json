@@ -1,0 +1,140 @@
+{
+  "AuthorID": "coyoteyogi",
+  "AuthorURL": "https://www.cancerforums.net/members/115816-coyoteyogi?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "easy",
+      "wonderful",
+      "hopeful",
+      "willing",
+      "fatigued",
+      "fatigued"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 2,
+    "min": 2,
+    "scores": [2]
+  },
+  "Posts": [{
+    "AuthorID": "coyoteyogi",
+    "AuthorURL": "https://www.cancerforums.net/members/115816-coyoteyogi?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "First time poster. My father will be 88 on Thursday. He completed 5 months on zytiga but has been off it for two months as it was no longer effective. His PSA is 2,600+! He is feeling quite weak and needs a walker to get from his easy chair to the bathroom which is only 20 feet away. He's fallen once and split the skin on his hand so now his arm is in a sling. He's been relying on upper body strength to climb the stairs from his bedroom to the living room. His wife (81) is his sole caregiver. My question is about enzalutamide. The oncologist wants to prescribe it but I wonder if it will really help him? One of the consistent side effects is fatigue and HBP and he doesn't have any energy to spare and is on meds for the blood pressure. I want whatever time he has left to be positive, useful to him with a sense of value. He is pinning all of his hopes that the enza will give him a boost. Has anyone on the forum had results they can talk about starting from such a precarious place? Thank you for your time.",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> My father will be 88 on Thursday <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 88
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> <Z> His wife  81  is his sole caregiver <Z>",
+          "Relation": "second-person",
+          "Tense": "present",
+          "Value": 81
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "father",
+          "NarrationType": "second-person",
+          "PatientGender": "male",
+          "Relation": "father"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "09/05/2015",
+    "ThreadURL": "https://www.cancerforums.net/threads/44108-My-father-and-Xtandi-(enzalutamide)-post-Zytiga?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "My father and Xtandi (enzalutamide) post Zytiga"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> My father will be 88 on Thursday <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 88
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["fatigue"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 213
+}

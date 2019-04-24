@@ -1,0 +1,128 @@
+{
+  "AuthorID": "kttn251977",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=932784&p=51455",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "courageous",
+      "blessed",
+      "close",
+      "lost",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "kttn251977",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=932784&p=51455",
+    "Content": " Hello ladies, I am usually in the chronic pain area. I lost a very close friend to breast cancer 2 years ago- she was only 27. So, I always have my own monthly check up. I have always had small \"knots\" in my back- which have recently progressed to other areas of my body. Last night while doing my check-up I noticed one of these \"knots\" under my left breast. I did feel my friends knots, and this one does feel a little differernt. Can anyone tell me any symptoms or otherwise that you felt before you were diagnosed? Bless you all, strong- courageous woman. Good Luck. -Shannon. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "years ago  she was only 27 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 27
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/10/2007",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=932784",
+    "Title": "Symptoms?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "years ago  she was only 27 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 27
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 110
+}

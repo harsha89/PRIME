@@ -1,0 +1,149 @@
+{
+  "AuthorID": "IBCwomaninFL",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2206678&p=130855",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "satisfied",
+      "satisfied",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "IBCwomaninFL",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2206678&p=130855",
+      "Content": " I was diagnosed with IBC in 2007. As the Forum Moderated stated, mammograms are not always helpful in determining IBC since there is usually no lump, but a sheet or nest of tumors, which is not seen on a routine mammo. \nIf you are not pregnant, not nursing and are not running a temperature, you do not have an infection and antibiotics are not going to help. My doctor insisted upon three rounds of antibiotics (10 days each) before I finally got to have a diagnostic mammo and ultrasound which confirmed that I might have IBC and should have a biopsy (usual method for diagnosing IBC correctly). Check out the signs and symptoms at the Inflammatory Breast Cancer Foundation (www.eraseibc.com). You can also print out a brochure to give to your doctor. If you have any other questions, call the toll-free number. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnant",
+              "Breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2206678",
+      "Title": "Burning sensation and pain in left breast"
+    },
+    {
+      "AuthorID": "IBCwomaninFL",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2184499&p=130855",
+      "Content": " The symptoms that hlp2011 listed are symptoms of Inflammatory Breast Cancer (IBC). I sincerely hope she got a good doctor who could help her rule out IBC (or, as what happened in my case, rule it in). If someone is not pregnant, is not nursing and is not running a fever, they don't have an infection...therefore, antibiotics will not help get rid of the symptoms. A routine mammo doesn't usually show the \"sheeting or nesting\" of tumors in IBC. A diagnostic mammo will, IF the tech knows what he looking for. I had 3 biopsies: a needle, a punch and a skin biopsy...these confirmed the fact that I had IBC. \nThese symptoms could also be from noncancerous things, so just don't stop until you're satisfied with the diagnosis and prognosis. \nI so wish people would come back and let those of us that follow these boards know where they stand with their treatment or diagnosis. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnant",
+              "Breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "08/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2184499",
+      "Title": "Why Dr wants a 2nd opinion when mammogram and ultrasound negative"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 306
+}

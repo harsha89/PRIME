@@ -1,0 +1,180 @@
+{
+  "AuthorID": "curley",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=673099&p=14075",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "tired",
+      "worried",
+      "willing",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.333",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "curley",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=673099&p=14075",
+      "Content": " I'am from the crohns forum and i'm so sorry that you are going through all of this.I my self do not have cancer but my sister does and it has been so hard on her and I have been trying to do every thing I can for her.She is taken radiation and just started chemo a couple weeks ago.She had found a lump in her right breast and had it checked out and they told her it was breast cancer and they then did more testing and it has spread to her overies and uterus and they told her it was stage two and it was progressive as well.I'm so worried about\n her she at first keept working but no longer can with the chemo she stays so tired all of the time.I do thank you for leting me post and know that I look up to each of you for fighting cancer and being able to talk about\n it.\nCurley\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "uterus",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "sister"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "16/12/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=673099",
+      "Title": "Here we go again...and again...."
+    },
+    {
+      "AuthorID": "curley",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=658404&p=14075",
+      "Content": " \n \n \nCurley\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "Sister"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/11/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=658404",
+      "Title": "My Sister has breast cancer=have questions"
+    },
+    {
+      "AuthorID": "curley",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=658404&p=14075",
+      "Content": " Brnadebt & Dolly, Thank you both for replying I appreicate it very much I'm so scared for her i have been helping her with her youngest daughter she is nine and I have been going with her to get her treatments.She has a progressive typ of cancer and she has a 40%chance.Stage two cancer and by the time it was discoverd the cancer it had all ready spred to her overies and uteres as well.She is having surgery this comeing up friday they are removing her right breast and she is having a total hysterectomy as well.I will keep you'll posted on how she is doing.I again thank you'll for you'lls input.\nCurley\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hysterectomy",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "daughter",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "daughter"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "17/12/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=658404",
+      "Title": "My Sister has breast cancer=have questions"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 299
+}

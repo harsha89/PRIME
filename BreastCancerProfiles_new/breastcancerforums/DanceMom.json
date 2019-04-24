@@ -1,0 +1,123 @@
+{
+  "AuthorID": "DanceMom",
+  "AuthorURL": "https://www.cancerforums.net/members/30597-DanceMom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "great",
+      "energetic",
+      "supportive",
+      "affected",
+      "hopeful",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "1",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "DanceMom",
+    "AuthorURL": "https://www.cancerforums.net/members/30597-DanceMom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi Allison, I read your post and sincerely hope you will find lots of interesting information to support your research project. I am currently undergoing adjuvant chemotherapy for breast cancer and have a daughter who is a dancer - hence my interest in your project. Although I am not a dancer myself, I can definitely say that watching dance has been extremely therapeutic for me - it is a great escape and the sheer joy of dance that is evident in the dancers' expressions enables me to forget about my treatments temporarily. In an attempt to translate that joy in a personal way, I do manage to do \"zumba\" at home as part of my own exercise regimen. While perhaps not technically considered \"dance\", zumba's energetic dance moves set to light hearted, fun music is not only great exercise but it is a real mood booster as well. Recently, I received a small magazine from the \"Look Good Feel Better\" program. The magazine is the 2011 issue and is called Lives Affected by Cancer. There is an article in this magazine entitled \"Pure Joy\" which has a small reference to a young competitive dancer named Katie Darby who kept up with her dance despite being diagnosed with Ewing's Sarcoma. The focus of the entire article is on methods for positive healing - I am sure dance will be considered one of these methods! I have scanned the article for you but can't seem to find a way to attach it to this message. If you are interested, I could email it directly to you instead. Best regards, Diane",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 1,
+    "PostDate": "10/04/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/22120-Dance-therapy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Dance therapy?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 269
+}

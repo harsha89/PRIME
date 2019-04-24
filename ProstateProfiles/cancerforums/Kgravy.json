@@ -1,0 +1,198 @@
+{
+  "AuthorID": "Kgravy",
+  "AuthorURL": "https://www.cancerforums.net/members/37959-Kgravy?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "thoughtful",
+      "suspicious",
+      "worried",
+      "confident",
+      "kind",
+      "concerned",
+      "confident",
+      "willing",
+      "hateful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0",
+      "ANGRY": "0.333",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.667",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Kgravy",
+      "AuthorURL": "https://www.cancerforums.net/members/37959-Kgravy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hey all, sorry to ask this weird question. But, Ive been on the lung cancer forum for a little bit now. Been dealing with that for a little while (and no there has been no confirmation of any kind of cancer yet.) Ill give a quick rundown on some stuff but Ill be somewhat brief. Basically some lung nodules were found, and they grew and biopsy just said suspicious cells. Did a pet scan,those lit up a bit,but my prostate also lit up. I was asked all sorts of questions. I told them about the blood in my urine (have had it for years) my frequent urination, the lymph node in my pubic area thats always swollen, the \"dribbling\" of urine I always experience. As well as the constant waking up at night to urinate, and weird feeling in my hips, almost achey. Anyways, they did a PSA test (waiting on results) and also did a urine test. Urine test showed high level of blood in urine, as well as no presence of infection or any std. The rectal exam was also done. Said it was enlarged, and possibly some bumpyness to it. She couldnt confirm on the bumpyness but def said it was enlarged for a 26 year old. I mean, its slowly been getting worse for a few years, but I just attested it to anxiety. Now my question, isnt this odd for a 26 year old? I know infections can light up on pet scans as well, and maybe the urine test just cant pick it up. Im just confused as heck right now. Totally derailed my lung dr's current train of thought on what is going on. Now I go back to waiting for some more results and getting a gameplan built. Thanks for listening all, I appreciate it!",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "it was enlarged for a 26 year old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 26
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "isnt this odd for a 26 year old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 26
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "23/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28879-Prostate-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate question"
+    },
+    {
+      "AuthorID": "Kgravy",
+      "AuthorURL": "https://www.cancerforums.net/members/37959-Kgravy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Just got word back. Was told my PSA was pretty high. The number was 9. They are booking me a dr's visit within the next few weeks. Doc said dont get worried yet, so I wont!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "24/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28879-Prostate-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate question"
+    },
+    {
+      "AuthorID": "Kgravy",
+      "AuthorURL": "https://www.cancerforums.net/members/37959-Kgravy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Yup. Im going early February. I guess they are going to do a cystocopy (I think thats the right word) to take a better look at it. I guess all blood work and urine samples came back negative for any kind of infection. Dr is concerned, but Im feeling pretty confident in my chances due to age that its not the big word. Anyways though, does anyone have any tips or tricks (as weird as that sounds) for the urination? Seriously embarassing always dribbling on myself every time. I even tried sitting down to go, but that doesnt help. It always seems to happen maybe 20 seconds or so after im done. So embarassing. I hate going out now, and I always have to wear either black or dark navy blue pants or else wet spots will randomly show up.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "26/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28879-Prostate-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate question"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "it was enlarged for a 26 year old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 26
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "blood in urine",
+      "frequent urination"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 485
+}

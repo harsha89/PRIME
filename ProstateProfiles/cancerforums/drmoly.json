@@ -1,0 +1,120 @@
+{
+  "AuthorID": "drmoly",
+  "AuthorURL": "https://www.cancerforums.net/members/129519-drmoly?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": ["hopeful"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 7,
+    "scores": [
+      7,
+      8
+    ]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "drmoly",
+    "AuthorURL": "https://www.cancerforums.net/members/129519-drmoly?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Originally Posted by IM Fletcher Whoops. I meant 99% chance of NOT having >8 Gleason PC. If it were reversed I think I'd be singing a little different tune today.... I have edited original post and appreciate your responses. I, too, hope my stay here is brief but I'm going through all of the suggested motions, so to speak. Ooh, I'm happy I found this thread and your entry as I was having a bit of confusion as well from my recent Select MDx report. \"Very Low Risk\" but: \"...for the detection of Gleason score > 7 PC upon biopsy with a negative predictive value of 98%, and a negative predictive value of 99% for Gleason score > 8 PC.\" Why wouldn't they say > 2% chance or > 1% chance (and I was a math major)! I.e., I think that's all good, right? Doc says it is. Btw, I have already had both a Biopsy and an MRI in the last 18 months with no finding of anything. I'll have to look up what my original MDx report numbers were indicating the biopsy was an appropriate next step. Thanks!",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 5,
+    "PostDate": "25/03/2019",
+    "ThreadURL": "https://www.cancerforums.net/threads/50264-Anyone-had-the-Select-MDX-testing?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Anyone had the Select MDX testing?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 198
+}

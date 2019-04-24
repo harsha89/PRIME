@@ -1,0 +1,185 @@
+{
+  "AuthorID": "Nicnic",
+  "AuthorURL": "https://www.cancerforums.net/members/112188-Nicnic?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "pleased",
+      "surprised",
+      "ok",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "sure",
+      "alarmed",
+      "scared",
+      "understanding",
+      "pleased",
+      "surprised",
+      "ok",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "sure",
+      "alarmed",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "3",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 9.7,
+    "min": 9.7,
+    "scores": [9.7]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Nicnic",
+      "AuthorURL": "https://www.cancerforums.net/members/112188-Nicnic?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello and greetings to all. This is my story. I went to see my family physician on May 23, 2014 for a routine check-up. Every three months I get my blood drawn to make sure everything is OK. This time it wasn't so regular. My doctor called and said he notice my psa levels have gone up to 6.3. These number never meant anything to me because for years there wasn't anything alarming that doc was concern about. I had to go back to his office where he did a prostate exam. Doc said he could not detect anything. He said to be safe though I want you to see a urologist specialist. The Urologist talked to me and said last wait about a month and then we will check your psa levels again to make sure the numbers were not misleading. Where that's what they did. The follow-up was a surprise my psa levers had gone up to 9.7. Man after he said that everything he said sounded like blu, blu, blu. I thought I was in a charlie brown cartoon. O.K. this is where I am my psa is 9.7 and still may be rising. My Gleason score is 6. By the way did I mention I am a 51 year old African American. From what I understand I am more likely to be effected by Prostate Cancer. The doctor ,my wife and I decided that robotic surgery of removal of the Prostate was the best way to go. I am scared. I try not to let the family see, but its not working. On one of my reports of my Prostate it reads as follow[s The Prostate Gland is not enlarged. The urinary bladder appears unremarkable. This sounds like a good report to me. Hum I still need the surgery. OUR FATHER IN HEAVEN, Hollowed be your name, your kingdom come, your will be done. Father Help Please.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I mention I am a 51 year old African American <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/08/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40225-Confuzed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Confuzed"
+    },
+    {
+      "AuthorID": "Nicnic",
+      "AuthorURL": "https://www.cancerforums.net/members/112188-Nicnic?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello and greetings to all. This is my story. I went to see my family physician on May 23, 2014 for a routine check-up. Every three months I get my blood drawn to make sure everything is OK. This time it wasn't so regular. My doctor called and said he notice my psa levels have gone up to 6.3. These number never meant anything to me because for years there wasn't anything alarming that doc was concern about. I had to go back to his office where he did a prostate exam. Doc said he could not detect anything. He said to be safe though I want you to see a urologist specialist. The Urologist talked to me and said last wait about a month and then we will check your psa levels again to make sure the numbers were not misleading. Where that's what they did. The follow-up was a surprise my psa levers had gone up to 9.7. Man after he said that everything he said sounded like blu, blu, blu. I thought I was in a charlie brown cartoon. O.K. this is where I am my psa is 9.7 and still may be rising. My Gleason score is 6. By the way did I mention I am a 51 year old African American. From what I understand I am more likely to be effected by Prostate Cancer. The doctor ,my wife and I decided that robotic surgery of removal of the Prostate was the best way to go. I am scared. I try not to let the family see, but its not working. On one of my reports of my Prostate it reads as follow[s The Prostate Gland is not enlarged. The urinary bladder appears unremarkable. This sounds like a good report to me. Hum I still need the surgery. OUR FATHER IN HEAVEN, Hollowed be your name, your kingdom come, your will be done. Father Help Please.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "I mention I am a 51 year old African American <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "07/08/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40225-Confuzed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Confuzed"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "I mention I am a 51 year old African American <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 51
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 661
+}

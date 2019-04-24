@@ -1,0 +1,126 @@
+{
+  "AuthorID": "pink",
+  "AuthorURL": "https://www.cancerforums.net/members/2859-pink?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "willing",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "pink",
+    "AuthorURL": "https://www.cancerforums.net/members/2859-pink?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I am 31 years old, recently diagnosed with stage II breast cancer. I had mastectomy with only the sentinel node plus one node removed. The sentinel node was positive for micromets, 0.33mm and the other one is clear. My surgeon told me that since the sentinel node came out positive there is a tendency that other nodes might also have cancer but she didn't actually recommend to have the axillary nodes disected. She gave me the pros and cons of having more nodes removed and she asked me to decide for myself. I just spoke with my medical oncologist and she said that the chemo plan for me would be aggressive due to high risk of recurrence as i am young and my tumor is 4cms. I will have 6 cycles and three drugs will be administered (I forgot what those are). Then I will have five years of Tamoxifen as I am ER+ but HER2 neg. I am really confused as to whether I would chose to undergo another surgery or not. I have read some articles in the other online forums and some whose sentinel nodes came out positive had axillary nodes disection but the rest came out negative and now suffering from the side effects of that procedure. I already had two surgeries in a period of a month and having another surgery will further delay chemo....Regardless of the option I chose, I will be subjected to aggressive chemo treatment and the oncologist said that chemo might take care of whatever cancer cells left in my body if I decided not to do the surgery...I need your advise...",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 31 years old  recently diagnosed with",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 31
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "18/08/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3427-HELP!!!-I-NEED-YOUR-OPINION-I-M-REALLY-CONFUSED?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "HELP!!! I NEED YOUR OPINION...I'M REALLY CONFUSED...."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 31 years old  recently diagnosed with",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 31
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 283
+}

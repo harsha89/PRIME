@@ -1,0 +1,157 @@
+{
+  "AuthorID": "Hogiebear",
+  "AuthorURL": "https://www.cancerforums.net/members/110974-Hogiebear?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "encouraged",
+      "willing",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Hogiebear",
+      "AuthorURL": "https://www.cancerforums.net/members/110974-Hogiebear?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Got the bad news Monday. I had a biopsy 3 years ago that was negative. My recent Biopsy was positive. My Urologist says I am a 6 on the Gleason scale. If the scan confirms that is hasn't spread beyond the prostate we will discuss treatment. He laid out a lot of options. I think he will recommend seed thing and radiation. 40 treatments for the full course. To say the least I am not feeling very encouraged. I'm 54 years old.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 54 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38473-Diagnosed-Monday-PET-Scan-next-Tuesday?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Diagnosed Monday - PET Scan next Tuesday"
+    },
+    {
+      "AuthorID": "Hogiebear",
+      "AuthorURL": "https://www.cancerforums.net/members/110974-Hogiebear?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Anyone have any experience with Cyber Knife Surgery. It is advertised on the radio here by Winthrop Medical Center in New Jersey. Just weighing some options.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/05/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38551-Cyber-Knife-Surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Cyber Knife Surgery"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 54 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 54
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "cyber knife",
+      "surgery"
+    ]
+  },
+  "WordCount": 120
+}

@@ -1,0 +1,313 @@
+{
+  "AuthorID": "shreddedwolf",
+  "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "confident",
+      "confident",
+      "willing",
+      "loving",
+      "loved",
+      "willing",
+      "worried",
+      "wonderful",
+      "pleased",
+      "wonderful",
+      "pleased",
+      "confident",
+      "confident",
+      "willing",
+      "great",
+      "concerned",
+      "hopeful",
+      "hopeful",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "0.286",
+      "ALIVE": "0.286",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.286",
+      "HAPPY": "0.143",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.143",
+      "LOVE": "0.286",
+      "OPEN": "0.286",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "NExperiencePosts": 7,
+  "NPosts": 7,
+  "PSAInfo": {
+    "max": 0.071,
+    "min": 0.071,
+    "scores": [0.071]
+  },
+  "Posts": [
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I can not thank you guys enough for all of this, I appreciate every single one of you guys and once I get more information regarding my treatments and scores I will keep you all updated and be more active on this forum. This really boosted my confidence and positivity",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "07/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49599-My-Survival-Rate-(New-to-forums)-(PSA-Gleason-Score-attached)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Survival Rate? (New to forums) (PSA + Gleason Score attached)"
+    },
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hey everyone! I am new to this forum. First off thank you all, after reading a few posts on this forums it has really given me further insight about prostate cancer and bone mets. I am currently undergoing chemotherapy Docetaxel, 6 total cycles every 3 weeks also with lupron shot every 3 months. I am on my 4th cycle and currently my PSA levels are 0.071. I am feeling fine just sometimes worried about whats going to happen. Recently about 1 week ago they found something in my Appendix and they said it may be a second cancer. I did further research online and a few have said chemotherapy can form a second cancer. I have an appointment with a surgeon who will check on that. I am going to UCSF for my treatment. I am worried but am willing to fight this fight and have a lot of love around me Thanks guys!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> New to Forums  56 Year old with stage IV",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49579-New-to-Forums!-56-Year-old-with-stage-IV-prostate-cancer-(bone-mets)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to Forums! 56 Year old with stage IV prostate cancer (bone mets)"
+    },
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hey everyone, I am new to the forums I am 56 years of age. My gleason score says 4 + 4 = 8 on all the categories. Roughly 80-90% on all of them as well ( don't know what this means ) My PSA Levels currently are 0.071. I am undergoing chemotherapy (Doxetel) 6 cycles (currently on 4th) and Lupron shot every 3 months. I am going to UCSF for treatment. I have stage 4 prostate cancer bone mets I was wondering how are these scores? What are the survival rates for my type of cancer with these scores? I am very new to all of this so please apologize if I don't know what I am talking about. Thank you guys",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to the forums I am 56 years of age <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49599-My-Survival-Rate-(New-to-forums)-(PSA-Gleason-Score-attached)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Survival Rate? (New to forums) (PSA + Gleason Score attached)"
+    },
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hey everyone, I am new to the forums I am 56 years of age. My gleason score says 4 + 4 = 8 on all the categories. Roughly 80-90% on all of them as well ( don't know what this means ) My PSA Levels currently are 0.071. I am undergoing chemotherapy (Doxetel) 6 cycles (currently on 4th) and Lupron shot every 3 months. I am going to UCSF for treatment. I have stage 4 prostate cancer bone mets I was wondering how are these scores? What are the survival rates for my type of cancer with these scores? I am very new to all of this so please apologize if I don't know what I am talking about. Thank you guys",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to the forums I am 56 years of age <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "06/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49599-My-Survival-Rate-(New-to-forums)-(PSA-Gleason-Score-attached)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Survival Rate? (New to forums) (PSA + Gleason Score attached)"
+    },
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I can not thank you guys enough for all of this, I appreciate every single one of you guys and once I get more information regarding my treatments and scores I will keep you all updated and be more active on this forum. This really boosted my confidence and positivity",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "07/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49599-My-Survival-Rate-(New-to-forums)-(PSA-Gleason-Score-attached)?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Survival Rate? (New to forums) (PSA + Gleason Score attached)"
+    },
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hey all, Hope everyone is having a good day. I have finished my chemo I did 5/6 cycles. We had to stop due to pneumonitis developing from the chemo. I was on docetaxel and am taking lupron shots every 3 months. I am 56 years old my gleason score is 4 + 4 = 8 on all the categories. Roughly 80-90% on all of them as well (don't know what this means) My PSA was 0.071 then went to 0.163 then went to 0.309 and now is 0.5 I know this is low but does slow blips of rising PSA like this mean anything? This is my only concern. Thank you hope you all have a great day!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 56 years old my gleason score",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50106-Done-with-Chemo-Have-a-couple-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Done with Chemo, Have a couple concerns..."
+    },
+    {
+      "AuthorID": "shreddedwolf",
+      "AuthorURL": "https://www.cancerforums.net/members/121547-shreddedwolf?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Today I walked in for my 6/6th chemotherapy treatment when doctors found out I have developed pneumonitis from the treatment. We didn't continue the treatment as it would have made it worse and now I am taking 70mg of prednisone daily for the pneumonitis. Anyone experienced this? Is this something I should be worried about? Thanks guys hope all is well",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/49981-Got-pneumonitis-from-chemotherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Got pneumonitis from chemotherapy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> New to Forums  56 Year old with stage IV",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 725
+}

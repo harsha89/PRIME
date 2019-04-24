@@ -1,0 +1,163 @@
+{
+  "AuthorID": "Lara76",
+  "AuthorURL": "https://www.cancerforums.net/members/104337-Lara76?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "pleased",
+      "hopeful",
+      "willing",
+      "fighter",
+      "aggressive",
+      "aggressive",
+      "lost",
+      "fearful",
+      "worried",
+      "crying",
+      "concerned",
+      "willing",
+      "decisive",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "1.5",
+      "SAD": "0.5",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Lara76",
+      "AuthorURL": "https://www.cancerforums.net/members/104337-Lara76?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello everyone. Last week we found out that my mums cancer has spread to the liver and I have some questions that I am hoping some people could help answer. Firstly, mum had breast cancer two years ago which was a small lump, that got removed easily and didn't require chemo. The doctors said that it was a type of cancer that 'if you get any type of cancer, this is the type of cancer you want to get, because it's not aggressive'. We were all relieved. Then Mum did everything to prevent it coming back. Didn't have sugars, and lived a very healthy life, but lived in fear of it coming back. What I can't understand is how can a non-aggressive cancer then spread to the liver and is now apparently aggressive?? Would chemo have prevented it from coming back? Are the drs saying it is aggressive because it returned only 2 years after the breast cancer was removed? Mum is getting tests today to see if it has spread to any other organs. Is it likely to spread quickly to other organs if it's not already there? When I asked the dr yesterday she said it depends on how my mum will deal with stress because that will have an influence in it spreading. I started crying when she said that because my mum stresses about everything... I am so worried. My mum has almost lost her desire to fight this and is almost resigned that it will take her. She isn't a fighter, but will do what she has to for my sake and my sons sake. I can't even fathom telling my son. She is like his second mum. Is it silly to ask what the life expectancy is with metastatic liver cancer? I have googled this and it says between 3months and 33 months. She is 66 years old. Any advice is appreciated. Thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> She is 66 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 66
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mum",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mum"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31858-My-mum-has-metastatic-liver-cancer-from-breast-cancer-please-help!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "My mum has metastatic liver cancer from breast cancer - please help!"
+    },
+    {
+      "AuthorID": "Lara76",
+      "AuthorURL": "https://www.cancerforums.net/members/104337-Lara76?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, I am wrting this on behalf of my mother. She had breast cancer - non aggressive 2 years ago. Removed simply no chemo required. Then blood tests 2 weeks ago revealed high levels of cancer. Xray was done that revealed that there were 3 lesions and concerns that the cancer had metastasised. Then ultrasound was done and they were thinking that it was more like benign tumours. So Dr got a MRI done which then indicated that the cancer had indeed metastasised. The dr said it was likely that the cancer had returned. So mum had a CT Pet scan which did not reveal any cancer in my mums liver!????? Now we have to wait till Monday for the specialists to look at all test results to make a decision whether it is cancer. Can anyone tell me what are the chances of a false negative with PET scans? Or are these rather precise? I suppose the main way to detect cancer had returned was by doing a biopsy. My mum is against having a biopsy as she has heard that if the tumour are cancer this is not ideal as it will increase the chance of spreading to other organs. Can anyone help me?? Thanks Lara",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mum",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mum"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "14/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31858-My-mum-has-metastatic-liver-cancer-from-breast-cancer-please-help!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "My mum has metastatic liver cancer from breast cancer - please help!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> She is 66 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 66
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 546
+}

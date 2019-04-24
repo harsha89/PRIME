@@ -1,0 +1,199 @@
+{
+  "AuthorID": "FlaCracker",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3139530&p=182245",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "pained",
+      "pained",
+      "willing",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.667",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "FlaCracker",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3139530&p=182245",
+      "Content": " Hello everyone,\nI had a radical hysterectomy 2 years ago. I was just put on Estrace cream for dryness and hot flashes. I suffered breast and nipple pain a few weeks ago due to overdosage. The doctor had me stop usage for one week and resume with one gram of the cream. \nMy question is how long can you take this cream? I am concerned about\n breast cancer. Does anyone know of more natural substitutes? \nThank you for any information you may have.\nMichelle ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hot flashes",
+              "hysterectomy",
+              "Breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/07/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3139530",
+      "Title": "Questions on Hormonal cream and Breast pain"
+    },
+    {
+      "AuthorID": "FlaCracker",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3139530&p=182245",
+      "Content": " Thank you for the advice. Will check with the doctor. \nMichelle ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "25/07/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3139530",
+      "Title": "Questions on Hormonal cream and Breast pain"
+    },
+    {
+      "AuthorID": "FlaCracker",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2965347&p=182245",
+      "Content": " Thank you for your information. I will make sure she gets the mammogram and follows up with her doctor.\nMichelle ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "16/01/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2965347",
+      "Title": "Lump in lymph node in breast"
+    },
+    {
+      "AuthorID": "FlaCracker",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2965347&p=182245",
+      "Content": " Hello Everyone,\nI have a question. My friend who does not do regular mammograms has had a lump in her lymph node area in the breast for a year now. She is complaining of pain. Her ob/gyn told her it was nothing to be worried about\n. Is this correct?\nMichelle ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "friend",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "friend"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/01/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2965347",
+      "Title": "Lump in lymph node in breast"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 179
+}

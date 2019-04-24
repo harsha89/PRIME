@@ -1,0 +1,149 @@
+{
+  "AuthorID": "stevo",
+  "AuthorURL": "https://www.cancerforums.net/members/24871-stevo?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 24,
+    "min": 4,
+    "scores": [
+      4,
+      16,
+      24,
+      6
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "stevo",
+      "AuthorURL": "https://www.cancerforums.net/members/24871-stevo?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi justslappy, Had HIFU under Mark Emberton London Urology Associates in 2011, prior to HIFU PSA 24, 1 month post HIFU PSA 4, 6months post HIFU PSA raised to 16 then 3 months after to 24, Then Mark Emberton performed Electroporation of the prostate, this also failed so I asked Mark to perform 1 more HIFU before I considered radiotherapy. PSA 6 months post (2nd HIFU) 7 but had MRI 3D scan 3 weeks ago and shows cancer has been replaced with soft tissue so looks like they got it for now. I had Ablatherm and had relatively no ED side effects, however this was due to the fact the top right side of my prostate was treated therefore preserving most of my prostate. HIFU is essentially a non invasive procedure and I was out of hospital the same day and had cathether removed after 3 days. Good luck",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "16/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33106-HIFU-stats?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "HIFU stats?"
+    },
+    {
+      "AuthorID": "stevo",
+      "AuthorURL": "https://www.cancerforums.net/members/24871-stevo?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi justslappy, Had HIFU under Mark Emberton London Urology Associates in 2011, prior to HIFU PSA 24, 1 month post HIFU PSA 4, 6months post HIFU PSA raised to 16 then 3 months after to 24, Then Mark Emberton performed Electroporation of the prostate, this also failed so I asked Mark to perform 1 more HIFU before I considered radiotherapy. PSA 6 months post (2nd HIFU) 7 but had MRI 3D scan 3 weeks ago and shows cancer has been replaced with soft tissue so looks like they got it for now. I had Ablatherm and had relatively no ED side effects, however this was due to the fact the top right side of my prostate was treated therefore preserving most of my prostate. HIFU is essentially a non invasive procedure and I was out of hospital the same day and had cathether removed after 3 days. Good luck",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "16/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33106-HIFU-stats?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "HIFU stats?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Erectile dysfunction"],
+    "SideEffectTypeKeywords": ["ED"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiotherapy"]
+  },
+  "WordCount": 298
+}

@@ -1,0 +1,120 @@
+{
+  "AuthorID": "CoralRing12",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1299443&p=114580",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "bad",
+      "pained",
+      "bruised",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "CoralRing12",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1299443&p=114580",
+    "Content": " Hi DudleysMom,\nThanks for your posts! I too had a very bad time with my stereotactic breast biopsy (for microcalcs) a few months back. (Results benign). Though not quite as bad a time as you had! \nIn my case, the bruising that showed on the skin took weeks and weeks to heal. Even now I still have pain after vigorous activity (even though they said I could resume normal activity shortly after the biopsy, ha). I also still have lumps/knots at the incision site and elsewhere in the breast that weren't there before the biopsy. (I am getting those checked with a specialist soon.)\nIn the meantime, when I visit my doc, I will keep your story in mind! \nAlso, for fibrocystic pain (which I also have), talk to your doc about\n your iodine status; if you're iodine-deficient, correcting the deficiency may help, at least according to a few studies. (I found the info at this Oregon State University website: http://lpi.oregonstate.edu/infocenter/minerals/iodine/#goitrogen --Scroll down to the Disease Treatment - Fibrocystic Breast Condition section to see a summary of the data on iodine and fibrocystic breast disease to date.) \nI switched back to iodized salt, which seemed to help a little; I'm also going to ask about\n it at my appointment with the breast specialist.\nThanks again for sharing your story. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 1,
+    "PostDate": "11/01/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1299443",
+    "Title": "Resources to help painful hematoma 9 mos after sterotactic biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 230
+}

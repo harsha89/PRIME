@@ -1,0 +1,147 @@
+{
+  "AuthorID": "Rallihanna",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2418787&p=146316",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "calm",
+      "pleased",
+      "determined",
+      "sure",
+      "scared",
+      "dread"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Rallihanna",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2418787&p=146316",
+    "Content": " I started annual mammograms at 31 as my mother had cancer at age 39. I'm now 35. I got called back after my first appointment to have ultrasounds and spot compressions done on both breasts. They determined I had a cyst in the left breast, and a normal lymph node in the right. The last 2 years I have gotten the all clear.\nWent in today and got told I need to go back for spot compression and ultrasound on the left breast. I'm really scared- it said that I have fibrocystic breast with 11 to 50 some sort of specks. She mentioned a comparison to last year but wasn't sure what that meant.\nThe part that is confusing me is they want me back but also wrote on the report \"no sign of malignancy.\"\nI am scheduled to go out of town in a day and am just freaking out. They are going to try to get me in and soon as they can but I am just besides myself. \nPlease help calm me down. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.9,
+          "Phrase": "I started annual mammograms at 31 as my mother had cancer",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 31
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "mother had cancer at age 39 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 39
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I'm now 35 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 35
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "14/05/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2418787",
+    "Title": "Very Scared- Got the Dreaded Call Back"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I'm now 35 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 35
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 186
+}

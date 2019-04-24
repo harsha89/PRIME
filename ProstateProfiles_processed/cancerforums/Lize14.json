@@ -1,0 +1,163 @@
+{
+  "AuthorID": "Lize14",
+  "AuthorURL": "https://www.cancerforums.net/members/125643-Lize14?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "supportive",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 5.1,
+    "min": 5.1,
+    "scores": [5.1]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Lize14",
+      "AuthorURL": "https://www.cancerforums.net/members/125643-Lize14?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you both so much for your help. We are based in Ireland so cancer centres will some what differ. But advice like I see posted on these forums seems so valuable, informative and supportive. I will post regularly when we get more results and information on his scans. It's good to hear that his cancer seems slow growing.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "19/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52820-Dad-just-diagnosed-with-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad just diagnosed with prostate cancer"
+    },
+    {
+      "AuthorID": "Lize14",
+      "AuthorURL": "https://www.cancerforums.net/members/125643-Lize14?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all. My 61 year old Dad was diagnosed with prostate cancer yesterday. I only have details from his biopsy, we are waiting for MRI and bone scan. pSA is 5.1 and rising. T2a, Gleason score 7, (4+3) 6/12 core samples showing cancer, all from left side of prostate. All these words are so new to us! Surgery and radiation were mentioned as possible treatments. From details given can anyone shed some light on the type of cancer he has, best treatment.et.c. thank you all",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> My 61 year old Dad was diagnosed",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 61
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52820-Dad-just-diagnosed-with-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad just diagnosed with prostate cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> My 61 year old Dad was diagnosed",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 61
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 156
+}

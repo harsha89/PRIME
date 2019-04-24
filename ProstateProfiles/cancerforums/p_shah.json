@@ -1,0 +1,194 @@
+{
+  "AuthorID": "p_shah",
+  "AuthorURL": "https://www.cancerforums.net/members/118920-p_shah?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "approachable",
+      "pleased",
+      "thoughtful",
+      "determined",
+      "willing",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "pained",
+      "pained",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "1.5",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 3,
+  "PSAInfo": {
+    "max": 12,
+    "min": 0.6,
+    "scores": [
+      0.6,
+      12
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "p_shah",
+      "AuthorURL": "https://www.cancerforums.net/members/118920-p_shah?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello All, Dad (is in India) was diagnosed with prostate cancer with bone mets last June. His Gleason score then was 9 and his PSA was 12. The cancer had spread to his spine, pelvic and some other bones. He had no symptoms other than weight loss. After biopsy, bone scan and other tests at that time the best approach was determined to go with Orchiectomy to reduce his testosterone levels. His PSA dropped to 0.6 and stayed there till last month. The PSA not has risen back to 2.6 in the test a month ago and 5.2 in the recent tests. He has been taking Zoledronic acid (Zometa) injections every month to 6 weeks on the onco's recommendation for his bone strength. So far no other meds and he has some minor pain, but no major symptoms. His age is 78 years old. We have talked to a couple of oncologists and oncosurgeons and are getting two schools of thoughts: 1. Get him on chemo (and maybe additional Hormone) and that will help both his pain but also might lengthen his lifespan 2. Given his age - don't treat the PSA - but treat his symptoms. If he is not in pain, wait till the pain comes and then manage pain through Hormone first and then evaluate Chemo. The thought here is Chemo at his age will really have a lot of side effects and will impact his quality of life quite a bit without really lengthening the lifespan dramatically. The opinion really was neither will cure the cancer completely. We might use localized radiation to manage pain at some point in time as well. So the goal is to manage the pain / quality of his life as well as use the optimum treatment to lengthen the lifespan as much as possible. Given the background, I had a couple of questions - any experiences or recommendations will help us determine the course of action: a. The general presumption is that Chemo has tons of side effects at that age - I presume it has gotten better over years, but we are not sure if we should go to chemo immediately or wait. b. I have read up on immunotherapy and it sounds promising, but at this advanced stage - there didn't seem like an option. Any trials that are worth considering? c. Any experiences on what is the standard approach in US in this stage. I am in US, while my dad (and siblings) are in India. At this point we are a confused about the next step and whether we go aggressive or manage to his quality of life. Probably no silver bullet, but the path forward seems blurry. Thanks in advance for your help. Also I am new to the forum so if I can provide any other info - please let me know. thx",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> His age is 78 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 78
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "Prostate",
+              "testosterone"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47516-Prostate-with-bone-metastases-castrate-resistant-Next-steps?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate with bone metastases - castrate resistant - Next steps?"
+    },
+    {
+      "AuthorID": "p_shah",
+      "AuthorURL": "https://www.cancerforums.net/members/118920-p_shah?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks Chuck and BigSkyGuy. @Chuck - The PSA was at 12 originally (gleason was 9). I guess that is still low for amount of spread, but it is what it is. I will keep checking for any new inputs. Appreciate the help",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "24/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47516-Prostate-with-bone-metastases-castrate-resistant-Next-steps?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate with bone metastases - castrate resistant - Next steps?"
+    },
+    {
+      "AuthorID": "p_shah",
+      "AuthorURL": "https://www.cancerforums.net/members/118920-p_shah?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks @newporter for the articles and your thoughts...",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "25/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47516-Prostate-with-bone-metastases-castrate-resistant-Next-steps?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate with bone metastases - castrate resistant - Next steps?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> <Z> His age is 78 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 78
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 535
+}

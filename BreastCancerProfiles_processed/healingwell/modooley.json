@@ -1,0 +1,127 @@
+{
+  "AuthorID": "modooley",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3807011&p=250409",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "easy",
+      "pleased",
+      "brave",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "2",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "modooley",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3807011&p=250409",
+    "Content": " My mother in law was just diagnosed with Invasive ductal carcinoma Grade 3.. she is also a triple negative. She is 69 years old.\nShe is having a PET scan soon and will have her port put in at the end of this month. Chemo will start shortly after. \nWe have ordered her a wig but I'm not sure what else we need to do to prepare. I've looked up all the information the dr's have given me and printed it out for mom to understand. she is being very brave but I want to make sure I can do my best to make this journey easy for her. \nIf you have any good tips, please share. \nI'm currently battling lyme disease and reading long pages of info is very difficult but I will start reading through the intro on this forum. \nThank you and hugs to all the people and their family fighting cancer. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> She is 69 years old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 69
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mother",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mother"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "08/03/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3807011",
+    "Title": "New here- My mother in law has breast cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> She is 69 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 69
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 168
+}

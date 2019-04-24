@@ -1,0 +1,121 @@
+{
+  "AuthorID": "luk4dgudnit",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2343296&p=131746",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "comfortable",
+      "comforted",
+      "willing",
+      "sore",
+      "alarmed",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "luk4dgudnit",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2343296&p=131746",
+    "Content": " Hello Englishtea,\nYou should ask for a needle biopsy if that will comfort you. Stress can make it worse if its more than just a cyst. Doctors tampered with my left breast and removed cysts/lumps on four occasions and my breast is still sore now after three years. I sometimes want to cut it off myself and call it a day. But, I do believe if the cysts were alarming to the physicians they would tell you. Sometimes those cysts could be fibrous breast tissue at least that what they told me. I know there may not be any concrete proof out there but I stopped drinking any soda, eating chocolate/caffeine and the cyst have been absent for the last three years. It can be scary but worrying or stressing can definitely make it worse. My prayers are with you!\nluv4myself&people ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 2,
+    "PostDate": "25/02/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2343296",
+    "Title": "Do I have anything to be worried about?? Because i am WORRIED!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 143
+}

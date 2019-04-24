@@ -1,0 +1,160 @@
+{
+  "AuthorID": "gkwhisler",
+  "AuthorURL": "https://www.cancerforums.net/members/118802-gkwhisler?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "gkwhisler",
+      "AuthorURL": "https://www.cancerforums.net/members/118802-gkwhisler?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I actually was diagnosed in September of 2014 by Biopsy (2 of 10 samples one 5% the other 20% = Gleason 3+3) I had an MRI last April which did not show anything significant. I had my second biopsy yesterday and will get the results in 2 weeks. I am 55, very active (50 marathons and just ran 2 50 mile events). Do I need to have treatment to remove my prostate and if I do how long will I be laid up? Even though I have researched things some I am still very confused about all of it. I am told most people die with PC and not of PC.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 55  very active  50 marathons and",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47474-Have-PC?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Have PC"
+    },
+    {
+      "AuthorID": "gkwhisler",
+      "AuthorURL": "https://www.cancerforums.net/members/118802-gkwhisler?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I actually was diagnosed in September of 2014 by Biopsy (2 of 10 samples one 5% the other 20% = Gleason 3+3) I had an MRI last April which did not show anything significant. I had my second biopsy yesterday and will get the results in 2 weeks. I am 55, very active (50 marathons and just ran 2 50 mile events). Do I need to have treatment to remove my prostate and if I do how long will I be laid up? Even though I have researched things some I am still very confused about all of it. I am told most people die with PC and not of PC.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 55  very active  50 marathons and",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47474-Have-PC?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Have PC"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 55  very active  50 marathons and",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 55
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 230
+}

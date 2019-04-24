@@ -1,0 +1,177 @@
+{
+  "AuthorID": "Vick",
+  "AuthorURL": "https://www.cancerforums.net/members/114176-Vick?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "glad",
+      "kind",
+      "surprised",
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 4.8,
+    "min": 4.8,
+    "scores": [4.8]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Vick",
+      "AuthorURL": "https://www.cancerforums.net/members/114176-Vick?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks guys. Glad I found this site. Allen",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "07/01/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/42384-Just-diagnosed-with-Prostate-Cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Just diagnosed with Prostate Cancer."
+    },
+    {
+      "AuthorID": "Vick",
+      "AuthorURL": "https://www.cancerforums.net/members/114176-Vick?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Just diagnosed with Prostate Cancer. My PSA was 4.8 on 9/16/14, on 12/12/14 biopsy 12 samples. 12/30/14 I received the call - Prostate Cancer. I had an appointment for 12/31/14 at 9:00 AM, but he just had to tell me at 7:00 the night before. 3 of the specimens were cancerous, all 3 were 3+3=6, 1 had 3% and 2 had 10% cancerous cells in the sample. They said mine was not enlarged, and I actually went to the Urologist to have mine shaved, as I had urinary and ED issues. (I am also type 2 diabetic). Dr. said we would talk after biopsy, which kind of was a surprise, as I thought I was fine, and the shaving procedure was all I needed - jokes on me! Anyway, it seems like mine is minimal, but I have an appointment with a Radiologist Oncologist this Friday, and an appointment with a surgeon on February 2nd. The more I research, the more confused I get. by the way, I am 61, will be 62 in February, and still work full time (45 - 50 hours a week - my company). Any suggestions?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.7,
+            "Phrase": "<Z> <Z> <Z> <Z> 12 30 14 I received the call",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 30
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "by the way  I am 61  will be 62 in February",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 61
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "I am 61  will be 62 in February  and still work",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 62
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/01/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/42384-Just-diagnosed-with-Prostate-Cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Just diagnosed with Prostate Cancer."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "by the way  I am 61  will be 62 in February",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 61
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Erectile dysfunction"],
+    "SideEffectTypeKeywords": ["ED"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 214
+}

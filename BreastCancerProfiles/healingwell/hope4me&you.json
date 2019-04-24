@@ -1,0 +1,129 @@
+{
+  "AuthorID": "hope4me&you",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2472570&p=151057",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "blessed",
+      "thoughtful",
+      "hopeful",
+      "nervous"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "hope4me&you",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2472570&p=151057",
+    "Content": " so my first day. I only take one med (zoloft), hysterectomy 2011 but still have ovaries. As I am reading this its making me nervous. The last 2 to 3 weeks I too thought I pulled a muscle in my left breast because of moving....but now I am re thinking....I had my last mammo 8/2011, I have had dense tissue in my right breast for nearly 7 years with no change. But like I said the last two to 3 weeks have been having this burning sensation that last a few seconds or up to a min of very odd to explain sensation. I had shingles back in 1996 and that is the same sensation I am having in my left breast but no signs of that...but the sensation of the burning is there. I even noticed that if I brush it up against something or remove my bra that sensation happens. I can bring it on, it just doesnt happen on its own. Can you repost what steps I should be talking to my physician about\n: I dont want to miss something Im not familiar with when discussing this with my dr.\nThere is no family history and do annual Mammo's....so now I am freaked out. Im almost 46 I am hoping its nothing but want as much info as I can so the dr. doesnt blow me off either...\nThanks everyone any help or suggestions would help *(and no recent illness or current illness either)\nblessings..... ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> Im almost 46 I am hoping its nothing",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 46
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hysterectomy",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "25/07/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2472570",
+    "Title": "(No Subject)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Im almost 46 I am hoping its nothing",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 46
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["burning"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 257
+}

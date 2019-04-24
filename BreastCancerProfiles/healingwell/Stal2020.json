@@ -1,0 +1,186 @@
+{
+  "AuthorID": "Stal2020",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2635235&p=163606",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "thoughtful",
+      "excited",
+      "hopeful",
+      "willing",
+      "annoyed",
+      "aggressive",
+      "aggressive",
+      "dominated",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "1.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Stal2020",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2635235&p=163606",
+      "Content": " I have a few questions, well really one. I know that most of you are going through way more than I can imagine; I really hope I am not annoying anybody with questions that probably have the only answer of I will have to wait to see my surgeon.\nFirst a little history, I am 38 years old (female), I have had to get mammograms since I was 22 because of a strong family history on both my mom and dad\u2019s side of the family. My mom and both of my grandmothers have had and survived breast cancer. My dad passed in June of lung cancer at 57 years old. My mom had breast cancer at 41. My sister is now going through the same work up I am, her routine mammo came back abnormal. I am on HRT (when I remember to take them) because I have had a fulll Hysterectomy because of precancerous cells.\nI did regular mammo\u2019s until November 2009; the radiologist stated I did not have to come back for 5 years. I thought that was odd, but I was excited, I almost felt \u201cnormal.\u201d A month ago I felt a lump in my breast, it feels like a piece of rice, does not move, and is hard. I went to the doctor; he immediately made an appointment with a surgeon and sent me for the diagnostic mammo. The Radiologist did an ultra sound after the mammo. It is abnormal and the report I receive says: \nThe breasts are moderately dense bilaterally. Some parenchymal asymmetry is seen. No dominant speculated mass or suspicious grouped calcifications are seen. \nTargeted left breasts ultrasound was performed and shows a 6X3X6 mm region of slightly indistinct margins, slightly lobular in appearance, at the 1 o\u2019clock position left breast in the region of stated palpable abnormality.\nIMPRESSION: Hypoechoic non-simple cystic mass at the 1 o\u2019clock position left breast, best seen on sonography, but not seen on mammography. The possibility of a complicated cyst or small tissue neoplasm is considered. Further evaluation with tissue sampling is suggested.\nBIRAD-4\nI do see the surgeon Thursday. I guess I was expecting a biopsy and aggressive action, which they have done, but I was not expecting the report I received. I keep telling myself that most of the time it is benign and it most likely will be benign, but I am concerned. Is this a serious report or does it look scarier than it is and it is a standard for an abnormal result. I hope I am making sense. ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "a little history  I am 38 years old  female   I have",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 38
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "get mammograms since I was 22 because of a strong family",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 22
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "June of lung cancer at 57 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 57
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "mom had breast cancer at 41  My sister is now going",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 41
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "Hysterectomy",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/02/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2635235",
+      "Title": "Another concerned newbie"
+    },
+    {
+      "AuthorID": "Stal2020",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2635235&p=163606",
+      "Content": " I am scheduled with a surgeon on Thursday and of course I was told he would do a BX. Should I call the doctor that ordered the diagnostic mamma and request a MRI or a CAT scan prior to Thursday, so the surgeon has them? Thank you!! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "04/02/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2635235",
+      "Title": "Another concerned newbie"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "a little history  I am 38 years old  female   I have",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 478
+}

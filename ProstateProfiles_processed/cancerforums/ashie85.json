@@ -1,0 +1,156 @@
+{
+  "AuthorID": "ashie85",
+  "AuthorURL": "https://www.cancerforums.net/members/106675-ashie85?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "anxious",
+      "aggressive",
+      "aggressive",
+      "bad",
+      "anxious",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 3,
+    "min": 3,
+    "scores": [3]
+  },
+  "Posts": [
+    {
+      "AuthorID": "ashie85",
+      "AuthorURL": "https://www.cancerforums.net/members/106675-ashie85?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you. He has just turned 63.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> He has just turned 63 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "24/09/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33891-My-dad-has-stage-4-prostate-cancer-(?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My dad has stage 4 prostate cancer :("
+    },
+    {
+      "AuthorID": "ashie85",
+      "AuthorURL": "https://www.cancerforums.net/members/106675-ashie85?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, My names Ashleigh. My Dad found out last week that he has stage 4 prostate cancer. It is a shock to myself and my family as there has been no family history and has come out of the blue. I am feeling quit anxious as he started his drugs on Monday and we have to wait for 3 months to see if they are working. Unfortunately it has spread to his spine and his arm. He is on a morphine patch atm as the pain in his lower back is really bad. He is also taking other pain medication aswell. I am finding all the info that I am reading quit over whelming as I know nothing about prostate cancer. He had a PSA reading on 3 at his last prostate check 20months ago and it is now at 266. He didn't have a Gleason score done as they know it is aggressive because he had xrays, blood tests and an MRI done. Is anyone able to give me honest facts about this disease. My mum and dad live 4 hours away and I don't want to keep txting and ringing my mum with questions about this when she is obviously dealing with it aswell. Thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/09/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33891-My-dad-has-stage-4-prostate-cancer-(?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My dad has stage 4 prostate cancer :("
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> He has just turned 63 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 63
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 224
+}

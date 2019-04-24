@@ -1,0 +1,156 @@
+{
+  "AuthorID": "Mamen",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=208646&p=13792",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pained",
+      "pained",
+      "thrilled",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Mamen",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=208646&p=13792",
+      "Content": " Hi, I am a new member and I would like some advice. I am 29 years old and I went to Hospital because I had a lump on my breast and after a revision and an ultrasound I was found at least 7 or eight cysts!. Most of them were 5 and 6mm and I've got a larger one wich it should be 7/8mm. I was told they were all cysts and they were common in young girls. The doctor said it was hormonal. I asked the doctor if my irregular periods could be the cause and he said that it was probable and that i had to come back to my clinic and had that seen by my GP becuase they don't specialize in this!.\n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 29 years old and I went",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 29
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "periods"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=208646",
+      "Title": "new member: Painful cysts"
+    },
+    {
+      "AuthorID": "Mamen",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=208646&p=13792",
+      "Content": " Dear friends,\nTHANK YOU ALL. I am thrilled to get so many replys and so quickly!!!. I think this forum really is useful. I am going to get an appointment with my doctor and ask for a copy of the ultrasound and consult and ask for a second opinion (may be when I go to Spain, back @ home you feel more safe!). I'll also try to cut down caffein, let's hope I don't fall sleep!\nAs soon as I know anything I will let you know. Thank you so much! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "09/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=208646",
+      "Title": "new member: Painful cysts"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 29 years old and I went",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 29
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 227
+}

@@ -1,0 +1,154 @@
+{
+  "AuthorID": "wagirl",
+  "AuthorURL": "https://www.cancerforums.net/members/55838-wagirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sure",
+      "bad",
+      "panic",
+      "easy",
+      "free",
+      "kind",
+      "free",
+      "comfy",
+      "free",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1.5",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "wagirl",
+      "AuthorURL": "https://www.cancerforums.net/members/55838-wagirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I don't know any thing about the likelihood of both breasts being involved at the same time, but do know about being totally freaked out. I guess you just need to follow up with all the tests there are to find out. I had a sizable lump in my \"bad\" breast that was very apparent but during a MRI mammo there were a couple other spots in the good breast and still a couple more in the \"bad\" breast. All were tested during a MRI biopsy and only the original one was the nasty little cancer zombie; the other spots were cleared. I didn't have any cancer history in my family either. My last normal mammo cleared me in June of 2011 and I was diagnosed in April of 2012 with cancer. Try not to panic until you are sure. Yah right!!! Good luck to You!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "13/10/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/25933-A-couple-of-questions?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "A couple of questions"
+    },
+    {
+      "AuthorID": "wagirl",
+      "AuthorURL": "https://www.cancerforums.net/members/55838-wagirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I have 3 wigs that I wear anytime I go out in public or if we have guests at home. All are very comfy and natural looking and near the same color as my hair used to be. the styles are a little different. they are easy to comb and wash and I had my hairdresser trim them up for me too. My insurance paid for one wig and then I got the others from my hospitals cancer resource center for free. Its kind of fun to wear them and it really makes a difference in how I see myself. I would go to a good wig shop with a couple friends and try them on. Take your time. I did all this way before I lost my hair. I also wear hats and scarves at home and to chemo.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "13/10/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21886-How-much-did-you-use-your-wig-during-hair-loss-chemo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How much did you use your wig during hair-loss chemo?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 288
+}

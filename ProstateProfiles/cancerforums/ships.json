@@ -1,0 +1,132 @@
+{
+  "AuthorID": "ships",
+  "AuthorURL": "https://www.cancerforums.net/members/125186-ships?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "willing",
+      "alone"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 72.5,
+    "min": 72.5,
+    "scores": [72.5]
+  },
+  "Posts": [{
+    "AuthorID": "ships",
+    "AuthorURL": "https://www.cancerforums.net/members/125186-ships?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "My dad (age 58 years) was diagnosed with Stage IV prostate cancer 2 weeks ago. He also has DVT and he is on Clexane 0.6mg twice a day. Doctor had immediately started Caluran 50mg thrice a day after biopsy was done. His PSA reduced from 72.5 to 60 after medication. His gleason score is 9 (4+5) Doctors suggested hormonal treatment and we chose to go through medication (inj. Degarelix). Doctors say they will start chemotherapy along with hormonal treatment for better results. They say we have an option of going with the drug called 'Abiraterone' instead of chemotherapy at some point body would stop responding to this drug and then chemotherapy has to be given. I would request answers to the following questions: 1. What is the approximate time period for which body can respond to this drug Abiraterone? 2. Is there a possibility that this drug is alone sufficient in the long run and there would not be any need to chemotherapy? 3. Going with the doctor's comments that chemotherapy would be required later, is there a possibility that our research takes a leap forward and we won't need chemotherapy anymore and instead medication would be sufficient? 4. What is a better option to take at this time, chemotherapy or medication with Abiraterone, considering patient is ready for either. Current medications: 1. Degarelix 240mg was taken once 2 days ago for the first time. 2. Inj. Clexane 0.6mg twice a day 3. Urimax tab. 4. Bond 7 tab. (calcium tablets) 5. Amlo 5mg (for BP) Please give your valuable suggestions and let me know for any further details.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "Prostrate Cancer My dad  age 58 years  was diagnosed with Stage",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 58
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "dad",
+          "NarrationType": "second-person",
+          "PatientGender": "male",
+          "Relation": "dad"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "02/09/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/52300-Advanced-Stage-(Stage-4)-Prostrate-Cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Advanced Stage (Stage 4) Prostrate Cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "Prostrate Cancer My dad  age 58 years  was diagnosed with Stage",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 58
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Clot"],
+    "SideEffectTypeKeywords": ["dvt"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 282
+}

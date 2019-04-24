@@ -1,0 +1,142 @@
+{
+  "AuthorID": "Mama361",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2450092&p=149066",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "touched",
+      "concerned",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Mama361",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2450092&p=149066",
+    "Content": " Hello,\nWell this is my first time on here, but i seriously need advice. For the past few years i have struggled with right breast pain and at times mainly a burning sensation. The pain usually is the right breast area and sometimes up and around the shoulder. Now I do have a lump on my right breast that was diagnosed as a fibrocystic cyst. My doctor suggests to lay off the coffee, tea, and chocolate, even though my mother of 48 at the time, was dx with breast cancer and underwent a left mastectomy, he felt no cause for concern. There has been a few times I have had a pain in my nipple and when i went to touch it i felt a small pimple like lump that was very painful. My first reaction was to squeeze, and when i did i felt a pop and blood with pus secreted out. I have mentioned this as well but he said if it happened again let him know. I cant ger over what i feel and am very worried. I am 27 and my doctor says I am too young to wory a\nbout this..any suggestions?.. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.9,
+          "Phrase": "even though my mother of 48 at the time  was dx",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 48
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 27 and my doctor says I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 27
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "25/06/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2450092",
+    "Title": "Breast pain and burning sensation"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 27 and my doctor says I",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 27
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 203
+}

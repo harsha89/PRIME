@@ -1,0 +1,134 @@
+{
+  "AuthorID": "RM",
+  "AuthorURL": "https://www.cancerforums.net/members/519-RM?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "smart",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "RM",
+    "AuthorURL": "https://www.cancerforums.net/members/519-RM?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My wife's mother may (probably) has breast cancer. She lives in Dryden NY which is outside of Ithaca in Upstate NY. Are there any good diagnostic breast cancer centers or hospitals in the area? I want to make myself smart on the topic and also get her the best care possible. Any suggestions? She is about 61 or 62, and has had the lump in her breast for at least 2 years. She doesn't go to get regular checkups, and missed her 6 month checkup because section 8 wouldn't pay the bill for it. Now there appears to be spreading to under the arm. We are assuming it metastisized into lymph nodes. How bad is this? Anything we can do? We live in RI, but are not averse to travelling..",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> She is about 61 or 62  and has had",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 61
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "She is about 61 or 62  and has had the lump",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mother",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mother"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "16/04/2005",
+    "Signature": "Looking for info for mother in law",
+    "ThreadURL": "https://www.cancerforums.net/threads/817-breast-cancer-care?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "breast cancer care"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> She is about 61 or 62  and has had",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 61
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 136
+}

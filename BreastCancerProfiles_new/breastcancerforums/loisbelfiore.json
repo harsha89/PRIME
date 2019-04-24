@@ -1,0 +1,122 @@
+{
+  "AuthorID": "loisbelfiore",
+  "AuthorURL": "https://www.cancerforums.net/members/111179-loisbelfiore?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "approachable",
+      "great",
+      "optimistic",
+      "optimistic",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "2",
+      "POSITIVE": "3",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "loisbelfiore",
+    "AuthorURL": "https://www.cancerforums.net/members/111179-loisbelfiore?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "In response to the query re breast cancer that has spread to sternum,,I have plenty of experience with that. Originally diagnosed in 2002, I had 6 years on Tamophen that kept the little stinker at bay. But it returned in 2008. I have had metastic cancer for 6 years and it was first spotted in the lymph node behind the sternum. First approach was hormonal therapy (which didn't work for me), at which time it spread to lung. I was put on Xeloda (which did work for me for almost 3 years). Unfortunately it showed up again in sternum area. Then I had it surgicaly removed ( because it was the only site evidenced in the pet scans). That worked for about 1 year then it came back again. This time it was resting on the sternum and causing some bone damage. I was then placed on Xeloda again, this time it did not work. I had an \"ablation\" which is a radiation procedure. That seemed to do it ---but it returned again in the same spot---the lymph node behind the sternum. It was no where else at that time. I was placed on another oral chemo, which did not work and again it spread to the lung. I am now on Navelbine, which is a intravenous chemo. I hope it works.....I'll know the next Pet scan. My understanding is that the cancer has changed its histology - like a bacteria- so it is very hard to decide what will work over time. My oncologist is great but no one knows how or who will respond to treatment-----just keep trying----there are new drugs all the time. It is hard but I try to \"keep the faith\". I feel good most of the time so I am optimistic. It is not anywhere else. good luck to you .",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "21/05/2014",
+    "ThreadURL": "https://www.cancerforums.net/threads/38715-Hello-everyone?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Hello everyone."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 313
+}

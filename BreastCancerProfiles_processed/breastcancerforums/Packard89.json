@@ -1,0 +1,144 @@
+{
+  "AuthorID": "Packard89",
+  "AuthorURL": "https://www.cancerforums.net/members/104078-Packard89?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "hopeful",
+      "nervous",
+      "shaky"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Packard89",
+      "AuthorURL": "https://www.cancerforums.net/members/104078-Packard89?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I hope it's ok for me to do this.....I do not have cancer, one of my best friends does. She has stage 2 and underwent a double mastectomy almost a month ago. She had her 1st chemo treatment almost a week ago and is feeling very shaky and nauseous. She was prescribed meds for the nausea but they're not helping a whole lot. The reason I'm posting is because I feel helpless, I don't know what to do or say. I check on her every day, try to say positive things to her. Can someone advise me? Also, I volunteered to be her chemo buddy on June 14th. I'm planning on bringing my laptop so we can watch movies, crossword puzzles, cards, etc.....anything to keep us busy. Any other ideas would be appreciated. I'm really nervous about going with her, her sister went for her 1st treatment and there were a couple of scary events that took place, an ambulance had to be called which set off a chain reaction with some of the ladies there. Any advise would be greatly appreciated. Thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "friend",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "friend"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31599-My-best-friend-has-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "My best friend has breast cancer."
+    },
+    {
+      "AuthorID": "Packard89",
+      "AuthorURL": "https://www.cancerforums.net/members/104078-Packard89?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you so much. That's what I needed to hear.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "30/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31599-My-best-friend-has-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "My best friend has breast cancer."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 209
+}

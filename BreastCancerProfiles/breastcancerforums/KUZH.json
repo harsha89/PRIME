@@ -1,0 +1,133 @@
+{
+  "AuthorID": "KUZH",
+  "AuthorURL": "https://www.cancerforums.net/members/2125-KUZH?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "hopeful",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "KUZH",
+    "AuthorURL": "https://www.cancerforums.net/members/2125-KUZH?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "i am a 15 year old male. please help me im worried about a lump under my right nipple and am hoping it is not cancer. it feels about 2-3 cm in diameter and is just a dense mass under my right nipple. my other one is fine and is soft. http://img101.imageshack.us/img101/7...plehelp1jj.png thats a diagram i drew. please help me thanks.",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> DOCTORS HELP  can a 15 year old boy get BREAST",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 15
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "BREAST CANCER   i am a 15 year old male <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 15
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["BREAST"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "17/04/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/2814-DOCTORS-HELP-(can-a-15-year-old-boy-get-BREAST-CANCER-)?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "DOCTORS HELP (can a 15 year old boy get BREAST CANCER?)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 80
+}

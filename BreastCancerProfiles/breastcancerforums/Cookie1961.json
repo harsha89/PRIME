@@ -1,0 +1,130 @@
+{
+  "AuthorID": "Cookie1961",
+  "AuthorURL": "https://www.cancerforums.net/members/113527-Cookie1961?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "great news",
+      "loving",
+      "loved",
+      "thoughtful",
+      "willing",
+      "bitter",
+      "alone",
+      "crushed",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "2",
+      "HELPLESS": "1",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 3,
+    "min": 3,
+    "scores": [3]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Cookie1961",
+    "AuthorURL": "https://www.cancerforums.net/members/113527-Cookie1961?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Back in 2011, I was presented to Northwick Park Hospital in Harrow with severe back pain, bilateral lower limb paraesthesia and weakness as well. An urgent MRI scan confirmed spinal cord compression thanks to a tumour compressing on my spinal cord!! I was then transferred to Charing X for urgent decompressive laminectomy under the neurology department. Further investigation by the Oncology team showed that I had further cancer tumours in my body. I had multiple lucencies throughout the visualised skeleton in keeping with metastatic deposits, large soft tissue lesion seet a the level 9 and 10 with destruction. Basically two of my vertebrae had been crushed by the cancer and that filled me with horror. I was trying to digest I had cancer let alone secondary cancers to deal with as well. It was a bitter blow indeed. It seems I am confirmed with G3 adenocarcinoma (iDC) from a breast cancer primary, ER/PR positive, HER2 negative (CA - 15-3-36 on 29/12/2011, 30 on 15/1/2012). Within the space of 48 hours my world had been turned upside down and I faced 6 weeks in hospital in Oncology being treated for my primary and secondary cancers. It is a time I wish on no one. Then if that wasn't enough, they said I had terminal cancer, too many cancer cells were in my body to be treated and therefore I could never be in remission. I feel I could have dealt with the breast cancer but then to have secondary ones which had taken hold of my insides and to be told the little critters were terminal too was too much. Mind I will always remember Professor Stebbings bounding into my cubicle to say \"Great News, we know what it is?\" My heart lifted and then he said, it can be treated, its oestrogen based and is breast cancer. I thought oh well, the long road does begin. I am still on that road. How do you guys out there cope with your secondary cancers? I would love to know.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "13/11/2014",
+    "ThreadURL": "https://www.cancerforums.net/threads/41652-Dealing-with-secondary-breast-cancer(s)?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Dealing with secondary breast cancer(s)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 351
+}

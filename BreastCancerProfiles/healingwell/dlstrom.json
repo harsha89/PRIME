@@ -1,0 +1,129 @@
+{
+  "AuthorID": "dlstrom",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1299443&p=142895",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "close",
+      "caring",
+      "willing",
+      "free",
+      "secure",
+      "alone",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "2"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "dlstrom",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1299443&p=142895",
+    "Content": " i just read your post today, due to the search on hematoma after a normal breast biopsy. i had the preventative biopsy on Tuesday 3/20/12 and now have a golf ball sized painful hematoma that the nurse and doctor don't seem to care about\n. i went into the biopsy pain free with normal breast and have come out with a painful huge lump. i am very tall and have very small breasts. I am a \"nearly A\". they made me \"hold perfectly still\" because i didn't have enough mass to make the clamps close to secure the breast during biopsy. no one cared about\n that either. it was the most painful thing i've ever had done. and this is preventative???? you went through worse and now i worry i will be on the same path. i appreciate your post. i am not alone. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 2,
+    "PostDate": "24/03/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1299443",
+    "Title": "Resources to help painful hematoma 9 mos after sterotactic biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 148
+}

@@ -1,0 +1,131 @@
+{
+  "AuthorID": "aalwood",
+  "AuthorURL": "https://www.cancerforums.net/members/117697-aalwood?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "willing",
+      "sure",
+      "scared",
+      "desperate"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 53,
+    "min": 53,
+    "scores": [53]
+  },
+  "Posts": [{
+    "AuthorID": "aalwood",
+    "AuthorURL": "https://www.cancerforums.net/members/117697-aalwood?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I am here with a million questions. I work for a doctor who just ran labs on my husband who is 56. His PSA came back 53 and they found a \"growth\" in his pelvic region on U.S. We are headed to the Urologist Friday and I am sure we will be doing a biopsy STAT. Anyone here had levels that high? My boss ( his doctor) has thrown around a few things but I think they are protecting me and being careful what they say. Cancer that has spread is 1, Enlarged prostate is another and several different scenarios. HELP! My husband is in denial still and says, \" we will see\".... Desperate to talk to anyone...",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "on my husband who is 56 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 56
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/11/2015",
+    "ThreadURL": "https://www.cancerforums.net/threads/46266-So-scared-with-PSA-at-53!!!-(no-not-5-3)?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "So scared with PSA at 53!!! (no.. not 5.3)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "on my husband who is 56 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 127
+}

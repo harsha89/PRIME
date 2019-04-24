@@ -1,0 +1,1753 @@
+{
+  "AuthorID": "Jennifer2",
+  "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "encouraged",
+      "caring",
+      "concerned",
+      "willing",
+      "worried",
+      "pained",
+      "pained",
+      "concerned",
+      "terrible",
+      "lost",
+      "alone",
+      "pained",
+      "pained",
+      "understanding",
+      "hopeful",
+      "sure",
+      "terrible",
+      "ok",
+      "concerned",
+      "hopeful",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "understanding",
+      "caring",
+      "understanding",
+      "glad",
+      "thoughtful",
+      "hopeful",
+      "aggressive",
+      "aggressive",
+      "understanding",
+      "aggressive",
+      "aggressive",
+      "miserable",
+      "pained",
+      "pained",
+      "hurtful",
+      "understanding",
+      "aggressive",
+      "aggressive",
+      "miserable",
+      "pained",
+      "pained",
+      "hurtful",
+      "tired",
+      "understanding",
+      "caring",
+      "willing",
+      "decisive",
+      "pained",
+      "exhausted",
+      "pained",
+      "understanding",
+      "peaceful",
+      "hurtful",
+      "tired",
+      "understanding",
+      "caring",
+      "willing",
+      "decisive",
+      "pained",
+      "exhausted",
+      "pained",
+      "understanding",
+      "peaceful",
+      "hurtful",
+      "certain",
+      "willing",
+      "certain",
+      "decisive",
+      "sure",
+      "caring",
+      "comfortable",
+      "comforted",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "terrible",
+      "pained",
+      "pained",
+      "comfortable",
+      "comforted",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "terrible",
+      "pained",
+      "pained",
+      "hateful",
+      "terrible",
+      "comfortable",
+      "comforted",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "terrible",
+      "pained",
+      "pained",
+      "caring",
+      "hateful",
+      "aggressive",
+      "aggressive",
+      "miserable",
+      "terrible",
+      "alone",
+      "strained",
+      "affected",
+      "hopeful",
+      "willing",
+      "terrible",
+      "sure",
+      "great",
+      "thoughtful",
+      "hopeful",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "terrible",
+      "tired",
+      "sure",
+      "great",
+      "thoughtful",
+      "hopeful",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "terrible",
+      "tired",
+      "caring",
+      "hateful",
+      "aggressive",
+      "aggressive",
+      "miserable",
+      "terrible",
+      "alone",
+      "strained",
+      "affected",
+      "hopeful",
+      "willing",
+      "terrible",
+      "understanding",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "sure",
+      "worried",
+      "amazed",
+      "caring",
+      "concerned",
+      "fighter",
+      "alone",
+      "nice",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "decisive",
+      "hateful",
+      "terrible"
+    ],
+    "Emotions": {
+      "AFRAID": "0.059",
+      "ALIVE": "0",
+      "ANGRY": "0.529",
+      "CONFUSED": "0.029",
+      "DEPRESSED": "0.529",
+      "GOOD": "0.265",
+      "HAPPY": "0.088",
+      "HELPLESS": "0.235",
+      "HURT": "0.412",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.441",
+      "LOVE": "0.324",
+      "OPEN": "0.353",
+      "POSITIVE": "0.676",
+      "SAD": "0.412",
+      "STRONG": "0.382"
+    }
+  },
+  "GleasonInfo": {
+    "max": 10,
+    "min": 10,
+    "scores": [10]
+  },
+  "NExperiencePosts": 34,
+  "NPosts": 34,
+  "PSAInfo": {"scores": [30]},
+  "Posts": [
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks Mike for sharing your story. My dad was diagnosed with Gleason 10 Prostate Cancer 1 year ago. This past January we found he now has Small Cell Carcinoma Prostate Cancer. Prior to that the cancer had spread to his bones: spine, ribs, back along with lymph nodes and his entire pelvic region. He doesn't understand what he has other than just prostate cancer. He is now opting for back surgery in 2 weeks because he thinks it will help with back pain. None of his doctors want him to have the surgery but he is not listening. He thinks it will help, and it may but I am concerned that it will spread the cancer. They are going in to drill out some of his spine as the fluid is not draining properly and is causing him pain. He is 73 years old. Any advice here? I know he is in so much pain so I understand him wanting to do what he can but I am worried about him even having the surgery and coming out. I am encouraged that you have done so well as with most small cell information I can find is not very positive in nature. On a side note, my dad is on palliative care. He does not handle chemo well as a year ago it almost killed him. Now he is on hormone shots and xtandi.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 73 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 73
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/04/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50693-Small-Cell-Prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Small Cell Prostate"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My father was diagnosed with prostate cancer one year ago. (Gleason 10) It had metastasized to a couple of ribs, some lymph nodes, a small part of his back, his bladder and much of his pelvic region. He was able to do a couple of rounds of chemo before it made him so sick we nearly lost him. After those rounds of chemo the areas that had metastasized no longer showed on his bone scan. That last scan was done last summer. We found out now, two weeks ago, he now has small cell carcinoma. They did surgery a few weeks ago to remove part of his cancer from his pelvis as he was having trouble urinating. Those pathology results showed the small cell carcinoma. This week, they did another bone scan and all of the areas that showed cancer that had gone, have now returned. Has anyone had experience with small cell carcinoma? This is very scary as everything I read is not good. They said they can help him with pain using radiation but that is about it. They also told him to stop taking his xtandi a week ago but now tell him if he wants he can take it but it is up to him. His mind is not always right but the scans show no brain cancer. His balance is terrible and he is losing weight because he is not hungry. Does anyone have advice here? He lives alone and we are so very concerned about him daily but thank goodness he is not far away.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "02/03/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50325-Small-cell-carcinoma-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Small cell carcinoma prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad has been holding steady. He really has no idea what he has for sure. He doesn't understand that he has small cell carcinoma. He is in denial about most of the cancer things going on with his body. Today however, he is feeling terrible. We are meeting with the oncologist tomorrow. I know that Chemo is off of the table. At this pointe it is just the HRT treatment and xtandi. Neither of which I believe are helping his cancer. I hope to get more information tomorrow.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "27/03/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50325-Small-cell-carcinoma-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Small cell carcinoma prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is 74 years old. I can't recall his initial PSA but I believe it was in the 30's range. It has never been really high. Right now it is around .08. His first symptoms was that he could not urinate. He had pain when doing so. They did a turp almost immediately. This helped but he did have to self-catheter for some time. He has only had 2 rounds of chemo and will receive no more. He did have stents put in to help as cancer has been in the ureters. The only treatments he has is his hormone shot every 3 months and his xtandi if he so chooses to use it. Other than that just pain meds. Some days his mind is good, others not so much. The siblings take food so that is not a concern. It is just getting him to keep eating as he forgets due to how much he sleeps. Is there any hope out there for men in this situation? I would like to hear from someone who has experience with small cell carcinoma. The Gleason 10 was bad enough. This was a huge blow to us all. I don't think my dad even realizes what he has right now. He thinks if he can get his UTI under control, everything will be ok.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My dad is 74 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 74
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "02/03/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50325-Small-cell-carcinoma-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Small cell carcinoma prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Does anyone else have experience with a Gleason 10 diagnosis? My dad was diagnosed with Gleason 10 just over a year ago. They found the cancer in his ribs, back, lymph nodes, bladder and all over his pelvic region to where things were connected in one mass. These areas have shrunk but he can no longer have any chemo as it was very hard on him so now he is just on palliative care while taking Xtandi and hormone therapy. His PSA was just checked and it is .02, which is awesome news but is this just a smoke screen? He feels fairly well but has ups and downs like a roller coaster. Right now he is at the top and doing pretty well over all but I am just waiting for him to start going down again. He also had a biopsy last January when they removed a mass from his bladder and the radiology report came back stating he had small cell carcinoma. I understand this is about the worst news we could have gotten but he seems to not be having major problems with this. I just am trying to learn everything I can and I can't find much information out there on a Gleason 10 much less on the small cell. Is it possible that the small cell they removed was the only place that it was and that he could be clear of it? Or am I just wishful thinking?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51106-Gleason-10-with-next-to-no-PSA-detected?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 with next to no PSA detected"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "When he was first diagnosed with PC, his PSA was around 30 and never got any higher than that. His urologist said he has only seen 1 other patient with as aggressive prostate cancer in his 25 years of practice. From what I understand the prostate cancer that was in his bladder turned into Small Cell Carcinoma as it is not a new cancer from what I am told. It is all so confusing. His oncologist has never really spoke of what the pathology reports read. I think because he knows it would just destroy my dads hopes. I spoke to the nurse about it and all she said was that she was sorry about what they found. After that, which was back in March, they have never said another word about it. They did say that he could continue to take the Xtandi if he wants to. I thought that was odd. He chose to keep taking it and I am glad he did because it is working from what the PSA shows.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "31/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51106-Gleason-10-with-next-to-no-PSA-detected?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 with next to no PSA detected"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is still fighting hard (2 1/2 years now) after being diagnosed with a very aggressive type of prostate cancer that doesn't really cause much increase in the PSA (his PSA is considered undetectable). He has suffered through many UTI's going septic 3 times, is now on a permanent catheter and underwent heart surgery yesterday receiving 2 stents. His kidney's hurt all of the time and he is miserable most days. Does anyone else have any experience with Keytruda? He takes Xtandi as well along with many pain meds/antidepresents/anti anxiety medication and now blood thinners (14 medicines total). He is not ready to go on hospice and wants to fight this with all that he can. It has metastasized to the ribs/lymph nodes/spine/bladder but after the last scans it shows most of those areas are clear/smaller. I just don't understand why he is still so very sick if things have shown improvement. They now say that his bladder only holds a couple of ounces and that the walls have thickened and gotten tough therefore it has shrunk in size. Has anyone heard of this?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is still fighting hard (2 1/2 years now) after being diagnosed with a very aggressive type of prostate cancer that doesn't really cause much increase in the PSA (his PSA is considered undetectable). He has suffered through many UTI's going septic 3 times, is now on a permanent catheter and underwent heart surgery yesterday receiving 2 stents. His kidney's hurt all of the time and he is miserable most days. Does anyone else have any experience with Keytruda? He takes Xtandi as well along with many pain meds/antidepresents/anti anxiety medication and now blood thinners (14 medicines total). He is not ready to go on hospice and wants to fight this with all that he can. It has metastasized to the ribs/lymph nodes/spine/bladder but after the last scans it shows most of those areas are clear/smaller. I just don't understand why he is still so very sick if things have shown improvement. They now say that his bladder only holds a couple of ounces and that the walls have thickened and gotten tough therefore it has shrunk in size. Has anyone heard of this?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "17/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad started Keytruda last fall and I believe that it has slowed down the progression of his prostate cancer. Only now, I think we are seeing some of the side effects. Either that or his body is just tired of fighting. If you start the Keytruda, I wish you the very best.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "We have gone through his living will. He has been on what they call palliative care from the beginning and won't consider pain management. He will NOT give up no matter what until he can't make decisions any longer for himself. That is what is so hard, he is very stubborn and as long as he thinks they can pull out a miracle, he is not going to stop. I don't know how to explain it. He can sit there and a doctor tell him exactly how things are going, for example, he has a catheter. The catheter can't come out at this pointe because without it he backs up into his kidneys. Even after they told him this, he still says they need to figure out a way to take it out. He only hears what he wants to hear and then wants them to do what he wants them to do and gets angry when it can't get done. If you knew my dad you would understand as he has always been this way. It is making this process so much more difficult. That is our biggest struggle with all of this. It is exhausting.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is 75 years old. From what I understand a new drug is coming out next month that the doctor is looking into trying with my dad but it has not been used yet on humans, only rats. The doctor my dad sees is trying to find a cure for this cancer so he does many clinical trials. My dad can't be cured and we know that. I think this doctor is just buying my dad time but honestly, he is failing and I just wish it would all stop. He now doesn't want to eat and says his stomach hurts and he feels like getting sick. I was told that this is a sign that his body is shutting down but I don't know. It seems like a wild roller coaster ride that I just would end so my dad can be at peace.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My dad is 75 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad started Keytruda last fall and I believe that it has slowed down the progression of his prostate cancer. Only now, I think we are seeing some of the side effects. Either that or his body is just tired of fighting. If you start the Keytruda, I wish you the very best.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "We have gone through his living will. He has been on what they call palliative care from the beginning and won't consider pain management. He will NOT give up no matter what until he can't make decisions any longer for himself. That is what is so hard, he is very stubborn and as long as he thinks they can pull out a miracle, he is not going to stop. I don't know how to explain it. He can sit there and a doctor tell him exactly how things are going, for example, he has a catheter. The catheter can't come out at this pointe because without it he backs up into his kidneys. Even after they told him this, he still says they need to figure out a way to take it out. He only hears what he wants to hear and then wants them to do what he wants them to do and gets angry when it can't get done. If you knew my dad you would understand as he has always been this way. It is making this process so much more difficult. That is our biggest struggle with all of this. It is exhausting.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is 75 years old. From what I understand a new drug is coming out next month that the doctor is looking into trying with my dad but it has not been used yet on humans, only rats. The doctor my dad sees is trying to find a cure for this cancer so he does many clinical trials. My dad can't be cured and we know that. I think this doctor is just buying my dad time but honestly, he is failing and I just wish it would all stop. He now doesn't want to eat and says his stomach hurts and he feels like getting sick. I was told that this is a sign that his body is shutting down but I don't know. It seems like a wild roller coaster ride that I just would end so my dad can be at peace.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My dad is 75 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "19/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54856-Gleason-10-prostate-cancer-and-still-fighting-with-Keytruda?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Gleason 10 prostate cancer and still fighting with Keytruda"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "We had to put my dad in assisted living last October but just a few weeks later we had to make the decision to put him on hospice. Things have been going steady without much change other than his mind, (now they believe the dementia is progressing further). This week the nurse with hospice told us he has ascites in his abdomen. I have never even heard of this. We don't know if it is cancerous because they will not do any testing as he is on hospice. What causes this to happen? When he had his surgery last October to remove his bladder, one kidney and lymph nodes, the pathology reports came back clean. This shocked all of us! We don't believe that means his cancer is all gone but from those areas we were shocked to here they didn't find anything. The last scan he had last fall showed a spot on his liver, could that be the reason for the ascites? Is this easily treated and if so I don't even know that hospice would do it. He thinks he is gaining weight but we are certain it is from the fluid. he has gained almost 10 pound in 2 weeks. Any info on this condition would be appreciated. Thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/02/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56384-My-dad-now-has-Ascites?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My dad now has Ascites"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for all of your input. It really does help to have another outlet. My dad was sent home from the hospital today. He is on antibiotics to continue to treat the infection. They did find though that he had a small heart attack on Sunday. This was not something he wanted to hear at all. I am not so sure where we go to next with treatment. I guess we wait and see what his physicians have to say.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "20/07/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51753-Dad-has-turned-for-the-worse?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has turned for the worse"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad won't even consider hospice care. He is on Xtandi and as long as he is on that, he feels he has a chance of some life yet. He is very stubborn and won't discuss hospice at all. Until his dr takes his meds away, that is off the table.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "18/07/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51753-Dad-has-turned-for-the-worse?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has turned for the worse"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I will keep you in my prayers as we both are going through a similar situation. My dad is almost 74 with the small cell carcinoma. His PSA is almost undetectable but I know that doesn't matter as with the small cell, the PSA does not rise. Chemo is off of the table for my dad. He had it a year ago and although it did shrink the cancer, it nearly killed him. He was getting reoccurring infections from the stents they had placed so that he could urinate better. He was diagnosed a year ago and although we had high hopes for a few more years, that all changed when we found out he had small cell this past January. I know that his doctors are just trying to make him comfortable. They did mention that they could do some radiation to help with pain but he has not opted for that yet. He is now having terrible back pain which he thought was from years of working but I believe it is the cancer. We have an apt with his oncologist tomorrow so I hope to learn more then. I just hope that they can make my dad comfortable so that he can enjoy what time he has left. I don't want them to treat him like a guinea pig and do a bunch of different meds to further their studies. I just want him to be able enjoy life as best as he can and as most comfortably as he can.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> My dad is almost 74 with the small cell carcinoma",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 74
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "27/03/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50489-Prostate-Cancer-Small-cell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer Small cell"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I will keep you in my prayers as we both are going through a similar situation. My dad is almost 74 with the small cell carcinoma. His PSA is almost undetectable but I know that doesn't matter as with the small cell, the PSA does not rise. Chemo is off of the table for my dad. He had it a year ago and although it did shrink the cancer, it nearly killed him. He was getting reoccurring infections from the stents they had placed so that he could urinate better. He was diagnosed a year ago and although we had high hopes for a few more years, that all changed when we found out he had small cell this past January. I know that his doctors are just trying to make him comfortable. They did mention that they could do some radiation to help with pain but he has not opted for that yet. He is now having terrible back pain which he thought was from years of working but I believe it is the cancer. We have an apt with his oncologist tomorrow so I hope to learn more then. I just hope that they can make my dad comfortable so that he can enjoy what time he has left. I don't want them to treat him like a guinea pig and do a bunch of different meds to further their studies. I just want him to be able enjoy life as best as he can and as most comfortably as he can.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> My dad is almost 74 with the small cell carcinoma",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 74
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "27/03/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50489-Prostate-Cancer-Small-cell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer Small cell"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello everyone, I have posted a few times as my dad has Gleason 10 metastasized prostate cancer, he is 74. We found out about this over a year ago and then found out he has small cell carcinoma in January. As of this past weekend he is now in the hospital with a terrible UTI. It has caused problems now with his heart being one of them. They are talking about moving him to another hospital and possibly putting a port into his heart as his ekg came back showing problems and his blood work shows heart trouble as well. I HATE seeing my dad go through this. He is also having trouble breathing now but there has been no confirmation of pneumonia yet. How long does my dad have to suffer. He feels terrible all the time. Sorry for the negative post I just needed an outlet to go to. Jennifer",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "metastasized prostate cancer  he is 74 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 74
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/07/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51753-Dad-has-turned-for-the-worse?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has turned for the worse"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I will keep you in my prayers as we both are going through a similar situation. My dad is almost 74 with the small cell carcinoma. His PSA is almost undetectable but I know that doesn't matter as with the small cell, the PSA does not rise. Chemo is off of the table for my dad. He had it a year ago and although it did shrink the cancer, it nearly killed him. He was getting reoccurring infections from the stents they had placed so that he could urinate better. He was diagnosed a year ago and although we had high hopes for a few more years, that all changed when we found out he had small cell this past January. I know that his doctors are just trying to make him comfortable. They did mention that they could do some radiation to help with pain but he has not opted for that yet. He is now having terrible back pain which he thought was from years of working but I believe it is the cancer. We have an apt with his oncologist tomorrow so I hope to learn more then. I just hope that they can make my dad comfortable so that he can enjoy what time he has left. I don't want them to treat him like a guinea pig and do a bunch of different meds to further their studies. I just want him to be able enjoy life as best as he can and as most comfortably as he can.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> My dad is almost 74 with the small cell carcinoma",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 74
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "27/03/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50489-Prostate-Cancer-Small-cell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer Small cell"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad has very advanced and aggressive prostate cancer. He has had many UTI's and ended up going into septic shock a few weeks ago. After a visit with the oncologist yesterday, they are going to continue to use the Xtandi which he has been on for a year now but they are also starting Keytruda this Thursday. Does anyone know anything about this drug? It appears to be the last effort to fight this terrible disease for my dad. He is a gleason 10 with some small cell carcinoma which was diagnosed last January with the prostate cancer being found February 2016. His PSA is undetectable but the strain of cancer he has does not change the PSA. He had a large amount of the cancer removed this past January because it was causing problems with him being able to urinate. (This is the 2nd time they have had to do that surgery). He lives alone and is not good on his feet and he also shows signs of dementia. This disease is ugly and I just hate seeing him suffer. One day he is feeling pretty good the next he is miserable and all the while his memory is just terrible. He just doesn't want to give up the fight and enjoy what time he has left on hospice care.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "02/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "He really didn't have much for symptoms other than trouble going to the bathroom so they went ahead and did another PSA test and found it was elevated. They did a TURP right away and started him on chemo which almost killed him. They will not be doing any more chemo they are just trying to give him as much time as they can. The doctors do not feel that the Xtandi is really doing anything at this point but he has to keep taking it with the Keytruda. He was hoping to start Keytruda last week but it has been moved to this week. I just hope he does not suffer the terrible side affects that I read about. I do believe that many of the terrible symptoms he has is from the Lupron shot. He asked to skip a dose but he was told he has to have it with the meds he is on.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "07/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Fairwind Did your Dad have any genetic testing done before they put him on Keytruda? I know he was tested for a PD-1 receptor. Not sure if that is what you are talking about.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "05/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "He is 74. His PSA at the very beginning I believe was around 60. He is taking Lupron with Xtandi and is being treated in Omaha and is seeing a very highly recognized prostate cancer doctor who is trying to cure prostate cancer. No other physician would treat my dad in the area because they felt there was nothing they could do.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> He is 74 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 74
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "beginning I believe was around 60 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "02/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad started Keytruda a few weeks ago now. He felt great the first couple of weeks. In fact he said he felt better than he has since receiving the news about his cancer over a year and a half ago. I believe it as well, he was thinking more clearly and walking more steady. You would have thought he was as healthy as ever. According to his blood work, he should be feeling terrible but he has had a great couple of weeks. Until this week. He is tired, not feeling well and can't seem to get his thoughts together. Just like he was before Keytruda. I am not sure how this medication is going to go but we are hoping it can hold is very aggressive cancer steady for a while.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "01/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Fairwind Did your Dad have any genetic testing done before they put him on Keytruda? I know he was tested for a PD-1 receptor. Not sure if that is what you are talking about.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "05/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad started Keytruda a few weeks ago now. He felt great the first couple of weeks. In fact he said he felt better than he has since receiving the news about his cancer over a year and a half ago. I believe it as well, he was thinking more clearly and walking more steady. You would have thought he was as healthy as ever. According to his blood work, he should be feeling terrible but he has had a great couple of weeks. Until this week. He is tired, not feeling well and can't seem to get his thoughts together. Just like he was before Keytruda. I am not sure how this medication is going to go but we are hoping it can hold is very aggressive cancer steady for a while.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "01/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "He is 74. His PSA at the very beginning I believe was around 60. He is taking Lupron with Xtandi and is being treated in Omaha and is seeing a very highly recognized prostate cancer doctor who is trying to cure prostate cancer. No other physician would treat my dad in the area because they felt there was nothing they could do.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> He is 74 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 74
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "beginning I believe was around 60 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "02/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad has very advanced and aggressive prostate cancer. He has had many UTI's and ended up going into septic shock a few weeks ago. After a visit with the oncologist yesterday, they are going to continue to use the Xtandi which he has been on for a year now but they are also starting Keytruda this Thursday. Does anyone know anything about this drug? It appears to be the last effort to fight this terrible disease for my dad. He is a gleason 10 with some small cell carcinoma which was diagnosed last January with the prostate cancer being found February 2016. His PSA is undetectable but the strain of cancer he has does not change the PSA. He had a large amount of the cancer removed this past January because it was causing problems with him being able to urinate. (This is the 2nd time they have had to do that surgery). He lives alone and is not good on his feet and he also shows signs of dementia. This disease is ugly and I just hate seeing him suffer. One day he is feeling pretty good the next he is miserable and all the while his memory is just terrible. He just doesn't want to give up the fight and enjoy what time he has left on hospice care.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "02/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "He really didn't have much for symptoms other than trouble going to the bathroom so they went ahead and did another PSA test and found it was elevated. They did a TURP right away and started him on chemo which almost killed him. They will not be doing any more chemo they are just trying to give him as much time as they can. The doctors do not feel that the Xtandi is really doing anything at this point but he has to keep taking it with the Keytruda. He was hoping to start Keytruda last week but it has been moved to this week. I just hope he does not suffer the terrible side affects that I read about. I do believe that many of the terrible symptoms he has is from the Lupron shot. He asked to skip a dose but he was told he has to have it with the meds he is on.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "07/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51927-Keytruda-for-advanced-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Keytruda for advanced prostate cancer"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "He had the bladder removed because of many issues. Mostly because of the repeated UTI's. His right kidney was full of infection and it no longer filtered so it was causing the left kidney to work much harder. His bladder had hardened and gotten so small that the foley bulb would not hardly fit any longer. Thank goodness they were able to remove the prostate without harming the rectum or bowel as that would have required another bag. He has gone through so much. For the last 6 months they have told us he is on borrowed time and that he should live his life like each day is his last. He is not ready to quit fighting but he honestly doesn't understand much of what is going on, just that he isn't ready to call it quits. Even when we took him up for surgery he didn't understand what they were doing. He still thought he was going to have a foley bag and had no idea they were taking his bladder out. It is so hard on the family and I am sure it is much harder on him. We worry what the next weeks or months have in store and hope that he doesn't continue to suffer like he has. We will talk to the staff at the hospital and see if they can set him up at a rehabilitation center. Thank you for the advice.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "20/09/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55917-Dad-just-had-his-left-kidney-prostate-and-bladder-removed-and-recieved-ileal-conduit?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad just had his left kidney, prostate and bladder removed and recieved ileal conduit"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad has been fighting Gleason 10 prostate cancer for over 2 1/2 years. He has been though so much and even more yesterday. The doctors removed his left kidney as it was no longer working and full of puss. They also removed his bladder, prostate and some lymph nodes. They placed an ileal conduit so it was a long day of surgery. Has anyone had any experience with this? He is supposed to get out of the hospital in a week but nobody has said anything about going somewhere for rehabilitation and he lives alone. I am concerned as we can't care for him during the day. My dad is so strong and I am amazed at how he has pulled through this surgery yesterday. He is 75 years old and this morning he was in a chair asking for coffee. He is such a fighter but I am concerned about his care from here out. How difficult is it to care for this ileal conduit? Any advice or input would be so appreciated. -Jennifer",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 75 years old and this morning",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/09/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55917-Dad-just-had-his-left-kidney-prostate-and-bladder-removed-and-recieved-ileal-conduit?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad just had his left kidney, prostate and bladder removed and recieved ileal conduit"
+    },
+    {
+      "AuthorID": "Jennifer2",
+      "AuthorURL": "https://www.cancerforums.net/members/122581-Jennifer2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I just thought I would give an update on my dad who has Gleason 10 stage 4 prostate cancer. He had to have surgery last month and they removed his left kidney, bladder, prostate and some lymph nodes. It was a 5 hour surgery and it went well. My dad had Hallucinations constantly for over a week after the surgery which was very scary! They believe that some of the cancer meds he has been on may have caused some of his mind troubles. He is better but he is still very confused and his memory is terrible. He went to rehab for 3 weeks after surgery but we have found he is just not strong enough to go home. At 75, I don't know how much stronger he can get with this disease growing inside of him. He is living at an assisted living facility which is very nice. He still wants to go home but I just don't see that happening. In the past week he has fallen twice while using his walker. My biggest concern is that he has not been on his Keytruda in 2 months and has had no Xtandi for over a month. How soon will his cancer start growing without these medications? (keeping in mind that his prostate cancer really has never caused an elevated PSA). He is still stage 3 kidney failure with the only kidney he has so if he does start treatment how damaging are those drugs to his kidney? So many concerns. He is meeting with a new oncologist this Wednesday to see what they think. He doesn't want to go back to where he was going. He seems to think he is going to start driving soon and we just don't have the heart to tell him he can't and that he probably never will. He has been falling for months and the only way we got him to assisted living is because they recommended it at the rehab facility. Any advice or words of wisdom would be helpful. We have a family member who is his POA, how does that person know when dad can't make decisions anymore and that it is just time to go on hospice and enjoy what time he has left? Sorry to sound so down about it but I hate seeing him go through all of this and the thought of him going back on medications is rough. They make him feel so sick. He has always but quantity over quality.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> At 75  I don't know how much",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/10/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/56034-Dad-is-now-in-assisted-living?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad is now in assisted living."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My dad is 74 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 74
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "pneumonia",
+      "UTI"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "He had a large amount of the cancer removed this past January because it was causing problems with him being able to urinate. (This is the 2nd time they have had to do that surgery)....He is now opting for back surgery in 2 weeks because he thinks it will help with back pain. None of his doctors want him to have the surgery but he is not listening....He doesn't understand what he has other than just prostate cancer. He is now opting for back surgery in 2 weeks because he thinks it will help with back pain....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "concerned",
+        "terrible",
+        "lost",
+        "alone",
+        "pained",
+        "pained",
+        "ok",
+        "concerned",
+        "hopeful",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "understanding",
+        "hopeful",
+        "sure",
+        "terrible",
+        "comfortable",
+        "comforted",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "terrible",
+        "pained",
+        "pained",
+        "comfortable",
+        "comforted",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "terrible",
+        "pained",
+        "pained",
+        "comfortable",
+        "comforted",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "terrible",
+        "pained",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0.167",
+        "DEPRESSED": "1",
+        "GOOD": "0.667",
+        "HAPPY": "0",
+        "HELPLESS": "0.167",
+        "HURT": "0.833",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.833",
+        "LOVE": "0.5",
+        "OPEN": "0.167",
+        "POSITIVE": "1.5",
+        "SAD": "0.833",
+        "STRONG": "0.167"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Infection"],
+      "SideEffectTypeKeywords": ["UTI"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [
+        "certain",
+        "willing",
+        "certain",
+        "decisive"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "2"
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "encouraged",
+        "caring",
+        "concerned",
+        "willing",
+        "worried",
+        "pained",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1",
+        "LOVE": "1",
+        "OPEN": "1",
+        "POSITIVE": "1",
+        "SAD": "1",
+        "STRONG": "0"
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "caring",
+        "understanding",
+        "glad",
+        "thoughtful",
+        "hopeful",
+        "aggressive",
+        "aggressive"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.5",
+        "LOVE": "0.5",
+        "OPEN": "1",
+        "POSITIVE": "0.5",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [
+        "caring",
+        "hateful",
+        "terrible",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0.333",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.333",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.333",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0.333"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": ["Infection"],
+      "SideEffectTypeKeywords": [
+        "infection",
+        "pneumonia",
+        "UTI"
+      ]
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [
+        "caring",
+        "hateful",
+        "aggressive",
+        "aggressive",
+        "miserable",
+        "terrible",
+        "alone",
+        "strained",
+        "caring",
+        "hateful",
+        "aggressive",
+        "aggressive",
+        "miserable",
+        "terrible",
+        "alone",
+        "strained",
+        "affected",
+        "hopeful",
+        "willing",
+        "terrible",
+        "affected",
+        "hopeful",
+        "willing",
+        "terrible"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "1",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0.333",
+        "HURT": "0.333",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.333",
+        "LOVE": "0.333",
+        "OPEN": "0",
+        "POSITIVE": "0.667",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": ["Infection"],
+      "SideEffectTypeKeywords": ["UTI"]
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [
+        "great",
+        "thoughtful",
+        "hopeful",
+        "sure",
+        "aggressive",
+        "aggressive",
+        "terrible",
+        "tired",
+        "great",
+        "thoughtful",
+        "hopeful",
+        "sure",
+        "aggressive",
+        "aggressive",
+        "terrible",
+        "tired",
+        "sure",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.5",
+        "GOOD": "0",
+        "HAPPY": "0.5",
+        "HELPLESS": "0.5",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.5",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.5",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "02/03/2017",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 5841
+}

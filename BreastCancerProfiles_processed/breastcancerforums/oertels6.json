@@ -1,0 +1,129 @@
+{
+  "AuthorID": "oertels6",
+  "AuthorURL": "https://www.cancerforums.net/members/11957-oertels6?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "determined",
+      "sure",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "oertels6",
+    "AuthorURL": "https://www.cancerforums.net/members/11957-oertels6?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Brief history..... In 1994, I started bleeding from both nipples. After a lumpectomy, it was determined to be sever fibrocystic disease. 2 years later, I developed a large hard mass (golf ball size) in my left breast. Due to family history of breast cancer, my symptoms, and the size of the lump, the doctors suggested subcutaneous bilateral mastectomy. Being young and scared ( my cousin had just passed from breast cancer) and after alot of soul searching, I agreed. Fast forward ten healthy years with no issues. Sunday, I discovered what appeared to be blood coming from my left nipple again. Right side seems fine. Monday I was seen by my doctor, who immediatly called the breast center to schedule me. I was seen there on Wednesday, and they said there is no blood in the discharge, but rather just a dark green watery disharge ( looks almost black to me). THe doctor said this is consistent with a cyst, but sent me on for a mammogram and ultrasound to be sure. I had the tests yesterday and they found what appears to be a (complex) cyst with \"debris\" in it ( how did THAT get in there??? ). They have ordered no further testing at this time, but from what I can find on the net, it seems to be popular opinion that complex cysts should be biopsied. Also with my history and my family history.....Im concerned with no further testing. ANyone have any experience with this things? Im driving myself crazy with worry here.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/08/2008",
+    "ThreadURL": "https://www.cancerforums.net/threads/7574-Worried-Sick-here?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Worried Sick here......."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "bleeding",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 256
+}

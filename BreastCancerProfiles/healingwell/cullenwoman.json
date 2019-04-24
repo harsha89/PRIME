@@ -1,0 +1,127 @@
+{
+  "AuthorID": "cullenwoman",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2005529&p=163310",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "willing",
+      "sore",
+      "alone",
+      "wronged",
+      "bruised"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "cullenwoman",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2005529&p=163310",
+    "Content": " I am 39 almost 40 two weeks ago I found a lump in my right breast. I already had my annual gynecological appt scheduled so I called and they sent me for mammo and ultrasound. Went expecting being told need to have surgery for my right breast. They begin doing extra scans and an ultrasound is ordered for my left breast. There was nothing wrong with my left. The lump in the right is 3 cysts bunched together I am having an aspiration done on 2/12. The left had a mass show on the mammo but not on the ultrasound. I was scheduled for a stereotactic breast biopsy. Had that done and it did not go well I was among the less than 1% that develop hematomas. I developed 3 hematomas in an hr they think they may have nicked a vessel. I am extremely bruised and still sore however got results today biopsy shown as benign but I do have a radial scar and am awaiting an appt with a surgeon to have it removed.I have never had cancer, no biopsies or trauma or anything else ever done.From what I understand they can just form however removing them is normal procedure since they can be associated with cancer. I have a family history of breast cancer so I am all for removing it. They will be removing the scar and surrounding tissue. It seems like it is just one of those things that happen with some women and not with others. But you are not alone. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "<Z> <Z> <Z> I am 39 almost 40 two weeks ago",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 0.75
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 4,
+    "PostDate": "30/01/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2005529",
+    "Title": "Radial scar.... anyone else have?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 261
+}

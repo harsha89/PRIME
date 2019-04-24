@@ -1,0 +1,118 @@
+{
+  "AuthorID": "Jyotika Aggarwal52",
+  "AuthorURL": "https://www.cancerforums.net/members/25338-Jyotika-Aggarwal52?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": ["lost"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Jyotika Aggarwal52",
+    "AuthorURL": "https://www.cancerforums.net/members/25338-Jyotika-Aggarwal52?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My aunt(39) came to know about stage 3 breast tumour on 13 Nov 2009 and was operated on Feb 2011. After that she got 3 chemos and she lost her eyesight. All testreports are normal and doctors r not able to detect the disease.Even no cancer cell is found in the body. She is getting weak day by day . Plz suggest something What to do?? Her body shivers and headaches all the day.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.8318681318681318,
+        "Phrase": "after breast cancer My aunt 39  came to know about stage",
+        "Relation": "second-person",
+        "Tense": "unknown",
+        "Value": 39
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "NarrationType": "unknown",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "08/07/2011",
+    "ThreadURL": "https://www.cancerforums.net/threads/17923-Brain-problems-after-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Brain problems after breast cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 80
+}

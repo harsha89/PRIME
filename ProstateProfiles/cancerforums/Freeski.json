@@ -1,0 +1,133 @@
+{
+  "AuthorID": "Freeski",
+  "AuthorURL": "https://www.cancerforums.net/members/119857-Freeski?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "concerned",
+      "willing",
+      "decisive",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 5.8,
+    "min": 0.17,
+    "scores": [
+      2,
+      0.17,
+      5.8
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "Freeski",
+    "AuthorURL": "https://www.cancerforums.net/members/119857-Freeski?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I've included my Stats in my signature. I'm sixty years old and overall great health. Basically current PSA is 5.8 rising between 0.7 and 1/year over the past two years. I've had two MRIs. The first was negative and the second showed a suspicious area. Subsequent fusion biopsy took 19 cores. Of those 19 there was one positive a Gleason 6 with 70% involvement. Three cores from the suspicious area were negative as were twelve standard random cores. The positive core was anterior at the left lateral apex. I seem to be low risk but just beyond what is commonly recommended for active surveillance. My PSA density is 0.17 and it is recommended at <0.15 and although it is only 1 core it is 70% and usually recommended <50%. I have a follow up pending with my urologist in a month but over the phone he said I will likely need to do something at some point. While I realize there could be more disease than is evident than on the biopsy since I have had two MRIs and 19 cores out of what is a relatively small prostate not too concerned. My feeling is decisions should be based on what is and not what could be. I tend to agree that since my PSA seems to be rising and the core was 70% some action is required. My initial though is to try to treat this focally. I realize this is not mainstream and I may need to pay out of pocket. But with what appears to be low risk disease initial whole gland treatment may be more than I need. Don't want the cure to be worse than the disease. PSA gradual rise from 2 to 4 over ten years 6/14",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "18/06/2016",
+    "Signature": "PSA gradual rise from 2 to 4 over ten years 6/14 6/15 PSA 5.1 7/15 1.5 T MRI PIRADS 2 Cancer Unlikely 6/16 PSA 5.8 6/16 3T MRI PIRADS 4 Cancer likely 6/16 Fusion Biopsy 1 core of 19 positive 70% involvement Gleason 6 The positive core is at the left lateral anterior apex The suspicious area was negative as were all cores that would have normally been included in a standard 12 core biopsy",
+    "ThreadURL": "https://www.cancerforums.net/threads/48244-Where-to-from-here?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Where to from here"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surveillance"],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": ["surveillance"]
+  },
+  "WordCount": 311
+}

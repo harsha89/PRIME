@@ -1,0 +1,174 @@
+{
+  "AuthorID": "Debmarie",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2467127&p=150574",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sure",
+      "anxious",
+      "anxious",
+      "nervous",
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Debmarie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2467127&p=150574",
+      "Content": " Thanks Bev, as I'm sure you know this has been all consuming for me. Being able to put it in words has helped tremendously and I am grateful that this site is here. Appointment is this afternoon, pathologist is on site, so I should have results today also. \nThanks again for the reply and well wishes. Ill post results later. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "20/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2467127",
+      "Title": "anxious"
+    },
+    {
+      "AuthorID": "Debmarie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2467127&p=150574",
+      "Content": " I had a routine mammogram/ultrasound yesterday and they found a solid hypoechoic mass measuring 6X6X4 mm with slightly irregular margins in the 9:00 periareolar right breast. Anyone have any experience/knowledge? I am having an ultrasound guided biopsy tomorrow and am a nervous wreck. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2467127",
+      "Title": "anxious"
+    },
+    {
+      "AuthorID": "Debmarie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2467127&p=150574",
+      "Content": " Thanks so much for your post. I had a core biopsy, the pathologist was in the room and didn't find anything abnormal. Lab results will be back in a few days. Keeping positive thoughts. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "25/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2467127",
+      "Title": "anxious"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 143
+}

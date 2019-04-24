@@ -1,0 +1,220 @@
+{
+  "AuthorID": "Youngfamily",
+  "AuthorURL": "https://www.cancerforums.net/members/115426-Youngfamily?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "optimistic",
+      "optimistic",
+      "crying",
+      "optimistic",
+      "optimistic",
+      "crying",
+      "reassured",
+      "hopeful",
+      "nervous",
+      "scared",
+      "reassured",
+      "hopeful",
+      "nervous",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 0.8,
+    "min": 0.8,
+    "scores": [0.8]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Youngfamily",
+      "AuthorURL": "https://www.cancerforums.net/members/115426-Youngfamily?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am a 47 year old man with a strong family history of prostate cancer. I have been getting yearly exams at a urologist with PSA. PSA 2011 0.8, 2014 1.1, 2015 1.25. Last week he said he felt a soft nodule on my prostate and I am having a biopsy tomorrow. He told me that a soft nodule was good and my PSA was low so he optimistic. I've done nothing but cry for 4 days. Every time I shoot basketball with my kids or even in the same room I leave and go to my shop and cry. Is it possible that the soft nodule is just the start of BPH and maybe nothing serious? Thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I am a 47 year old man with a",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 47
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "06/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43703-Prostate-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Biopsy"
+    },
+    {
+      "AuthorID": "Youngfamily",
+      "AuthorURL": "https://www.cancerforums.net/members/115426-Youngfamily?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am a 47 year old man with a strong family history of prostate cancer. I have been getting yearly exams at a urologist with PSA. PSA 2011 0.8, 2014 1.1, 2015 1.25. Last week he said he felt a soft nodule on my prostate and I am having a biopsy tomorrow. He told me that a soft nodule was good and my PSA was low so he optimistic. I've done nothing but cry for 4 days. Every time I shoot basketball with my kids or even in the same room I leave and go to my shop and cry. Is it possible that the soft nodule is just the start of BPH and maybe nothing serious? Thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Prostate Biopsy I am a 47 year old man with a",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 47
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43703-Prostate-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Biopsy"
+    },
+    {
+      "AuthorID": "Youngfamily",
+      "AuthorURL": "https://www.cancerforums.net/members/115426-Youngfamily?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for the reassurance. I feel like a whimp compared to what you guys have been through. I guess the biopsy scares me because I am afraid of the results. My father and two uncles had PC so it makes me very nervous. It is good advice to take one step at a time. I hope I can sleep tonight. I believe the urologist said he is taking 6 samples tomorrow. If it is nothing what would cause a soft nodule? Thanks for listening",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "07/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43703-Prostate-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Biopsy"
+    },
+    {
+      "AuthorID": "Youngfamily",
+      "AuthorURL": "https://www.cancerforums.net/members/115426-Youngfamily?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for the reassurance. I feel like a whimp compared to what you guys have been through. I guess the biopsy scares me because I am afraid of the results. My father and two uncles had PC so it makes me very nervous. It is good advice to take one step at a time. I hope I can sleep tonight. I believe the urologist said he is taking 6 samples tomorrow. If it is nothing what would cause a soft nodule? Thanks for listening",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "07/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43703-Prostate-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Biopsy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 47 year old man with a",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 47
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 418
+}

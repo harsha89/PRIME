@@ -1,0 +1,153 @@
+{
+  "AuthorID": "ShirleyM",
+  "AuthorURL": "https://www.cancerforums.net/members/10321-ShirleyM?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "content",
+      "absorbed",
+      "independent",
+      "ashamed",
+      "fearful",
+      "obsess",
+      "interested",
+      "kind",
+      "thoughtful",
+      "pained",
+      "aching",
+      "ached",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "ShirleyM",
+      "AuthorURL": "https://www.cancerforums.net/members/10321-ShirleyM?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello everyone. I am new here. It is now a year and a half since my mastectomy. I survied that and also a course of chaemo followed by radiotherapy. I have regained a lot of my strength and \"independence\" but - and I feel ashamed to say this - the depression and fears have suddenly returned. My mind seems obsessed by my CANCER. YetI have a lot going on in my life which SHOULD make me happy, or at least contented. Have any of you had this experience? How did you deal with it? Shout at me for being too self-absorbed if you like but can you help?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/11/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5743-Delayed-reaction?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Delayed reaction"
+    },
+    {
+      "AuthorID": "ShirleyM",
+      "AuthorURL": "https://www.cancerforums.net/members/10321-ShirleyM?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "So kind of you to take an interest. The trouble is I have had bC twice. After my fifth c/u for the first I thought \"Wow, five years on - I've licked it.\" Then - year six - back it came and HOW. So I am well aware that one is never \"cured\". Maybe I am paricularly \"down\" because I have a c/u due in a few weeks and have been noting my ongoing aches, pains and other symptoms in order to discuss them with the specialist - who is a real SWEETIE - and enjoys speaking English with me (Instititut Curie, Paris).",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "30/11/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5743-Delayed-reaction?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Delayed reaction"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiotherapy"]
+  },
+  "WordCount": 210
+}

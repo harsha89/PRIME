@@ -1,0 +1,128 @@
+{
+  "AuthorID": "amandalynn",
+  "AuthorURL": "https://www.cancerforums.net/members/9284-amandalynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "comfortable",
+      "comforted",
+      "concerned",
+      "curious",
+      "fearful",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "amandalynn",
+    "AuthorURL": "https://www.cancerforums.net/members/9284-amandalynn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I'm Amanda and I'm 18. About a year ago I had a bit of a scare when I found a lump on my left breast. I had it checked and it was just a calcium deposit. I was relieved to say the least. Since then, my doctor advised me to come in every month so she could do a breast exam since I wasn't too comfortable doing it myself, for fear I didn't know exactly what I was doing. I'm overweight and I'm a smoker, plus I've had a number of other health problems so she felt it was best. A little over a week ago I went in for another breast exam and my doctor found two new lumps on my right breast. Right after she told me I wasn't too concerned because I expected her to tell me it was another few calcium deposits. Instead, she told me that they didn't feel right at all and that I should go in for testing. Literally the day after I was in for an ultrasound and got those results five days later. They were inconclusive, and I was then set up for a biopsy. I had the biopsy yesterday which was weird. I was shaking like crazy for some reason. I heard it's very uncommon for people my age to have breast cancer, but I'm assuming theres still a chance. So far, I'm taking it well. It hasn't really hit me that cancer might be a possibility. I'm curious as to how other people handled the news either when they found out they might have cancer, or when they found out they did have cancer.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "<Z> <Z> <Z> <Z> I'm 18  waiting for results    I'm Amanda",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 18
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "30/08/2007",
+    "Signature": "Amanda-Lynn",
+    "ThreadURL": "https://www.cancerforums.net/threads/5184-I-m-18-waiting-for-results?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "I'm 18, waiting for results..."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 295
+}

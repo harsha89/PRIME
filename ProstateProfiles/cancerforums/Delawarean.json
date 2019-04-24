@@ -1,0 +1,791 @@
+{
+  "AuthorID": "Delawarean",
+  "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pained",
+      "pained",
+      "pleased",
+      "willing",
+      "sore",
+      "pained",
+      "exhausted",
+      "pained",
+      "bad",
+      "fearful",
+      "insistent",
+      "wonderful",
+      "willing",
+      "wonderful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.143",
+      "ALIVE": "0.286",
+      "ANGRY": "0.143",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.143",
+      "GOOD": "0.143",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.429",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.571",
+      "SAD": "0.286",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 7,
+  "NPosts": 8,
+  "PSAInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am newly diagnosed and getting a second look at S-K. The doc at S-K wants me to have bone and CAT scans before my appointment. My local doc said no. Are these scans appropriate? Gleason of 7, PSA of 7, 60 years old. Is it normal to get these scans? Any reason not to?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "of 7  PSA of 7  60 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27726-Bone-scan-and-CAT-Scan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone scan and CAT Scan"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Has anyone had this test where a probe Is inserted in the rectum and a balloon inflated? Is it painful or difficult and is it necessary?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27865-MR-Prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "MR Prostate"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, Gang. I had my robotic procedure last Wednesday. I am doing fairly well. Only took a few days for the bowels to move. I am in pain but it is bearable. The catheter is no pleasure but I only have 4 days until it is removed. I find that I don't sleep well-- more dozing and napping. Surgeon said things went very well and all looked good. The pathology results will, of course, tell the story. Observations: Surgical staff excellent; floor nurses only fair and under staffed. Got myself walking right away. The exhaustion didn't hit until I got home. The robotic incisions are larger than I expected and very sore -- but certainly better than the open surgery would have been. I am essentially pleased but I was prepared for the worst possible, as is my nature (even made a list of pall bearers). A lot of the outcome depends on attitude. My one sentence summation: prostate cancer and the surgery should only happen to rotten people.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33206-5-Days-Post-Surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "5 Days Post Surgery"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am presently considering my treatment options. My biggest hang up on surgery --- which may seem silly with the risks -- is fear of the catheter. I just see myself suffering for weeks. So, truthfully, how bad is that damn tube and are the newer catheters I see advertised helpful?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28633-Catheter?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Catheter"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Many thanks to all of you for easing my mind.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "15/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28633-Catheter?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Catheter"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My cancer was discovered because I have low testosterone levels a d my urologist insisted on doing a biopsy when with an elevated PSA I wanted to use the gel. I am having surgery in 10 days and if all goes well, do you think I can get the T boosting med?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Testosterone"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32907-Testosterone-After-PC-Surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Testosterone After PC Surgery"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My robotic prostatectomy is scheduled for August 14, and upon release from the hospital I will have to travel from NYC to Wilmington DE. Based on your experience, will I be in shape to travel by train? I am trying to avoid horrific traffic delays on the NJ Turnpike. I suspect that others have flown or maybe taken a train, but wondered about any problems. Many thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "11/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33051-Travel?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Travel"
+    },
+    {
+      "AuthorID": "Delawarean",
+      "AuthorURL": "https://www.cancerforums.net/members/95747-Delawarean?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My robotic prostatectomy is scheduled for August 14, and upon release from the hospital I will have to travel from NYC to Wilmington DE. Based on your experience, will I be in shape to travel by train? I am trying to avoid horrific traffic delays on the NJ Turnpike. I suspect that others have flown or maybe taken a train, but wondered about any problems. Many thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "11/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33051-Travel?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Travel"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "of 7  PSA of 7  60 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["exhaustion"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [
+        "pained",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0.5",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0.5",
+        "STRONG": "0"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "bad",
+        "fearful"
+      ],
+      "Emotions": {
+        "AFRAID": "0.5",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.5",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [
+        "insistent",
+        "wonderful",
+        "willing",
+        "wonderful",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0.667",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [
+        "pleased",
+        "willing",
+        "sore",
+        "pained",
+        "exhausted",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "2",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "1",
+        "STRONG": "0"
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": ["Tiredness"],
+      "SideEffectTypeKeywords": ["exhaustion"]
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "15/01/2013",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "prostatectomy",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 515
+}

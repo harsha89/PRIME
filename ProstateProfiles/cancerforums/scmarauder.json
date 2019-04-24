@@ -1,0 +1,173 @@
+{
+  "AuthorID": "scmarauder",
+  "AuthorURL": "https://www.cancerforums.net/members/109566-scmarauder?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "willing",
+      "free",
+      "sure",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "1.5"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 18,
+    "min": 1,
+    "scores": [
+      1,
+      18,
+      5.2
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "scmarauder",
+      "AuthorURL": "https://www.cancerforums.net/members/109566-scmarauder?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Guys. I was just diagnosed with PC a few weeks ago. A little background - 56 years old. My PSA in November 2011 was 1.0, November 2012 1.5, November 2013 2.5. Along with my enlarged prostate and frequent urination, that was enough for my regular Doctor to refer me to a Urologist who I saw in late January. He sent me for another PSA test which came back 5.2 and a Free PSA test which came back 18%. I could also tell he felt something on the DRE that he didn't like. We scheduled a biopsy which came back with 1 core at Gleason 3+3. I recognize that this is very small and slow-growing but I'm not the Active Surveillance type of personality and I'm leaning towards having the Da Vinci surgery but I'm going to take my time and weigh all the options. I'm meeting with a Radiology oncologist this Thursday. I'm also reading Dr. Walsh's book, which my Urologist recommended. My Urologist is Dr. Robert Bae who would be doing the Surgery at Hoag Hospital. Does anybody have any experience with Dr. Bae? I didn't ask him how many of these surgeries he has done but I'm pretty sure it is over 300. Now that I have read through this board I have a better idea of what questions to ask which I will at my next appointment. Any other recommendations for surgeons in Orange County CA? Thanks everbody. Reading through the posts on this board has been very educational.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> A little background   56 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/02/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/36909-Another-Newbie-here?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Another Newbie here"
+    },
+    {
+      "AuthorID": "scmarauder",
+      "AuthorURL": "https://www.cancerforums.net/members/109566-scmarauder?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks Guys. That is all very helpful. Chuck, Yes, your situation is very similar to mine. I'm actually not sure about the stage. I've been meaning to ask my Doctor about that. I don't see it on the biopsy report (unless I'm missing it). Otago, I had the blood drawn two days after the DRE, no sex in between. The biopsy report shows 13% of the one core (4mm).",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "18/02/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/36909-Another-Newbie-here?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Another Newbie here"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> A little background   56 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["frequent urination"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surveillance",
+      "Surgery"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "da vinci",
+      "surveillance",
+      "surgery"
+    ]
+  },
+  "WordCount": 345
+}

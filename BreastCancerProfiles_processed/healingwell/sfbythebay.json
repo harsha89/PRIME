@@ -1,0 +1,120 @@
+{
+  "AuthorID": "sfbythebay",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2478631&p=151517",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "excited",
+      "terrified",
+      "scared",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "sfbythebay",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2478631&p=151517",
+    "Content": " I am really in disbelief that I am posting here but here it goes. I went for a routine check up last Friday and told my doctor I had felt a little lump in my left breast, which I wasn't too concerned about\n as I'm so young and it doesn't hurt. She referred me to a breast cancer center right away and after the ultrasound, they have me scheduled for a biopsy on Monday. I have a pea-sized mass. I'm really scared, and pretty emotional at the moment. I probably shouldn't have started googling it as research tells me most malignant tumors don't hurt (like my lump). I'm terrified, my fiance and I are just starting out and getting married next year, excited about\n starting a family etc and I just can't help myself from thinking the worst. I'd appreciate any advice, stories, what to expect from the biopsy. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "02/08/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2478631",
+    "Title": "27 and Going for a Biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 165
+}

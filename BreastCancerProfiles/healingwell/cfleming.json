@@ -1,0 +1,126 @@
+{
+  "AuthorID": "cfleming",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=161603&p=10646",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "tender",
+      "panic",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "cfleming",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=161603&p=10646",
+    "Content": " Hi, my name is Carol and I am new to this site.  I am 38 yrs old and my question is; I have a VERY tender lima-bean sized lump directly behind my nipple.  I can actually feel a lump just by rubbing the nipple area, but there is no redness, swelling, etc on the outside of my nipple.  It feels mobile and again it is so tender, that's what brought my attention to it.  I am not breast-feeding or anything like that, no family history of bc.  I do have a drs appt tomorrow but I am so worried.  Has anyone ever had this/heard of this,  does it sound like it might be something serious?  It's hard not to panic when you find a lump, esp in the breast. I would appreciate anyone's input!  Thanks in advance.\n ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 38 yrs old and my question",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 38
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "27/10/2004",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=161603",
+    "Title": "Question??? Scared!!!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 38 yrs old and my question",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 143
+}

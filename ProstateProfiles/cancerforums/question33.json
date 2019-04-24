@@ -1,0 +1,142 @@
+{
+  "AuthorID": "question33",
+  "AuthorURL": "https://www.cancerforums.net/members/78010-question33?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "affected",
+      "hopeful",
+      "unbelieving"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "question33",
+      "AuthorURL": "https://www.cancerforums.net/members/78010-question33?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26792-Scalp-mole-indicative-of-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Scalp mole indicative of prostate cancer?"
+    },
+    {
+      "AuthorID": "question33",
+      "AuthorURL": "https://www.cancerforums.net/members/78010-question33?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "It all started in mid-september (two months ago) when I noticed diffuse scalp itching and hair thinning. I got blood work on Oct. 1. All normal. I went to a doctor in late October. At the crown of my scalp, the sweet spot of my itching/thinning, he found a mole. The doctor said it was benign. The mole on my scalp has grown. It itches more than ever. Then things got worse. The past couple weeks it's taken me a couple seconds longer than usual to being urination. I also urinate more often, waking up in the middle of the night to urinate. Today I'm noticing slight pressure in my pelvis. I also have the urge to poop a little more often than usual, though this could be from anxiety (?). My current theory is that the mole was melanoma, which has swollen the lymph nodes in my prostate. I'm hoping that some of the strange excretory systems might simply be anxiety-related. I'm doing everything possible to see a doctor for a mole biopsy, more blood work etc. But it's unbelievably hard to get an appointment (i.e. my derm said the waiting list is \"1 year\"). So I'm asking if anyone can make sense of the systems? Does melanoma affect the prostate? Could melanoma affect the lymph nodes around the pelvis? Could an itchy mole on the scalp be related to the prostate? Also, do I need to see a derm for the mole biopsy or can other types of doctors perform it?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26792-Scalp-mole-indicative-of-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Scalp mole indicative of prostate cancer?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 270
+}

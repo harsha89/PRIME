@@ -1,0 +1,162 @@
+{
+  "AuthorID": "Doire",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3841643&p=253125",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 5.6,
+    "min": 4.1,
+    "scores": [
+      5.6,
+      4.1
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Doire",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3841643&p=253125",
+      "Content": " HI everyone\nI hope you are all well, I'm from the prostate cancer forum but I have a family member who is looking into getting a second opinion in NYC and I was wondering if anyone can recommend a medical oncologist preferably MSKCC or similar. She is not based in the USA so if she was to look into treatment over here we would want it to be with the best! (Who doesn't!) \nThanks in advance for any replies ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/05/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3841643",
+      "Title": "NYC oncologist recommendation"
+    },
+    {
+      "AuthorID": "Doire",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3841643&p=253125",
+      "Content": " Hi Susie\nThanks so much for the reply, ill head over to that site now! Unfortunately she is terminal as per her doctors outside the US, so it might be a fruitless effort, but trying to help if i can.\nBest Wishes\nHusband DX 02/08/17\nAge 50\nPSA 09/15 4.1\nPSA 01/17 5.6\nDRE NEG, BX 4 Cores Positive of 12 Gleason 7 (3+4) (40%) - 02/17\nRALP 04/03 .... 2 day Hosp stay\nCath removal 04/12 ... Continent! \nFinal Pathology PT3A EPE+,PNI +, negative margins (<3mm), SVI and nodes (5 taken) Gleason (3+4). 50% tumor ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "DX 02 08 17\nAge 50\nPSA 09 15 4 1",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 50
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Husband"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "04/05/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3841643",
+      "Title": "NYC oncologist recommendation"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "DX 02 08 17\nAge 50\nPSA 09 15 4 1",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 50
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["ralp"]
+  },
+  "WordCount": 190
+}

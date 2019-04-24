@@ -1,0 +1,126 @@
+{
+  "AuthorID": "crusin88",
+  "AuthorURL": "https://www.cancerforums.net/members/18597-crusin88?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "easy",
+      "caring",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "perplexed",
+      "perplexed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "2",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "1",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "crusin88",
+    "AuthorURL": "https://www.cancerforums.net/members/18597-crusin88?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My wife was diagnosed in July 2008 with unknown primary breast cancer at M.D. Anderson in Houston. They were perplexed that they could not find the primary site, and had seen only a very few cases like it. Her bone scan had mets in over 200 spots, all in the large bones of her body. She has extensive bone damage, and now has spread to her liver. She has undergone several different courses of chemo, and radiation, but has grown too weak to undergo any further treatment, so is now on Hospice care. If they get to treatment early enough, and the mets are not widespread, it is controllable in stage 4. In my wife's case, her cancer became resistant to the treatments, and the disease has advanced. She did all the right things, did not smoke, drank very moderately, did the herbal thing, got her checkups, pap smears, and mammograms, ect...her doctor thought she was just in menopause, and had arthritus. The doctors in Houston told us that it would have been very easy to have overlooked without extensive testing, and now we know there is a blood test it would have showed up on. I hope things work out well for you guys, and they have found it early enough to help, will keep you all in my prayers-ross",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "menopause",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "wife",
+          "NarrationType": "second-person",
+          "NarratorGender": "male",
+          "PatientGender": "female",
+          "Relation": "wife"
+        }
+      }
+    },
+    "MessageIndex": 2,
+    "PostDate": "05/12/2009",
+    "ThreadURL": "https://www.cancerforums.net/threads/10525-breast-cancer-cells-in-bone-marrow-but-not-mets?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "breast cancer cells in bone marrow but not mets"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 225
+}

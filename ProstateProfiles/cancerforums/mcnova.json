@@ -1,0 +1,801 @@
+{
+  "AuthorID": "mcnova",
+  "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "important",
+      "glad",
+      "close",
+      "affected",
+      "willing",
+      "bad",
+      "suspicious",
+      "wonderful",
+      "interested",
+      "important",
+      "glad",
+      "close",
+      "affected",
+      "willing",
+      "bad",
+      "suspicious",
+      "willing",
+      "wonderful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.333",
+      "GOOD": "0",
+      "HAPPY": "0.667",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.333",
+      "OPEN": "0.333",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 6,
+    "scores": [
+      6,
+      7
+    ]
+  },
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 20,
+    "min": 5,
+    "scores": [
+      20,
+      5
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "mcnova",
+      "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Kat, I googled Dr Katz and found some interesting info. The article I read seems to lean towards active surveillance with several lifestyle changes. I have been pushing those lifestyle changes on him for years because of his high blood pressure, which runs in his family. Katz and Walsh both stress that a vegetarian diet is important. I agree with that, and the benefits affect more than just the prostate. Living as a vegetarian isn't so bad once you get used to it; some of the \"fake meat\" soy products on the market taste pretty close to the real thing. Jim, thank you for your detailed response. I will push my dad to go for the surgery. Two of his brothers have also been treated for prostate cancer. An older brother in his mid 70s also has the slow-growing type, and he opted for the radiation seeds. Their younger brother, just 60, has the fast-growing type. He was found to have a high PSA (20s range), so he had the surgery right away, and then 6 weeks later, his prostate jumped up 2 points higher. His doctors are recommending Lupron now; they can't start radiation until they figure out where the cancer is. (I believe that he had a bone scan before surgery, but it didn't reveal anything suspicious.) If anyone has any success stories for this type of situation, I'd be glad to hear them. This uncle is pushing my dad to get the surgery now while my dad's PSA is low. I'm glad to see those zeros in the last line of your sig, Jim!",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.8,
+            "Phrase": "older brother in his mid 70s also has the slow growing",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 70
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> Their younger brother  just 60  has the fast growing type",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "17/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39720-Questions-to-ask-at-upcoming-Dr-appt?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions to ask at upcoming Dr appt"
+    },
+    {
+      "AuthorID": "mcnova",
+      "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I would like to thank everyone for their replies. I was able to get more history about my dad's status, which I have added to my signature. Today, the doctor strongly recommended that my dad continues active surveillance. (My father is quick to agree with the doctor.) He recommended getting the PSA checked twice a year, but I asked if we could do it quarterly. The doctor asked my father whether he'd prefer to have an annual biopsy or MRI. My dad said he would prefer to go with the MRI. However, the MRI can only see lesions that are Gleason 7 or above. I felt that we should stick with the annual biopsy instead. Perhaps we can do both, though. Looking at my dad's records, in December, he had a stress test performed by the same hospital. The report included the following note: \"Patient not currently scheduled for any prostate surgery as prostate cancer has not been confirmed.\" His first biopsy found a small amount of cancer, his second showed only atypia, and his third didn't find anything. This result, combined with the statement quoted above, made my dad wonder if he even has prostate cancer. I think that the answer is yes, that in the second and third biopsies, they just didn't tap into it.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "19/07/2014",
+      "Signature": "My father's stats: Aged 67. Urinary urgency & frequency, decreased stream, prostate 55.9g (soft without nodules) 08/06: PSA 3.33 04/07: PSA 3.50 10/07: PSA 3.05 05/08: PSA 3.35 10/08: PSA 4.02 05/09: PSA 3.01 10/09: PSA 3.16 09/10: PSA 3.32 04/11: PSA 2.98 07/11: TRUS biopsy Gleason 3+3 CaP (10% one core: right mid core) 09/11: PSA 3.12 02/12: Biopsy found only atypia with no prostate cancer in specimens 05/12: PSA 2.18 11/12: PSA 1.63 (on Finasteride, so 3.26) 03/13: PSA 1.46 (on Finasteride, so 2.92) 08/13: Biopsy found no cancer (benign glands). 03/14: PSA 4.92 06/14: MRI: No lesions concerning Gleason 7 or higher (according to the doctors, this test cannot see lesions of Gleason 6 or lower.)",
+      "ThreadURL": "https://www.cancerforums.net/threads/39720-Questions-to-ask-at-upcoming-Dr-appt?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions to ask at upcoming Dr appt"
+    },
+    {
+      "AuthorID": "mcnova",
+      "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Kat, I googled Dr Katz and found some interesting info. The article I read seems to lean towards active surveillance with several lifestyle changes. I have been pushing those lifestyle changes on him for years because of his high blood pressure, which runs in his family. Katz and Walsh both stress that a vegetarian diet is important. I agree with that, and the benefits affect more than just the prostate. Living as a vegetarian isn't so bad once you get used to it; some of the \"fake meat\" soy products on the market taste pretty close to the real thing. Jim, thank you for your detailed response. I will push my dad to go for the surgery. Two of his brothers have also been treated for prostate cancer. An older brother in his mid 70s also has the slow-growing type, and he opted for the radiation seeds. Their younger brother, just 60, has the fast-growing type. He was found to have a high PSA (20s range), so he had the surgery right away, and then 6 weeks later, his prostate jumped up 2 points higher. His doctors are recommending Lupron now; they can't start radiation until they figure out where the cancer is. (I believe that he had a bone scan before surgery, but it didn't reveal anything suspicious.) If anyone has any success stories for this type of situation, I'd be glad to hear them. This uncle is pushing my dad to get the surgery now while my dad's PSA is low. I'm glad to see those zeros in the last line of your sig, Jim!",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.8,
+            "Phrase": "older brother in his mid 70s also has the slow growing",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 70
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> Their younger brother  just 60  has the fast growing type",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "17/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39720-Questions-to-ask-at-upcoming-Dr-appt?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions to ask at upcoming Dr appt"
+    },
+    {
+      "AuthorID": "mcnova",
+      "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, I will be accompanying my father, aged 67, to his prostate cancer check-up soon. For about two years now, he has been under active surveillance. His last PSA is 5, and his Gleason is 6. I am reading Dr. Walsh's book (and this forum), and it looks like these scores are right on the borderline for ending active surveillance and pursuing a treatment. According to the book, if he were to have the surgery now, he would have a high chance of getting rid of the cancer completely. However, I think he's unlikely to agree to surgery until his scores are high...but at that point, the surgery may not be as successful. Any advice for the type of treatment he should pursue? Any tips for questions I should ask his doctor?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "be accompanying my father  aged 67  to his prostate cancer check",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 67
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39720-Questions-to-ask-at-upcoming-Dr-appt?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions to ask at upcoming Dr appt"
+    },
+    {
+      "AuthorID": "mcnova",
+      "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I would like to thank everyone for their replies. I was able to get more history about my dad's status, which I have added to my signature. Today, the doctor strongly recommended that my dad continues active surveillance. (My father is quick to agree with the doctor.) He recommended getting the PSA checked twice a year, but I asked if we could do it quarterly. The doctor asked my father whether he'd prefer to have an annual biopsy or MRI. My dad said he would prefer to go with the MRI. However, the MRI can only see lesions that are Gleason 7 or above. I felt that we should stick with the annual biopsy instead. Perhaps we can do both, though. Looking at my dad's records, in December, he had a stress test performed by the same hospital. The report included the following note: \"Patient not currently scheduled for any prostate surgery as prostate cancer has not been confirmed.\" His first biopsy found a small amount of cancer, his second showed only atypia, and his third didn't find anything. This result, combined with the statement quoted above, made my dad wonder if he even has prostate cancer. I think that the answer is yes, that in the second and third biopsies, they just didn't tap into it.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "19/07/2014",
+      "Signature": "My father's stats: Aged 67. Urinary urgency & frequency, decreased stream, prostate 55.9g (soft without nodules) 08/06: PSA 3.33 04/07: PSA 3.50 10/07: PSA 3.05 05/08: PSA 3.35 10/08: PSA 4.02 05/09: PSA 3.01 10/09: PSA 3.16 09/10: PSA 3.32 04/11: PSA 2.98 07/11: TRUS biopsy Gleason 3+3 CaP (10% one core: right mid core) 09/11: PSA 3.12 02/12: Biopsy found only atypia with no prostate cancer in specimens 05/12: PSA 2.18 11/12: PSA 1.63 (on Finasteride, so 3.26) 03/13: PSA 1.46 (on Finasteride, so 2.92) 08/13: Biopsy found no cancer (benign glands). 03/14: PSA 4.92 06/14: MRI: No lesions concerning Gleason 7 or higher (according to the doctors, this test cannot see lesions of Gleason 6 or lower.)",
+      "ThreadURL": "https://www.cancerforums.net/threads/39720-Questions-to-ask-at-upcoming-Dr-appt?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions to ask at upcoming Dr appt"
+    },
+    {
+      "AuthorID": "mcnova",
+      "AuthorURL": "https://www.cancerforums.net/members/111904-mcnova?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, I will be accompanying my father, aged 67, to his prostate cancer check-up soon. For about two years now, he has been under active surveillance. His last PSA is 5, and his Gleason is 6. I am reading Dr. Walsh's book (and this forum), and it looks like these scores are right on the borderline for ending active surveillance and pursuing a treatment. According to the book, if he were to have the surgery now, he would have a high chance of getting rid of the cancer completely. However, I think he's unlikely to agree to surgery until his scores are high...but at that point, the surgery may not be as successful. Any advice for the type of treatment he should pursue? Any tips for questions I should ask his doctor?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "be accompanying my father  aged 67  to his prostate cancer check",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 67
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "17/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39720-Questions-to-ask-at-upcoming-Dr-appt?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions to ask at upcoming Dr appt"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> Their younger brother  just 60  has the fast growing type",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "Jim, thank you for your detailed response. I will push my dad to go for the surgery....I will push my dad to go for the surgery. Two of his brothers have also been treated for prostate cancer....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "interested",
+        "important",
+        "glad",
+        "close",
+        "affected",
+        "willing",
+        "bad",
+        "suspicious",
+        "interested",
+        "important",
+        "glad",
+        "close",
+        "affected",
+        "willing",
+        "bad",
+        "suspicious",
+        "willing",
+        "willing",
+        "wonderful",
+        "wonderful"
+      ],
+      "Emotions": {
+        "AFRAID": "0.333",
+        "ALIVE": "0.333",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.333",
+        "GOOD": "0",
+        "HAPPY": "0.667",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.333",
+        "LOVE": "0.333",
+        "OPEN": "0.333",
+        "POSITIVE": "0.667",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "17/07/2014",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surveillance",
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surveillance",
+      "surgery"
+    ]
+  },
+  "WordCount": 1275
+}

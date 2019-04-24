@@ -1,0 +1,240 @@
+{
+  "AuthorID": "David39705",
+  "AuthorURL": "https://www.cancerforums.net/members/120009-David39705?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "lost",
+      "worried",
+      "aching",
+      "ached",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "David39705",
+      "AuthorURL": "https://www.cancerforums.net/members/120009-David39705?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My name is Dave. At age 48 I was seeing blood in my semen & within a month it turned dark. Went my doctor, normal PSA & was told not to worry. Still worried, I referred to a urologist where I was diagnosed with stage 4 prostate cancer. My Gleason score was 4+4 & the scans showed it was in my pelvic lymph, aortic lymph & in my bladder wall. I was put on Lupron injections & Casodex. I began chemo with my Oncologist. On my own I began a organic raw vegan diet with methionine restriction. I also supplemented vitamin d, glucosamine, Tumeric, magnesium, zinc, baking soda & the doctors also put me on calcium+d. The prognosis was 50/50 to make it 5 years & \"cure\" was not on the table, neither was surgery or radiation seeding (not knowing at the time, surgery and seeding is only an option on protocols if life expectancy is at least 5 years) Prayers began, treatment began, hardcore diet began. I started out about 270lbs (not obese) and in the course of about 6 months I lost about 65lbs, the cancers disappeared from my scans. My PSA remained normal the entire time. I am now 4 scans clear and continuing with the Lupron shots and daily Casodex tablets. Lots of aching in my legs and hips, itchy skin, had blistering around last injection site & my bone scans are showing lots of loss in density. I have asked my urologist when I will be done with these meds & he said never ... this is where I do not know what to do. I don't want the cancer to return, but I don't want to continue with the weakness, the aching & I do not want to end up with crippling bone thinning. Has anyone seen any data on the odds of recurrence if testosterone depletion therapy is discontinued?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> At age 48 I was seeing blood in",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 48
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> The prognosis was 50 50 to make it 5",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 50
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "<Z> The prognosis was 50 50 to make it 5 years",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 50
+          },
+          {
+            "Confidence": 0.7246428571428571,
+            "Phrase": "<Z> <Z> I am now 4 scans clear and continuing with",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 4
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "testosterone",
+              "semen"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/07/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48366-New-on-Forum-my-background-amp-question-about-discontinuing-T-suppression-meds?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New on Forum, my background & question about discontinuing T-suppression meds."
+    },
+    {
+      "AuthorID": "David39705",
+      "AuthorURL": "https://www.cancerforums.net/members/120009-David39705?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Have you looked at methionine depletion diet? Glucosamine to halt cancer mastiscation",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "25/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48944-Throwing-the-quot-Kitchen-Sink-quot-at-Prostate-Cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Throwing the \"Kitchen Sink\" at Prostate Cancer"
+    },
+    {
+      "AuthorID": "David39705",
+      "AuthorURL": "https://www.cancerforums.net/members/120009-David39705?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Are there any instances were after successful therapy that HT is successfully discontinued? I am 4 scans clean & my urologists speaks of keeping me on these meds forever. Has anyone taken the leap of discontinuing HT, at what point did you do this and what was your result?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 4 scans clean & my urologists",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 4
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49002-Lupron-amp-Casodex-Discontinuance?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Lupron & Casodex Discontinuance?"
+    },
+    {
+      "AuthorID": "David39705",
+      "AuthorURL": "https://www.cancerforums.net/members/120009-David39705?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Will do, will need to decipher what people are listing",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "25/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49002-Lupron-amp-Casodex-Discontinuance?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Lupron & Casodex Discontinuance?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> The prognosis was 50 50 to make it 5",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 50
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 407
+}

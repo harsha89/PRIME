@@ -1,0 +1,132 @@
+{
+  "AuthorID": "Sheila L",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2745311&p=171625",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "2",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Sheila L",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2745311&p=171625",
+    "Content": " I'm 46 and Nov 2011 I had one ovary and fallopian tube due to painful cysts (2 clementine sized cysts) and a novasure procedure, which caused early menopause and then Dec 2012 I had a breast reduction. \nabout\n 6 weeks post-op, the pain was getting worse, not better. My surgeon basically blew me off so I immediately made an appointment with my PCP, she did an exam and sent for an ultrasound. The pain gets so bad, even the shower hurts, but what I'm puzzled about\n is that it lasts appx 2-3 weeks, goes away only to return. \nI should mention my mother has Fibrocystic Breast Condition. I've been taking Tramadol for pain.My last PCP wouldn't hear of me having surgery for the ovarian cycts and put me on vicodin for over one year, I finally switched PCP's who sent me for an ultrasound and to an ob/gyn. The OB/GYN scheduled surgery and put me on dilaudid (stronger than morphine). \nI don't want to go thru that hell again, so can anyone tell me if this will just away or will it keep recurring? ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "<Z> <Z> Breast Cysts  I'm 46 and Nov 2011 I had",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 46
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "menopause",
+            "ovarian",
+            "ovary",
+            "Breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/05/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2745311",
+    "Title": "Breast Cysts"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "<Z> <Z> Breast Cysts  I'm 46 and Nov 2011 I had",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 46
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 197
+}

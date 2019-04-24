@@ -1,0 +1,169 @@
+{
+  "AuthorID": "cmcona",
+  "AuthorURL": "https://www.cancerforums.net/members/107344-cmcona?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "smart",
+      "smart"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "Posts": [
+    {
+      "AuthorID": "cmcona",
+      "AuthorURL": "https://www.cancerforums.net/members/107344-cmcona?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 60 years old, recently diagnosed with PC. Gleason 3+3. PSA - 9. Father & maternal grandfather had PC. 10+ years with BPH (taking Flowmax). I am seriously considering having a robotic prostatectomy. The local surgeons have significant experience with the da Vinci Surgical System. Their technique has evolved over many years. Their reputation is good. While doing research I have found a lot of information about Dr. David Samadi's \"SMART\" technique for prostate removal. He claims a 95% cure rate while achieving continence rates of 97% and potency rates of 81% within 1 year. I realize that experience has a lot to do with the success of robotic surgery; however, is there a significant difference in surgical techniques?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Robotic Prostatectomy Techniques I am 60 years old  recently diagnosed with",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "26/10/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34546-Question-about-Robotic-Prostatectomy-Techniques?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question about Robotic Prostatectomy Techniques"
+    },
+    {
+      "AuthorID": "cmcona",
+      "AuthorURL": "https://www.cancerforums.net/members/107344-cmcona?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 60 years old, recently diagnosed with PC. Gleason 3+3. PSA - 9. Father & maternal grandfather had PC. 10+ years with BPH (taking Flowmax). I am seriously considering having a robotic prostatectomy. The local surgeons have significant experience with the da Vinci Surgical System. Their technique has evolved over many years. Their reputation is good. While doing research I have found a lot of information about Dr. David Samadi's \"SMART\" technique for prostate removal. He claims a 95% cure rate while achieving continence rates of 97% and potency rates of 81% within 1 year. I realize that experience has a lot to do with the success of robotic surgery; however, is there a significant difference in surgical techniques?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 60 years old  recently diagnosed with",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "26/10/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34546-Question-about-Robotic-Prostatectomy-Techniques?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question about Robotic Prostatectomy Techniques"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Robotic Prostatectomy Techniques I am 60 years old  recently diagnosed with",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "da vinci",
+      "prostatectomy",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 253
+}

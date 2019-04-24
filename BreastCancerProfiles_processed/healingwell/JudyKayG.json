@@ -1,0 +1,153 @@
+{
+  "AuthorID": "JudyKayG",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3895336&p=260506",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "concerned",
+      "willing",
+      "sore",
+      "panic",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "JudyKayG",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3895336&p=260506",
+      "Content": " That is ....it is not a fluid filled cyst. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "09/08/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3895336",
+      "Title": "Solid mass not cyst?!"
+    },
+    {
+      "AuthorID": "JudyKayG",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3895336&p=260506",
+      "Content": " I need advice. Not one to worry BUT.... I am 62 years young, in great health. Mammo showed a spot so I went back for a sono. Radiologist sent me to a surgeon with a \"low level of concern.\" I saw the surgeon today and will have it removed next month. I have been on hormones for about\n 12 years. He said it was not a cyst but I couldn't tell how concerned he was or if I should be. The spot is sore and my nipple itches. I'm not one to panic but my husband does. What do you guys think? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 62 years young  in great health",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/08/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3895336",
+      "Title": "Solid mass not cyst?!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 62 years young  in great health",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 62
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 117
+}

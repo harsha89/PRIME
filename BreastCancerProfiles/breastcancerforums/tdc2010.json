@@ -1,0 +1,119 @@
+{
+  "AuthorID": "tdc2010",
+  "AuthorURL": "https://www.cancerforums.net/members/19742-tdc2010?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "tdc2010",
+    "AuthorURL": "https://www.cancerforums.net/members/19742-tdc2010?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My mother was dx in 1983 with lobular carcinoma of the right breast. Her right breast was removed at that time. Two years later, there was a recurrence in the right chest wall with radiation used as treatment. A hysteretomy was performed approximately 2 years after that for pre-cancerous legion. My mom's health was then fantastic until she started to have abdominal and right side pains in 2006. At that time, she was dx w/ metastatic breast cancer with peritoneal involvement. The biospy report read as follows: \"consistent with a breast primary with CK7 positive, CK20 negative, TTF1 negative, and ER/PR strongly positive. Peritoneum: Not Amplified; HER-2/CEN 17 Ratio is 1.2; The average of HER-2/NEU copies per cell = 2.1; The average of CEN 17 copies per cell = 1.8.\" Mom was treated with different type of hormone therapy which seem to respond well. In December 2008, she developed a partial bowel obstruction due to increase ascites and was hospitalized. At that time, a peritoneal cathater was placed and chemo was started. Fluid continued to be taken off anywhere from 1 to 3 days depending on the build-up. Chemo continued from Feb 2009 through Sept 2009. Everything seemed to be going well until her ascites started to increase in Febuary 2010. We are now taking fluid off of her on a daily basis and the amount ranges anywhere from 300 to 700 cc. She also developed another bowel obstruction and has been hospitalized for the past 2 1/2 weeks. Her tumor markers are at their lowest level of 125. The oncologist and surgeon both attribute the bowel obstruction to tumors around the outside of the colon. (her tumors are the size of a pin points). She has not been able to keep any food down for about 3 weeks now, and her condition is inoperable. Both the surgeon and oncologist state that breast cancer metastizing to the peritoneal is extremely rare. I can not find any information anywhere on this ever happening. My question is has anyone ever heard of this happening? Everything I have read states that once ascites starts to build up like it has in her, the survival rate is approximately 3-6 months- it has been 1 1/2 years. I have also read bowel obstruction like this also signal the end of the disease. With my mother tumor markers being so low, can this really be cancer related? Is it possible for this type cancer to be primary and not secondary? Chemo has been started on my mom again, but she is still not keeping any food down. A NG tube was orignally placed, but was removed after 2 days and she has refused the tube being replaced. Any information would be extremely helpful. As a side note- in the office where my mother had worked for 30 years, 9 of the people that sat near her have had cancer- four have already died, and the other 5 are fighting for their lives. Most of the cases are ovarian cancer or breast cancer.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "ovarian",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mother",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mother"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/03/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/12524-help-needed-Metastic-breast-w-peritoneal-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "help needed-Metastic breast w/peritoneal cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 527
+}

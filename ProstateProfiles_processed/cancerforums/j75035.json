@@ -1,0 +1,133 @@
+{
+  "AuthorID": "j75035",
+  "AuthorURL": "https://www.cancerforums.net/members/23266-j75035?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "nice",
+      "loving",
+      "loved",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 3.6,
+    "min": 1.7,
+    "scores": [
+      3.6,
+      1.7
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "j75035",
+    "AuthorURL": "https://www.cancerforums.net/members/23266-j75035?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I am a long time lurker.... I'm 53 years old and just had another 12 core biopsy... Results were negative... This is my third biopsy in 14 years... It all started during a routine physical exam and the lovely DRE. My physician felt a nodule on my prostate and referred me to a urologist.. Initial PSA was 1.7 but they suggested a biopsy of the nodule... negative results but did end up with a nice infection and acute urinary retention emergency resulting in hospitalization (that was fun). Had another biopsy a year later with negative results... Since then, I keep a spreadsheet of my PSA levels but have declined any more biopsy's until this last month. Date PSA PSA-f 12/2/2002 1.7 10/7/2003 1.4 1/13/2009 3.72 2/28/2011 5.3 3/9/2011 25 20% 14 days of Levaquin 750mg/day 3/31/2011 12.2 4/8/2011 4.3 7/29/2011 3.99 12% 9/28/2011 3.4 16% 7/2/2012 4.2 3/15/2013 3.6 7/7/2016 3.6 17% So this brings me to my latest biopsy... Urologist on 7/7/16 did exam for problems urinating and said prostate is very enlarged... PSA was 3.6. Urologist suggested another biopsy... negative results but suggested we send the core off for Confirm MDX analysis. Has anyone had any experiences with this analysis? Supposedly a negative result will be a pretty good indication that no PCA is present. What happens if the result is positive?",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "a long time lurker     I'm 53 years old and just had",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 53
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "31/08/2016",
+    "ThreadURL": "https://www.cancerforums.net/threads/48793-Confirm-MDX-Experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Confirm MDX Experiences"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "a long time lurker     I'm 53 years old and just had",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 53
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 274
+}

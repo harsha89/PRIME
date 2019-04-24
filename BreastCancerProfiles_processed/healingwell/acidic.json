@@ -1,0 +1,150 @@
+{
+  "AuthorID": "acidic",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1037708&p=59017",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "concerned"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "acidic",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1037708&p=59017",
+      "Content": " I know preganancy would change the color of the whole areola, but this is just a faint ring outline. I have a whole year to go before my insurance pays for another visit, thats a long time to wonder! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/02/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1037708",
+      "Title": "color change concerning areola"
+    },
+    {
+      "AuthorID": "acidic",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1037708&p=59017",
+      "Content": " My grandmother had radical double mastectomies. As far as I know, my mother is fine. I am 30 and getting a mammogram next year. Just noticed this year my areola has a super faint ring about\n the size of a quarter. I only noticed the faint outline because part of the line includes the skin above the areola. Does anyone know what this could be? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 30 and getting a mammogram next",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 30
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/02/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1037708",
+      "Title": "color change concerning areola"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 30 and getting a mammogram next",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 30
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 108
+}

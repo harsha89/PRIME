@@ -1,0 +1,142 @@
+{
+  "AuthorID": "sundaymoylan",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3069393&p=199673",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "glad",
+      "spirited",
+      "loving",
+      "loved",
+      "concerned",
+      "willing",
+      "lost",
+      "freaking out"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "sundaymoylan",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3069393&p=199673",
+    "Content": " Here's my deal. I guess Kaiser tried to reach me yesterday - I have a 9:00am appointment tomorrow morning and I'm supposed to plan for at least two hours. It's because of my mammogram that I had late last week. They saw something in the right breast.\nThe reason they need to plan on two hours is because after they take more mammogram images the radiologist will likely want to do an ultrasound.\nI had a mammogram right before we moved to Northern California from Southern California in February...everything (according to them) seemed normal.\nLess than two hours after my mammogram last week Kaiser called requesting info on where I had my last one done to compare images - I told them where and that was that. \nFunny though - the mammography tech told me that if they needed more images I would get a call in a week (yet they called in less than two hours)...\nThe weird thing is that even though I'd just had one merely months ago...something/someone, God, angel/spirit guide kept nagging me to get another one NOW. So I did.\nI'm FREAKING OUT! Glad I found a place to share. I'm nearly 45; my mom was diagnosed with BC at 40 and fought hard for 17-years. It's been over 9-years since we lost her.\nThere are a few other familial deaths from BC, so I'm concerned.\nI guess I'll update tomorrow - thanks for reading. Love & light to you all. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.7833333333333333,
+          "Phrase": "<Z> <Z> <Z> I'm nearly 45  my mom was diagnosed with",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 45
+        },
+        {
+          "Confidence": 0.8833333333333334,
+          "Phrase": "was diagnosed with BC at 40 and fought hard for 17",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 40
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 8,
+    "PostDate": "03/06/2014",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3069393",
+    "Title": "2 Mammograms and an ultrasound later...?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7833333333333333,
+      "Phrase": "<Z> <Z> <Z> I'm nearly 45  my mom was diagnosed with",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 45
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 258
+}

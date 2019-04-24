@@ -1,0 +1,120 @@
+{
+  "AuthorID": "anxiousgirl84",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3245572&p=206941",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "sure",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "anxiousgirl84",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3245572&p=206941",
+    "Content": " Hi All,\nFor the past week I have been experiencing pain on the left side of my chest which seems to be coming from my breast. I should mention that I wear size 34DD, I don't know if my size has anything to do with it. The area right above my breast, below my collar bone seems slightly swollen compared to the right side. I slept on my left side tonight and woke up in the middle of the night with intense pain and almost a burning feeling in some parts of the breast. When I go to sit up my breast and the area above it is in so much pain. It's now 5:00 in the morning and I'm freaking out. I'm sure that the pain is coming from my breast but I'm also scared of it being heart related. I have an appointment with my gyno on Tuesday, hopefully that will give me some answers. I just don't know if I should go see my regular doctor tomorrow. I'm just so freaked out...can't even sleep right now. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "17/11/2014",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3245572",
+    "Title": "Left Breast Pain"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["burning"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 192
+}

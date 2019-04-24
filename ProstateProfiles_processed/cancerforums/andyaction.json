@@ -1,0 +1,128 @@
+{
+  "AuthorID": "andyaction",
+  "AuthorURL": "https://www.cancerforums.net/members/31122-andyaction?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "interested",
+      "approachable",
+      "great",
+      "willing",
+      "secure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "3",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "andyaction",
+    "AuthorURL": "https://www.cancerforums.net/members/31122-andyaction?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Yes, I am a UK man of 60 who was diagnosed with BPH. My urologist wanted me to go through the usual surgical procedures but I was not ready for the possible side effects. So, I searched for advances in prostate treatments, found the Gat Goren method and a few weeks later i was in Israel undergoing the procedure. it was totally painless and within a couple of days I noticed an improvement. A month down the line, the improvement continues. My flow is much as it was the few days after the procedure but urgency is much less and night time visits are reduced and on some nights not at all. I understand that it takes six months to a year for the prostate to react fully to the procedure so there is a way to go! The procedure was positive and I was walking around within 20 minutes of completion with no discomfort, the EL AL flights were a very good experience with transfers to and from and an express clearance on the return through Ben Gurion security (although I did go first class). Hotel - the leonardo city tower, a business hotel near to the Gat Goren offices was basic and noisy (roads) although service was good and food exceptionally good - and I'm fussy! For those who want to know more check out their website and go through the fertility stuff which is their bread and butter. The Gat Goren procedure deserves to be investigated by Uk authorities as it appears to have great potential and would help many men - interestingly, in five out of six men who were treated and who had PCa, no PCa cells were found at the follow up biopsies six months later. So, whereas they do not claim that it will work for everyone, it is certainly worth investigating and considering. So, why aren't the NHS and other \"experts\" showing just a single degree of professional curiosity? GAT and Goren are NOT cowboys, for those interested.... Yigal Gat, MSc, MD, PhD, Head of Andrology & Interventional Radiology at the Maayanei Hayeshua Medical Center in Bnei Brak, Israel, and a research consultant in Condensed Matter Physics, Sub-Micron Research, Weizmann Institute of Science in Rehovot, Israel. and Dr Goren, B.A. cum laude in Biology at Harvard University and medical degree from Temple University in Philadelphia, did specialty training in Diagnostic Radiology and neuroradiology at Washington University. At the Rabin Medical Center in Petach Tikva, Israel, he served as a senior interventional radiologist until 2006. During that period, he spent time at the University Hospital of Ghent, Belgium, where he was introduced to the transvenous approach to varicocele treatment initially developed by Prof. M. Kunnen.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "am a UK man of 60 who was diagnosed with BPH",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 60
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 4,
+    "PostDate": "01/05/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/22818-Gat-Goren-anyone-went-through-it-comments?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Gat Goren - anyone went through it? - comments?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "am a UK man of 60 who was diagnosed with BPH",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["urgency"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 453
+}

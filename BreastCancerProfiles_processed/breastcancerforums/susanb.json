@@ -1,0 +1,133 @@
+{
+  "AuthorID": "susanb",
+  "AuthorURL": "https://www.cancerforums.net/members/2152-susanb?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "easy",
+      "great",
+      "tender",
+      "uncertain",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "susanb",
+    "AuthorURL": "https://www.cancerforums.net/members/2152-susanb?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi i am new to this forum just wanted a little help to my uncertain results. in 2000 i had a gallium scan due to a nuerological autoimmune disease,it was the one were they injected me with some radioactive stuff but the test result shown something on my left hemi thorax just below my nipple. An d my nuerologist adviced me to see a breast specialist even though 18 months earlier i had seen one due to discharge and pain in the left breast nothing was seen on the mamograph,So again i had another one in 2000 nothing shown up.But if it was seen on the gallium why not on mamograph,I still have the pain in my left breast comes and goes,but i have always found it impossiable to stretch my left arm up as easy as my right seems like its pulling under the arm pit.My nuerologist did say on med records it looks eaither like a cyst or a carcinoma,i was about 29 when this problem with my breast started,i know that breasts can become tender on menstrul periods but i had a hysterectomy in 2002. Any advice would be great,as this tenderness as started again finding it hard even to lie on tummy due to pressure on breast. thanx susanb",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "a carcinoma i was about 29 when this problem with my",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 29
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hysterectomy",
+            "breast",
+            "breasts",
+            "periods"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "21/04/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/2830-gallium-scan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "gallium scan ?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "a carcinoma i was about 29 when this problem with my",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 29
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 224
+}

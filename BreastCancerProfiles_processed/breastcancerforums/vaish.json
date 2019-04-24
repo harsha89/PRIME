@@ -1,0 +1,126 @@
+{
+  "AuthorID": "vaish",
+  "AuthorURL": "https://www.cancerforums.net/members/337-vaish?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "confident",
+      "glad",
+      "confident",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "3",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "vaish",
+    "AuthorURL": "https://www.cancerforums.net/members/337-vaish?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hello, Feels good to be here!! My wife, Vaishali was diagnosed with Breast cancer, a month after the birth of our second daughter. The gynaec in India, mistook the lump as a milk knot, and finally when we had it right, she was in stage 3. We had the mastectomy done, and there were 3 runds of Epirubicin (hope i have spelled it right) prior to the surgery. The surgery was followed with another dose of Epirubicin and then followed by 6 does of DoceTaxel(Taxotere). We were glad to get over with the chemos, and were preparing ourselves for radiation, when lesions were found in her liver. The Doctor says, that inspite of the top of the class dose of taxo, if the cancer is striking back then another round of chemo, may not be of any use. In short he says, allopathy may not have more to offer her. There is a Homeopathic Doctor who is fairly confident of arresting the cancer growth, and we are thinking of getting over with allopathy and move to Homeopathy. We are in double minds as if we start with Homeopathy then we cannot have interference form allopathy. At the same time, allopathy is not offering any promises but another round of chemo, and the Docotr says there is very little chance of success. What do I do, where do I go / Anybody, with any experience in this? has anybody tried Homeopathy at all? I will very much appreciate your inputs. Thanks and good luck to you all. Warmest regards Vinayak",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "23/02/2005",
+    "ThreadURL": "https://www.cancerforums.net/threads/589-Chome-again-or-alternative-medicine-(homeopathy)?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Chome again or alternative medicine (homeopathy)?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 265
+}

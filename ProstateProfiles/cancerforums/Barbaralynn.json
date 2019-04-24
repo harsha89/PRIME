@@ -1,0 +1,122 @@
+{
+  "AuthorID": "Barbaralynn",
+  "AuthorURL": "https://www.cancerforums.net/members/121504-Barbaralynn?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "overwhelmed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 8.2,
+    "min": 8.2,
+    "scores": [8.2]
+  },
+  "Posts": [{
+    "AuthorID": "Barbaralynn",
+    "AuthorURL": "https://www.cancerforums.net/members/121504-Barbaralynn?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hello Everyone, My husband has been dealing with high PSA levels for the past ten years. He has had several biopsies with the first one showing pre-cancer. His last biopsy was a saturation biopsy with 24 spots tested, all clear. That was about five years ago. He was told to continue PSA's every six months. His most recent PSA was 8.2 with a jump of 3 points since the last PSA. The doctor recommended a Multiparametric MRI which is being done next week. Here is where I need some help. We are fairly new in the Philadelphia area and need some recommendations for hospitals and doctors should the MRI show cancer. I don't care for the doctor we are currently with.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "husband",
+          "NarrationType": "second-person",
+          "NarratorGender": "female",
+          "PatientGender": "male",
+          "Relation": "husband"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "28/11/2016",
+    "ThreadURL": "https://www.cancerforums.net/threads/49547-Feeling-overwhelmed?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Feeling overwhelmed"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 127
+}

@@ -1,0 +1,145 @@
+{
+  "AuthorID": "smile1967",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1314322&p=58028",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "close",
+      "willing",
+      "scared",
+      "grieved"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "smile1967",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1314322&p=58028",
+      "Content": " Hello, I am usually on the Crohn's forum but I need your advise. My very close friend will be having her mastectomy on Wed. Dec.10.\n \n \n \n \n \n \n  \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "friend",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "friend"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/12/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1314322",
+      "Title": "Need advise to help friend thru mastectomy"
+    },
+    {
+      "AuthorID": "smile1967",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1314322&p=58028",
+      "Content": " Thanks for the the advice, Bev. You are so right about\n feeding the family, I have already frozen a few meals in advance. When I had my bowel resection in Feb. the best friends to have were the ones that came and took my kids, dropped off meals and scrubbed the toilet on their way out the door!! \"treat her as you always have\" is a good reminder. I think this is where I am struggling with is how to help her thru the emotions, I can handle the hands on helping part, it is the watching her be scared and grieve the loss of her breast, that I feel so helpless about\n. I know just being there and listening is all you can do.\n \n  \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/12/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1314322",
+      "Title": "Need advise to help friend thru mastectomy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 159
+}

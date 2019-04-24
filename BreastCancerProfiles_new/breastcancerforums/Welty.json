@@ -1,0 +1,149 @@
+{
+  "AuthorID": "Welty",
+  "AuthorURL": "https://www.cancerforums.net/members/5662-Welty?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "willing",
+      "determined"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Welty",
+      "AuthorURL": "https://www.cancerforums.net/members/5662-Welty?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "This is the following information for the Cytology Report: Immunocytochemical stains performed on second cell block reveals tumor cells are positive for MOC31, ER (90% nuclear) and weakly positive for BerEp4, the negative stains are calretinin, WT-1, PR and BRST-2. The staining pattern and morphology, although not entirely specific, but favor metastatic adenocarcinoma of the breast origin. This is the Bone Imagining Report: Extensive osteoblastic metastatic disease is identified in the calvarium, cervical, thoracic and lumbar spine as well as within the left femur. Diffus linear foci are identified within multiple ribs bilaterally. There is a focus of increased uptake in the lateral aspect of the femoral condyle which probably represents degenerative disease. Extensive osteoblastic METS within visual axial and appendicular skeleton. Can anyone explain this to me in simple terms?? Also does anyone know if Insurance companies will pay for a preventive mastectomy with reconstruction?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/04/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4579-Need-help-with-report-and-questions-please-help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Need help with report and questions...please help"
+    },
+    {
+      "AuthorID": "Welty",
+      "AuthorURL": "https://www.cancerforums.net/members/5662-Welty?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My mother had breast cancer 14 years ago when she was 43, had a mastectomy on the right breast, had a clean bill of health. Last year she came down with pneumonia, was hospitalized for a couple of weeks and sent home. In January of this year she was addmitted to the hospital again, went to her cancer doctor for a follow up with the breast cancer, was given a clean bill of health again, even though fluid build up on the lungs was the main cause of the visit in the hospital. In March she was addmitted back at the hopital for fluid in the lungs and low oxygen levels. Was transfered to OSU Medical after a week and a half, then the found the above item...from first posting. They are giving her 6 months to live, how can it be in 2 months she goes from having no cancer to full blwn cancer in stage 4, in the bones??? Did the doctor miss the cancer previously? Her doctor told she had osteoporosis a year ago, could have this been the bone cancer in her spine. How can they determine 6 months? I am very confused right now and am rambling on, sorry for any confusion.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "years ago when she was 43  had a mastectomy on the",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mother",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mother"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "30/04/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4579-Need-help-with-report-and-questions-please-help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Need help with report and questions...please help"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "years ago when she was 43  had a mastectomy on the",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 43
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["pneumonia"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 365
+}

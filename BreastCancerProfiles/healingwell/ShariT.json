@@ -1,0 +1,227 @@
+{
+  "AuthorID": "ShariT",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2550214&p=149904",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "determined",
+      "close",
+      "determined",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "0.2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.2",
+      "OPEN": "0",
+      "POSITIVE": "0.6",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 5,
+  "NPosts": 5,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "ShariT",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2550214&p=149904",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "06/11/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2550214",
+      "Title": "New Member here Freaking out over doctor visit today."
+    },
+    {
+      "AuthorID": "ShariT",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2458950&p=149904",
+      "Content": " I just left the breast center and they scheduled my test for next Thursday. I will give you all of the details. Thanks so much! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "11/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2458950",
+      "Title": "breast cancer BSGI/MBI"
+    },
+    {
+      "AuthorID": "ShariT",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2458950&p=149904",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "08/08/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2458950",
+      "Title": "breast cancer BSGI/MBI"
+    },
+    {
+      "AuthorID": "ShariT",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2519509&p=149904",
+      "Content": " You may want to ask about\n MBI-- This is a Molecular Breast Imaging test that is very effective in determining if there is cancer present or not and can eliminate an unnecessary biopsy.  I had this test a couple of months ago at my local breast center.  \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "27/09/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2519509",
+      "Title": "Biopsy for Breast Cancer?"
+    },
+    {
+      "AuthorID": "ShariT",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2458950&p=149904",
+      "Content": " Recently I went for my annual mammogram.  I am 41 and had my first mammogram last year and was told that I have dense breasts.  Two days after my mammogram I received a call from my doctor asking me to go back for a lateral compression test because my mammogram was suspicious.  They said that I had a spot that was very close to my chest wall and the lateral compression test was unable to give a clear image so they sent me for an ultrasound.  The radiologist came in and did the ultrasound himself and said that I have a very dense area near the chest wall and ribs.  He said it is not normal to have dense tissue there and that my mammogram had changed from the year before.  He does not think that it is cancer but \"it is not normal\" so I am going to have a BSGI test next week.  This test (breast specific gamma imaging or molecular breast imaging)is supposed to be able to give an accurate result within minutes to determine whether there is any cancer present.  Has anyone had the BSGI? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 41 and had my first mammogram",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2458950",
+      "Title": "breast cancer BSGI/MBI"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 41 and had my first mammogram",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 266
+}

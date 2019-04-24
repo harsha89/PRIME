@@ -1,0 +1,125 @@
+{
+  "AuthorID": "c0les87",
+  "AuthorURL": "https://www.cancerforums.net/members/19432-c0les87?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "concerned",
+      "willing",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "c0les87",
+    "AuthorURL": "https://www.cancerforums.net/members/19432-c0les87?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi, I am 23 years old, and about 2 months ago, found a small pea sized lump on my right breast. I went to the DR and had it checked, as I have a history of breast cancer throughout my family. As she (the DR) was doing the exam, she found a second lump & was a little concerned. She is now sending me for an ultra-sound to check it out which is on March 9th. Im just wondering if anyone might have a possible time line on what I should expect, from time of the ultra-sound, to maybe a diagnosis?(spelling) Im super scared, and reading things on the internet just seemed to make me more scared. Anything will help. Thanks so much! -Nicole",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "for advice   Hi  I am 23 years old  and about 2",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 23
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "23/02/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/12221-Newly-Found-Lump-just-looking-for-advice?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Newly Found Lump, just looking for advice.."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 134
+}

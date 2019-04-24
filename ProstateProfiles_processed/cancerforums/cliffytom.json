@@ -1,0 +1,183 @@
+{
+  "AuthorID": "cliffytom",
+  "AuthorURL": "https://www.cancerforums.net/members/121428-cliffytom?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "willing",
+      "caring",
+      "loving",
+      "loved",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {
+    "max": 94,
+    "min": 94,
+    "scores": [94]
+  },
+  "Posts": [
+    {
+      "AuthorID": "cliffytom",
+      "AuthorURL": "https://www.cancerforums.net/members/121428-cliffytom?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello All, My husband and I are new to this, and are putting out feelers, trying to learn as much as we can about his condition.. He is 49.... he has been having problems with urination for about a year, he was checked and put on antibiotics, then never followed up...after finding blood clots in both legs, then another clot in leg and a PE while on anti-cog therapy. Then did CT,scan we were told that it is most likly stage 4 PC causing the clotting, he received the 1st dose of FRIMAGON yesterday, and it's going for bone scan this morning, it will be awhile before we get a bio, due to the blood thinner.... The compilation of the clots is very concerning to us...",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 49     he has been having problems",
+          "Relation": "second-person",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/11/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49504-Blood-Clots-revealed-PSA-of-94-0?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Blood Clots revealed PSA of 94.0"
+    },
+    {
+      "AuthorID": "cliffytom",
+      "AuthorURL": "https://www.cancerforums.net/members/121428-cliffytom?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "His first PSA was two weeks ago and was the same as the last 3 days ago 94....the exam he received 6 months ago, to my knowledge a PSA level was not taken, that was in Louisiana, we recently moved to Seattle and it seems the health care is much better up here....",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "21/11/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49504-Blood-Clots-revealed-PSA-of-94-0?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Blood Clots revealed PSA of 94.0"
+    },
+    {
+      "AuthorID": "cliffytom",
+      "AuthorURL": "https://www.cancerforums.net/members/121428-cliffytom?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "The Firmagone prescribing doctor is a Urologist, He performed an exam and found the prostate very hard. The CT revealed enlarged lymph nodes.... All doctors are in agreement that the cancer is causing the blood to continue to clot, while on anti-cog therapy... I've done a bit of research and have found some instances of cancer causes clots. We have been advised and researched ourselves the side effects of the hormone treatment, and it seems like you said a very drastic step without a bio confirmation. We except to be discharged from hospital by weds, with the PE they want to make sure he is staple on the love next blood thinner, at that point the urologist will do a biopsy...he says he doesn't like to do this while a patiants is on blood thinners but feels he should asap..",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "20/11/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49504-Blood-Clots-revealed-PSA-of-94-0?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Blood Clots revealed PSA of 94.0"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Clot"],
+    "SideEffectTypeKeywords": ["clot"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 335
+}

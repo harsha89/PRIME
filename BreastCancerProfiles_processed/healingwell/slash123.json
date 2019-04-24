@@ -1,0 +1,178 @@
+{
+  "AuthorID": "slash123",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385956&p=143698",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pained",
+      "pained",
+      "pleased",
+      "pained",
+      "wronged",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.333",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "slash123",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385956&p=143698",
+      "Content": " I think it has changed... I didnt discuss about\n my back pain... :/ ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385956",
+      "Title": "Breast no pain"
+    },
+    {
+      "AuthorID": "slash123",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385956&p=143698",
+      "Content": " Im going to doctor next week, if i have cancer what chances are to survive? Im I gonna die this young?? I dont wanna die :( ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "09/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385956",
+      "Title": "Breast no pain"
+    },
+    {
+      "AuthorID": "slash123",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385956&p=143698",
+      "Content": " Hey, Im a male 19 years old and i dont feel any pain in my right breast. I've got small lump and its streching for about\n 5-6 years. I've never been to a doctor, till last week and they told me that thats just normal for teenagers. I dont know but i think something is wrong... Sometimes my back hurts but i guess thats becouse i play guitar in a band and have gigs that sometimes last for hours. What should i do? Please help me i so depressed :/ Can be possible to have breast cancer at that age? And if I really had breast cancer would I die after 6 years?\nThank you! ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "pain  Hey  Im a male 19 years old and i dont",
+          "Relation": "first-person",
+          "Tense": "present",
+          "Value": 19
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385956",
+      "Title": "Breast no pain"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 157
+}

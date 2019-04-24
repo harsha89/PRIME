@@ -1,0 +1,187 @@
+{
+  "AuthorID": "mattie1",
+  "AuthorURL": "https://www.cancerforums.net/members/112610-mattie1?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "cheerful",
+      "supportive",
+      "willing",
+      "cheerful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "mattie1",
+      "AuthorURL": "https://www.cancerforums.net/members/112610-mattie1?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi - 62 yr old healthy - diagnosed stage T3, Gleason score 7. Urologist says prostatectomy. I have a severe anxiety disorder - the idea of a catheter and incontinence is repellant to me. He says without sx I will be dead in 10 years - I don't have a problem with that and think 72 would be a full life - both my parents died at 60. My real problem is my family and friends pushing for sx and possible radiotherapy after. I am not a coward - how do I explain to them what I know my gut feeling is saying - which is to let go and enjoy what I have left ? cheers to all of you, Mattie/",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9666666666666666,
+            "Phrase": "<Z> <Z> <Z> <Z> Hi   62 yr old healthy   diagnosed stage",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 62
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "both my parents died at 60  My real problem is my",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40670-Looking-for-advice-and-emotional-support-with-new-Prostate-Ca-diagnosis?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Looking for advice and emotional support with new Prostate Ca diagnosis."
+    },
+    {
+      "AuthorID": "mattie1",
+      "AuthorURL": "https://www.cancerforums.net/members/112610-mattie1?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi - 62 yr old healthy - diagnosed stage T3, Gleason score 7. Urologist says prostatectomy. I have a severe anxiety disorder - the idea of a catheter and incontinence is repellant to me. He says without sx I will be dead in 10 years - I don't have a problem with that and think 72 would be a full life - both my parents died at 60. My real problem is my family and friends pushing for sx and possible radiotherapy after. I am not a coward - how do I explain to them what I know my gut feeling is saying - which is to let go and enjoy what I have left ? cheers to all of you, Mattie/",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9666666666666666,
+            "Phrase": "<Z> <Z> <Z> <Z> Hi   62 yr old healthy   diagnosed stage",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 62
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "both my parents died at 60  My real problem is my",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "06/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40670-Looking-for-advice-and-emotional-support-with-new-Prostate-Ca-diagnosis?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Looking for advice and emotional support with new Prostate Ca diagnosis."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "both my parents died at 60  My real problem is my",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Urinary incontinence"],
+    "SideEffectTypeKeywords": ["incontinence"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiotherapy",
+      "prostatectomy"
+    ]
+  },
+  "WordCount": 241
+}

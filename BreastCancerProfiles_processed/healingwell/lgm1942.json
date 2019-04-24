@@ -1,0 +1,147 @@
+{
+  "AuthorID": "lgm1942",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3462600&p=163755",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "peaceful",
+      "thoughtful",
+      "lucky",
+      "peaceful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "lgm1942",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3462600&p=163755",
+      "Content": " I am not a doctor, but BC run's in my family, all of them had deep tumors not on or near the surface, it is my thinking\nthat the itchiness they are refering to is with skin cancer, your doctor would have moved very quick if he thought it\nwas anything serious. Peace\nLarry *** ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "28/07/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3462600",
+      "Title": "please help me I am scared to death!!! i dont know what to do!"
+    },
+    {
+      "AuthorID": "lgm1942",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3156682&p=163755",
+      "Content": " Lisa, it's larry, your husband is a lucky man and he knows it.\nYou have my Prayers, always have had, Peace\nLarry *** ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "16/09/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3156682",
+      "Title": "Conflict over reconstruction for symetry"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 80
+}

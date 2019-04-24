@@ -1,0 +1,148 @@
+{
+  "AuthorID": "denise40",
+  "AuthorURL": "https://www.cancerforums.net/members/15771-denise40?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "amazed",
+      "ok",
+      "wronged",
+      "hopeful",
+      "bad",
+      "cold",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0.5",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "denise40",
+      "AuthorURL": "https://www.cancerforums.net/members/15771-denise40?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "hi as you prob read my mam has brain cancer which was from her breast cancer . she had her bone scan yesterday and went ok , they have gave her 2 weeks without treatment and 6 month with ,its just so strange i have never seen her so well ,not hust the way she looks her happiness .she has just forgot all her deppression she has had for 40 year and lots of other things that is wrong with her its amazing .",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/03/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/8830-update-on-mam-s-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "update on mam s cancer"
+    },
+    {
+      "AuthorID": "denise40",
+      "AuthorURL": "https://www.cancerforums.net/members/15771-denise40?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "quick up date mam s pain in head really bad prob get results of her bone scan today .she has caught a cold too and got a bad cough . she is conplaining of pain in side ,hope it not her lungs .",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/03/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/8830-update-on-mam-s-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "update on mam s cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 127
+}

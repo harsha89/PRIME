@@ -1,0 +1,154 @@
+{
+  "AuthorID": "Radical",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2588073&p=78441",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "approachable",
+      "pleased",
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 4,
+    "min": 3,
+    "scores": [
+      4,
+      3
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "Radical",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2588073&p=78441",
+    "Content": " Hi Guys, as you can see from my signature, I'm normally posting in the Prostate Cancer forum, but just thought I would pop in a pay a visit.\nI'm seeking help for a friend of mine whom has just been diagnosed with\nBreast Cancer. She is 43 years of age, very Thin and not a big eater.\nAll I know at this stage is she has had her operation to remove a small lump in the breast. Turns out the small lump felt from the outside, was actually quite large inside. Doctors have told her she will need to have\nher breast removed and a full hysterectomy. She will also require chemo at some stage, she has been told.\nIs it possible to tell me what stage she is from this information, and her\nfuture outlook. I would like to be a little more informed before approaching her.\nMany Thanks Kev.\nKev 54yrs [Gold Coast Qld, Australia]\nPSA 4 Gleason 7 [4+3]\nRP 24/12/08 Dr Philip Stricker [Sydney]\nStage 2 Tumor 7% Margin status- Focal Involvement\nFully Cont. ED- 90%\nPSA @ 3yrs <0.01\n\"Every-day in Every-way I Get Better\"\n ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.7,
+          "Phrase": "<Z> <Z> <Z> She is 43 years of age  very Thin",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        },
+        {
+          "Confidence": 0.95,
+          "Phrase": "<Z> <Z> <Z> <Z> Kev 54yrs [Gold Coast Qld  Australia]\nPSA",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 54
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hysterectomy",
+            "Breast"
+          ],
+          "MaleMedicalTerms": ["Prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "friend",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "friend"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "14/12/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2588073",
+    "Title": "Help Please"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "<Z> <Z> <Z> She is 43 years of age  very Thin",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 43
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Erectile dysfunction"
+    ],
+    "SideEffectTypeKeywords": [
+      "lump",
+      "ED"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 204
+}

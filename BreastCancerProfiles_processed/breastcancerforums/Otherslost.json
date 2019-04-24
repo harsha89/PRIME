@@ -1,0 +1,127 @@
+{
+  "AuthorID": "Otherslost",
+  "AuthorURL": "https://www.cancerforums.net/members/28638-Otherslost?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "amazed",
+      "certain",
+      "affected",
+      "willing",
+      "certain",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Otherslost",
+    "AuthorURL": "https://www.cancerforums.net/members/28638-Otherslost?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I don't think diet can cure cancer but I do think it helps your odds. My mom was diagnosed with GBM4 in December and my dads wife was diagnosed with metastatic breast cance a couple of weeks ago in her bones and liver and we are waiting for more test results... As far as diet goes I have been on a \"Pescatarian\" diet for more than 20 years and try to buy organic whenever I can. Mostly I eat what I grow and catch. I am the only one in my family that does not have high blood pressure or high cholesterol and I am the only one with a full head of hair, all the other males in my family have lost pretty much all of their hair by the time they were 35. A couple of years ago I noticed a few symptoms at we're consistent with mercury poisioning so I got checked and my mercury level was around 24ppm so i stopped eating fish for a while and startled eating more meat. The first thing I noticed was I started pulling out more hair in the shower and I just felt \"blah\", for lack of a better term. I did some research and found some ways to help my body expel the mercury and when rechecked a month later, I was less than half of what I was <10ppm. So now I added certain things to my diet and I am back to my normal eating habits. Within two weeks I felt better and barely pull out any hair in the shower and I have lost a significant amount of weight without increasing my exercise. I guess what I am trying to say is that our diet affects us more than we think and I will admit that I am not a health nut by any means, but it can improve and help our bodies in small ways that make a huge difference. it's e little things that we need to pay attention to. Mine was the hair falling out. If a diet of meat contributed to that then what else was it doing to me? Just my .02 BTW, my girlfriend in an emergency doctor and she has been amazed at the changes in me in such a short time. It's even making her re-evaluate her diet.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "half of what I was  10ppm <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 10
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 3,
+    "PostDate": "20/02/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/21461-my-friend-s-mom-s-friend-an-unbelievable-story?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "my friend's mom's friend... an unbelievable story"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 396
+}

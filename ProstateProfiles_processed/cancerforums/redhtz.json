@@ -1,0 +1,290 @@
+{
+  "AuthorID": "redhtz",
+  "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "important",
+      "willing",
+      "irritated",
+      "alarmed",
+      "important",
+      "willing",
+      "irritated",
+      "alarmed",
+      "hopeful",
+      "willing",
+      "annoyed",
+      "accepting",
+      "important",
+      "caring",
+      "hopeful",
+      "willing",
+      "alone",
+      "hopeful",
+      "willing",
+      "annoyed",
+      "accepting",
+      "important",
+      "caring",
+      "hopeful",
+      "willing",
+      "alone"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0.667",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.667",
+      "HELPLESS": "0.333",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.333",
+      "OPEN": "0.333",
+      "POSITIVE": "1.667",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 8,
+    "scores": [
+      8,
+      9
+    ]
+  },
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 140,
+    "scores": [140]
+  },
+  "Posts": [
+    {
+      "AuthorID": "redhtz",
+      "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband has been dx'd with prostate cancer. I will start with his history. He is 56 yrs old. Always been healthy and never went to a doctor for routine yearly exams or tests. Months ago he started with urinary and erection/ejacutaion sx's and as they increased he decided to become established with a provider. She drew numerous labs and DRE. Prostate was enalrged and PSA 140. He was referred to a uroligist and was seen by him a few weeks ago. Uroligist was alarmed by the high PSA. DRE was done and prostate is hard with no irritation. Discussion of possible cancer. He also mentioned the possiblity of bone involvement due to a elevated Alkaline Phosphate. Flomax started. Prostate biopsy completed 5/11 and results given 5/30. 14 core, 14 positive. 11 had Gleason score 8, 3 had Gleason score 9. Per Urologist, cancer is advanced and time is important. Ct and Bone scan scheduled for 6/1. Results of Bone scan positive in all large bones, CT negative showing only bone activity. ( I was able to read and view readings due to my work) Now we wait for follow up with urologist for results. My husband is in a state of shock hearing the \"C\" word. What is ironic, I am a registered nurse but my specialty is Emergency Room medicine and knowledge of prostates is very limited. Now I am trying to learn as much as I can quickly. Since the prostate biopsy urination has become increasingly difficult. Flomax increased. Only good news my husband feels good. This morning he played 18 holes golf. We are reading How to Survive Prostate Cancer. Any advice or suggestions are very appreciated.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 56 yrs old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51167-Beginning-of-new-journey?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Beginning of new journey"
+    },
+    {
+      "AuthorID": "redhtz",
+      "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband has been dx'd with prostate cancer. I will start with his history. He is 56 yrs old. Always been healthy and never went to a doctor for routine yearly exams or tests. Months ago he started with urinary and erection/ejacutaion sx's and as they increased he decided to become established with a provider. She drew numerous labs and DRE. Prostate was enalrged and PSA 140. He was referred to a uroligist and was seen by him a few weeks ago. Uroligist was alarmed by the high PSA. DRE was done and prostate is hard with no irritation. Discussion of possible cancer. He also mentioned the possiblity of bone involvement due to a elevated Alkaline Phosphate. Flomax started. Prostate biopsy completed 5/11 and results given 5/30. 14 core, 14 positive. 11 had Gleason score 8, 3 had Gleason score 9. Per Urologist, cancer is advanced and time is important. Ct and Bone scan scheduled for 6/1. Results of Bone scan positive in all large bones, CT negative showing only bone activity. ( I was able to read and view readings due to my work) Now we wait for follow up with urologist for results. My husband is in a state of shock hearing the \"C\" word. What is ironic, I am a registered nurse but my specialty is Emergency Room medicine and knowledge of prostates is very limited. Now I am trying to learn as much as I can quickly. Since the prostate biopsy urination has become increasingly difficult. Flomax increased. Only good news my husband feels good. This morning he played 18 holes golf. We are reading How to Survive Prostate Cancer. Any advice or suggestions are very appreciated.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 56 yrs old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51167-Beginning-of-new-journey?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Beginning of new journey"
+    },
+    {
+      "AuthorID": "redhtz",
+      "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Pratoman, Thank you for recommending Todd Seals blog. I have already started reading ( I work the night shift) and will show my husband the blog tomorrow morning. Yes, I hope to be annoyed by him for many years to come!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51167-Beginning-of-new-journey?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Beginning of new journey"
+    },
+    {
+      "AuthorID": "redhtz",
+      "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all the replies. For the 1st time I feel some hope and not so alone. Hopefully we can met with the urologist in the next couple of days to discuss Bone scan and Ct results and be referred to oncologist. Since the doctor told us \"time is important\" nothing less then expedient care will be acceptable right now. Hopefully, my 30 years as a RN will be helpful navigating the health system. Donna",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51167-Beginning-of-new-journey?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Beginning of new journey"
+    },
+    {
+      "AuthorID": "redhtz",
+      "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Pratoman, Thank you for recommending Todd Seals blog. I have already started reading ( I work the night shift) and will show my husband the blog tomorrow morning. Yes, I hope to be annoyed by him for many years to come!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51167-Beginning-of-new-journey?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Beginning of new journey"
+    },
+    {
+      "AuthorID": "redhtz",
+      "AuthorURL": "https://www.cancerforums.net/members/124072-redhtz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all the replies. For the 1st time I feel some hope and not so alone. Hopefully we can met with the urologist in the next couple of days to discuss Bone scan and Ct results and be referred to oncologist. Since the doctor told us \"time is important\" nothing less then expedient care will be acceptable right now. Hopefully, my 30 years as a RN will be helpful navigating the health system. Donna",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "05/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51167-Beginning-of-new-journey?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Beginning of new journey"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> He is 56 yrs old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 808
+}

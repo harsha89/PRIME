@@ -1,0 +1,154 @@
+{
+  "AuthorID": "slgarcia05",
+  "AuthorURL": "https://www.cancerforums.net/members/26477-slgarcia05?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "willing",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "slgarcia05",
+      "AuthorURL": "https://www.cancerforums.net/members/26477-slgarcia05?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks! I was just so stunned that I really did not ask any questions. I am kicking myself now!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "10/09/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/18885-Scared-and-need-info!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Scared and need info!"
+    },
+    {
+      "AuthorID": "slgarcia05",
+      "AuthorURL": "https://www.cancerforums.net/members/26477-slgarcia05?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello. I am a 36 yr old female. On Sept 7 I had my first mammogram. The next day I got a call that I needed to come back for more testing. So on Friday I had another mammogram and an ultrasound on my left breast. The radiologist said there is a solid mass and it needs a biopsy. She said she ruled out a cyst and a fibroadenoma. It showed up on the ultrasound as a black spot with a \"tale\" coming off of it. She also said there was another small spot. I want to know if cancer shows up on the ultrasound as a black spot. I have a meeting with a surgeon on Monday, and then they will schedule an ultrasound guided biopsy. I am freaking out! Is it most likely this is nothing? Any help would be great, not matter how scary this is. Longest weekend of my life!!!!!! Thanks!!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I am a 36 yr old female <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 36
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/09/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/18885-Scared-and-need-info!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Scared and need info!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 36 yr old female <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 178
+}

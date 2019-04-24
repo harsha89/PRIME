@@ -1,0 +1,121 @@
+{
+  "AuthorID": "Marii",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2398043&p=211206",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Marii",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2398043&p=211206",
+    "Content": " Hello everyone. I just got a call today after having a routine mammogram about\n 2 weeks ago. I was called and told I need to come in for another mammogram with magnifications. I have mircrocalcifications in the left breast. \nThey of course couldn't give me interpretation over the phone but the tech said she could tell me about\n the imaging. That's when she told me about\n the clustered microcalcification in the left breast. \nI have been searching and even called the Susan Komen hotline looking for percentages or statistics for these types of findings being cancerous. \nFrom what I've read here even however it seems that more often than not they still take measures to remove the calcifications if they fall within either A or C (of course C always).\nBut something else I found was this: \"The calcifications themselves are not cancer. They occur in disintegrated old cancer cells that were \"thrown out in the garbage\" but haven't yet been disposed of by the body. While they are waiting to be carted away, the old cells disintegrate and calcify.\"\nHas anyone else been told this or read this anywhere in literature about\n the microcalcifications? I was feeling better about\n the statistics, so much says they are usually benign but can also be a precursor to breast cancer or DCIS more specifically.\nI will add that I had Stage I Ovarian and have had no occurrence yet at all. I was done with treatment in 2007. \nAny and all comments are appreciated please.\nThank you!\nMarii ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "Ovarian",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 6,
+    "PostDate": "11/11/2014",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2398043",
+    "Title": "percentage of malignancy in clustered microcalcifications in one breast only"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 260
+}

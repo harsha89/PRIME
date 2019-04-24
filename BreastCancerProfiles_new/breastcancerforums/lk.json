@@ -1,0 +1,133 @@
+{
+  "AuthorID": "lk",
+  "AuthorURL": "https://www.cancerforums.net/members/2936-lk?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "concerned",
+      "determined",
+      "willing",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "lk",
+    "AuthorURL": "https://www.cancerforums.net/members/2936-lk?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi, I've been having a pain in my right breast on and off for a couple of months. The Dr. felt a firmness and sent me for a mammogram. Mammogram and ultrasound did not show anything, but report stated I have extremely dense breasts. The Dr. thinks this may be fibrocystic condition, but is concerned why the lump hasn't gone away. He's ordered a biopsy. I believe it will be an incisional one. I only started looking into the different kind that are available once I got home. I want to call him and find out which kind I will have and why. Can someone tell me if incisional ones are more accurate than needle biopsies? I'm trying to do my research as much as possible. I am getting scared because I'm linking all possible symptoms together...I know that 80% of biopsies are benign...but that doesn't help my anxiety. Can anyone recommend specialists in Atlanta? How do I determine if my Dr. is good or not? Are there any sites that rank breast surgeons? He was recommended by my Ob/Gyn. Also, does fibrocystic condition occur usually in only one breast or both? Thanks in advance! LK 36 yrs old.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> <Z> LK 36 yrs old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 36
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/08/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3472-Going-for-a-biopsy-questions?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Going for a biopsy - questions"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> LK 36 yrs old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 214
+}

@@ -1,0 +1,131 @@
+{
+  "AuthorID": "ohdarn",
+  "AuthorURL": "https://www.cancerforums.net/members/114565-ohdarn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "kind",
+      "nice",
+      "loving",
+      "loved",
+      "thoughtful",
+      "willing",
+      "sure",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "2",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "ohdarn",
+    "AuthorURL": "https://www.cancerforums.net/members/114565-ohdarn?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "So I'll be honest, I only registered to get some input from those who would know. I have been dating a girl for nearly a year and we are not real serious but she was recently diagnosed with Breast Cancer. She is a young woman, not even 30 yet. She will be getting a double mastectomy and has recently lost her hair from the chemo. I want to do something nice for Valentines day and could use some insight. I have a decent job and two kids so I'm on a budget. I was thinking about getting her a day at the spa, maybe for her and her daughter so they could spend some time together. I don't know what to expect to pay or what kind of services would be good. I'm not even sure she would really like it. I know she is suffering because she moves like she is 40 years older than she is. My thought was something to make her body feel better since I know she is uncomfortable. I can not possibly understand how she is feeling physically or mentally. So if anyone has any ideas or insight I would love to hear it. Thx",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "she moves like she is 40 years older than she is",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 40
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/02/2015",
+    "ThreadURL": "https://www.cancerforums.net/threads/42797-Valentines-Day-Help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Valentines Day Help"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "she moves like she is 40 years older than she is",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 208
+}

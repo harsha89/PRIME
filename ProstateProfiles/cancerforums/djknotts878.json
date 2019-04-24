@@ -1,0 +1,392 @@
+{
+  "AuthorID": "djknotts878",
+  "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "surprised",
+      "concerned",
+      "hopeful",
+      "willing",
+      "tired",
+      "worried",
+      "willing",
+      "bad",
+      "cramped",
+      "willing",
+      "bad",
+      "cramped",
+      "surprised",
+      "hopeful",
+      "willing",
+      "tired",
+      "worried",
+      "willing",
+      "bad",
+      "cramped",
+      "surprised",
+      "hopeful",
+      "willing",
+      "tired",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.333",
+      "GOOD": "0.333",
+      "HAPPY": "0",
+      "HELPLESS": "0.333",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.111",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 9,
+  "NPosts": 9,
+  "PSAInfo": {
+    "max": 17,
+    "min": 1,
+    "scores": [
+      1,
+      4,
+      17
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Little over 8 months ago I had a PSA test done. and it was 5.85 up from 4.20. I was referred to a specialist. Had another PSA test done by new doctor and it was 6.75. He did a biopsy and i had 5 of 12 show signs of cancer. Doctor put me on Finasteride to lower my PSA. Took Finasteride for 6 months. Had a PSA test done a few weeks ago and it was 12.5, my doctor and i were very surprised. He's keeping me on Finasteride for 6 weeks. I will be getting another PSA test done on 11/14/17. He's hoping my PSA is down to 1-2 this time, if it hasn't lowered significantly he will do another biopsy. My Gleason score after my first biopsy was a 7. I'm 60 yrs. old and have been very worried about my upcoming PSA test. Not looking forward to having surgery to remove my prostate. I've had way to many surgeries in the past. I'm a LBK amputee and i've had a total of 19 surgeries since 2006, 14 related to my left foot and ankle and my LBK amputation so i'm a little sick and tired of surgeries. Do i have good reason to worry? Is there anything i can be doing to help with my prostate issues?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "doctor and it was 6 75 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 75
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "biopsy was a 7  I'm 60 yrs <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I'm being treated by Dr. Ryan Hedgepeth at Riverside Methodist Hospital(Ohio Health). He is treating me for prostatitis with Neproxin and an antibiotic(Ciprofloxacin) which i had to stop taking because it was causing really bad muscle cramps and spasms. As a LBK amputee that's the last thing i need. Thank you very much for your response and i will keep all of you posted. I go back to see my doctor on 11/27.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "31/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I don't remember what the core percentages were but they weren't high. As for the PSA score it was 4+3. This stuff is all new to me and, like i told my wife, I need to make a list of questions to ask so I'm more familiar with the results from all these tests. Thank you for you response. I need all the knowledge i can get on this.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "30/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I don't remember what the core percentages were but they weren't high. As for the PSA score it was 4+3. This stuff is all new to me and, like i told my wife, I need to make a list of questions to ask so I'm more familiar with the results from all these tests. Thank you for you response. I need all the knowledge i can get on this.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "30/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I'm being treated by Dr. Ryan Hedgepeth at Riverside Methodist Hospital(Ohio Health). He is treating me for prostatitis with Neproxin and an antibiotic(Ciprofloxacin) which i had to stop taking because it was causing really bad muscle cramps and spasms. As a LBK amputee that's the last thing i need. Thank you very much for your response and i will keep all of you posted. I go back to see my doctor on 11/27.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 28,
+      "PostDate": "31/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Little over 8 months ago I had a PSA test done. and it was 5.85 up from 4.20. I was referred to a specialist. Had another PSA test done by new doctor and it was 6.75. He did a biopsy and i had 5 of 12 show signs of cancer. Doctor put me on Finasteride to lower my PSA. Took Finasteride for 6 months. Had a PSA test done a few weeks ago and it was 12.5, my doctor and i were very surprised. He's keeping me on Finasteride for 6 weeks. I will be getting another PSA test done on 11/14/17. He's hoping my PSA is down to 1-2 this time, if it hasn't lowered significantly he will do another biopsy. My Gleason score after my first biopsy was a 7. I'm 60 yrs. old and have been very worried about my upcoming PSA test. Not looking forward to having surgery to remove my prostate. I've had way to many surgeries in the past. I'm a LBK amputee and i've had a total of 19 surgeries since 2006, 14 related to my left foot and ankle and my LBK amputation so i'm a little sick and tired of surgeries. Do i have good reason to worry? Is there anything i can be doing to help with my prostate issues?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "doctor and it was 6 75 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 75
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "biopsy was a 7  I'm 60 yrs <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "30/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I'm being treated by Dr. Ryan Hedgepeth at Riverside Methodist Hospital(Ohio Health). He is treating me for prostatitis with Neproxin and an antibiotic(Ciprofloxacin) which i had to stop taking because it was causing really bad muscle cramps and spasms. As a LBK amputee that's the last thing i need. Thank you very much for your response and i will keep all of you posted. I go back to see my doctor on 11/27.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "31/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I don't remember what the core percentages were but they weren't high. As for the PSA score it was 4+3. This stuff is all new to me and, like i told my wife, I need to make a list of questions to ask so I'm more familiar with the results from all these tests. Thank you for you response. I need all the knowledge i can get on this.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "30/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    },
+    {
+      "AuthorID": "djknotts878",
+      "AuthorURL": "https://www.cancerforums.net/members/125774-djknotts878?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Little over 8 months ago I had a PSA test done. and it was 5.85 up from 4.20. I was referred to a specialist. Had another PSA test done by new doctor and it was 6.75. He did a biopsy and i had 5 of 12 show signs of cancer. Doctor put me on Finasteride to lower my PSA. Took Finasteride for 6 months. Had a PSA test done a few weeks ago and it was 12.5, my doctor and i were very surprised. He's keeping me on Finasteride for 6 weeks. I will be getting another PSA test done on 11/14/17. He's hoping my PSA is down to 1-2 this time, if it hasn't lowered significantly he will do another biopsy. My Gleason score after my first biopsy was a 7. I'm 60 yrs. old and have been very worried about my upcoming PSA test. Not looking forward to having surgery to remove my prostate. I've had way to many surgeries in the past. I'm a LBK amputee and i've had a total of 19 surgeries since 2006, 14 related to my left foot and ankle and my LBK amputation so i'm a little sick and tired of surgeries. Do i have good reason to worry? Is there anything i can be doing to help with my prostate issues?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "doctor and it was 6 75 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 75
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "biopsy was a 7  I'm 60 yrs <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "30/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52944-Prostate-Cancer-concerns?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer concerns"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "biopsy was a 7  I'm 60 yrs <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 1161
+}

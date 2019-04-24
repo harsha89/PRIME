@@ -1,0 +1,158 @@
+{
+  "AuthorID": "songbird123",
+  "AuthorURL": "https://www.cancerforums.net/members/20533-songbird123?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "hopeful",
+      "pained",
+      "pained",
+      "hateful",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "songbird123",
+      "AuthorURL": "https://www.cancerforums.net/members/20533-songbird123?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I was finally able to get to see my usual nurse-practitioner this morning, and when she did a breast exam, she discovered that the place where most of my pain is that there is a thickening of the skin. Not good news. But, she actually knows about IBC, and agrees that I should have a biopsy performed. However, she wants me to have it done at UAB's Kirklin Clinic, because she's afraid none of the doctors in this small town would know what to look for. Also, she said that if it is cancer, she would rather that I be treated at UAB Hospital. Which I can't argue with. So, now I'm waiting again. I've started the process for the Charity Care program at Kirklin Clinic, and I am in contact with a nurse at one of the breast doctor's down there, so between my np's referral, and the nurse at the Kirklin Clinic, I am hoping I can be seen soon",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "21/09/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/19054-Worried-about-inflammatory-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Worried about inflammatory breast cancer..."
+    },
+    {
+      "AuthorID": "songbird123",
+      "AuthorURL": "https://www.cancerforums.net/members/20533-songbird123?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Does anyone here have or know someone who has inflammatory breast cancer? I've been having a burning sensation in my left breast for over a month and pain for a few weeks that just keeps getting worse. I've been to two doctors so far and they both shrugged me off. However, one doctor did order a diagnostic mammogram and I had it done last Thursday. I should get the results today or tomorrow. However, IBC is many times not detected by a mammogram, because there isn't a lump. So, I'm waiting to see what the results are and planning my next course of action. I'm so worried and I hate having to wait.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/09/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/19054-Worried-about-inflammatory-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Worried about inflammatory breast cancer..."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 293
+}

@@ -1,0 +1,265 @@
+{
+  "AuthorID": "arochaIB",
+  "AuthorURL": "https://www.cancerforums.net/members/105941-arochaIB?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "approachable",
+      "pleased",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "aggressive",
+      "aggressive",
+      "understanding",
+      "approachable",
+      "pleased",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 8,
+    "scores": [
+      8,
+      9
+    ]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 18,
+    "min": 1,
+    "scores": [
+      1,
+      18,
+      6.6
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "arochaIB",
+      "AuthorURL": "https://www.cancerforums.net/members/105941-arochaIB?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, Some of you know me as the guy who manages the tech portion of CF. I never thought I'd actually become a community member. Hopefully I can share my father's situation and get some feedback from the community here. My father is 67 and was diagnosed with prostate cancer. He's lived a pretty healthy and balanced lifestyle for the most part of his life. He doesn't speak English so alot of the research has been left up to me. He's currently going through all of the office visits with the radiation oncologist and surgeons (Da Vinci) to understand and gauge his options. He has a one on one consultation with the surgeon later this week and was hoping to get a list of questions to ask. Reading around the forum, I got the following questions to ask: - How many Da Vincis performed? - What is his/her positivie margin %? - Will the surgery be nerve sparing? Please add to the list if there is anything else we should be asking. Below is a copy/paste of his results for you all to understand his situation better and help me understand it as well. His PSAs on records are as follows: 11/10/2017 6.2 (H) 12/4/2017 6.6 (H) On 12/21/2017, he underwent a prostate biopsy: FINAL PATHOLOGIC DIAGNOSIS A. PROSTATE, RIGHT APEX, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 8 (4+4), GRADE GROUP 4, IN TWO (2) OF TWO (2) CORES, INVOLVING APPROXIMATELY 90% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 12 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 13 MM. B. PROSTATE, RIGHT MID, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 8 (4+4), GRADE GROUP 4, IN TWO (2) OF TWO (2) CORES, INVOLVING APPROXIMATELY 90% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 20 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 21 MM. C. PROSTATE, RIGHT BASE, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 9 (4+5), GRADE GROUP 5, IN TWO (2) OF TWO (2) CORES, INVOLVING APPROXIMATELY 90% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 17 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 20 MM. - PERINEURAL INVASION IS PRESENT. D. PROSTATE, LEFT APEX, CORE BIOPSY: - BENIGN PROSTATIC TISSUE. E. PROSTATE, LEFT MID, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 8 (4+4), GRADE GROUP 4, IN ONE (1) OF TWO (2) CORES, INVOLVING LESS THAN 5% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 1 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 24 MM. F. PROSTATE, LEFT BASE, CORE BIOPSY: - PROSTATIC GLANDULAR AND STROMAL TISSUE WITH FOCAL HIGH GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA. Rectal- Gr 2 elev Vol. = 32.19 cc ASSESSMENT: 67-year-old gentleman with clinical T1c adenocarcinoma of the prostate with Gleason score 4+5=9, high volume, status post biopsy, PSA 6.6. He was given a dose of Leuprolide (3 Month) Inj Kit 22.5 mg (LUPRON DEPOT 3 MONTH) on 1/5/2018 PSA on 2/5/2018 was 1.0 ng/mL The Urologist is recommending a wait and see approach due to the lower PSA on 2/5/18. Everything I've read leans towards surgery. So I'm here looking for feedback. Thanks.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> My father is 67 and was diagnosed with prostate",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 67
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> cc ASSESSMENT  67 year old gentleman with clinical",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 67
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "PROSTATIC",
+              "prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54459-Dad-has-been-diagnosed-with-prostate-cancer-can-use-some-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has been diagnosed with prostate cancer - can use some help"
+    },
+    {
+      "AuthorID": "arochaIB",
+      "AuthorURL": "https://www.cancerforums.net/members/105941-arochaIB?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Wow, thank you all for the immediate feedback! While digging through his health records, I found they have already done a CT scan of the bones that came back negative and a chest x-ray that came back negative. CXR ( 1/18 )- negative CT ( 1/18 )- negative I unfortunately was not able to go to his early appointments but am now making it to all of them when I started asking questions and he didn't have answers. The urologist is recommending another dose of Lupron as he feels that removing the prostate may not help much because of it's aggressive nature he feels it may have possibly spread to another local region around the prostate, though there was no way of confirming this. My dad is not considering radioactive treatment because we were told that surgery was no longer an option once a patient has radioactive treatment. One of the questions he wanted to ask the surgeon, if during surgery, it was possible to detect if the cancer had spread in the immediate region. Would an MRI confirm this though? Thank you all once again!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "05/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54459-Dad-has-been-diagnosed-with-prostate-cancer-can-use-some-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has been diagnosed with prostate cancer - can use some help"
+    },
+    {
+      "AuthorID": "arochaIB",
+      "AuthorURL": "https://www.cancerforums.net/members/105941-arochaIB?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, Some of you know me as the guy who manages the tech portion of CF. I never thought I'd actually become a community member. Hopefully I can share my father's situation and get some feedback from the community here. My father is 67 and was diagnosed with prostate cancer. He's lived a pretty healthy and balanced lifestyle for the most part of his life. He doesn't speak English so alot of the research has been left up to me. He's currently going through all of the office visits with the radiation oncologist and surgeons (Da Vinci) to understand and gauge his options. He has a one on one consultation with the surgeon later this week and was hoping to get a list of questions to ask. Reading around the forum, I got the following questions to ask: - How many Da Vincis performed? - What is his/her positivie margin %? - Will the surgery be nerve sparing? Please add to the list if there is anything else we should be asking. Below is a copy/paste of his results for you all to understand his situation better and help me understand it as well. His PSAs on records are as follows: 11/10/2017 6.2 (H) 12/4/2017 6.6 (H) On 12/21/2017, he underwent a prostate biopsy: FINAL PATHOLOGIC DIAGNOSIS A. PROSTATE, RIGHT APEX, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 8 (4+4), GRADE GROUP 4, IN TWO (2) OF TWO (2) CORES, INVOLVING APPROXIMATELY 90% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 12 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 13 MM. B. PROSTATE, RIGHT MID, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 8 (4+4), GRADE GROUP 4, IN TWO (2) OF TWO (2) CORES, INVOLVING APPROXIMATELY 90% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 20 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 21 MM. C. PROSTATE, RIGHT BASE, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 9 (4+5), GRADE GROUP 5, IN TWO (2) OF TWO (2) CORES, INVOLVING APPROXIMATELY 90% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 17 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 20 MM. - PERINEURAL INVASION IS PRESENT. D. PROSTATE, LEFT APEX, CORE BIOPSY: - BENIGN PROSTATIC TISSUE. E. PROSTATE, LEFT MID, CORE BIOPSY: - PROSTATIC ADENOCARCINOMA, GLEASON SCORE 8 (4+4), GRADE GROUP 4, IN ONE (1) OF TWO (2) CORES, INVOLVING LESS THAN 5% OF SUBMITTED TISSUE. - TOTAL LINEAR MM. OF CARCINOMA: 1 MM. - TOTAL LINEAR MM. OF NEEDLE CORE TISSUE: 24 MM. F. PROSTATE, LEFT BASE, CORE BIOPSY: - PROSTATIC GLANDULAR AND STROMAL TISSUE WITH FOCAL HIGH GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA. Rectal- Gr 2 elev Vol. = 32.19 cc ASSESSMENT: 67-year-old gentleman with clinical T1c adenocarcinoma of the prostate with Gleason score 4+5=9, high volume, status post biopsy, PSA 6.6. He was given a dose of Leuprolide (3 Month) Inj Kit 22.5 mg (LUPRON DEPOT 3 MONTH) on 1/5/2018 PSA on 2/5/2018 was 1.0 ng/mL The Urologist is recommending a wait and see approach due to the lower PSA on 2/5/18. Everything I've read leans towards surgery. So I'm here looking for feedback. Thanks.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> My father is 67 and was diagnosed with prostate",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 67
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> cc ASSESSMENT  67 year old gentleman with clinical",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 67
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "PROSTATIC",
+              "prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "05/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54459-Dad-has-been-diagnosed-with-prostate-cancer-can-use-some-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has been diagnosed with prostate cancer - can use some help"
+    },
+    {
+      "AuthorID": "arochaIB",
+      "AuthorURL": "https://www.cancerforums.net/members/105941-arochaIB?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Wow, thank you all for the immediate feedback! While digging through his health records, I found they have already done a CT scan of the bones that came back negative and a chest x-ray that came back negative. CXR ( 1/18 )- negative CT ( 1/18 )- negative I unfortunately was not able to go to his early appointments but am now making it to all of them when I started asking questions and he didn't have answers. The urologist is recommending another dose of Lupron as he feels that removing the prostate may not help much because of it's aggressive nature he feels it may have possibly spread to another local region around the prostate, though there was no way of confirming this. My dad is not considering radioactive treatment because we were told that surgery was no longer an option once a patient has radioactive treatment. One of the questions he wanted to ask the surgeon, if during surgery, it was possible to detect if the cancer had spread in the immediate region. Would an MRI confirm this though? Thank you all once again!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "05/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54459-Dad-has-been-diagnosed-with-prostate-cancer-can-use-some-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has been diagnosed with prostate cancer - can use some help"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My father is 67 and was diagnosed with prostate",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 67
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "da vinci",
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 1475
+}

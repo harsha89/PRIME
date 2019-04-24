@@ -1,0 +1,198 @@
+{
+  "AuthorID": "teAlexis",
+  "AuthorURL": "https://www.cancerforums.net/members/18412-teAlexis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.75",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "teAlexis",
+      "AuthorURL": "https://www.cancerforums.net/members/18412-teAlexis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Tell me what you think of this. Typing a letter to my sister in law, who has gone downhhill due to mestatic breast cancer-speaking to her from the heart. She's has malignant pleural effusion and has decided to stop all medical treatment. She has been more like a sister to me although it's always been long distance. I do not know if I can even make it to her funeral so I was thinking it could be something that could be read at her funeral. And sending a copy to her sister and give one to my husband. t.jackson",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "sister"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/03/2010",
+      "ThreadURL": "https://www.cancerforums.net/threads/12435-I-will-see-you-when-I-get-there-letter?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "I will see you when I get there...letter"
+    },
+    {
+      "AuthorID": "teAlexis",
+      "AuthorURL": "https://www.cancerforums.net/members/18412-teAlexis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "She has had breast cancer for 12 years now and it's gone into her breastbone as I mentioned only recently. She's not having chemo or rad at this time; she's been thru that already. So now I'm hoping she's up to having that peurodysis you mention. She's down to a size 2 right now so I hope she can handle it. Thank you for your reply. \"One Day at a Time\"",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/11/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/11198-Pleural-Effusion?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Pleural Effusion"
+    },
+    {
+      "AuthorID": "teAlexis",
+      "AuthorURL": "https://www.cancerforums.net/members/18412-teAlexis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My SisInLaw has breast cancer that's spread to her breastbone. Last week she was hospitalized for pleural effusion; they drained it; gave her a tube to take home; a day or so later she was feeling the pressure again. From what I read, if it's caused by her cancer then it will just continue and continue to fill up with fluid and they can only drain her so many times and then no more due to infection. Anyone know anything about this. Is this the end of the road for her?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/11/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/11198-Pleural-Effusion?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Pleural Effusion"
+    },
+    {
+      "AuthorID": "teAlexis",
+      "AuthorURL": "https://www.cancerforums.net/members/18412-teAlexis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks so much for your replies. She was a size 5 in the spring but is now a size 2. She left the hospital after two days with something called a \"pigtail\", if that makes sense. She's a single mom with two 19 years old twins still living at her home. So I guess it's \"One Day at a Time\" now....",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "a single mom with two 19 years old twins still living",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 19
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mom",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mom"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "19/11/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/11198-Pleural-Effusion?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Pleural Effusion"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 347
+}

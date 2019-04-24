@@ -1,0 +1,133 @@
+{
+  "AuthorID": "kdennis421",
+  "AuthorURL": "https://www.cancerforums.net/members/3383-kdennis421?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "supportive",
+      "determined",
+      "hopeful",
+      "willing",
+      "sure",
+      "secure",
+      "bad",
+      "ignorant",
+      "suspicious",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "1",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "3",
+      "SAD": "1",
+      "STRONG": "2"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "kdennis421",
+    "AuthorURL": "https://www.cancerforums.net/members/3383-kdennis421?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "2 weeks ago, I found out my friend has known for a full week prior that she has HER2 stage 4 breast cancer (IDC) that has mets to her liver, shoulder, both lungs, entire lymph system and a few days ago another test came back showing it in 3 places on her spine (vertebrae, not spinal cord) and in the other breast. She won't get an MRI to determine if it's in her brain as well...because she's claustrophobic and because her feeling is if it's in all lymph nodes, it's in her brain too. She has a family history of breast and lung cancer, so she's seen every 6 months for the last 5 years. In Feb of this year, her physical was fine. In Aug they found the suspicious lump in her breast...did a biopsy and removed her left lymph nodes. Cancer. The initial plan was to do a mastectomy, chemo and radiation. Because hers is so agressive and fast spreading, they are treating her only with herceptin to stop new growth, (not sure if it makes current cells shrink?) and then proceed with chemo and rad in an effort to improve pain management and quality of life. They told her to quit her job so that she can get her affairs in order. She has been approved to start receiving Social Security Disability payments and her life insurance will be paid to her at face value so she has money to get the things done that need to be done. She has 3 kids ages 4 to 14. What I'm confused about is not her state of denial. She's mad...and scared. I know that people process things like this in different ways and her coping mechanism is to hide and ignore it for as long as possible. She's very strong and I know that when this initial shock has come to pass, she will do what she needs to do for herself and the kids. What I am confused about is how do I support her? I've been reading up on everything I can get my hands on...especially since bc runs in my family too. I've found so many sites that offer so much hope and hear stories of so many women that are stage 3 and 4 and have been for 2 or more years that are on herceptin. Why does she have to get her affairs in order so soon? I mean, I know that's a good plan, but they are telling her she won't be able to go camping with her 5th grader this coming April. Could that be true? Anyone out there that can confirm based on what I've detailed? She's 37 and I can't believe she won't make it to May (her 38th birthday). I just feel so bad. It's not fair. I'm scared for her and her boys and I feel so bad. Thanks, Kristin",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "<Z> <Z> <Z> <Z> She's 37 and I can't believe she",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 37
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "friend",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "friend"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/11/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3765-I-m-a-support-person-but-I-m-confused!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "I'm a support person, but I'm confused!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "<Z> <Z> <Z> <Z> She's 37 and I can't believe she",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 37
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 515
+}

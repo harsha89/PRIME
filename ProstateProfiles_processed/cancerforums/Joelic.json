@@ -1,0 +1,131 @@
+{
+  "AuthorID": "Joelic",
+  "AuthorURL": "https://www.cancerforums.net/members/108145-Joelic?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "blessed",
+      "ok",
+      "concerned",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 2.14,
+    "min": 2.14,
+    "scores": [2.14]
+  },
+  "Posts": [{
+    "AuthorID": "Joelic",
+    "AuthorURL": "https://www.cancerforums.net/members/108145-Joelic?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi All, First, I would like to say that I have been reading this forum the past couple days, and you guys are great. These forums are great. I don't mean to trivialize this forum with my post because I know you guys are going through way way way more than me. I don't have prostate cancel that I am aware of, but I am seeing an urologist soon, and I don't really know what to ask for. Last month I was (questionably) diagnosed with Prostatitis. A DRE was never performed. I just showed the doctor where I was feeling the mild discomfort and urinating a lot, and he prescribed me Cipro. The discomfort went a way in a couple days, and I now realize that I didn't have any real urinary problems either. I was just drinking more. The Cipro made me constipated and after a rough bowel movement, the discomfort was back. I now think I have/had a hemroid or fissure instead of Prostatitis. I went back to the doctors the day after finishing the Cipro complaining of still have discomfort and urinating a lot. Since I was born with just on kidney, he check my urnine (was OK), a ultra sound of bladder and kidney area (was OK), and blood work for kidney function (OK), and yes a PSA. The doctor recommend that I see a specialist. Not because of my prostate (didn't know PSA yet), but more kidney and bladder. My PSA came back 2.14, but I am a cyclist, and I am sure I had sex within 24 to 48 hours. My wife an ex-oncology nurse who worked with prostate cancer patients says that is high for my age (45) which made me concern. So, what should I ask the urologist to do? I am sure I want a DRE, but should another PSA be performed? I am have a full physical Mid-Jan. Nobody mention a PSA when I set up the appointment, so should I hold off on the sex and riding until after my appointment? I thank all of you guys for reading this, and I am sorry if this post is not appropriate for this forum. Bless all you guys!",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "is high for my age  45  which made me concern <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 45
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "03/12/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/35237-Should-I-be-concered?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Should I be concered?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "is high for my age  45  which made me concern <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 45
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 381
+}

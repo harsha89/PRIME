@@ -298,19 +298,30 @@ public class SaveTimeLineInfoToCSV {
             }
 
 
-            JSONObject postTypeInfo = doc.getJSONObject("PostTypeInfo");
-            String postTypeName = timelineKey + " PostTypeInfo";
+            JSONObject postTypeInfo = null;
+            String postTypeName = null;
+            try {
 
-            JSONObject postTypeInfoBin = postTypeInfo.getJSONObject(postTypeName);
-            if (postTypeInfoBin.getDouble("NTotal") == 0.0) {
-                values.add("NA");
-                values.add("NA");
-            } else {
-                values.add(postTypeInfoBin.get("PExperience"));
-                values.add(postTypeInfoBin.get("PAdvice"));
+                postTypeInfo = doc.getJSONObject("PostTypeInfo");
+                postTypeName = timelineKey + " PostTypeInfo";
+            } catch (Exception e) {
+
             }
-            values.add(postTypeInfoBin.get("NTotal"));
 
+            if (postTypeInfo != null) {
+                JSONObject postTypeInfoBin = postTypeInfo.getJSONObject(postTypeName);
+                if (postTypeInfoBin.getDouble("NTotal") == 0.0) {
+                    values.add("NA");
+                    values.add("NA");
+                } else {
+                    values.add(postTypeInfoBin.get("PExperience"));
+                    values.add(postTypeInfoBin.get("PAdvice"));
+                }
+                values.add(postTypeInfoBin.get("NTotal"));
+            } else {
+                values.add("NA");
+                values.add("NA");
+            }
         } catch (JSONException e) {
             e.printStackTrace();
         }

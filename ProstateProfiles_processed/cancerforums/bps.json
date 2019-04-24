@@ -1,0 +1,157 @@
+{
+  "AuthorID": "bps",
+  "AuthorURL": "https://www.cancerforums.net/members/129075-bps?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "panic"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 11.7,
+    "min": 5,
+    "scores": [
+      11.7,
+      5
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "bps",
+      "AuthorURL": "https://www.cancerforums.net/members/129075-bps?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all the input. Reading all the information has been confounding, and intimidating. I'm 63. I'll let you know what happens when I see a urologist. Will do cartwheels if it's an infection.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 63 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "13/12/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/56209-Elevated-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Elevated PSA"
+    },
+    {
+      "AuthorID": "bps",
+      "AuthorURL": "https://www.cancerforums.net/members/129075-bps?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I had my annual physical yesterday and found out today my PSA is elevated to 11.7. DRE was normal. Last year's physical PSA was .5, and the year before .4. I have spent a lot of time researching Prostate info today. I read the increase could be caused by an enlarged prostate or by an infection. Wouldn't the DRE discover if my prostate was enlarged? My Dr is referring me to a urologist. I'd appreciate any input on what I can expect and what questions I should ask. Trying not to prematurely panic too much. thanks,",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "13/12/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/56209-Elevated-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Elevated PSA"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 63 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 63
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 140
+}

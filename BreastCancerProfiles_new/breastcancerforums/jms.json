@@ -1,0 +1,125 @@
+{
+  "AuthorID": "jms",
+  "AuthorURL": "https://www.cancerforums.net/members/2954-jms?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "wonderful",
+      "comfortable",
+      "pleased",
+      "close",
+      "comforted",
+      "willing",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "jms",
+    "AuthorURL": "https://www.cancerforums.net/members/2954-jms?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "A close family relation (59) was diagnosed with breast cancer about 6 years ago. All was fine until last October when she discovered that her cancer had returned in the secondary form. She now has it in her lungs, liver, bones, kidney and her other breast. In January she was admitted into hospital because the chemotherapy dose she was given was too strong for her to cope with - it knocked her for six but she got through. She told us in February that the doctors decided to give her a break from the chemotherapy and in April, took her off the treatment because the cancer in her liver had reduced by 8cm. Now - in August - she has been admitted to hospital with severe stomach pains. The doctor has told her he thinks either the cancer has spread or she has another tumour on top of a tumour. She is also slightly jaundiced. She said the doctors are not worried about the jaundice and are also not giving her any more chemo. She is on morphine for the pain and back home after only a few days. Although she is not saying, we know she is probably terminally ill. The hospice nurses are visiting once or twice a week. My husband is past himself wondering how long left and what is to come. Has anyone else been in this position - I know life prognosis is difficult but it would be great to have some idea of time, what will happen to her and how we can help and make her comfortable. please help.[/u]",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "HealthProfessional": "doctor",
+          "MainSubject": "doctor",
+          "NarrationType": "unknown",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "31/08/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3486-dying-from-cancer-what-should-we-expect?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "dying from cancer - what should we expect?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 271
+}

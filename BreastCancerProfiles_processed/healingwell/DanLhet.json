@@ -1,0 +1,157 @@
+{
+  "AuthorID": "DanLhet",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2604566&p=161477",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "thoughtful",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "DanLhet",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2604566&p=161477",
+      "Content": " My wife: Lhet, age 45, Tennessee. Monday will be our first trip to the Oncologist ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Diagnosed  My wife  Lhet  age 45  Tennessee <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 45
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/01/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2604566",
+      "Title": "Just Diagnosed"
+    },
+    {
+      "AuthorID": "DanLhet",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2604579&p=161477",
+      "Content": " My wife has been diagnosed after the biopsy with Inflammatory Breast Cancer, they say its very aggressive. Initially I thought the dr said Inflammatory Skin Cancer, we have been referred to an Oncologist set for this coming Monday Jan 7th. \nShe tested Estrogen Positive and Progesterone Positive and has scores of HER2/NEU 2+. \nI am a complete moron about\n all this. Do not know what to expect other than what I've read here and in Google searches. They did a needle and Punch type biopsy. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "Estrogen",
+              "Progesterone",
+              "Breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/01/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2604579",
+      "Title": "Newby"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Diagnosed  My wife  Lhet  age 45  Tennessee <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 45
+    },
+    "Gender": {
+      "Confidence": 0.5709999799728394,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 105
+}

@@ -1,0 +1,184 @@
+{
+  "AuthorID": "darthgatorsmom",
+  "AuthorURL": "https://www.cancerforums.net/members/2122-darthgatorsmom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "affected",
+      "willing",
+      "sure",
+      "great",
+      "loving",
+      "loved",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "darthgatorsmom",
+      "AuthorURL": "https://www.cancerforums.net/members/2122-darthgatorsmom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks for the reply post. I am actually looking for women who have been told by their doctors that a *preventative* mastectomy may be a good measure to prevent breast cancer and / or anyone who may have a family history and had genetic counseling to assess any risk. At 33 I don't have breast cancer but many women in my family have had it - many diagnosed at age 45+. I am trying to weigh my risk and see what preventative steps may be available to lower the odds of getting it at some point in the future. My doctor had said that a preventative mastectomy and/or a hysterectomy are options if I carry the breast cancer gene. The concept of willingly removing parts of your body to prevent a disease that you may or may not get is a scary one. I am pretty sure that breast cancer will affect my life at some point so I am just researching all of the options now. Has anyone else been advised of the preventative mastectomy? Anyone who has had the genetic counseling - what did you learn that was positive from the test results? Where could I find more information on this topic? I have read stories about other women who have had the procedure but would really like to know first hand about what effects it has had - negative or positive. Also - would like to hear opinions of genetic testing and counseling. Are their benefits? The test is costly and may not really be an option when the costs are weighed against the benefits. Thank you again. E. L. Age 33 No cancer diagnoses",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> At 33 I don't have breast cancer",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 33
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "it   many diagnosed at age 45 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 45
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> E  L  Age 33 No cancer diagnoses <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 33
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hysterectomy",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/04/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2812-prophylactic-mastectomy-genetic-testing?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "prophylactic mastectomy / genetic testing"
+    },
+    {
+      "AuthorID": "darthgatorsmom",
+      "AuthorURL": "https://www.cancerforums.net/members/2122-darthgatorsmom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello (New to Board), I am looking for feedback / advice from others who have a strong family history of breast cancer but have NOT been diagnosed with any cancer. My OBGYN recommended a genetic test to search for the breast cancer genes due to my strong family history of breast cancer after a visit for breast pain. My mother, maternal grandmother & great grandmother and paternal aunt all had breast cancer. She discussed the option of having a prophylactic mastectomy with implants if a breast cancer gene was found. Possibly even removal of my ovaries as a precaution. These procedures seem drastic to me but she assured me that the mastectomy would lower the chance of me getting the disease by 80-90% I would love to hear from anyone who has undergone the prophylactic mastectomy or the genetic testing. Pros? Cons? I have not been able to find much information / feedback about the prophylactic procedure. Any feedback or information on the procedure would be appreciated! E. Age 33 - not menopausal No cancer diagnoses to present",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> E  Age 33   not menopausal No cancer diagnoses",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 33
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "menopausal",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/04/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2812-prophylactic-mastectomy-genetic-testing?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "prophylactic mastectomy / genetic testing"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> At 33 I don't have breast cancer",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 33
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 456
+}

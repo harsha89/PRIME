@@ -1,0 +1,216 @@
+{
+  "AuthorID": "10bee",
+  "AuthorURL": "https://www.cancerforums.net/members/103823-10bee?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "thoughtful",
+      "concerned",
+      "thoughtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 4,
+    "min": 4,
+    "scores": [4]
+  },
+  "Posts": [
+    {
+      "AuthorID": "10bee",
+      "AuthorURL": "https://www.cancerforums.net/members/103823-10bee?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you Jim and Rudy ! Your replys were helpful. I wish you both a speedy recovery.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "16/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31393-Surgery-Scheduled?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Scheduled-"
+    },
+    {
+      "AuthorID": "10bee",
+      "AuthorURL": "https://www.cancerforums.net/members/103823-10bee?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I would like some opinions. Husband has chosen Davinci Rad Prostatectomy. I agree with this, but keep reading news articles about overtesting and over treatment. I am concerned he could be making a mistake. His stats are : Age 48, Gleason 6, 5 cores positive with 3 cores at 80%. psa 4. Any thoughts on his opitions ?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> His stats are   Age 48  Gleason 6  5 cores positive",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 48
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31393-Surgery-Scheduled?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Scheduled-"
+    },
+    {
+      "AuthorID": "10bee",
+      "AuthorURL": "https://www.cancerforums.net/members/103823-10bee?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you Jim and Rudy ! Your replys were helpful. I wish you both a speedy recovery.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "16/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31393-Surgery-Scheduled?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Scheduled-"
+    },
+    {
+      "AuthorID": "10bee",
+      "AuthorURL": "https://www.cancerforums.net/members/103823-10bee?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I would like some opinions. Husband has chosen Davinci Rad Prostatectomy. I agree with this, but keep reading news articles about overtesting and over treatment. I am concerned he could be making a mistake. His stats are : Age 48, Gleason 6, 5 cores positive with 3 cores at 80%. psa 4. Any thoughts on his opitions ?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> His stats are   Age 48  Gleason 6  5 cores positive",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 48
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Husband"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "16/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31393-Surgery-Scheduled?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery Scheduled-"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> His stats are   Age 48  Gleason 6  5 cores positive",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 48
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "davinci",
+      "prostatectomy",
+      "surgery"
+    ]
+  },
+  "WordCount": 148
+}

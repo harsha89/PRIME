@@ -1,0 +1,154 @@
+{
+  "AuthorID": "tok718",
+  "AuthorURL": "https://www.cancerforums.net/members/126173-tok718?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "willing",
+      "lost",
+      "fearful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "Posts": [
+    {
+      "AuthorID": "tok718",
+      "AuthorURL": "https://www.cancerforums.net/members/126173-tok718?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for the quick responces, this is very helpful. I scheduled the meeting with the oncologist tomorrow and hopfefullly will get more details , definitely will request biopsy report.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "09/12/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/53407-Question-for-my-father-pc-lost-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question for my father pc, lost , confused"
+    },
+    {
+      "AuthorID": "tok718",
+      "AuthorURL": "https://www.cancerforums.net/members/126173-tok718?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all , looking for some help. My father (62yrs old) had biopsy done recently , his psa was 8. Out of 14 cores , 5 had cancer cells. I don\u0092t have any more information at this time since I will meet with the oncology radiologist soon. The urologist wasn\u0092t very detailed with my father , he told him that out of 14, 5 had cancer cells and that\u0092s it. He referred to talk to a radiologist oncologist in few days. A bone scan will be done next week. The problem is The oncologist is a very long drive away from my fathers home and I fear Driving everyday for treatments will be difficult. My question is : can my father choose another radiology clinic closer and does this mean he should change the radiology oncologist as well? What are the usual steps to take after the urologist informs patient cancer was found ? I\u0092m looking for some advice and guidance. Thank you in advance -Anthony",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> <Z> My father  62yrs old  had biopsy done recently",
+          "Relation": "second-person",
+          "Tense": "unknown",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/12/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/53407-Question-for-my-father-pc-lost-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question for my father pc, lost , confused"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 197
+}

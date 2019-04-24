@@ -1,0 +1,162 @@
+{
+  "AuthorID": "COPAY",
+  "AuthorURL": "https://www.cancerforums.net/members/474-COPAY?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "free",
+      "great",
+      "pleased",
+      "willing",
+      "fearful",
+      "worried",
+      "crushed",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "COPAY",
+      "AuthorURL": "https://www.cancerforums.net/members/474-COPAY?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Well, Here I am, a male with full blown BC... Any questions feel free to ask",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "01/04/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/526-Mens-Breast-Cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Mens Breast Cancer"
+    },
+    {
+      "AuthorID": "COPAY",
+      "AuthorURL": "https://www.cancerforums.net/members/474-COPAY?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello, I am new and go by is copay, since all i have done is payed copays for the past year and a half.. Who invented this, heck my wife has caught on and no requiring a copay.. Now for my problem.. I have breast cancer, invasive carcinoma... i am estrogen pos and her2 neg..I had stage 3 b, and my lymph nodes in my neck had swollen and a biopsey to them showed breast cancer. i had a modified radical mast, removal of 30 nodes, and all were pos. except one. my first pet scan after mast show some activity to my neck, a small area in brest (which they said may be infection) and a small place on 1st right rib. i started chemo with a/c and after 3 of 4 rounds my nodes were shrinking and then after forth i went to taxol. After 1st taxol, another PET showed very little activity and that i was responding well. I was only able to do 3 rounds of taxol due to severe muscle problems but my onc said the last was not needed and would not make a difference. I was put on Aremidex then I then had 33 rads to chest and neck area and was told they hit me very hard. I did great through everything, took a lot of supplements andnever misssed work, etc. I was to have a PET after 90 days from completion of my radss which I did. I WAS SHATTERED at results.. The pet has shown that the cancer is in C7 and T! and l# of my spine (which explains the arm and neck pain I have had about a month... It also showed a spot on my hip and a small 9mm node in my left armpit area. My onc has started me on hormone therpy and taken me off aremidex..He has put me on Faslodex and also zometa every four weeks and sent me to my rad onc who has said he needs to do some \"spot welding\" and will be starting that this week. Why when I was clear did this show up after rads and not show up befor.?Should I not now also be back on chemo? My onc says lets see how hormone therepy does and we may need to do another type chemo down the road. I trust my doctors however is this common to come back this quick? Do I need anything else? I never worried when I was first told and never feared anything...This news now has crushed me and has me worried, and my arm pain and neck pain worry me. Please help and any advise. I am considering another opinion but am with some top doctors in the state of florida... Just confused....",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Aremidex then I then had 33 rads to chest and neck",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 33
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "estrogen",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/04/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/733-newbi-for-one-of-onc-s-or-anyone-please?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "newbi---for one of onc's or anyone please"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Aremidex then I then had 33 rads to chest and neck",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 33
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 493
+}

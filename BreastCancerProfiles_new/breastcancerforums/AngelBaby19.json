@@ -1,0 +1,138 @@
+{
+  "AuthorID": "AngelBaby19",
+  "AuthorURL": "https://www.cancerforums.net/members/10794-AngelBaby19?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "willing",
+      "sure",
+      "sore",
+      "bad",
+      "scared",
+      "worried",
+      "pained",
+      "wronged",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "2",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "AngelBaby19",
+    "AuthorURL": "https://www.cancerforums.net/members/10794-AngelBaby19?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hello,i'm asking this question regarding my mom.. About a week or two ago she started having a strange pain in her right breast, over the last three days or so the pain has gotten worse, almost unbearable, pain meds don't seem to be very effective in relieving the pain and her left breast has begun to hurt as well (though her right one hurts much more often). The pain is almost constant, however, the other day it did stop hurting from morning til bedtime. It sometimes switchs from breast to breast and seems to bother her more when she lies down to go to sleep. She told me that she felt her breast and did not feel a lump and thet her breast isn't sore but she has implied that she believes she has breast cancer. My mom is naturally a worry wort so I didn't really think anything of it until yesterday when I read up on breast cancer and found that its more common in women her age and pain can be a symptom of it being in later stage so now im scared that when she goes in for a mammogram in a couple days the doctor will tell her bad news. What do you guys think is wrong with her?? Could it be cancer? Is her hormones out of whack? And if it matters, she is almost 51, hasn't had a mammogram in years, a year ago the doctor told her she was pre-menopausal or in menopause (not sure which one it was), and cancer, though not breast cancer in particular, is common in both her parents family",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "it matters  she is almost 51  hasn't had a mammogram in",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 51
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "menopause",
+            "menopausal",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "20/01/2008",
+    "ThreadURL": "https://www.cancerforums.net/threads/6106-Could-It-Be-Cancer-Please-Answer-I-m-So-Worried!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Could It Be Cancer?? Please Answer I'm So Worried!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "it matters  she is almost 51  hasn't had a mammogram in",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 51
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 289
+}

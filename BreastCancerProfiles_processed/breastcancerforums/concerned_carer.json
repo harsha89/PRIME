@@ -1,0 +1,121 @@
+{
+  "AuthorID": "concerned_carer",
+  "AuthorURL": "https://www.cancerforums.net/members/127005-concerned_carer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "important",
+      "supportive",
+      "inspired",
+      "brave",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "1",
+      "POSITIVE": "3",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "concerned_carer",
+    "AuthorURL": "https://www.cancerforums.net/members/127005-concerned_carer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi, I have a family member who has very recently been diagnosed with stage 3 breast cancer - i don't know the exact in's and out's in terms of location etc but i do know i will likely be their primary support person. My understanding so far is neoadjuvant chemo has been discussed with view to surgery though i will be getting a proper update later when we meet face to face. My main thinking is apart from the obvious role in listening, i should also be there to help think critically and help act as an advocate so there is a lot i feel needs to be asked. I understand this is going to be very different depending on where in the world you are but things that seem important to know right now are: -how open has your medical oncologist been about prognosis? -how do you know if your oncologist and their team are any good? Is this just something you get a feel for? over how long? what if they are not? -do people go for second opinions on treatment plans or just trust the team knows what they are doing? or to put another way what would prompt a second opinion on treatment if anyone has had one -how much support psychologically should be expected along the way? -how much education / advice have you had on treatment options / what should be expected? -how much of a say have you had in treatment? -anything else missing that i should be thinking about? I feel like these are the important things that will need to be discussed at some point and want to prepare as much as i can. Very grateful for any advice anyone can give, also fully respect everyone here for sharing their experiences and staying strong through tough times. Ive spent the past couple of days reading through peoples experiences and some of the stuff has made me feel very sad but also very inspired with how brave you guys are.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "01/03/2018",
+    "ThreadURL": "https://www.cancerforums.net/threads/54429-Questions-from-carers-viewpoint?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Questions from carers viewpoint?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 342
+}

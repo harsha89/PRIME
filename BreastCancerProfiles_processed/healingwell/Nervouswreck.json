@@ -1,0 +1,202 @@
+{
+  "AuthorID": "Nervouswreck",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3925880&p=263786",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "nervous",
+      "scared",
+      "crying",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.333",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Nervouswreck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3925880&p=263786",
+      "Content": " Thank you for replying. God bless ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "11/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3925880",
+      "Title": "Mammogram"
+    },
+    {
+      "AuthorID": "Nervouswreck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3925880&p=263786",
+      "Content": " I keep thinking the worst things. I don't want to die. I want to grow old with my husband and kids. I have no clue how to function right now. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "11/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3925880",
+      "Title": "Mammogram"
+    },
+    {
+      "AuthorID": "Nervouswreck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3925880&p=263786",
+      "Content": " I'm 37 years old female. Last week I went for a normal checkup, and my doctor ended up giving me a breast exam. Well the doctor scared me when she said she felt something on my right breast and she is ordering me my first mammogram. That was this past Thursday. Today I get a phone call from the imaging center saying that I need to come in for a ultrasound on my left breast. They found a mass that they need to look at. I'm a nervous wreck. It wasn't anything on the right breast that the doctor felt but not it's my left. I'm so scared of cancer. I have two small children. I have no clue how to call myself. Crying and just a mess. My ultrasound is this Thursday. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> Mammogram  I'm 37 years old female <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 37
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "Mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3925880",
+      "Title": "Mammogram"
+    },
+    {
+      "AuthorID": "Nervouswreck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3925880&p=263786",
+      "Content": " So my doctor called and sonogram showed a probably a benign nodule. That I will have another mammogram in 6months to recheck. I'm not sure how I feel about\n \"probably\". What is a nodule. Is this good? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "14/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3925880",
+      "Title": "Mammogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Mammogram  I'm 37 years old female <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 37
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 214
+}

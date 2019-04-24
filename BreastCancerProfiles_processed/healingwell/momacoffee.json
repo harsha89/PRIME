@@ -1,0 +1,146 @@
+{
+  "AuthorID": "momacoffee",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3534595&p=231413",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "aggressive",
+      "aggressive",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "momacoffee",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3534595&p=231413",
+      "Content": " Hello everyone!\nI'm in the cluster microcalcification boat, and I'm really scared! I'm an RN, but I don't deal with breasts. I am a Neonatal ICU nurse. I've already had my 2nd mammogram with magnification. I'm scheduled to have my biopsy on Wed. My radiologist told me that he wasn't just getting a biopsy. He was going to try to get all the microcalcifications. This is different from anything I've read. He is being very aggressive. I am thinking the worst! I have been all over the web and it's scaring me. I don't want my husband and children to worry but one of my girls is also a RN and she is asking too many questions! I'm scared!\nSusan ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/11/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3534595",
+      "Title": "Biopsy scheduled"
+    },
+    {
+      "AuthorID": "momacoffee",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3534595&p=231413",
+      "Content": " Thank you for answering! Keep me in your prayers! Thanks again! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "15/11/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3534595",
+      "Title": "Biopsy scheduled"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 144
+}

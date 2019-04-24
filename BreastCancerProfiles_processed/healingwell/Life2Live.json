@@ -1,0 +1,152 @@
+{
+  "AuthorID": "Life2Live",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2235954&p=132977",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "reassured",
+      "ok",
+      "hopeful",
+      "sore",
+      "scared",
+      "ok",
+      "thoughtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Life2Live",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2235954&p=132977",
+      "Content": " Ok, here is my story.  I found a lump in my right breast, scheduled an appt right away with my doctor.  He sent me for a mammogram and ultrasound and scheduled me to see a surgeon all in the same day.  The surgeon said from all the findings it appeared to be a cyst. He recommended doing a FNA since it was 2.5 CM.  A lot of fluid came off when he did it.  It was kind of reddish looking, but not bloody...like a clear color with a red tint. So, that was yesterday. Today, I am sore from the FNA and I feel a hard lump about\n the size of marble where the big cyst used to be.  I am not supposed to go back to get my results for two weeks, but would really like to know what this hard lump could be.  I'm hoping someone here can shed some light for me.  I'm scared to death.....",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/10/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2235954",
+      "Title": "Just looking for reassurance, I guess."
+    },
+    {
+      "AuthorID": "Life2Live",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2235954&p=132977",
+      "Content": " Ok, I thought from what I read that it did make it go away.  Did anyone else here still have a lump after getting one aspirated a day before? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "15/10/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2235954",
+      "Title": "Just looking for reassurance, I guess."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 198
+}

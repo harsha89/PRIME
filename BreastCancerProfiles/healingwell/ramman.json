@@ -1,0 +1,126 @@
+{
+  "AuthorID": "ramman",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2873421&p=55045",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "nervous",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "ramman",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2873421&p=55045",
+    "Content": " My wife, 44, had a mammogram a few days ago. They discovered a lump and afterwards she said it was painful. She hadn't noticed any pain before. We are a nervous reck. They have scheduled a consultation and then an ultrasound the next day. Is that normal procedure? I have talked to a few people who had lumps at their mammogram and they never had to have an ultrasound. Can they tell from a mammogram how serious a lump is? Seems serious if they are scheduling both a consultation and an ultrasound......just wondering if that is the normal procedure. Thanks. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.8,
+        "Phrase": "found during mammogram  My wife  44  had a mammogram a few",
+        "Relation": "second-person",
+        "Tense": "unknown",
+        "Value": 44
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["mammogram"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "wife",
+          "NarrationType": "second-person",
+          "NarratorGender": "male",
+          "PatientGender": "female",
+          "Relation": "wife"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "07/10/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2873421",
+    "Title": "Lump found during mammogram"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 106
+}

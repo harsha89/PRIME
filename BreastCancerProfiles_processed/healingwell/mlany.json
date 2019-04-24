@@ -1,0 +1,131 @@
+{
+  "AuthorID": "mlany",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3867329&p=257720",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "thoughtful",
+      "sure",
+      "scared",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "mlany",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3867329&p=257720",
+    "Content": " I am 17. I've had a \"lump\" for about\n 3 years. I assume it came to be as my breasts grew since they only just started growing a lot. I am concerned though, because I'm a hypochondriac who usually gets scared of everything. I'm not sure if it is exactly a lump per say. But it is located on my left breast on the left side a little below the armpit. i usually just have discomfort, but when I press on it I have a sharp pain. The reason I am not sure that its a lump, is because it isnt round nor smooth. it feels like my normal breast tissue on the other breast. But it does have discomfort and sort of feels like it is almost swollen or maybe enlarged at times. It's hard to explain but when I lie on that side it almost feels like I am laying on something very small. It has not grown, and over the course of 3 years I have been to the doctor for many heart issues that I thought I had, but it turned out to be tachycardia. I have no other symptoms. It hasn't grown. But I am SO worried and am losing sleep because of this. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 17 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 17
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "17/06/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3867329",
+    "Title": "Lump for 3 years - starting to get worried help!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 223
+}

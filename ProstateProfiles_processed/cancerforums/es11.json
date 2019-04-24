@@ -1,0 +1,154 @@
+{
+  "AuthorID": "es11",
+  "AuthorURL": "https://www.cancerforums.net/members/115484-es11?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "concerned",
+      "terrible",
+      "bad",
+      "fatigued",
+      "disinterested",
+      "fatigued"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0.5",
+      "INDIFFERENT": "0.5",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "es11",
+      "AuthorURL": "https://www.cancerforums.net/members/115484-es11?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for your responses, I think this will help. I also agree, I think that nurse was either uninformed or trying to keep her workload light.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "13/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43764-Lupron-seemingly-causing-Fatigue-possible-solutions?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Lupron seemingly causing Fatigue, possible solutions?"
+    },
+    {
+      "AuthorID": "es11",
+      "AuthorURL": "https://www.cancerforums.net/members/115484-es11?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, my father is 66 and has previously been diagnosed and treated twice for prostate cancer. He has been on Lupron therapy since 2010 and also takes litiga and prednisone. He has felt fatigued ever since he started the Lupron therapy, and been vocal about this with the family, but he's terrible about talking to doctors. I don't know why, he just listens and does what they say without explaining his symptoms well or at all. I have noticed a difference in him, and it's apathy. Since he started Lupron he has chosen to retire early. I'm a concerned son. He's presently got a 0 psa level, and he continues lupron therapy to maintain it. Ever since he began it he's said it totally wears him out, this is going on 5 years now. He doesn't have enough energy, he just lays around all day, and is often ill with \"just the 24 hour bug\" but I mean he gets them all the time. He's in bad shape, can't get motivated to exercise, I don't want him to go from unhealthy to really sick. I spoke with his Oncologists office today and the disinterested nurse I spoke with said it couldn't be anything they're doing, and that Lupron doesn't cause fatigue. He has diabetes, maybe it's that. But it says on Lupron's own website that one of the common side effects is fatigue! So I've done some googling, I don't know what to think. Is there anyone out there who's taken something to counteract Lupron's fatigue effects? Or is there a better medicine he should be on? Or some other form of treatment to help him get back to exercising? I've searched around a bit on this, but haven't found much. Anybody have any ideas?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hi all  my father is 66 and has previously been diagnosed",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 66
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/04/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/43764-Lupron-seemingly-causing-Fatigue-possible-solutions?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Lupron seemingly causing Fatigue, possible solutions?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Hi all  my father is 66 and has previously been diagnosed",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 66
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["fatigue"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 351
+}

@@ -1,0 +1,164 @@
+{
+  "AuthorID": "ebookaddictmama6",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1587541&p=89818",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "wonderful",
+      "concerned",
+      "worried",
+      "curious",
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1.5",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "ebookaddictmama6",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1587541&p=89818",
+      "Content": " I just had a call back this morning. My mammagram was yesterday morning. I have to go back for extensive tests and I haven't a clue what that is???\nI am also suppose to go to breast health (this was booked prior to my mammagram for biopsy)\nI had a breast reduction 5.5yrs ago and have had problems like this before, but never had a call back after Mammagram.\nWhat should I expect??? Should I be concerned?? I DO have a lump that the dr was concerned after I had an u/s two weeks ago for the thickness... but she said they saw no calcium. I don't know what all this means and feel kind of in the dark about\n what is going on. I wasn't worried at all since I have had. \nI also had a chest xray yesterday and have been having nightsweats for two yrs, hotflashes and AM NOT going through early menapause or have thyroid problems (I had this all tested already)\nJust wondering if I should be concerned?? What should I expect?? and really have no answers\nTHANKS\nI am only 40yrs old and have 6 kids.. 5 of them very young still one who is only 22 months old. ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "answers\nTHANKS\nI am only 40yrs old and have 6 kids",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 40
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "still one who is only 22 months old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 1.8333333333333333
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "15/09/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1587541",
+      "Title": "Hi, Alyj, I'm copying your post into a new thread..."
+    },
+    {
+      "AuthorID": "ebookaddictmama6",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1587541&p=89818",
+      "Content": " Thanks Bev\nI have already had an ultrasound alittle over two weeks ago and Mammagram was Monday plus xray of chest. I got the call back yesterday morning (alittle under 24hrs later) I am just curious what more extensive mammagram and u/s and other tests are they doing?? I have tried to contact my dr to see if she has results (I live in canada and they will not give info unless from dr and also another reason I am shocked I heard back only a day later when I was told I owuld get results in 5 to 7 days) and it seems weird because I was already booked to see breast health for biopsy?!? So I am just alittle weirded out by it all and although I am not trying to read more into it. I do have lump (thickness also in same breast but on other side) but I thought it was scar tissue from breast reduction... \nOwell I guess I have to just wait and see.\nThanks for the complement on my user name LOL I am addicted to ebooks! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "16/09/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1587541",
+      "Title": "Hi, Alyj, I'm copying your post into a new thread..."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "answers\nTHANKS\nI am only 40yrs old and have 6 kids",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 395
+}

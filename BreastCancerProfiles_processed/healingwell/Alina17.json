@@ -1,0 +1,194 @@
+{
+  "AuthorID": "Alina17",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2836675&p=178686",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "touched",
+      "thoughtful",
+      "hopeful",
+      "decisive",
+      "suspicious",
+      "understanding",
+      "fearful",
+      "comfortable",
+      "comforted",
+      "caring",
+      "anxious",
+      "determined",
+      "willing",
+      "sure",
+      "suspicious",
+      "anxious"
+    ],
+    "Emotions": {
+      "AFRAID": "1.333",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.333",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "1",
+      "OPEN": "0.333",
+      "POSITIVE": "1.333",
+      "SAD": "0",
+      "STRONG": "0.667"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Alina17",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2836675&p=178686",
+      "Content": " Hi Mike.. Sorry for being one of the silent majority about\n your query. At first reading I thought that you were dealing with very technical terms until I did some readings online. I'm waiting for my biopsy results as of this date. If I were your wife, I would opt for a double mastectomy at this time. I was thinking that if I get a malignant diagnosis myself (two suspicious lesions were found on my right breast, one 1 cm and the other 8 mm) I would opt for a unilateral mastectomy. I'm 51 years old. \nI'm hoping that everything would be fine and that you would both be able to make the soundest informed decision there is. Keep in touched! ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 51 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "02/09/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2836675",
+      "Title": "2mm Lobular Carcinoma found after breast reduction"
+    },
+    {
+      "AuthorID": "Alina17",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2873484&p=178686",
+      "Content": " Lisa, I can understand your fear having been diagnosed long time ago but I do believe (and a recipient) of early detection. Muster enough strength and confront the issue before it gets out of hand.. (7 mm is still a small tumor, if ever it is really cancerous) My prayers are with you.. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "02/12/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2873484",
+      "Title": "i have a 7 mm in left breast"
+    },
+    {
+      "AuthorID": "Alina17",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2799100&p=178686",
+      "Content": " Hi evryone... I've just become a member of this forum having been recently called back for a diagnostic mammo and sonogram of my right breast where my routine screening mammo some three weeks ago revealed two suspicious lesions. I'm 51 and perimenopausal and I don't have a family history of breast cancer. I just had my diagnostic mammo yesterday and ultrasound and since they couldn't determine still the nature of the lesions, I underwent fine needle biopsy yesterday plus clips. The \"clips\" I was told will serve as markers to guide the surgeon IN CASE I would need surgery later ( I suppose lumpectomy or removal of these lumps) should they turn out to be cancerous. I will get the results Thursday or Friday next week. Like everyone else here, I'm so anxious for a cancer diagnosis and this will surely be the longest 7 days of my life... I've read most of the posts here and am happy for those who got benign results. I could imagine the horror of waiting and the joy of receiving that one big benign news from the doctor. For now, I'll draw strength and comfort from the fellowship of women in here... Take care everyone! ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 51 and perimenopausal and I don't",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "31/08/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2799100",
+      "Title": "Microcalcifications"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 51 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 51
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 385
+}

@@ -1,0 +1,165 @@
+{
+  "AuthorID": "kmscarpa",
+  "AuthorURL": "https://www.cancerforums.net/members/24397-kmscarpa?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "pleased",
+      "thoughtful",
+      "willing",
+      "sore",
+      "bad",
+      "suspicious",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "kmscarpa",
+    "AuthorURL": "https://www.cancerforums.net/members/24397-kmscarpa?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hello my name is Kristina I am 28 years old (not 26, sorry for the typo in title...it won't let me change it.) and have a family history of breast cancer. My grandma was 50 and my cousin was 37 when diagnosed. My cousin was tested for the BRCA gene and she did not have it. I recently found a lump in my right breast and went into the doc. Given my family history he sent me right in for a mammo and ultra sound. The lump that I was feeling ended up being cyst but both the ultrasound tech and mammo tech said that I had calcification's in my breasts. The radiologist came in and ultrasounded me himself and said that my breast tissue looked abnormal but he could not find a definite mass. He is sending me in for a MRI so that if he needs to biopsy then he will know where exactly to do it. I got the report and I was wondering if anyone had an opinion on them. Mammogram results-right breast No definite mass can be seen. There are numerous mircocalcifications in the upper-outer quadrant of the right breast which could be malignant calcification's (for right side.) There are some calcification's deep to the areola on the left side. Onultrasonography, the upper-outer quadrant of the breast had a irregularly hypoechoic appearance with some cysts. Birades Code DO-incomplete-needs additional info Ultrasound-right breast No distinct mass is seem but there is an extensive area of abnormal echogenicity in the upper outer quadrant of the breast. It contains some small cysts. Mircocalcifications are also present within it. There is an area of hypodensity which is more suspicious of a carcinoma. I am of course completely freaked out...I have also been having right arm pain and the sides of my ribs were my lymph nodes are sore. If it looks likely that I have cancer then I would like to know...I am a single mother to a beautiful 3 year old little boy. So please and thoughts, comments, or similar experiences would be much appreciate! Thank you!",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> <Z> 26 yr old with bad mammogram",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 26
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "name is Kristina I am 28 years old  not 26  sorry",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 28
+        },
+        {
+          "Confidence": 0.7,
+          "Phrase": "<Z> <Z> My grandma was 50 and my cousin was 37",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 50
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "50 and my cousin was 37 when diagnosed <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 37
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "single mother to a beautiful 3 year old little boy <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 3
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "13/05/2011",
+    "ThreadURL": "https://www.cancerforums.net/threads/17134-26-yr-old-with-bad-mammogram-and-ultrasound?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "26 yr old with bad mammogram and ultrasound"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "name is Kristina I am 28 years old  not 26  sorry",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 28
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 370
+}

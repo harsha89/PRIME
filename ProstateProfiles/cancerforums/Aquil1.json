@@ -1,0 +1,134 @@
+{
+  "AuthorID": "Aquil1",
+  "AuthorURL": "https://www.cancerforums.net/members/32582-Aquil1?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "chill",
+      "fatigued",
+      "fatigued"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 76,
+    "min": 76,
+    "scores": [76]
+  },
+  "Posts": [{
+    "AuthorID": "Aquil1",
+    "AuthorURL": "https://www.cancerforums.net/members/32582-Aquil1?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi New to this forum, husband diagnosed in late February with prostate cancer which has spread to non regional lymph nodes but not to bones. PSA 76.0 Gleason 4+3 and first Zoladex injection on 11th April, coming up for 2nd injection. He is experiencing fatigue, chills, hot flashes. Can't seem to get any answers on what may lie ahead of us, just seems to be a wait and see attitude but we have no idea on what to look out for or any rough idea of how long he may have left. We want to be able to make some plans but need some idea of where we might be at in 12 months, 2 years, five years etc. He is 57 years and all cores were 100% positive from prostate biopsy Any help and advice greatly appreciated.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "<Z> <Z> <Z> He is 57 years and all cores were",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 57
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["hot flashes"],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "husband",
+          "NarrationType": "second-person",
+          "NarratorGender": "female",
+          "PatientGender": "male",
+          "Relation": "husband"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "07/07/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/24071-What-lies-ahead?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "What lies ahead"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "<Z> <Z> <Z> He is 57 years and all cores were",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 57
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["fatigue"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 144
+}

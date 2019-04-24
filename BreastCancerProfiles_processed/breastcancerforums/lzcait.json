@@ -1,0 +1,130 @@
+{
+  "AuthorID": "lzcait",
+  "AuthorURL": "https://www.cancerforums.net/members/3223-lzcait?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "receptive",
+      "upbeat",
+      "pleased",
+      "willing",
+      "upbeat"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "lzcait",
+    "AuthorURL": "https://www.cancerforums.net/members/3223-lzcait?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I'm 57 and I was diagnosed with breast cancer this past Wednesday when a very small mass was removed from my right breast. I had a segmented mastectomy, margins proved cancer negative and 3 lymph nodes were biopsied and also proved negative. Right now the final pathology report is not in as to whether it is estrogen receptive, etc. I will do radiation as soon as the incisions have healed sufficiently. I'm extremely postive and upbeat that this was caught in time and I will have a full recovery. Questions: Because I am extremely active (I race kayaks), I want to maintain my weight and energy as much as possible during radiation. Any suggestions on diet...we're talking food here, not supplements, please. Any other advice and suggestions would be appreciated. I know I'll have plenty more questions in the future. Thanks!",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "Diagnosed with Breast Cancer I'm 57 and I was diagnosed with",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 57
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "estrogen",
+            "Breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/10/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3657-Newly-Diagnosed-with-Breast-Cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Newly Diagnosed with Breast Cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Diagnosed with Breast Cancer I'm 57 and I was diagnosed with",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 57
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 151
+}

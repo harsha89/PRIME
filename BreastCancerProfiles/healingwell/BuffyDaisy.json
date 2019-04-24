@@ -1,0 +1,139 @@
+{
+  "AuthorID": "BuffyDaisy",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=249565",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "festive",
+      "hopeful",
+      "cold",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "1",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "BuffyDaisy",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=249565",
+    "Content": " Hi. New to forum. My menopause started at 26, no children, no HRT. I'm now 48 and for the last few days I've had extreme pain in both breasts and nipples. No discharge or lumps. My breasts are swollen, I considered it may be a chest cold but I've only started coughing today. I take cilatopram anti depressant in 20mg but have been reducing it for a few months now and haven't had any for two weeks. \nGP practice shut over festive period but hoping it's \nopen tomorrow. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> My menopause started at 26  no children  no HRT <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 26
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I'm now 48 and for the last few",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 48
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "menopause",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 26,
+    "PostDate": "02/01/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+    "Title": "Post-menopausal cysts"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I'm now 48 and for the last few",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 48
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 93
+}

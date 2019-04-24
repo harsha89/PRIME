@@ -1,0 +1,143 @@
+{
+  "AuthorID": "anxious612",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1929347&p=109667",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "hopeful",
+      "willing",
+      "tortured",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "anxious612",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1929347&p=109667",
+      "Content": " I would like to know how many women had a cluster of microcalcifications and had a benign biopsy?  I have going through torture these last two weeks of  not knowing the outcome.  My biopsy was just yesterday (which didn't hurt a bit) and the waiting is the worst part.  My results will be read to me in 5 days in the surgeon's office.  I had 5 small grains of salt which was in a cluster and have very dense breast.  I am hoping that it may just be a change in the tissue.  I hope by hearing from someone that it may ease the anxiety. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/10/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1929347",
+      "Title": "Small cluster of microcalcification"
+    },
+    {
+      "AuthorID": "anxious612",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1929347&p=109667",
+      "Content": " Thank you Simplistic007 for responding.  I'm sorry to hear about\n your diagnoisis but sure am glad you are doing well now.  Well after waiting 3 weeks I finally found out that my microcalcifications were benign.  I was soooo glad.  When you have all that time on your hands and waiting for your test results to come back so many negative things go through your mind.  My doctor told me that my microcalcifications were due to my fibrocystic disease. I know that most microcalcifications are 80% benign but there was always that 20% running through my mind.  Thanks again and I'll be keeping you in my prayers! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "21/10/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1929347",
+      "Title": "Small cluster of microcalcification"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 220
+}

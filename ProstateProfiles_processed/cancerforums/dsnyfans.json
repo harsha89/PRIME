@@ -1,0 +1,202 @@
+{
+  "AuthorID": "dsnyfans",
+  "AuthorURL": "https://www.cancerforums.net/members/103242-dsnyfans?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "thoughtful",
+      "free",
+      "concerned",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.667",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {
+    "max": 3.54,
+    "min": 3.54,
+    "scores": [3.54]
+  },
+  "Posts": [
+    {
+      "AuthorID": "dsnyfans",
+      "AuthorURL": "https://www.cancerforums.net/members/103242-dsnyfans?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Can anyone send their thoughts? My husband had kidney nephrectomy in Sept with renal cell cancer and now has been diagnosed with prostate. His PSA jumped from 3.54 in Jan to 4.9 in March with a free and total of 18%. His biopsy came back with a gleason of 4+4 in 100% in 2 of the cells....any ideas?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "26/04/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/30983-New-to-this!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this!"
+    },
+    {
+      "AuthorID": "dsnyfans",
+      "AuthorURL": "https://www.cancerforums.net/members/103242-dsnyfans?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the replies. My husband is 69 and the only thing that concerns me is that he also has alzheimers and the anesthesia just darned near killed him! Or me...ha ha! It does send the alzheimers in a downward spiral! But...I want to do what is best. I guess the best thing to do is wait for the results of all the scans and see where we are! Thanks again for the info",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband is 69 and the only thing that",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "29/04/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/30983-New-to-this!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this!"
+    },
+    {
+      "AuthorID": "dsnyfans",
+      "AuthorURL": "https://www.cancerforums.net/members/103242-dsnyfans?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Any suggestions? My husband also has alzheimers! He is 69 with gleason 8. Already had renal cell carcinoma! Will the radiation effect the alz?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 69 with gleason 8  Already had",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31210-Robotic-surgery-vs-Radiation-with-hormonal-therapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Robotic surgery vs. Radiation with hormonal therapy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My husband is 69 and the only thing that",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 69
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 174
+}

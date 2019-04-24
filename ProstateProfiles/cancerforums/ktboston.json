@@ -1,0 +1,816 @@
+{
+  "AuthorID": "ktboston",
+  "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "delighted",
+      "encouraged",
+      "thoughtful",
+      "encouraged",
+      "alone",
+      "admiration",
+      "keen",
+      "keen",
+      "willing",
+      "admiration",
+      "keen",
+      "keen",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.25",
+      "HAPPY": "0.125",
+      "HELPLESS": "0.125",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.375",
+      "LOVE": "0.25",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 8,
+  "NPosts": 9,
+  "PSAInfo": {
+    "max": 3.2,
+    "min": 3.2,
+    "scores": [3.2]
+  },
+  "Posts": [
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, I'm new here. My husband was diagnosed last month & is set to undergo a RP with Jay Raman at Hershey next week. I've been cutting and pasting tips from the forums but wanted to check in and get your best tips for pre and post-surgery. Thank you! ************************* The specifics: Age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Rating: Intermediate/Favorable",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "The specifics  Age at diagnosis  49 PSA  3 2 Gleason  3",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/06/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55329-Husband-scheduled-to-undergo-RP-next-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Husband scheduled to undergo RP next week"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for all the tips, I really appreciate it.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "20/06/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55329-Husband-scheduled-to-undergo-RP-next-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Husband scheduled to undergo RP next week"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for all the pre and post-surgery tips. My husband\u0092s surgery went well and they found no evidence of disease outside the prostate. He had the catheter removed 7/5. The next day, he started running fevers (101) and feeling generally unwell. I spoke with the Urology resident on call, who encouraged us to come in to the ER (of course it was the evening). Husband declined. Fevers continued the next day so I called again and we went in and spent 8 delightful hours in the ER. The bloodwork looked pretty normal; slightly elevated wbc but nothing krazy. Urine test didn\u0092t show bacteria. Abdominal ct scan didn\u0092t show fluid/abscess. So eventually we were discharged. 24 hours later and he\u0092s still running fevers and now having to pee every 20-30 minutes. Has anyone else experienced this? Thoughts, recs, etc? FWIW he was inconsistent with the Miralax in the beginning and is now more backed up than the NJ Turnpike.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/07/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55474-Fevers-after-catheter-removal?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Fevers after catheter removal"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "PCP says it looks more like contact rash/reaction (maybe from the Depends?) Today, it has spread and definitely looks like a yeast rash. Fever of 100 yesterday. Nothing yet today fever-wise as far as I know. I encouraged h to call he surgeon directly and follow-up with him. I do think he has made progress on the bowel front.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "10/07/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55474-Fevers-after-catheter-removal?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Fevers after catheter removal"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Urology came down to consult with us in the ER. He hasn\u2019t contacted his particular surgeon directly. The patient is not always compliant with recommendations.... He has redness in the lower abdomen/pelvic region on the left side. We are at the PCP\u2019s office now. They are affiliated with the major hospital that did his surgery. We\u2019ll see. Waiting to see doctor.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "09/07/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55474-Fevers-after-catheter-removal?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Fevers after catheter removal"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband is scheduled for RP next week. Did your doctors give you a timeline of how long you needed someone with you/you couldn\u0092t be left alone? Thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/06/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55369-Caregiver\u0092s-role-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Caregiver\u0092s role post-surgery"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you, I do appreciate the numerous helpful tips I received in the other thread. I\u2019m hearing from my husband that he can\u2019t be left alone for X days after surgery and that I should adjust my schedule accordingly but I haven\u2019t heard that anywhere else. Just looking for input from others who have been there.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "22/06/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55369-Caregiver\u0092s-role-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Caregiver\u0092s role post-surgery"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "RIP indeed. I admired him greatly and will miss his keen insight.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "22/06/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55368-RIP-Charles-Krauthammer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "RIP Charles Krauthammer"
+    },
+    {
+      "AuthorID": "ktboston",
+      "AuthorURL": "https://www.cancerforums.net/members/128025-ktboston?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "RIP indeed. I admired him greatly and will miss his keen insight.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "22/06/2018",
+      "Signature": "************************* The specifics: Husband\u0092s age at diagnosis: 49 PSA: 3.2 Gleason: 3+4=7 Positive cores: 9/13 Staging: Intermediate/Favorable DaVinci RP 6/27/18 with Dr. Jay Raman (highly recommend!) at Hershey Clean margins, no disease in lymph nodes or elsewhere outside prostate",
+      "ThreadURL": "https://www.cancerforums.net/threads/55368-RIP-Charles-Krauthammer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "RIP Charles Krauthammer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "The specifics  Age at diagnosis  49 PSA  3 2 Gleason  3",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 49
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "alone",
+        "alone",
+        "admiration",
+        "keen",
+        "keen",
+        "willing",
+        "admiration",
+        "keen",
+        "keen",
+        "willing",
+        "delighted",
+        "encouraged",
+        "thoughtful",
+        "encouraged"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.222",
+        "HAPPY": "0.111",
+        "HELPLESS": "0.222",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.333",
+        "LOVE": "0.222",
+        "OPEN": "0",
+        "POSITIVE": "0.444",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "18/06/2018",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 492
+}

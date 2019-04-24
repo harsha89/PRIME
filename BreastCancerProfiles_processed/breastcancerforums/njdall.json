@@ -1,0 +1,166 @@
+{
+  "AuthorID": "njdall",
+  "AuthorURL": "https://www.cancerforums.net/members/104339-njdall?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "njdall",
+      "AuthorURL": "https://www.cancerforums.net/members/104339-njdall?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "So I got my results today. It's ILC. Invasive lobular carcinoma. I'm trying to figure out the path report and wrap my head around this. Im 52 years old and have a 19 year old and a 16 geyar old. Im trying to figure out how and when I to tell them.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "my head around this  Im 52 years old and have a",
+            "Relation": "first-person",
+            "Tense": "present",
+            "Value": 52
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "years old and have a 19 year old and a 16",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 19
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "19 year old and a 16 geyar old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 16
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "14/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31440-Superstitious?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Superstitious"
+    },
+    {
+      "AuthorID": "njdall",
+      "AuthorURL": "https://www.cancerforums.net/members/104339-njdall?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I am so sorry to hear about your diagnosis. I'm am in the situation you were in before you got your news. Yesterday I had biopsy in two places on the same breast. Of course the report didn't come today so I'm hoping to hear tomorrow if it is cancer or not. The waiting is driving me nuts even though I can put it out of my head a good part of the time I can't totally. Please let us know how you are doing.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "13/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31440-Superstitious?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Superstitious"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "my head around this  Im 52 years old and have a",
+      "Relation": "first-person",
+      "Tense": "present",
+      "Value": 52
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 143
+}

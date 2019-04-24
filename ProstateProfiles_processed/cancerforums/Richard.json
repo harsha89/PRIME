@@ -1,0 +1,651 @@
+{
+  "AuthorID": "Richard",
+  "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "uncertain",
+      "suspicious",
+      "worried",
+      "concerned",
+      "anxious",
+      "anxious",
+      "concerned",
+      "anxious",
+      "anxious",
+      "uncertain",
+      "suspicious",
+      "worried",
+      "concerned",
+      "anxious",
+      "anxious",
+      "uncertain",
+      "suspicious",
+      "worried",
+      "uncertain",
+      "suspicious",
+      "worried",
+      "concerned",
+      "anxious",
+      "anxious",
+      "uncertain",
+      "suspicious",
+      "worried",
+      "concerned",
+      "anxious",
+      "anxious"
+    ],
+    "Emotions": {
+      "AFRAID": "1.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 10,
+  "NPosts": 20,
+  "PSAInfo": {
+    "max": 11.5,
+    "min": 2.8,
+    "scores": [
+      2.8,
+      11.5,
+      6
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 63 years old. My PSA was 2.8 in 1998. It has risen steadily to 20.6 in Jan. 2006. I have had 6 biopsies, the most recent in Oct. 2005. No cancer has been found and no suspicious cells. My PSA rose from 11.5 in Mar. 2005 to 20.6 in Jan. 2006. I have no symptoms, and no other reason for the rise in PSA has been identified. I am very worried, but uncertain how to proceed. My urologist has suggested an endo-rectal MRI procedure. Has anyone else experienced such a high PSA with no cancer found after six biopsies? Also, has anyone found the endo-rectal MRI procedure useful in finding cancer that was not found by biopsy? Any other relevant information is welcome. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "PSA  6 biopsies I am 63 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "To chgeiger: Thank you for sharing your experience of 8 biopsies. I recently had my seventh biopsy and still no cancer cells found. However, my PSA continues to rise rapidly, with the last test at 22.6, so I continue to be very concerned. My urologist has referred me to Johns Hopkins in Baltimore. My initial appointment there is March 14. I am anxious to get their evaluation and recommendations. I send my best wishes to you for successful surgery and a good recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "with the last test at 22 6  so I continue to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 22
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "18/02/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you again, Greg, for your response. Your comments convinced me to contact my urologist today, and he has agreed to bypass the endo-rectal MRI procedure (which would have taken time to schedule, etc.) and immediately schedule another biopsy. Hopefully, if it is there, it will be discovered this time and still be confined to the prostate. But, time will tell. In any event, I am grateful that you shared your experience. It certainly is helpful to me. Again, my thanks. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "To chgeiger: Thank you for sharing your experience of 8 biopsies. I recently had my seventh biopsy and still no cancer cells found. However, my PSA continues to rise rapidly, with the last test at 22.6, so I continue to be very concerned. My urologist has referred me to Johns Hopkins in Baltimore. My initial appointment there is March 14. I am anxious to get their evaluation and recommendations. I send my best wishes to you for successful surgery and a good recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "with the last test at 22 6  so I continue to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 22
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 33,
+      "PostDate": "18/02/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 63 years old. My PSA was 2.8 in 1998. It has risen steadily to 20.6 in Jan. 2006. I have had 6 biopsies, the most recent in Oct. 2005. No cancer has been found and no suspicious cells. My PSA rose from 11.5 in Mar. 2005 to 20.6 in Jan. 2006. I have no symptoms, and no other reason for the rise in PSA has been identified. I am very worried, but uncertain how to proceed. My urologist has suggested an endo-rectal MRI procedure. Has anyone else experienced such a high PSA with no cancer found after six biopsies? Also, has anyone found the endo-rectal MRI procedure useful in finding cancer that was not found by biopsy? Any other relevant information is welcome. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 63 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "21/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Dear Greg, Thank you very much for responding to my post re my high PSA with negative biopsies. It is very kind of you to provide information on your experience to me. It sounds pretty much like I am on the same road. And, I will take your advice to heart. With all good wishes... from Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you again, Greg, for your response. Your comments convinced me to contact my urologist today, and he has agreed to bypass the endo-rectal MRI procedure (which would have taken time to schedule, etc.) and immediately schedule another biopsy. Hopefully, if it is there, it will be discovered this time and still be confined to the prostate. But, time will tell. In any event, I am grateful that you shared your experience. It certainly is helpful to me. Again, my thanks. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "To chgeiger: Thank you for sharing your experience of 8 biopsies. I recently had my seventh biopsy and still no cancer cells found. However, my PSA continues to rise rapidly, with the last test at 22.6, so I continue to be very concerned. My urologist has referred me to Johns Hopkins in Baltimore. My initial appointment there is March 14. I am anxious to get their evaluation and recommendations. I send my best wishes to you for successful surgery and a good recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "with the last test at 22 6  so I continue to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 22
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "18/02/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you again, Greg, for your response. Your comments convinced me to contact my urologist today, and he has agreed to bypass the endo-rectal MRI procedure (which would have taken time to schedule, etc.) and immediately schedule another biopsy. Hopefully, if it is there, it will be discovered this time and still be confined to the prostate. But, time will tell. In any event, I am grateful that you shared your experience. It certainly is helpful to me. Again, my thanks. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Dear Greg, Thank you very much for responding to my post re my high PSA with negative biopsies. It is very kind of you to provide information on your experience to me. It sounds pretty much like I am on the same road. And, I will take your advice to heart. With all good wishes... from Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 63 years old. My PSA was 2.8 in 1998. It has risen steadily to 20.6 in Jan. 2006. I have had 6 biopsies, the most recent in Oct. 2005. No cancer has been found and no suspicious cells. My PSA rose from 11.5 in Mar. 2005 to 20.6 in Jan. 2006. I have no symptoms, and no other reason for the rise in PSA has been identified. I am very worried, but uncertain how to proceed. My urologist has suggested an endo-rectal MRI procedure. Has anyone else experienced such a high PSA with no cancer found after six biopsies? Also, has anyone found the endo-rectal MRI procedure useful in finding cancer that was not found by biopsy? Any other relevant information is welcome. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 63 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "21/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Dear Greg, Thank you very much for responding to my post re my high PSA with negative biopsies. It is very kind of you to provide information on your experience to me. It sounds pretty much like I am on the same road. And, I will take your advice to heart. With all good wishes... from Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 29,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 63 years old. My PSA was 2.8 in 1998. It has risen steadily to 20.6 in Jan. 2006. I have had 6 biopsies, the most recent in Oct. 2005. No cancer has been found and no suspicious cells. My PSA rose from 11.5 in Mar. 2005 to 20.6 in Jan. 2006. I have no symptoms, and no other reason for the rise in PSA has been identified. I am very worried, but uncertain how to proceed. My urologist has suggested an endo-rectal MRI procedure. Has anyone else experienced such a high PSA with no cancer found after six biopsies? Also, has anyone found the endo-rectal MRI procedure useful in finding cancer that was not found by biopsy? Any other relevant information is welcome. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 63 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "21/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Dear Greg, Thank you very much for responding to my post re my high PSA with negative biopsies. It is very kind of you to provide information on your experience to me. It sounds pretty much like I am on the same road. And, I will take your advice to heart. With all good wishes... from Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "To chgeiger: Thank you for sharing your experience of 8 biopsies. I recently had my seventh biopsy and still no cancer cells found. However, my PSA continues to rise rapidly, with the last test at 22.6, so I continue to be very concerned. My urologist has referred me to Johns Hopkins in Baltimore. My initial appointment there is March 14. I am anxious to get their evaluation and recommendations. I send my best wishes to you for successful surgery and a good recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "with the last test at 22 6  so I continue to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 22
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 24,
+      "PostDate": "18/02/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you again, Greg, for your response. Your comments convinced me to contact my urologist today, and he has agreed to bypass the endo-rectal MRI procedure (which would have taken time to schedule, etc.) and immediately schedule another biopsy. Hopefully, if it is there, it will be discovered this time and still be confined to the prostate. But, time will tell. In any event, I am grateful that you shared your experience. It certainly is helpful to me. Again, my thanks. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 31,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 63 years old. My PSA was 2.8 in 1998. It has risen steadily to 20.6 in Jan. 2006. I have had 6 biopsies, the most recent in Oct. 2005. No cancer has been found and no suspicious cells. My PSA rose from 11.5 in Mar. 2005 to 20.6 in Jan. 2006. I have no symptoms, and no other reason for the rise in PSA has been identified. I am very worried, but uncertain how to proceed. My urologist has suggested an endo-rectal MRI procedure. Has anyone else experienced such a high PSA with no cancer found after six biopsies? Also, has anyone found the endo-rectal MRI procedure useful in finding cancer that was not found by biopsy? Any other relevant information is welcome. Thank you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 63 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 36,
+      "PostDate": "21/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Dear Greg, Thank you very much for responding to my post re my high PSA with negative biopsies. It is very kind of you to provide information on your experience to me. It sounds pretty much like I am on the same road. And, I will take your advice to heart. With all good wishes... from Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 38,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you again, Greg, for your response. Your comments convinced me to contact my urologist today, and he has agreed to bypass the endo-rectal MRI procedure (which would have taken time to schedule, etc.) and immediately schedule another biopsy. Hopefully, if it is there, it will be discovered this time and still be confined to the prostate. But, time will tell. In any event, I am grateful that you shared your experience. It certainly is helpful to me. Again, my thanks. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 40,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    },
+    {
+      "AuthorID": "Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/1614-Richard?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "To chgeiger: Thank you for sharing your experience of 8 biopsies. I recently had my seventh biopsy and still no cancer cells found. However, my PSA continues to rise rapidly, with the last test at 22.6, so I continue to be very concerned. My urologist has referred me to Johns Hopkins in Baltimore. My initial appointment there is March 14. I am anxious to get their evaluation and recommendations. I send my best wishes to you for successful surgery and a good recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "with the last test at 22 6  so I continue to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 22
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 42,
+      "PostDate": "18/02/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2424-Very-High-PSA-6-biopsies?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Very High PSA, 6 biopsies"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "PSA  6 biopsies I am 63 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 63
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 1795
+}

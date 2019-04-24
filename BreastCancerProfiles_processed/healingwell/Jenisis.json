@@ -1,0 +1,158 @@
+{
+  "AuthorID": "Jenisis",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=883191&p=49807",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "courageous",
+      "peaceful",
+      "pleased",
+      "willing",
+      "lost",
+      "unsure",
+      "unsure",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "3",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Jenisis",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=883191&p=49807",
+      "Content": " Hello Ladies. I'm here from the Lyme disease section of this site, and decided to look around and see what people are experienceing with their personal battles. This is the first forum I've come to just to give well wishes and to tell you all to please, oh please stay as possitive as you can. To all of the sufferes, to ones that we've lost, and to the ones that are unsure, and have just been diagnosed. My heart goes out to you,I will share your pain, but I'll also share my energy and light with you, and pray that peace and healing stays with you every stap of the way. My Aunt died 2 years ago from this awful, ridiculous, filthy disease. She was working on trying to get pregnant at 38, but instead a lump was found and she had one of her breast taken away from her...2 weeks later, another lump was found and all of her female reproductive system  was taken from her. Needless to say, her dream of being a mother went away at that point. She did great for 1 year until the day came that she found another lump on her shoulder. I was told she smirked, looked at her husband and said \"My battle is over, the disease won, checkmate.\" 1 week later, she left this Earth. Too many times we hear horrific stories of courageous, strong willed women losing ther battle with this evil thing called breast cancer. I wish Cancer in general could be eradicated, \"But why control it, when it controls the population?\" Says the government. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6717171717171718,
+          "Phrase": "trying to get pregnant at 38  but instead a lump was",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 38
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnant",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Aunt",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "Aunt"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/08/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=883191",
+      "Title": "Hello Ladies, just visiting"
+    },
+    {
+      "AuthorID": "Jenisis",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=883191&p=49807",
+      "Content": " Thank you so much :)\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "10/08/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=883191",
+      "Title": "Hello Ladies, just visiting"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.6717171717171718,
+      "Phrase": "trying to get pregnant at 38  but instead a lump was",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 38
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 280
+}

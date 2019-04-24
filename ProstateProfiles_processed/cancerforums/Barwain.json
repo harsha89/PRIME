@@ -1,0 +1,113 @@
+{
+  "AuthorID": "Barwain",
+  "AuthorURL": "https://www.cancerforums.net/members/104299-Barwain?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": 0,
+      "ALIVE": 0,
+      "ANGRY": 0,
+      "CONFUSED": 0,
+      "DEPRESSED": 0,
+      "GOOD": 0,
+      "HAPPY": 0,
+      "HELPLESS": 0,
+      "HURT": 0,
+      "INDIFFERENT": 0,
+      "INTERESTED": 0,
+      "LOVE": 0,
+      "OPEN": 0,
+      "POSITIVE": 0,
+      "SAD": 0,
+      "STRONG": 0
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 0,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Barwain",
+    "AuthorURL": "https://www.cancerforums.net/members/104299-Barwain?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi yes newbie Can any one tell me of any side affects they have had doing Calcium treatments and firmagon shots on the same day. The first time my honee had a treatment his foot and ankle swoll up and both docs were out unreachable. Well it went down then he finally went back to work . He hit his ankle on a tool and his ankle swoll up again found out it was cellulitis. It swoll up also becasue he walks alot in his job. Another thing is his tumor is at the L5 towards the butt and he has problems sometimes holding bowel or gas. Has anyone ever heard of this and if so how long? Thanks if you can help me out feel so helpless and he is fustrated he is only 58.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9333333333333333,
+        "Phrase": "is fustrated he is only 58 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 58
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["Prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "You",
+          "NarrationType": "advice"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "11/06/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/31824-My-honee-has-Prostate-on-Calcium-treatments-and-firmagon-any-side-affects?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "My honee has Prostate on Calcium treatments and firmagon any side affects?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9333333333333333,
+      "Phrase": "is fustrated he is only 58 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 58
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "WordCount": 147
+}

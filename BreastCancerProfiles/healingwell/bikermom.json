@@ -1,0 +1,119 @@
+{
+  "AuthorID": "bikermom",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2102145&p=122112",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "concerned",
+      "anxious",
+      "anxious"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "bikermom",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2102145&p=122112",
+    "Content": " Upon going for annual mammogram I was informed I had microcalcifications and needed a biopsy. Had that, then was told by my surgeon I needed a lumpectomy, it was DCIS and only \"pre-cancer.\" The pathologist report said stage 1 cancer, and I went through with the lumpectomy. My surgeon says I need no followup treatment. Everything I have read on Mayo Clinic, Susan Kommen, Cleveland Clinic, sites (etc - not just google and wikipedia) indicate radiation is usually the follow up treatment or at least some follow up treatment is usually warrented. NOT that I am anxious to have radiation mind you, but I am concerned about\n the discrepancy between what my surgeon told me and the pathologist report was. Also don't understand why he is recommending no further treatment. Is this normal? What questions should I be asking that I am not? ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["mammogram"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "05/05/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2102145",
+    "Title": "confused somewhat"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 146
+}

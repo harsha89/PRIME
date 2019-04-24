@@ -1,0 +1,156 @@
+{
+  "AuthorID": "Neeshu Jain",
+  "AuthorURL": "https://www.cancerforums.net/members/17395-Neeshu-Jain?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "keen",
+      "keen",
+      "hopeful",
+      "ignorant",
+      "thoughtful",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0.5",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Neeshu Jain",
+      "AuthorURL": "https://www.cancerforums.net/members/17395-Neeshu-Jain?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi everyone! Can anyone pls tell me about \"CyberKnife\" technology for killing cancer cells. PPL who are totally ignorant about this here is a bit of it(The mind-boggling technology, CyberKnife, which promises to treat deadly cancers has come as a miracle for those who gave up hope. The bloodless and painless surgery is performed by a robotic system, using artificial intelligence.) My relative went through an operation for breast cancer and now chemotherapy is going on I heard about this robotic treatment and am keen to know if it helps and avoid complications during chemotherapy. Any comparison in two .. I would appreciate your help guys. thanks. Neeshu.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/08/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/10205-Its-on-Breast-Cancer-treatment?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Its on Breast Cancer treatment .."
+    },
+    {
+      "AuthorID": "Neeshu Jain",
+      "AuthorURL": "https://www.cancerforums.net/members/17395-Neeshu-Jain?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi Friends, I thanks everyone who is linked with this forum. I have a query for breast cancer problem, Last month was very painful for me as My mother in law observerd symptoms of breast cancer and finally it was diagnosed as the same, later she went through an operation and the affacted portion was removed. But samethime I heard(from the doctors even) that this problem can be genetic too which really make me worry. Can anyone pls share his\\her experience or thoughts on it..? or if it is true then is there any precautionary treatment for this which can reduce the chances .. thanks in advance! Neeshu",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/08/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/10105-I-thanks-everyone-who-is-linked-with-this?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "I thanks everyone who is linked with this .."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "cyberknife",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 230
+}

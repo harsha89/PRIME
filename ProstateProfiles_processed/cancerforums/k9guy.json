@@ -1,0 +1,183 @@
+{
+  "AuthorID": "k9guy",
+  "AuthorURL": "https://www.cancerforums.net/members/107543-k9guy?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "proactive",
+      "accepting",
+      "great",
+      "concerned",
+      "hopeful",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 43,
+    "min": 43,
+    "scores": [43]
+  },
+  "Posts": [
+    {
+      "AuthorID": "k9guy",
+      "AuthorURL": "https://www.cancerforums.net/members/107543-k9guy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "No specific reason except that my doctor is very proactive and I am very health conscious. With my family history we thought it best to keep tabs on it.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "06/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34729-Prostate-PSA-Level-Concern?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate PSA Level Concern"
+    },
+    {
+      "AuthorID": "k9guy",
+      "AuthorURL": "https://www.cancerforums.net/members/107543-k9guy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, This is my first post and I was hoping that I could get some good educated advice for something that concerns me. My father was diagnosed with Prostate Cancer when he was 57 and he decided to get his removed. He is doing great but my concern is with me and my PSA numbers. I am 43 years old and have been getting my PSA levels checked since I was 39 and here are my readings by year. 2009 = 1.1 2010 = 1.3 2011 = 1.5 2012 = 1.6 2013 = 2.0 I am just very concerned since I am only 43 years old and these numbers seem high to me. My doctor says they are within acceptible limits and because of my family history my PSA is probably just normally high to begin with. I am in excellent physical condition otherwise and try to eat health. Am I worrying about nothing or are there things I should be doing now to try and help this situation?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "Prostate Cancer when he was 57 and he decided to get",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 57
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 43 years old and have been",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 43
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "levels checked since I was 39 and here are my readings",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 39
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "concerned since I am only 43 years old and these numbers",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 43
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34729-Prostate-PSA-Level-Concern?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate PSA Level Concern"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 43 years old and have been",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 43
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 207
+}

@@ -1,0 +1,192 @@
+{
+  "AuthorID": "DennisT",
+  "AuthorURL": "https://www.cancerforums.net/members/122221-DennisT?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "thoughtful",
+      "anxious",
+      "anxious"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.667",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 6,
+    "scores": [
+      6,
+      7
+    ]
+  },
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {
+    "max": 1.6,
+    "min": 1.6,
+    "scores": [1.6]
+  },
+  "Posts": [
+    {
+      "AuthorID": "DennisT",
+      "AuthorURL": "https://www.cancerforums.net/members/122221-DennisT?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks Michael! Anyone have any names at Cleveland Clinic they recommend? Dennis T",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "29/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50095-HELP!-PCa-diag-2-years-after-stricture-repair?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "HELP! PCa diag, 2 years after stricture repair"
+    },
+    {
+      "AuthorID": "DennisT",
+      "AuthorURL": "https://www.cancerforums.net/members/122221-DennisT?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all! Need advise! I was recently diagnosed with prostate cancer, gleason 7, 7 samples of 15 active. What makes things trickier is that 2 years ago I had an end to end urethraplasty that removed 3+ cms of urethra downstream from the prostate. Urologists are concerned and anxious about surgery to remove prostate because of complications of blood flow causing strictures, damage to the bladder neck, and incontenance. Radiation looks like it has its own negative complications. Thoughts? Anyone with experience here? Thanks in advance. PSA 1.6 summer 2015 2.44 summer 2016 5 Dec 2016 Samples 15 3+3=6 3+3=6 3+3=6 3+4=7 3+4=7 4+3=7 4+3=7 Thanks for help and responses. Near Cincinnati.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50095-HELP!-PCa-diag-2-years-after-stricture-repair?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "HELP! PCa diag, 2 years after stricture repair"
+    },
+    {
+      "AuthorID": "DennisT",
+      "AuthorURL": "https://www.cancerforums.net/members/122221-DennisT?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "thanks Chuck! I have an appointment Tuesday morning with a radiologist specialist with a Urology group in Cincinnati, then head from there to Indy to see another reconstruction and cancer surgeon at IU Health. Was also thinking about seeing Dr Koch at IU health who specializes in Pca and urethra reconstructions.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "specialist",
+            "MainSubject": "specialist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "29/01/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50095-HELP!-PCa-diag-2-years-after-stricture-repair?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "HELP! PCa diag, 2 years after stricture repair"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urethral strictures",
+      "Bladder neck contracture"
+    ],
+    "SideEffectTypeKeywords": [
+      "strictures",
+      "stricture"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 193
+}

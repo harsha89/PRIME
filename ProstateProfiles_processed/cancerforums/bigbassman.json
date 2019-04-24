@@ -1,0 +1,123 @@
+{
+  "AuthorID": "bigbassman",
+  "AuthorURL": "https://www.cancerforums.net/members/122386-bigbassman?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "concerned",
+      "defeated",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "bigbassman",
+    "AuthorURL": "https://www.cancerforums.net/members/122386-bigbassman?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I am new here. I have early stage IV prostate cancer (PCa), Gleason 8(4+4) with a suspicious femur spot, and more concerning, 2 small ones in an eye orbit. Currently on Casadex and Lupron injections. I am concerned about the long waits between scans and clinic appointment times, and especially about the lack of information sharing. Guys in my network have been shown the door by specialists after asking them valid questions about their therapy, so questioning one's team can be a hazardous and defeating experience. I have resumed taking DCA, since it seemed to lower my PCA by 20% over 3 weeks. I am seriously considering going the GcMAF route, and I am very interested in hearing from anyone who has direct experience with it, and with other alternatives, such as IV ozone and high dose IV vitamin C. I plan to continue with ADT until or unless an alternative therapy shows real results. A cure might be fantastic (literally band figuratively) but improved survival and quality of life are my main goals. Thanks",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/02/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/50225-GcMAF?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "GcMAF"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 180
+}

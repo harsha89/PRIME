@@ -1,0 +1,137 @@
+{
+  "AuthorID": "sec818",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2005529&p=173593",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "surprised",
+      "concerned",
+      "willing",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "sec818",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2005529&p=173593",
+    "Content": " Hello everyone -- I've read through the posts on this thread and just need to say I'm pretty scared.\nWill be 50 yrs old in August, have had routine mammograms since age 40. Have had a few cysts, but nothing a sonogram didn't rule out any further concern.\nWent a few weeks ago for a follow up mammo on my right breast. They did another sonogram, then the radiologist came in and explained that i have a radial scar at about\n 10 o'clock on my right breast. He recommended an MRI, which of course I have to have my OBGYN get pre-authorization from insurance for. Well, surprise surprise, the insurance company denied the MRI request. \nI have no family history of breast cancer. But after reading some various sources on the internet (I know, probably not a good idea), have become rather concerned about\n this.\nSo since the insurance company denied the MRI, I am now scheduled to meet with a general surgeon in 2 days for a consultation and have obtained my film (CD) from the recent mammos/sonogram findings.\nMaybe it's psychosomatic, but my right breast is getting painful and I can REALLY feel this lump. Weird I never seemed to feel it before.\nAnyway, like some of you have said, not a lot of good information out there about\n this. Would appreciate any other follow up experiences you can share.\nThank you! ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> Will be 50 yrs old in August  have",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 50
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "had routine mammograms since age 40 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 40
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 6,
+    "PostDate": "23/06/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2005529",
+    "Title": "Radial scar.... anyone else have?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Will be 50 yrs old in August  have",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 50
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 239
+}

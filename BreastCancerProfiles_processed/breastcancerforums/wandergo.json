@@ -1,0 +1,129 @@
+{
+  "AuthorID": "wandergo",
+  "AuthorURL": "https://www.cancerforums.net/members/2358-wandergo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "loving",
+      "loved",
+      "caring",
+      "willing",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "3",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "wandergo",
+    "AuthorURL": "https://www.cancerforums.net/members/2358-wandergo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi Im am new here and very scared. I am 46 and have IDC stage2a grade3 with 1 node of 8 positive. ER/PR+ HER2-. Last week I had my lumpectomy and that went ok. What I am really scared of is the grade and how that will present itself later on. I have not received my CTscan results yet. My chemo will start on June 9th A/C 4 treatments every 2 weeks then Taxol for 12 weeks, Rads then anti hormone. Is 12 weeks standard care Should I be this worried? I am trying to be positive but it is really hard. Any advice will help. Love and healing to everybody out there Thanks Lisa",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 46 and have IDC stage2a grade3",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 46
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "28/05/2006",
+    "Signature": "IDC Stage 2a Grade3 ER/PR+ her2- 1 node of 8 positive Lumpectomy 5/18/06 Start A/C 6/9/06 Taxol Rads Anti-Hormone",
+    "ThreadURL": "https://www.cancerforums.net/threads/3032-IDC-2a-grade-3-and-very-very-scared?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "IDC 2a grade 3 and very very scared"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 46 and have IDC stage2a grade3",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 46
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 125
+}

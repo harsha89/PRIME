@@ -1,0 +1,169 @@
+{
+  "AuthorID": "cmsalinas",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=180971&p=11939",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "determined",
+      "willing",
+      "frustrated"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "cmsalinas",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=180971&p=11939",
+      "Content": " Thanks for the help and response.  My aunt who is a nurse is helping my Mom to get a second opinion.  Have any of you ever heard of a Dr. Deck?  Both my Aunts feel that it is strange that my mom's HMO is already talking about a Mastectomy.  They brought it up almost from the start when they could not find the lump using a regular Mammography.  Have any of you ever encountered surgery happy Doctors?!?\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=180971",
+      "Title": "thanks & surgery happy drs?"
+    },
+    {
+      "AuthorID": "cmsalinas",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=180972&p=11939",
+      "Content": " Does it cost to have reconstructive surgery or is covered by insurance?  My mom may need it in the future.\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "mom",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "mom"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=180972",
+      "Title": "reconstruction?"
+    },
+    {
+      "AuthorID": "cmsalinas",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=180389&p=11939",
+      "Content": " Hello,\nI am new to this board. My mother has breast cancer and I am finding that I have so many questions that can not be answered. Here is my story:\nMy mom went to the Doctors because she had a lump in her limp nodes (on the rt. side of her body). They ran a test and discovered that it was a breast cancer. They then tried to find the starting lesion in her breast. She did an Mammography, ultra sound and even an MRI. Using the results of the MRI they found a very small lesion. Last week they removed the lump in her breast and the cancer in your limp nodes. They determined that the cancer had not spread to anyother limp nodes, which is good news. They did a pathology test on the small lesion and it is not cancerous. They are telling my mother she is most likely going to have a mastectomy. My mother is heart broken at this news, but she know it has to hadppen if she is going to survive. \nI am very confused?? Why is it that they can not find the cancer? They can't even determine the stage she is at. Has anyone in this group ever encountered a situation like this? \nThey still have not even checked her our breast out? I find this to be very strange? How will they know if this cancer has spread? What if this cancer did not even start in her breasts, but moved to the breasts and then limp nodes? \nfrustrated!! help,\nthanks,\nChristina S ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=180389",
+      "Title": "new to board"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 371
+}

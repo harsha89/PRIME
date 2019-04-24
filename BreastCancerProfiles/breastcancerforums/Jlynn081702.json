@@ -1,0 +1,180 @@
+{
+  "AuthorID": "Jlynn081702",
+  "AuthorURL": "https://www.cancerforums.net/members/8669-Jlynn081702?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "concerned",
+      "hopeful",
+      "bad",
+      "scared",
+      "pleased",
+      "surprised",
+      "loving",
+      "loved",
+      "thoughtful",
+      "sure",
+      "upset",
+      "upset",
+      "scared",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1.5",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0.5",
+      "GOOD": "1.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Jlynn081702",
+      "AuthorURL": "https://www.cancerforums.net/members/8669-Jlynn081702?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, I am new to these pages but am hoping to meet some folks out there going through the same experience I am. Are there any other Stage IV folks out there? I was diagnasosed with BC May 25, 2007. May 29, 2007 I had a PET/CT and learned my BC had spread to 5 spots in my liver, 1 in my 3rd vert of my spine. The doctor started me on chemo right away (rather than surgery first) to hopefully shrink the cancer in my liver. That was the primary concern. I've had 3 chemo treatments now and have gotten really bad headcolds each time. So today, July 18, 2007 I went back in and he recommended a head MRI to see what was going on. We got the results back instanteously. I have severe sinus disease, as well as, 2 more spots of cancer on my brain now. I am just beyond sad and depressed. I am scared of leaving this world. I am scared of leaving my children. I am a 30 year old woman with no history of cancer in the family. Hoping someone else is out there to give me the hope to be strong. Please help!",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> May 29  2007 I had a PET",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 29
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> I am a 30 year old woman with no",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 30
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/07/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/4919-Stage-IV?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Stage IV???"
+    },
+    {
+      "AuthorID": "Jlynn081702",
+      "AuthorURL": "https://www.cancerforums.net/members/8669-Jlynn081702?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Amanda, I am a 30 year old who just found out I have Stage IV breast cancer at the end of May. Initially I went to the doctor because I felt a mass...he wasn't sure what it was...I had been breast-feeding my babies (had triplets last June)...so he thought maybe a blocked milk duct at first....but I wasn't having any pain associated with it so it didn't make sense...he didn't really think it could be cancer either b/c of my young age and not having it run in the family....so we were stumped and I went in for a biopsy.... the biopsy freaked me out! I didn't want a needle going into that soft tissue! Ouch! But, I got through it...when I left I really didn't worry about it...they said to call the next day and they'd \"maybe\" have the results...otherwise, I'd have to wait over the weekend.... So, I decided to call the next afternoon....not expecting to get any results....and you can imagine my surprise when he told me, \"Yes, you have breast cancer\". I was in complete shock. I couldn't breathe....he asked if I could come right into the office to discuss in further detail.... I don't want to scare you, but it is real. And it is possible. But don't get yourself all upset until you know for sure....You can worry yourself sick for no reason... Best of luck to you and please do post your results....Would love to chat with you.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> Amanda  I am a 30 year old who just found",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 30
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "30/08/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5184-I-m-18-waiting-for-results?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "I'm 18, waiting for results..."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 30 year old woman with no",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 30
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 478
+}

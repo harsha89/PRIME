@@ -1,0 +1,152 @@
+{
+  "AuthorID": "Rekon",
+  "AuthorURL": "https://www.cancerforums.net/members/107698-Rekon?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "loving",
+      "loved",
+      "willing",
+      "kind",
+      "willing",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Rekon",
+      "AuthorURL": "https://www.cancerforums.net/members/107698-Rekon?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I just found out that my brother was diagnosed with cancer during a biopsy procedure. He called me and I felt sad because no one wants a love one to be suffering. However little that I knew he was calling me to warn me to get my prostate check. It wasn't until then that I realized that I am the only one out 5 brothers to included my father who hasn't been diagnosed with prostate cancer. Now I have a dilema? Should I go ahead and request a Biopsy? since everyone in my family have come down with prostate cancer? I am awaiting the results of my PSA this coming up Friday. If the test or PSA levels come normal should I try to go ahead and request Biopsy due to the fact that all my immediate family have come down with prostate cancer? Any ideas comments in this regards will be greatly appreciated. Thank You",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34862-PSA-or-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA or Biopsy?"
+    },
+    {
+      "AuthorID": "Rekon",
+      "AuthorURL": "https://www.cancerforums.net/members/107698-Rekon?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for your kind advise. I got the results for my PSA and this is what I was able to photograph using my I-phone: Prostate-Specific Ag, Serum Roche ECLIA methodology 1.7 What does this means? The doctor told nothing to worry about he recommends doing the PSA every 6 months. He also told me that he has been monitoring my PSA levels, however I do not believe him because the last PSA test on me was back in 2009. Unless he is physic I don't see he could be monitoring something that he is not testing. Anyways, I need to find out what does that 1.7 means. Any help will be appreciated. Thank You",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "15/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34862-PSA-or-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA or Biopsy?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 281
+}

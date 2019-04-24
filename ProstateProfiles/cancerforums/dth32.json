@@ -1,0 +1,596 @@
+{
+  "AuthorID": "dth32",
+  "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "hopeful",
+      "lost",
+      "hopeful",
+      "lost",
+      "hopeful",
+      "lost",
+      "willing",
+      "cross",
+      "pained",
+      "pained",
+      "pained",
+      "pained",
+      "willing",
+      "cross",
+      "hopeful",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0.111",
+      "CONFUSED": "0.222",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.111",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.111",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 18,
+  "NPosts": 18,
+  "PSAInfo": {
+    "max": 17.5,
+    "min": 17.5,
+    "scores": [17.5]
+  },
+  "Posts": [
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 49 live in Houston, no history of family PC but we have had some cancer. Dad had Non-Hodgkin lymphoma, grandfather on mothers side had rectal cancer. I am overweight 5'10\" 265 which I read could be a factor. Thanks to everyone for responses!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> I am 49 live in Houston  no history",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Before last week I didn't even know what a PSA test was. Yesterday the Dr's office called and said my PSA was 17.5 and she is referring me to a urologist. I now know what PSA is and I am completely stressed out of my mind. I have an appointment on the 1st with the urologist; what can I expect next? I see by reading there are more tests to come obviously but what should my hopes be? Totally lost right now, dth",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 49 live in Houston, no history of family PC but we have had some cancer. Dad had Non-Hodgkin lymphoma, grandfather on mothers side had rectal cancer. I am overweight 5'10\" 265 which I read could be a factor. Thanks to everyone for responses!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> I am 49 live in Houston  no history",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks everyone for the advice and information. I already have a binder writing down the information and questions for the doctor. This is really helping!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "20/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Before last week I didn't even know what a PSA test was. Yesterday the Dr's office called and said my PSA was 17.5 and she is referring me to a urologist. I now know what PSA is and I am completely stressed out of my mind. I have an appointment on the 1st with the urologist; what can I expect next? I see by reading there are more tests to come obviously but what should my hopes be? Totally lost right now, dth",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Before last week I didn't even know what a PSA test was. Yesterday the Dr's office called and said my PSA was 17.5 and she is referring me to a urologist. I now know what PSA is and I am completely stressed out of my mind. I have an appointment on the 1st with the urologist; what can I expect next? I see by reading there are more tests to come obviously but what should my hopes be? Totally lost right now, dth",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 49 live in Houston, no history of family PC but we have had some cancer. Dad had Non-Hodgkin lymphoma, grandfather on mothers side had rectal cancer. I am overweight 5'10\" 265 which I read could be a factor. Thanks to everyone for responses!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> I am 49 live in Houston  no history",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 33,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Prostate is gone, while working on me the surgeon found another large growth on it. He said that 99% of these are benign so we are hoping/praying that is the case. He also took a cross section of my lymph nodes to test for cancer. Hopefully all is clear, will start walking tomorrow didn\u0092t want to today.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "01/05/2018",
+      "Signature": "PSA 15.6 May 2017 PSA 14.4 June 2017 PSA 14.7 Nov 2017 PSA 14.6 Mar 2018 Nov 2017 Right Anterior X5 Cores Gleason 6 3+3 Right Posterior X8 Cores Gleason 6 3+3",
+      "ThreadURL": "https://www.cancerforums.net/threads/54978-Surgery-complete!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery complete!"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I just have to say, if they offer Exparel for the surgery get it. I have no pain down in the nether regions an I am walking and sitting with no pain. The only pain I am having is my stomach muscles as was said before like I did 1000 sit-ups.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "01/05/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54978-Surgery-complete!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery complete!"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I just have to say, if they offer Exparel for the surgery get it. I have no pain down in the nether regions an I am walking and sitting with no pain. The only pain I am having is my stomach muscles as was said before like I did 1000 sit-ups.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "01/05/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54978-Surgery-complete!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery complete!"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 49 live in Houston, no history of family PC but we have had some cancer. Dad had Non-Hodgkin lymphoma, grandfather on mothers side had rectal cancer. I am overweight 5'10\" 265 which I read could be a factor. Thanks to everyone for responses!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "<Z> <Z> <Z> I am 49 live in Houston  no history",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 23,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Prostate is gone, while working on me the surgeon found another large growth on it. He said that 99% of these are benign so we are hoping/praying that is the case. He also took a cross section of my lymph nodes to test for cancer. Hopefully all is clear, will start walking tomorrow didn\u0092t want to today.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/05/2018",
+      "Signature": "PSA 15.6 May 2017 PSA 14.4 June 2017 PSA 14.7 Nov 2017 PSA 14.6 Mar 2018 Nov 2017 Right Anterior X5 Cores Gleason 6 3+3 Right Posterior X8 Cores Gleason 6 3+3",
+      "ThreadURL": "https://www.cancerforums.net/threads/54978-Surgery-complete!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Surgery complete!"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks everyone for the advice and information. I already have a binder writing down the information and questions for the doctor. This is really helping!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "20/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Before last week I didn't even know what a PSA test was. Yesterday the Dr's office called and said my PSA was 17.5 and she is referring me to a urologist. I now know what PSA is and I am completely stressed out of my mind. I have an appointment on the 1st with the urologist; what can I expect next? I see by reading there are more tests to come obviously but what should my hopes be? Totally lost right now, dth",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "19/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks everyone for the advice and information. I already have a binder writing down the information and questions for the doctor. This is really helping!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "20/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks everyone for the advice and information. I already have a binder writing down the information and questions for the doctor. This is really helping!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 37,
+      "PostDate": "20/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50975-First-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First PSA"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "What does that mean? Well, we have been tracking my PSA for nearly a year now and it has not dropped below 14 during that time. In September I had an MRI that found two nodules in the right portion of my prostate. In November I had an external biopsy and from what I have read from others experience this seems to be the way to go. I was asleep and then I woke up. I had the blood in the urine of course but didn't have to go through being awake with the noises and knowing others were in the room with everything in the open Well my results came back and they found the two nodules that were Gleason 6 3+3. I think my signature explains it. Now to the unicorn.. My doctor hasn't seen anyone with my results, meaning my PSA is so high and my Gleason is 6. This is very abnormal, maybe a 1% or less of cases and he hasn't seen it. He performs the surger 5-7 times a week and has seen countless patients but hasn't seen someone my age(49) with these symptoms. So, I am a bit of a Unicorn. My wife and I went in today fully expecting to opt for surgery but the doctor wants to bring the case to his whole department. I feel like an episode of House honestly. We told him that our choice is for surgery and he said that is one of the options and one he would be leaning towards. I am just rambling on now because I just wanted to put things down in words here. Maybe someone else has seen something like this on this forum. I suppose I have a little more stress since a doctor that has seen thousands of these cases has never seen this before. What is lurking in me that they haven't seen before? It's back to the wait and see game... Dth32",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "hasn't seen someone my age 49  with these symptoms <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "07/03/2018",
+      "Signature": "PSA 15.6 May 2017 PSA 14.4 June 2017 PSA 14.7 Nov 2017 PSA 14.6 Mar 2018 Nov 2017 Right Anterior X5 Cores Gleason 6 3+3 Right Posterior X8 Cores Gleason 6 3+3",
+      "ThreadURL": "https://www.cancerforums.net/threads/54472-I-Am-A-Bit-of-A-Unicorn?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "I Am A Bit of A Unicorn"
+    },
+    {
+      "AuthorID": "dth32",
+      "AuthorURL": "https://www.cancerforums.net/members/123829-dth32?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "What does that mean? Well, we have been tracking my PSA for nearly a year now and it has not dropped below 14 during that time. In September I had an MRI that found two nodules in the right portion of my prostate. In November I had an external biopsy and from what I have read from others experience this seems to be the way to go. I was asleep and then I woke up. I had the blood in the urine of course but didn't have to go through being awake with the noises and knowing others were in the room with everything in the open Well my results came back and they found the two nodules that were Gleason 6 3+3. I think my signature explains it. Now to the unicorn.. My doctor hasn't seen anyone with my results, meaning my PSA is so high and my Gleason is 6. This is very abnormal, maybe a 1% or less of cases and he hasn't seen it. He performs the surger 5-7 times a week and has seen countless patients but hasn't seen someone my age(49) with these symptoms. So, I am a bit of a Unicorn. My wife and I went in today fully expecting to opt for surgery but the doctor wants to bring the case to his whole department. I feel like an episode of House honestly. We told him that our choice is for surgery and he said that is one of the options and one he would be leaning towards. I am just rambling on now because I just wanted to put things down in words here. Maybe someone else has seen something like this on this forum. I suppose I have a little more stress since a doctor that has seen thousands of these cases has never seen this before. What is lurking in me that they haven't seen before? It's back to the wait and see game... Dth32",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "hasn't seen someone my age 49  with these symptoms <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/03/2018",
+      "Signature": "PSA 15.6 May 2017 PSA 14.4 June 2017 PSA 14.7 Nov 2017 PSA 14.6 Mar 2018 Nov 2017 Right Anterior X5 Cores Gleason 6 3+3 Right Posterior X8 Cores Gleason 6 3+3",
+      "ThreadURL": "https://www.cancerforums.net/threads/54472-I-Am-A-Bit-of-A-Unicorn?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "I Am A Bit of A Unicorn"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "hasn't seen someone my age 49  with these symptoms <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 49
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 1533
+}

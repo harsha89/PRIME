@@ -1,0 +1,145 @@
+{
+  "AuthorID": "newenglandguy",
+  "AuthorURL": "https://www.cancerforums.net/members/25166-newenglandguy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "touched",
+      "concerned",
+      "determined",
+      "willing",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "newenglandguy",
+      "AuthorURL": "https://www.cancerforums.net/members/25166-newenglandguy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I was reading posts, as my Niece has been recently diagnosed with Invasive Lobular Breast Cancer. I found posts from Muttsmom, but when I checked on her posts, I found out her last post was back in 2007 sand she mentioned it was going to be her last post on this forum. My Niece had a biopsy done on October 1 and it was determined to be Cancerous. She had a double mastectomy about 10 days ago, but my concern is with how slow things seem to be moving. They say she'll need Chemo and Radiation, but it hasn't started yet. I really would like to communicate with Muttsmom, if she is willing to see what her path was, as she was showing 5 years NED. They told my Niece that she may be a candidate for Herceptin, but by reading, I do know you have to be determined to be HER2+. We're 10 days post mastectomy - why wouldn't they already know if she was or wasn't by know. Anothe case in point that things are moving too slow. Any feedback on my concerns or suggestions what we might do? thanks",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Niece",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "Niece"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27121-Does-anyone-know-how-to-get-in-touch-with-Muttsmom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Does anyone know how to get in touch with Muttsmom?"
+    },
+    {
+      "AuthorID": "newenglandguy",
+      "AuthorURL": "https://www.cancerforums.net/members/25166-newenglandguy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Didee - already checked before posting. Not there. Was hoping someone might have it and pass an email back to her letting her know I'd like to chat with here. Thanks",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27121-Does-anyone-know-how-to-get-in-touch-with-Muttsmom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Does anyone know how to get in touch with Muttsmom?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 237
+}

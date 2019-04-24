@@ -1,0 +1,170 @@
+{
+  "AuthorID": "cartier",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=864852&p=50932",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "ignorant"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "1",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "cartier",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=864852&p=50932",
+      "Content": " And do you know if Thermography is availble in Canada? Thanks again! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "20/07/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=864852",
+      "Title": "Mammograms"
+    },
+    {
+      "AuthorID": "cartier",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=864852&p=50932",
+      "Content": " Thank you all who replied to my mesage, all the info is so grateful and most welcome. Best wishes to all!! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "20/07/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=864852",
+      "Title": "Mammograms"
+    },
+    {
+      "AuthorID": "cartier",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=864852&p=50932",
+      "Content": " I am 34 and I have been called back for a second mammogram, ultrasound and biopsy for a \"suspcious\" lymph node and mass. My doctor mentioned if the situation (and hopefully it is) is benign I will need annual mammograms. Since I have not had children, and plan to, and this is probably an ignorant question, but will annual mammograms have a bearing on my chances of conception? \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> Mammograms  I am 34 and I have been called",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 34
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/07/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=864852",
+      "Title": "Mammograms"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> Mammograms  I am 34 and I have been called",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 34
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 101
+}

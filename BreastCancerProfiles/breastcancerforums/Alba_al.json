@@ -1,0 +1,157 @@
+{
+  "AuthorID": "Alba_al",
+  "AuthorURL": "https://www.cancerforums.net/members/103819-Alba_al?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "pleased",
+      "willing",
+      "nervous",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Alba_al",
+      "AuthorURL": "https://www.cancerforums.net/members/103819-Alba_al?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks Didee, thanks for the advices, and yes, i'll dot like that and if any news i'll post them here, so maybe anyone else who has the same symptoms or issues that i do might get a bit oriented.. Thanks again!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "16/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31390-Advices-on-understanding-the-symptoms-needed?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Advices on understanding the symptoms needed"
+    },
+    {
+      "AuthorID": "Alba_al",
+      "AuthorURL": "https://www.cancerforums.net/members/103819-Alba_al?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi everyone, I'm a 22 years old girl and before 4-5 months or so i had my first breast echo and i was diagnosed with several lumps. One was big and had to be removed so i took a surgery and removed this big lump (don't remember the size though). I still have a few left i guess. I haven't gone to the doctor since then.. big mistake, i know! Now, the issue is, it's been a lot, more than e year that i feel light headed, nervous, impatient, dizziness (i know it can be from a lot of things but still though), my body is sour it's like i have pain everywhere. My chest feels heavy. I've read about ovarian cancer too, i haven't had a pap test yet though.. ahmm... i never had \"complete\" sexual relationships so i guess i shouldn't have that, but i do have discharges at times, feel pain below my tummy and my waist... not severe pain, light one.. And i do have how is it called.. Ah, yes, fluctuant gas i suppose.. I's been there for a few months now unfortunately, and in my family we have a lot of cancer cases, from bone cancer, to ovarian and breast one.. i'm kinda scared! Please i'd need any suggestion... I mean besides go and visit a doctor, i know that, and i will.. Thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "needed Hi everyone  I'm a 22 years old girl and before",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 22
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "ovarian",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31390-Advices-on-understanding-the-symptoms-needed?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Advices on understanding the symptoms needed"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 291
+}

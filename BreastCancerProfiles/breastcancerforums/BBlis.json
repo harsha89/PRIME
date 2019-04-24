@@ -1,0 +1,153 @@
+{
+  "AuthorID": "BBlis",
+  "AuthorURL": "https://www.cancerforums.net/members/27348-BBlis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "BBlis",
+      "AuthorURL": "https://www.cancerforums.net/members/27348-BBlis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I was diagnosed with colon cancer at the end of October, had colon resection, have a temporary illestomy, had a TOTAL hysterectomy as well. I went for my mammogram yesterday, first one, I'm 41 and wanted to get it over with before chemo which I start Friday. I just got a call and they want to do more tests, I have an appointment tomorrow for that. I have always gone for my \"yearly\" exams, just had one in August and the dr. didn't feel anything, I had JUST gotten used to the idea of getting rid of the colon cancer and any stray cells with chemo, there were NO signs that the cancer had spread through the colon and now this. Are there other things that this could be? Thanks for reading...",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "mammogram yesterday  first one  I'm 41 and wanted to get it",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hysterectomy",
+              "mammogram"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "13/12/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/20443-Now-I-m-really-freaking-out?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Now I'm really freaking out..."
+    },
+    {
+      "AuthorID": "BBlis",
+      "AuthorURL": "https://www.cancerforums.net/members/27348-BBlis?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you Didee! Just read notes from dr. in MyChart, I have a 2mm spot of microcalcifications, the ultra sound showed no abnormalities, no masses or adenopathy so HOPEFULLY that will mean benign! I had my first colon cancer chemo treatment today, out of eight, do not want to have to deal with two cancers at once. My biopsy is next Wednesday. Thanks again! Take care!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "16/12/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/20443-Now-I-m-really-freaking-out?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Now I'm really freaking out..."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "mammogram yesterday  first one  I'm 41 and wanted to get it",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 206
+}

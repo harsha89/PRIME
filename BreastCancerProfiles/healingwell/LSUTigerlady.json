@@ -1,0 +1,126 @@
+{
+  "AuthorID": "LSUTigerlady",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349559&p=245636",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "glad",
+      "willing",
+      "fearful",
+      "nervous",
+      "scared",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "2",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "LSUTigerlady",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349559&p=245636",
+    "Content": " Just joined. Glad to have found women who are as scared as me and many who discovered there was nothing about\n which to be afraid. Mammogram on Monday, get them yearly, post-menopausal, and received a call back for follow up mammogram and ultrasound to right breast. Scared, yes, and nervous and have done much reading. I realize there are strong chances nothing is wrong, but I can't help but be fearful. I have a great diagnostic center and was told I would know everything Monday after the tests. I was told if a biopsy is required, it will be done there immediately. Glad for such quick attention to the situation, but I will remain fearful until I know something. My imagination is getting the best of me right now. Will be glad when Monday arrives. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "Mammogram",
+            "menopausal",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 96,
+    "PostDate": "12/10/2016",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=349559",
+    "Title": "Second Call back On Mammogram and scared"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 137
+}

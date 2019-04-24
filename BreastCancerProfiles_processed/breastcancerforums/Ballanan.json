@@ -1,0 +1,151 @@
+{
+  "AuthorID": "Ballanan",
+  "AuthorURL": "https://www.cancerforums.net/members/2215-Ballanan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "decisive",
+      "affected",
+      "willing",
+      "hesitant",
+      "hesitant"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Ballanan",
+      "AuthorURL": "https://www.cancerforums.net/members/2215-Ballanan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I recently underwent a lumpectomy for DCIS and am facing a decision about whether to have radiation in addition to tomoxifen. The complicating factor seems to be that I have breast implants that were done for cosmetic reasons 12 years ago. There is the possiblity that the radiation will cause contracture of the implant and either distort my breast (like it isn't already distorted...) or rupture the implant. So, I need to make a decision. Here are the facts: my tumor was low grade and small (4 mm) and estrogen positive. After re-excision, the margins are negative. I have no family history of breast cancer. I know that the safe thing to do is to have the radiation but the statistics I've been quoted for recurrance with and without varies from a 4% difference to 12%. Any insight? Ballanan 3 weeks post excision DCIS",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "estrogen",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "26/05/2006",
+      "Signature": "Age 52 Recently Diagnosed Ductal Carcinoma in Situ Lumpectomy and re-excision",
+      "ThreadURL": "https://www.cancerforums.net/threads/3023-I-need-some-advice?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "I need some advice"
+    },
+    {
+      "AuthorID": "Ballanan",
+      "AuthorURL": "https://www.cancerforums.net/members/2215-Ballanan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I have recently been diagnosed with DCIS. I underwent a wide excisional biopsy and now they must go in again to clear the margins. My surgeon is hesitant to recommend radiation following the lumpectomy because I have existing saline implants. Everyone from the radiologist to the surgeon are very tentative about treating me because they are afraid of the effect on the implants. I asked if removal was an option and they told me that insurance will only pay to remove the implant on the affected side. I am very confused by my options. Has anyone else delt with this issue in their cancer treatment? Any advice would be greatly appreciated.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "02/05/2006",
+      "ThreadURL": "https://www.cancerforums.net/threads/2884-DCIS-and-Breast-Implants?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "DCIS and Breast Implants"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 268
+}

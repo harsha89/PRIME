@@ -1,0 +1,178 @@
+{
+  "AuthorID": "ezhelp712",
+  "AuthorURL": "https://www.cancerforums.net/members/80481-ezhelp712?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "pleased"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 3,
+  "PSAInfo": {
+    "max": 50.11,
+    "min": 50.11,
+    "scores": [50.11]
+  },
+  "Posts": [
+    {
+      "AuthorID": "ezhelp712",
+      "AuthorURL": "https://www.cancerforums.net/members/80481-ezhelp712?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am a 63 year old (soon to be 64) white male. In August 2012, after experiencing a difficult time urinating, I sought a urologist. My PSA result was 50.11 A biopsy confirmed 6 of 10 samples were positive. CT and bone scans were negative. A Gleason score of 8. The doctor claims I'm a candidate for either surgery (removal of the prostate) or seed/hormone therapy. Would someone please be so kind and share their experiences with the \"seed\" therapy? Advice would be greatly appreciated - I thank you in advance.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hello Everyone I am a 63 year old  soon to be",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26843-Hello-Everyone?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Hello Everyone"
+    },
+    {
+      "AuthorID": "ezhelp712",
+      "AuthorURL": "https://www.cancerforums.net/members/80481-ezhelp712?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Chuck and thank you for the reply, The Dr. DID say the urination problem was due to an elarged prostate. I have a scheduled meeting with the Radiation Oncology Specialist the Monday after Thanksgiving. The enlarged prostate question you suggested will definitely be asked. Thank You.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "21/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26843-Hello-Everyone?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Hello Everyone"
+    },
+    {
+      "AuthorID": "ezhelp712",
+      "AuthorURL": "https://www.cancerforums.net/members/80481-ezhelp712?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi JohnT and thanks for the reply, As posted earlier, a meeting with the Radiation Oncology Specialist is scheduled. This is exactly the topic the urologist and surgeon have concerns - cancer is not contained. Therefore, they suggested the seed therapy. Do you know if the seed therapy is ALWAYS accompanied with hormone therapy? Thank You.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26843-Hello-Everyone?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Hello Everyone"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Hello Everyone I am a 63 year old  soon to be",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 63
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 197
+}

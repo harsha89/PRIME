@@ -1,0 +1,169 @@
+{
+  "AuthorID": "Lalamac",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2005529&p=219390",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "hopeful",
+      "willing",
+      "sore",
+      "frustrated",
+      "wonderful",
+      "surprised",
+      "willing",
+      "sore",
+      "frustrated"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Lalamac",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2005529&p=219390",
+      "Content": " I am 51 and no family history of breast cancer. I had a cyst needle biopsy in my late 20's, but other than that have had no problems. I have very fibrous breasts, so lately have had to follow up with ultrasounds after mammo's. This month, I was called back for 3-d mammo and ultrasound, then had a needle biopsy on 4/14. Today I got word that it was not cancerous, but is a radial scar and needs to be removed. I have been told that my information has been submitted to a surgeon, and now awaiting call to schedule. I so frustrated that now that my breast is no longer sore from the biopsy, but now am told it will be even sorer. Can you tell me what your recovery was like? I'm hoping I'm not going to have to miss work, etc. I've had so many surgeries in the past that I really do not look forward to it. Do they remove the tissue thru the same area they did the biopsy, or do they actually have to cut it \nopen???? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 51 and no family history of",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "17/04/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2005529",
+      "Title": "Radial scar.... anyone else have?"
+    },
+    {
+      "AuthorID": "Lalamac",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3385604&p=219390",
+      "Content": " I am 51 and no family history of breast cancer. I had a cyst needle biopsy in my late 20's, but other than that have had no problems, other than having fibrous breasts. Due to this, it has not been surprising to have to have follow ups with ultrasounds after mammo's. This month, I was called back for 3-D mammo and ultrasound, then had a needle biopsy on 4/14. Today I got word that it was not cancerous, but is a very rare \"radial scar\" and needs to be removed as they are known to hide cancer cells or can become cancerous themselves. My information has been submitted to a surgeon, and now awaiting his call to schedule surgery. I'm so frustrated that now that my breast is no longer sore from the biopsy, now I'm told it will be even sorer. Can anyone tell me what your recovery was like? Wondering how long before I will be able to return back to work, etc. I've had so many surgeries in the past that I really do not look forward to it. Do they remove the tissue thru the same area they did the biopsy, or do they actually have to cut it \nopen???? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> Radial Scar  I am 51 and no family history of",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/04/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3385604",
+      "Title": "Radial Scar"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 51 and no family history of",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 51
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 403
+}

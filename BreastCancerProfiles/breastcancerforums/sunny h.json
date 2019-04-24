@@ -1,0 +1,143 @@
+{
+  "AuthorID": "sunny h",
+  "AuthorURL": "https://www.cancerforums.net/members/29594-sunny-h?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "touched",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "sunny h",
+      "AuthorURL": "https://www.cancerforums.net/members/29594-sunny-h?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "A dear friend had it also, but he was able to beat it. I think it may be more common than we think. Best of luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "friend",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "friend"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "21/02/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/15826-Male-breast-cancer-please-share-your-stories?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Male breast cancer - please share your stories"
+    },
+    {
+      "AuthorID": "sunny h",
+      "AuthorURL": "https://www.cancerforums.net/members/29594-sunny-h?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I don't know how this turned out, but this post touched me so much. I hope this young man got the help he needed. His doctors sounded so heartless. A dear friend also had male breast cancer, but went to a top hospital in NYC to get treated successfully.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "21/02/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/17680-Young-male-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Young male breast cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 76
+}

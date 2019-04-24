@@ -1,0 +1,262 @@
+{
+  "AuthorID": "Allen K",
+  "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "willing",
+      "thoughtful",
+      "decisive",
+      "thoughtful",
+      "willing",
+      "thoughtful",
+      "decisive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.667",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 1.1,
+    "min": 1.1,
+    "scores": [1.1]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Allen K",
+      "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Saw my urologist this week, go every year simply because by father had PC I have a relatively low PSA (1.1), but he noted on DRE that the prostate was assymetrical, said that is a red flag and said that it needs to be biopsied. I am 62 years old, no symptoms. I have it scheduled for next week, will be done in his office with local. I would appreciate any thoughts from the forum. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 62 years old  no symptoms <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "16/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54545-DRE-to-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "DRE to biopsy"
+    },
+    {
+      "AuthorID": "Allen K",
+      "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks so much for the helpful advice. I have a relatively large teaching hospital nearby that performs the MRI/fused TRUS biopsies. I am scheduled with my URO for a TRUS this Tuesday, but am seriously considering calling the University Medical Center to inquire. Man, so much to consider, I do not have a URO there, but have a recommendation for a good one. Perhaps it would be prudent to cancel/reschedule the current biopsy and consult with the University center regarding availability and timing. If I do nothing, then it is TRUS Tuesday at 1 pm. On the other hand, my current Urologist has good instinct, just not access to latest technology. Again, appreciate the thoughts.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "19/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54545-DRE-to-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "DRE to biopsy"
+    },
+    {
+      "AuthorID": "Allen K",
+      "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you Michael. Very helpful advice. I do have a teaching hospital nearby, and they do the MRI fused biopsies. Question, delay current TRUS scheduled for Tuesday and consult with University, or go ahead with TRUS? I have all the info, decision rests with me. I may call the University tomorrow am, see how long they take for a consult and a biopsy appt.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "19/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54545-DRE-to-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "DRE to biopsy"
+    },
+    {
+      "AuthorID": "Allen K",
+      "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Saw my urologist this week, go every year simply because by father had PC I have a relatively low PSA (1.1), but he noted on DRE that the prostate was assymetrical, said that is a red flag and said that it needs to be biopsied. I am 62 years old, no symptoms. I have it scheduled for next week, will be done in his office with local. I would appreciate any thoughts from the forum. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 62 years old  no symptoms <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54545-DRE-to-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "DRE to biopsy"
+    },
+    {
+      "AuthorID": "Allen K",
+      "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks so much for the helpful advice. I have a relatively large teaching hospital nearby that performs the MRI/fused TRUS biopsies. I am scheduled with my URO for a TRUS this Tuesday, but am seriously considering calling the University Medical Center to inquire. Man, so much to consider, I do not have a URO there, but have a recommendation for a good one. Perhaps it would be prudent to cancel/reschedule the current biopsy and consult with the University center regarding availability and timing. If I do nothing, then it is TRUS Tuesday at 1 pm. On the other hand, my current Urologist has good instinct, just not access to latest technology. Again, appreciate the thoughts.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "19/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54545-DRE-to-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "DRE to biopsy"
+    },
+    {
+      "AuthorID": "Allen K",
+      "AuthorURL": "https://www.cancerforums.net/members/127142-Allen-K?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you Michael. Very helpful advice. I do have a teaching hospital nearby, and they do the MRI fused biopsies. Question, delay current TRUS scheduled for Tuesday and consult with University, or go ahead with TRUS? I have all the info, decision rests with me. I may call the University tomorrow am, see how long they take for a consult and a biopsy appt.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "19/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54545-DRE-to-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "DRE to biopsy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 62 years old  no symptoms <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 62
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 519
+}

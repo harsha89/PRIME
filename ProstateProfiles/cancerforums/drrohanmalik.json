@@ -1,0 +1,160 @@
+{
+  "AuthorID": "drrohanmalik",
+  "AuthorURL": "https://www.cancerforums.net/members/109030-drrohanmalik?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "drrohanmalik",
+      "AuthorURL": "https://www.cancerforums.net/members/109030-drrohanmalik?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "thanks for your response. could i ask u if you had the finger swelling on hormone therapy? i saw u stopped hormone therapy against orders. may i ask u which side effects made u do that. on the DRE, good one",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "30/01/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/36388-finger-swelling?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "finger swelling"
+    },
+    {
+      "AuthorID": "drrohanmalik",
+      "AuthorURL": "https://www.cancerforums.net/members/109030-drrohanmalik?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "hi. my dad is 61 and was diagnosed with prostate cancer. he underwent surgery but since the seminal vesicles were involved he was also put on radiation and hormone therapy. after 1 year of hormone therapy his PSA is still undetectable but he has developed swelling on his fingers in both hands. his thyroid is normal and a bone scan is not showing any arthritis or metastasis. it looks like fluid accumulation and it causes him stiffness and pain. i was wondering if any others have experienced such a symptom and if any therapy worked. he cant take NSAIDS because he has intermittent bleeding due to radiation cystitis. thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> my dad is 61 and was diagnosed with prostate",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 61
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/01/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/36388-finger-swelling?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "finger swelling"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> my dad is 61 and was diagnosed with prostate",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 61
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Bladder Irritation",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "bleeding",
+      "cystitis"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 152
+}

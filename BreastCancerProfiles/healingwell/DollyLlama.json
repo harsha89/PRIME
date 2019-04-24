@@ -1,0 +1,211 @@
+{
+  "AuthorID": "DollyLlama",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=14466",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "great news"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 5,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "DollyLlama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=14466",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "25/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218707",
+      "Title": "new here with questions"
+    },
+    {
+      "AuthorID": "DollyLlama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=14466",
+      "Content": " I was at Dr. for physical the other day and she felt a lump in my breast. I have been having mammograms for the last 5 years, all clear, although some calcification.\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218707",
+      "Title": "new here with questions"
+    },
+    {
+      "AuthorID": "DollyLlama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=14466",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "28/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218707",
+      "Title": "new here with questions"
+    },
+    {
+      "AuthorID": "DollyLlama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=221591&p=14466",
+      "Content": " Just got the result from breast biopsy I had on Monday.\n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=221591",
+      "Title": "Biopsy result - Great News!"
+    },
+    {
+      "AuthorID": "DollyLlama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=14466",
+      "Content": " thanks for your quick reply, appreciate it! also appreciate your good wishes. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "24/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218707",
+      "Title": "new here with questions"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 61
+}

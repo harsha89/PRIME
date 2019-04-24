@@ -1,0 +1,126 @@
+{
+  "AuthorID": "Redberry",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3005411&p=193307",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sensitive",
+      "willing",
+      "sore",
+      "panic",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Redberry",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3005411&p=193307",
+    "Content": " Hello, I'm 20 years old and around two years ago my partner found a lump in my breast, after some persuading I went to the docs, they told me it just felt like a cyst.\nI then went back to the doctors because my breast became sensitive, this doctor couldn't find the lump and told me it was just my rib...\nThe lump (which is definitely there) is at the bottom in the center and isn't in the easiest \nlocation to find but it feels like the size of a ping pong ball and when i push on it slightly it is sore. On the odd day my breast in general is sore due to the lump making it sensitive. Since first having it checked the lump has got bigger but not by a huge amount. \nWhat should I do? I can't speak to my mum because she will just panic about\n it and the last thing I want is her worrying about\n it and knowing that I've had it for this long.\nDo I go back to the docs or leave it? Is it just a cyst that will go away eventually?\nAny advice would really help me guys, thank you. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "for two years  Hello  I'm 20 years old and around two",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 20
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "27/02/2014",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3005411",
+    "Title": "I've had a lump in my breast for two years"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 218
+}

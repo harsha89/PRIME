@@ -1,0 +1,149 @@
+{
+  "AuthorID": "heidrek",
+  "AuthorURL": "https://www.cancerforums.net/members/17889-heidrek?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "great",
+      "cheerful",
+      "spirited",
+      "wonderful",
+      "loving",
+      "loved",
+      "hopeful",
+      "sure",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "2",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "2",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "heidrek",
+      "AuthorURL": "https://www.cancerforums.net/members/17889-heidrek?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks for the information Vee - also great to hear from someone who's been there and is clearly still doing well many years later, gives some hope! If you don't mind my asking, how long did you go through treatment for? What was the best thing someone outside the situation could have done for you while you were going through it?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/11/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/11178-Stage-4-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Stage 4 breast cancer"
+    },
+    {
+      "AuthorID": "heidrek",
+      "AuthorURL": "https://www.cancerforums.net/members/17889-heidrek?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello all, One of my aunts, a lovely lady - hard to meet a nicer one - was diagnosed with breast cancer earlier this year. She doesn't talk about it, so I'm not sure of the details, everything I have is second or third hand info, but from what i understand her's is stage 4. I'm not sure exactly what that means but i'm pretty sure it's not good. Shes had a couple of rounds of chemo and some other treatments I don't know the details on, but I'm wondering if you could shed some light on what this means in terms of prognosis. She's a great woman, cheerful and has great spirit and heart - I'm hoping I've got it wrong about being stage 4 - how far does the scale go?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/11/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/11178-Stage-4-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Stage 4 breast cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 206
+}

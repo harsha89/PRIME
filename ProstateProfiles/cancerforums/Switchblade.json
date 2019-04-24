@@ -1,0 +1,124 @@
+{
+  "AuthorID": "Switchblade",
+  "AuthorURL": "https://www.cancerforums.net/members/125817-Switchblade?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Switchblade",
+    "AuthorURL": "https://www.cancerforums.net/members/125817-Switchblade?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi this is my first post and would appreciate some feedback in regards to my condition. I am 56 and have for the last year wild psa values. I have an enlarged prostate which got even bigger with the latest ultrasound. My PSA scores over the last year were 8.3, 5.3, 3.5, 21.0, and recently 8.9. I dont have any cancer symptoms but do take flomax which helps with the peeing. I am waiting to see a urologist which is taking forever as usual in Canada. I think the enlarged prostate is generating the high psa numbers and when it shrinks generates lower numbers. But I am sure they will do a biopsy which is gonna suck. Has anyone else had a similar scenario? I heard if its cancer the psa will remain elevated or go even higher. Thanks for your opinions!",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 56 and have for the last",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 56
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/11/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/52987-PSA-wildly-fluctuating?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "PSA wildly fluctuating"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 56 and have for the last",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 150
+}

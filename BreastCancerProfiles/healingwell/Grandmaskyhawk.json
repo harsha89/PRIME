@@ -1,0 +1,168 @@
+{
+  "AuthorID": "Grandmaskyhawk",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3775820&p=250093",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "bad",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.333",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Grandmaskyhawk",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3775820&p=250093",
+      "Content": " I am most concerned about\n the staph infection which is from the biopsy and it is so bad that my dr said I could die from it. I flew home early this morning and am waiting for a call from my dr. I do have an appt with the on oncologist tomorrow morning. Thank you for your quick response. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "16/01/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3775820",
+      "Title": "Staph infection in left breast which has been diagnosed as cancer"
+    },
+    {
+      "AuthorID": "Grandmaskyhawk",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3775646&p=250093",
+      "Content": " I got a mammogram and then was told I needed a recheck but could not get in for three weeks. I have had several rechecks but they have always been real quick. After 2 1/2 hours of mammograms and sonagram and the technicians asking the doctor questions, I was pretty sure it was cancer and now I am really mad that it took so long. I do think I will survive and am ready for the fight but this staph infection is kicking my behind. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "17/01/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3775646",
+      "Title": "Should I be concerned?"
+    },
+    {
+      "AuthorID": "Grandmaskyhawk",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3775820&p=250093",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/01/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3775820",
+      "Title": "Staph infection in left breast which has been diagnosed as cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 156
+}

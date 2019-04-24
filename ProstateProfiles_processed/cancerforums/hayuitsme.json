@@ -1,0 +1,168 @@
+{
+  "AuthorID": "hayuitsme",
+  "AuthorURL": "https://www.cancerforums.net/members/123844-hayuitsme?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "willing",
+      "pained",
+      "cramped",
+      "pained",
+      "great",
+      "willing",
+      "pained",
+      "cramped",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "hayuitsme",
+      "AuthorURL": "https://www.cancerforums.net/members/123844-hayuitsme?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Everyone, First post, haven't got full details of my levels and such as yet. Diagnosed recently gleason 6, 56 years old. Looks like Active Surveillance is what I will be looking at for at least the next few months. Question: I get a cramping type sensation in my lower gut. I have been using Weber Naturals \"Super Prostate\" which seems to help with many of the symptoms (When I take about 6 per day) Does anyone use anything else to alleviate symptoms and pain? Thanks, have a great weekend Scott",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> Diagnosed recently gleason 6  56 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "26/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51048-A-pain-in-the-Prostate-(?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "A pain in the Prostate :("
+    },
+    {
+      "AuthorID": "hayuitsme",
+      "AuthorURL": "https://www.cancerforums.net/members/123844-hayuitsme?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Everyone, First post, haven't got full details of my levels and such as yet. Diagnosed recently gleason 6, 56 years old. Looks like Active Surveillance is what I will be looking at for at least the next few months. Question: I get a cramping type sensation in my lower gut. I have been using Weber Naturals \"Super Prostate\" which seems to help with many of the symptoms (When I take about 6 per day) Does anyone use anything else to alleviate symptoms and pain? Thanks, have a great weekend Scott",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> Diagnosed recently gleason 6  56 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "26/05/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51048-A-pain-in-the-Prostate-(?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "A pain in the Prostate :("
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> Diagnosed recently gleason 6  56 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surveillance"],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": ["surveillance"]
+  },
+  "WordCount": 189
+}

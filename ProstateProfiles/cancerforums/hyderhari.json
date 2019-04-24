@@ -1,0 +1,367 @@
+{
+  "AuthorID": "hyderhari",
+  "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "thoughtful",
+      "pleased",
+      "thoughtful",
+      "willing",
+      "cross",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "0.25",
+      "ALIVE": "0",
+      "ANGRY": "0.25",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.25",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 10,
+  "PSAInfo": {
+    "max": 58,
+    "min": 58,
+    "scores": [58]
+  },
+  "Posts": [
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is 70 and diagnosed with prostate cancer. his Gleason score is 9, PSA 58 and grade 5 prostate cancer. Biopsy shows >95% cancer cells in prostate gland. Cancer has not spread anywhere yet except seminal vesicle and prostate capsule. We have visited few doctors for opinion. Few of them suggested RT plus ADT. Few of them suggested surgery to remove Prostate/seminal vesicle followed by radiation if needed. We are in dilemma. I read medical white papers that said that both have equal prognosis but still looking for the best option for my dad. Please share your thoughts and treatment suggestions based on your experience. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "prostate cancer My dad is 70 and diagnosed with prostate cancer",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the suggestions.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad is 70 and diagnosed with prostate cancer. his Gleason score is 9, PSA 58 and grade 5 prostate cancer. Biopsy shows >95% cancer cells in prostate gland. Cancer has not spread anywhere yet except seminal vesicle and prostate capsule. We have visited few doctors for opinion. Few of them suggested RT plus ADT. Few of them suggested surgery to remove Prostate/seminal vesicle followed by radiation if needed. We are in dilemma. I read medical white papers that said that both have equal prognosis but still looking for the best option for my dad. Please share your thoughts and treatment suggestions based on your experience. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My dad is 70 and diagnosed with prostate cancer",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Gerard Surgery...followed by radiation if needed...??!! With the data you've outlined here, it's definitely gonna be needed. Which raises the question of why a 70-year old man would do surgery, with the issues and after-effects that come with it, if he would right away be facing the need for RT/ADT -- no easy road either. Personally, for a guy of that age with a PSA of 58 and those other numbers, I'd forget surgery and instead find radiation and medical oncologists with a proven track record of treating prostate cancer. Honestly, I don't have much regard or respect for whatever doc would have been putting surgery on the table in the circumstances faced by your Dad. All that said, with the advances being made in the science of this disease and the proper doc, your Dad may well still have many years of productive life in him. So you (and he) should take heart in that. All the best to the both of you! Thank you for the suggestions.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "the question of why a 70 year old man would do",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the suggestions.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by DjinTonic Hi hyperbaric. You are very welcome here, although we are sorry you need to be! Near the top of the main page is a link to the Subforum. For papers on which patients with advanced local PCA may benefit from surgery, and studies on treatment decisions for you dad's case, see there Threads: (I) Surgical Treatment (O) Locally Advanced Cancer (F) Treatment Decisions (H) Radiation Treatment (L) Hormone Therapy When you say it hasn't spread elsewhere, have they done a bone scan and any other imaging? In addition to the possibility of metastases to the bones or elsewhere, there is also the possibility that the cancer has spread to lymph nodes. CT scans with and without contrast are often done to aid determination of the cancer's stage. Have you met with a radiation oncologist? In addition to the status of the cancer, a surgery decision also dependens on your dad's overall health, aside from the PCa. He had MRI scan, bone scan, PET/CT scan and found that the cancer has not spread anywhere else so far. My dad is still in dilemma to do surgery or do RT+ADT.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Gerard Surgery...followed by radiation if needed...??!! With the data you've outlined here, it's definitely gonna be needed. Which raises the question of why a 70-year old man would do surgery, with the issues and after-effects that come with it, if he would right away be facing the need for RT/ADT -- no easy road either. Personally, for a guy of that age with a PSA of 58 and those other numbers, I'd forget surgery and instead find radiation and medical oncologists with a proven track record of treating prostate cancer. Honestly, I don't have much regard or respect for whatever doc would have been putting surgery on the table in the circumstances faced by your Dad. All that said, with the advances being made in the science of this disease and the proper doc, your Dad may well still have many years of productive life in him. So you (and he) should take heart in that. All the best to the both of you! Thank you for the suggestions.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "the question of why a 70 year old man would do",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by DjinTonic Hi hyperbaric. You are very welcome here, although we are sorry you need to be! Near the top of the main page is a link to the Subforum. For papers on which patients with advanced local PCA may benefit from surgery, and studies on treatment decisions for you dad's case, see there Threads: (I) Surgical Treatment (O) Locally Advanced Cancer (F) Treatment Decisions (H) Radiation Treatment (L) Hormone Therapy When you say it hasn't spread elsewhere, have they done a bone scan and any other imaging? In addition to the possibility of metastases to the bones or elsewhere, there is also the possibility that the cancer has spread to lymph nodes. CT scans with and without contrast are often done to aid determination of the cancer's stage. Have you met with a radiation oncologist? In addition to the status of the cancer, a surgery decision also dependens on your dad's overall health, aside from the PCa. He had MRI scan, bone scan, PET/CT scan and found that the cancer has not spread anywhere else so far. My dad is still in dilemma to do surgery or do RT+ADT.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "18/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55538-Treatment-for-localized-high-risk-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Treatment for localized high risk prostate cancer"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by DjinTonic A TURP has a very short recovery time and will ensure relief for your dad from all or most of his urinary symptoms. It will mean less to worry about and trouble him as he undergoes HT and RT. I'm trying to remember mine, about 5 years ago. I think I full recovery took no more than a week or so. It could also have the advantage that by reducing the size of his prostate, it will make a smaller target for the RT. The only thing a TURP does is scoop out some prostate tissue through the urethra. For example my prostate size was reduced from about 90 to 30 cc. The urinary sphincters are untouched. The pressue on the urethra from the extra growth is relieved. My uro/surgeon took photos that document my urethra was nearly totally occluded and I was soon headed for total urinary retention (from a normal oval cross section, my urethra looked like a triangle with its side collapsed inward). After my TURP I was able to put out small forest fires. While there are other procedures for BPH, TURP has been considered the gold standard in terms of results. How soon after the TURP can HT start?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "23/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55558-TURP-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "TURP surgery"
+    },
+    {
+      "AuthorID": "hyderhari",
+      "AuthorURL": "https://www.cancerforums.net/members/128282-hyderhari?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad has high grade localized prostate cancer with gleason score 9 and psa 58. Doctor has asked him to undergo TURP surgery before starting RT/HT. What are the side effects of TURP surgery? any side effects that can interfere with cancer treatment?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55558-TURP-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "TURP surgery"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "prostate cancer My dad is 70 and diagnosed with prostate cancer",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 70
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "RT",
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 1245
+}

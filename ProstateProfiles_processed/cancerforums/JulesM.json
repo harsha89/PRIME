@@ -1,0 +1,397 @@
+{
+  "AuthorID": "JulesM",
+  "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "confident",
+      "thoughtful",
+      "confident",
+      "tired",
+      "pained",
+      "aching",
+      "ached",
+      "pained",
+      "comfortable",
+      "comforted",
+      "comfortable",
+      "comforted",
+      "confident",
+      "thoughtful",
+      "confident",
+      "tired",
+      "pained",
+      "aching",
+      "ached",
+      "pained",
+      "comfortable",
+      "comforted",
+      "comfortable",
+      "comforted",
+      "confident",
+      "thoughtful",
+      "confident",
+      "tired",
+      "pained",
+      "aching",
+      "ached",
+      "pained",
+      "confident",
+      "thoughtful",
+      "confident",
+      "tired",
+      "pained",
+      "aching",
+      "ached",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "1.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 8,
+  "NPosts": 9,
+  "PSAInfo": {
+    "max": 8.1,
+    "min": 3.9,
+    "scores": [
+      8.1,
+      3.9
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Beilll, Good for you for reaching out here. These people have very good knowledge and support for you. I am new here as well, and my husband just had his prostate removed on Monday. Definitely browse around and read up on the sticky posts and what others have to say. Ask questions and check back often. I wish you all the best, be strong!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "28/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52928-Recently-diagnosed-and-new-to-the-forum-as-well?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Recently diagnosed and new to the forum as well"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all! First time here and posting. I'm grateful for all of you who reach out, share thoughts and experience. My husband (age 54) was just dx this week with Clinical stage ll prostate cancer. Original doc visit was because of a deep ache that started in January 2017. His PSA in Sept. 2015 was 3.9, in May, 2017 PSA was 8.1, microscopic hemeturia found, then 8.9 at 4 weeks later, and 9.5 by September. Over the last few months, in addition to the deep ache, he has urinary problems - always going, pain, weak stream. He's developed a cough, he's tired, has weakness. Biopsy indicates Gleason 3+4. Ca detected on both sides. Doc says he's very confident that the ache is not related to cancer at all, saying it's muscle. Doc also says he feels Ca is localized. No other tests or scans?! The reason I'm confused is bacause Dr. Google (tsk tsk) states that there's no symptoms in early stage CaP. Hubby is scheduled to have radical prostatectomy with pelvic lymph node dissection on October 23rd. Anyone else out there have anything similar? What's your thoughts? Thanks sooo much",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband  age 54  was just dx this week",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 1.0384615384615385
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you to all of you. He did have the option for either radiation or surgery. Hubby is choosing surgery as that is what he is most comfortable with given his symptoms that prompted a dr. visit initially. As for the urinary symptoms, we have no other reason for it, no UTI, no BPH. (They said his prostate is actually small) 3/12 cores positive, also noted high grade PIN. Pattern 4 = 25% (no idea what this is). It's still unsettling that he's quite uncomfortable and presenting progressing symptoms for several months now. Bizarre :/",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Hubby",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Hubby"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you to all of you. He did have the option for either radiation or surgery. Hubby is choosing surgery as that is what he is most comfortable with given his symptoms that prompted a dr. visit initially. As for the urinary symptoms, we have no other reason for it, no UTI, no BPH. (They said his prostate is actually small) 3/12 cores positive, also noted high grade PIN. Pattern 4 = 25% (no idea what this is). It's still unsettling that he's quite uncomfortable and presenting progressing symptoms for several months now. Bizarre :/",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Hubby",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Hubby"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all! First time here and posting. I'm grateful for all of you who reach out, share thoughts and experience. My husband (age 54) was just dx this week with Clinical stage ll prostate cancer. Original doc visit was because of a deep ache that started in January 2017. His PSA in Sept. 2015 was 3.9, in May, 2017 PSA was 8.1, microscopic hemeturia found, then 8.9 at 4 weeks later, and 9.5 by September. Over the last few months, in addition to the deep ache, he has urinary problems - always going, pain, weak stream. He's developed a cough, he's tired, has weakness. Biopsy indicates Gleason 3+4. Ca detected on both sides. Doc says he's very confident that the ache is not related to cancer at all, saying it's muscle. Doc also says he feels Ca is localized. No other tests or scans?! The reason I'm confused is bacause Dr. Google (tsk tsk) states that there's no symptoms in early stage CaP. Hubby is scheduled to have radical prostatectomy with pelvic lymph node dissection on October 23rd. Anyone else out there have anything similar? What's your thoughts? Thanks sooo much",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband  age 54  was just dx this week",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 1.0384615384615385
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "08/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you to all of you. He did have the option for either radiation or surgery. Hubby is choosing surgery as that is what he is most comfortable with given his symptoms that prompted a dr. visit initially. As for the urinary symptoms, we have no other reason for it, no UTI, no BPH. (They said his prostate is actually small) 3/12 cores positive, also noted high grade PIN. Pattern 4 = 25% (no idea what this is). It's still unsettling that he's quite uncomfortable and presenting progressing symptoms for several months now. Bizarre :/",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Hubby",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Hubby"
+          }
+        }
+      },
+      "MessageIndex": 37,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you to all of you. He did have the option for either radiation or surgery. Hubby is choosing surgery as that is what he is most comfortable with given his symptoms that prompted a dr. visit initially. As for the urinary symptoms, we have no other reason for it, no UTI, no BPH. (They said his prostate is actually small) 3/12 cores positive, also noted high grade PIN. Pattern 4 = 25% (no idea what this is). It's still unsettling that he's quite uncomfortable and presenting progressing symptoms for several months now. Bizarre :/",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Hubby",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Hubby"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all! First time here and posting. I'm grateful for all of you who reach out, share thoughts and experience. My husband (age 54) was just dx this week with Clinical stage ll prostate cancer. Original doc visit was because of a deep ache that started in January 2017. His PSA in Sept. 2015 was 3.9, in May, 2017 PSA was 8.1, microscopic hemeturia found, then 8.9 at 4 weeks later, and 9.5 by September. Over the last few months, in addition to the deep ache, he has urinary problems - always going, pain, weak stream. He's developed a cough, he's tired, has weakness. Biopsy indicates Gleason 3+4. Ca detected on both sides. Doc says he's very confident that the ache is not related to cancer at all, saying it's muscle. Doc also says he feels Ca is localized. No other tests or scans?! The reason I'm confused is bacause Dr. Google (tsk tsk) states that there's no symptoms in early stage CaP. Hubby is scheduled to have radical prostatectomy with pelvic lymph node dissection on October 23rd. Anyone else out there have anything similar? What's your thoughts? Thanks sooo much",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband  age 54  was just dx this week",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 1.0384615384615385
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "08/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    },
+    {
+      "AuthorID": "JulesM",
+      "AuthorURL": "https://www.cancerforums.net/members/125533-JulesM?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all! First time here and posting. I'm grateful for all of you who reach out, share thoughts and experience. My husband (age 54) was just dx this week with Clinical stage ll prostate cancer. Original doc visit was because of a deep ache that started in January 2017. His PSA in Sept. 2015 was 3.9, in May, 2017 PSA was 8.1, microscopic hemeturia found, then 8.9 at 4 weeks later, and 9.5 by September. Over the last few months, in addition to the deep ache, he has urinary problems - always going, pain, weak stream. He's developed a cough, he's tired, has weakness. Biopsy indicates Gleason 3+4. Ca detected on both sides. Doc says he's very confident that the ache is not related to cancer at all, saying it's muscle. Doc also says he feels Ca is localized. No other tests or scans?! The reason I'm confused is bacause Dr. Google (tsk tsk) states that there's no symptoms in early stage CaP. Hubby is scheduled to have radical prostatectomy with pelvic lymph node dissection on October 23rd. Anyone else out there have anything similar? What's your thoughts? Thanks sooo much",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My husband  age 54  was just dx this week",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 1.0384615384615385
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "08/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52692-Feeling-confused?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Feeling confused"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["UTI"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "prostatectomy",
+      "surgery"
+    ]
+  },
+  "WordCount": 1271
+}

@@ -1,0 +1,206 @@
+{
+  "AuthorID": "amby",
+  "AuthorURL": "https://www.cancerforums.net/members/3601-amby?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "determined",
+      "paranoid",
+      "thoughtful",
+      "paranoid",
+      "scared",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0.667",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.333",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "amby",
+      "AuthorURL": "https://www.cancerforums.net/members/3601-amby?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "My Gramma had breast cancer when she was 74. She had a mastectomy and chemotherapy. Here's the sad news - she died this past September 2006, in her sleep at the age of 95. Her cancer never came back. She drank a couple bloody mary's every evening- (could it be the lycopene in the tomatoes?) ..... I send lots of prayers and good wishes out to you all. Allison",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "breast cancer when she was 74 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 74
+          },
+          {
+            "Confidence": 0.8,
+            "Phrase": "sleep at the age of 95 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 95
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "11/01/2007",
+      "Signature": "Amby",
+      "ThreadURL": "https://www.cancerforums.net/threads/3808-Well-Wishers-indicating-recovery-unlikely?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Well Wishers indicating recovery unlikely"
+    },
+    {
+      "AuthorID": "amby",
+      "AuthorURL": "https://www.cancerforums.net/members/3601-amby?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hello again- I went to my doctor who did feel a lump. She sent me for an ultrasound, which I had today. The lump couldn't be seen at all. The ultrasound technician said that it is probably just a bigger lump, or ridge, than my normal ones. She left the room and a radiologist looked at the pictures and my 6month old mammagram, and determined there is nothing there, too. So, I guess I am fine, although I have never had a lump like this before. I feel like I must be crazy, or paranoid. I suppose I should just feel grateful. I wish you all the best of everything. Allison",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6666666666666666,
+          "Phrase": "at the pictures and my 6month old mammagram  and determined there",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 0.5
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "22/01/2007",
+      "Signature": "Amby",
+      "ThreadURL": "https://www.cancerforums.net/threads/4026-Historically-cyst-y-question?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Historically cyst-y; question"
+    },
+    {
+      "AuthorID": "amby",
+      "AuthorURL": "https://www.cancerforums.net/members/3601-amby?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi - I am writing because I have what I think is a lump. But I have horrible fibrocystic breasts. I have my whole life. I'm 42 now, had my first mammogram last autumn. Once in college, I had a mammogram because one of my breasts swelled up so much, and hurt so much that I was really scared. I normally check myself in the shower, and have come to know my lumpy, achy, swollen breasts fairly well, but last month I felt a lump somewhat deep on the bottom of my left breast. I decided to wait through a cycle, to see if it went away. I still feel it this month, so I suppose I should go ahead and make an appt. with my doc. My question is: for those of you who had fibrocystic breasts, did you find your own lumps? I must tell you - I am probably paranoid right now. My dad was recently diagnosed with stage IV adenocarcinoma of the lung, mets to lymphnodes and spine and pelvis. Thanks for reading, and for any responces. My thoughts and prayers are with you all. Allison",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 42 now  had my first mammogram",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 42
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "11/01/2007",
+      "Signature": "Amby",
+      "ThreadURL": "https://www.cancerforums.net/threads/4026-Historically-cyst-y-question?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Historically cyst-y; question"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 42 now  had my first mammogram",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 42
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 374
+}

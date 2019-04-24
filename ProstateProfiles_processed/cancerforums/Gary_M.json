@@ -1,0 +1,154 @@
+{
+  "AuthorID": "Gary_M",
+  "AuthorURL": "https://www.cancerforums.net/members/116454-Gary_M?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "anxious",
+      "willing",
+      "sure",
+      "doubtful",
+      "anxious",
+      "worried",
+      "doubtful"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Gary_M",
+      "AuthorURL": "https://www.cancerforums.net/members/116454-Gary_M?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for your good advice and information... and for putting my mind at ease. Hopefully I will soon find out what's going on. I will let you know. Thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "07/07/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44761-Prematurely-looking-for-advice?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prematurely... looking for advice"
+    },
+    {
+      "AuthorID": "Gary_M",
+      "AuthorURL": "https://www.cancerforums.net/members/116454-Gary_M?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am an impatient person and in this situation I am very anxious. It's too early to know if I am in your \"club\" but I guess I am about to find out. Here's the situation: I am 51 years old. All of my PSA results have been normal 10/10=0.9 03/12=0.9 05/13=0.8 12/14=0.9 I had a CT Scan on 07/01/2015. Searching for other things but found this as well. --------------------------------------------------------------------------------------- There is an enhancing nodule that may relate to central prostate projecting into the base of the bladder. Impression: 3. Small nodule projecting from anterior midline prostate. --------------------------------------------------------------------------------------- I haven't ever had a DRE. Is this finding by the CT more conclusive than a DRE? My Father had PC, not sure what treatment he had initially but I know he eventually had his prostate removed. He said his Dr. had been monitoring it for a while (I think because it was enlarged). I don't know what his PSA was. I haven't had a chance to talk to him and my mom about it yet for a few reasons. His Father also had PC and it spread to his liver, lungs and brain and killed him (but treatment wasn't as good back then). My Dr. is referring me to a Urologist but I haven't heard from him yet because of the holiday. I am anxious about what the next steps will be and, of course, worried that I might have PC. I've read that there's a 50% the nodule would be cancerous. I have had a lot of kidney stones any chance that would increase the likelihood that it could be a prostate stone. Could it be Prostatitis? I do have a lot of the urinary symptoms and they vary in intensity. What should I expect during the first visit with the Urologist? DRE? Then would he schedule a biopsy? Or would he schedule an MRI first? I am going to have my Primary Dr. re-check my PSA tomorrow (but I doubt it's changed). I welcome any thoughts regarding the Urologists course of action... Chances that the nodule would be cancer. I have the results of blood tests like CBC and CMP if that would help rule out anything like Prostatitis. Thanks, Gary",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Here's the situation  I am 51 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 51
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/07/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44761-Prematurely-looking-for-advice?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prematurely... looking for advice"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Here's the situation  I am 51 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 51
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 428
+}

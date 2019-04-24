@@ -1,0 +1,194 @@
+{
+  "AuthorID": "Cypress",
+  "AuthorURL": "https://www.cancerforums.net/members/24964-Cypress?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "impressed",
+      "thoughtful",
+      "uncertain",
+      "suspicious",
+      "alarmed",
+      "pained",
+      "pained",
+      "confident",
+      "glad",
+      "caring",
+      "concerned",
+      "confident",
+      "willing",
+      "nervous",
+      "great",
+      "alone"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.333",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.667",
+      "HELPLESS": "0.333",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0.333",
+      "OPEN": "0.333",
+      "POSITIVE": "0.667",
+      "SAD": "0.333",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Cypress",
+      "AuthorURL": "https://www.cancerforums.net/members/24964-Cypress?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I have had a 2nd mammogram and ultrasound on Monday. The radiologists thinks I may have 3 cysts. I have dense tissue in the breast and I got the impression the radiologist was very uncertain of what is happening in there. My regular Doctor is out on medical leave but her nurse practitioner called me at home and urged the fine needle biopsy. She said, and I have a lot of faith in what she says, the area looked suspicious. Is this a painful procedure? Another thread mentions calcifications. The radiologist thought that was in there too. What is a calcification? I have an instinct telling me that all this prodding and pushing is not healthy for the breast tissue. I am alarmed at tests and uncomfortable with the unknown. If someone would take a moment and explain the biopsy I'd appreciate it. I am 50 with a clean medical history to do. I have no illnesses at all.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 50 with a clean medical history",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 50
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/06/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/17609-Fine-Needle-Biopsy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Fine Needle Biopsy"
+    },
+    {
+      "AuthorID": "Cypress",
+      "AuthorURL": "https://www.cancerforums.net/members/24964-Cypress?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi Kristina I know exactly how you are feeling. I had a very similar experience just yesterday. I had a routine mammogram one month ago and my DR recommended a follow up with ultra sound. What I understood from yesterday's testing was cysts, calcifications and really, we don't know what's in there. My family DR called me today with a recommended breast surgeon. I wouldn't have called without that prompt. I trust my DR and will do what they tell me. I am just starting to get nervous as I don't think cysts are abnormal. I have a family history of cancer on the maternal side, three relatives eventually dies from cancer so I have to have some moment of concern now. Let's be positive and say we are going thru with these uncomfortable tests to find out what's going on. I am glad to live in Massachusetts with advanced care for these sorts of conditions. I can say with confidence that modern medicine can help this be an illness with a treatment plan. No one has even mentioned an MRI to me. I am at the point of a fine needle biopsy test.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "14/06/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/17134-26-yr-old-with-bad-mammogram-and-ultrasound?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "26 yr old with bad mammogram and ultrasound"
+    },
+    {
+      "AuthorID": "Cypress",
+      "AuthorURL": "https://www.cancerforums.net/members/24964-Cypress?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks JudyLynn I am remembering some of what the radiologist said the day of the 2nd mammo. She did say that the cysts may be filled with clear fluids but they cannot tell by my films. Apparently, I have the most recommended breast surgeon on staff. I mentioned his name to a friend and she replied with the names of two women that have been treated by him with positive results. Just the great unknown. I suppose it is best to take a complete sick day from work the day we do this. Where you able to drive after the procedure? Or, should I arrange for a friend or relative to take me. I am single and live alone.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "17/06/2011",
+      "ThreadURL": "https://www.cancerforums.net/threads/17609-Fine-Needle-Biopsy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Fine Needle Biopsy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 50 with a clean medical history",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 50
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 483
+}

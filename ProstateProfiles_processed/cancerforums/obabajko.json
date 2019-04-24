@@ -1,0 +1,364 @@
+{
+  "AuthorID": "obabajko",
+  "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "caring",
+      "hopeful",
+      "willing",
+      "suspicious",
+      "pained",
+      "pained",
+      "willing",
+      "caring",
+      "hopeful",
+      "willing",
+      "suspicious",
+      "pained",
+      "pained",
+      "willing",
+      "willing",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.25",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.25",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.25",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0.25",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 8,
+  "NPosts": 10,
+  "PSAInfo": {
+    "max": 1.6,
+    "min": 1.6,
+    "scores": [1.6]
+  },
+  "Posts": [
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I was visiting my wife\u2019s hometown of Arkhangelsk, Russia in July of 2016. I decided to do some medical exams while there. The prices are more than reasonable for people who are not covered by their state health care system. Example MRI of the brain $43.00. I have known that I have an enlarged prostate for some ten years, I\u2019m 64 years old now. I treated it with saw palmetto tablets. Because I never got up at night to urinate, I could live with it. When they took an ultra sound of my prostate they told me it was 126cm3. Normal size, I was told is 25cm3. The urologist suggested I have an operation. When I went to get a second opinion, that urologist agreed. So I decided to come back in December to have the operation. They prescribed some medicine that should make my prostate smaller. When I came back to Russia for the operation (I live in Croatia) my prostate size was 70cm3. I checked in at the hospital on Dec. 14 2016. My operation was the next morning around 10am. It was a laser operation HoLEP. They use the German instruments of KARL STORZ. It was of the Bipolar type. The operation went well. They gave me a spinal, and I was back in my room before 1:00pm. I had the cathetheral in me for 3 days. My total stay in the hospital was 8 days. Received daily injections for pain and inflammation. When I got home I still had some blood in my urine. That lasted about 10 days. I was going to the toilet an average of 15 times a day, and most of the time with urgency. Pain while urinating was there but not severe. The pain lasted about 45 days. So today I still have urgency, urinate less times, and the flow pressure is much better. Most nights I will get up once. Hopefully all this will pass with time, and all will come back to normal. When I left the hospital, they gave me samples of what they removed. I was told to go to a lab (different hospital) and have the samples tested. They were suspicious of something. The samples came back positive for cancer. But the beginning stages. My Gleason number is 3+3=6. The surgeon, who does prostate cancer operations at the same hospital, told me I need a MRI of the pelvic area, but not before 3 months from the operation. He explained to me, he needs to see the size of the tumor. If the tumor is small, all I need to do is check my PSA numbers frequently, since the prostate tumor grows very slowly. If large, more than likely I will need an operation. I will get this MRI done at the end of Feb, and hope for the best. A few words about my experience during this procedure. The service was excellent. All the doctors and nurses were top notch. I had a private room, which cost me less than $40 a day. The total price for all was $1130.00 Oliver",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "for some ten years  I\u2019m 64 years old now <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 64
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "13/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Highlander Good to hear what you had to say. Will let you know when I get the MRI. I do have one question. I have an option here in Croatia to get an MRI with 1.5T or 3.0T. I've read the 3T gives a better picture, but that the 1.5T is also good enough. Since the 3T is twice the price, and this is out of pocket, what do you think?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Justbrandon Thanks for the positive comments. So good to hear. Oliver",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Jim Thanks for your response. Since socialized medicine is not profit oriented, it's not surprising that you have an 8 day stay for such an operation. Evidently they want to make sure all is well before you leave the hospital. The 45 day pain period, perhaps I expressed myself incorrectly. The pain was slight, and only sensing something different when urinating. Thanks for your info that the prostate removed reveals little or nothing about whether your prostate harbors any tumors that could remain in the prostate that may be G6 or higher. I will have to get more information on that. Reading your history, I see that you have been very fortunate, and I'm very glad to hear that. Best Wishes Oliver",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I was visiting my wife\u2019s hometown of Arkhangelsk, Russia in July of 2016. I decided to do some medical exams while there. The prices are more than reasonable for people who are not covered by their state health care system. Example MRI of the brain $43.00. I have known that I have an enlarged prostate for some ten years, I\u2019m 64 years old now. I treated it with saw palmetto tablets. Because I never got up at night to urinate, I could live with it. When they took an ultra sound of my prostate they told me it was 126cm3. Normal size, I was told is 25cm3. The urologist suggested I have an operation. When I went to get a second opinion, that urologist agreed. So I decided to come back in December to have the operation. They prescribed some medicine that should make my prostate smaller. When I came back to Russia for the operation (I live in Croatia) my prostate size was 70cm3. I checked in at the hospital on Dec. 14 2016. My operation was the next morning around 10am. It was a laser operation HoLEP. They use the German instruments of KARL STORZ. It was of the Bipolar type. The operation went well. They gave me a spinal, and I was back in my room before 1:00pm. I had the cathetheral in me for 3 days. My total stay in the hospital was 8 days. Received daily injections for pain and inflammation. When I got home I still had some blood in my urine. That lasted about 10 days. I was going to the toilet an average of 15 times a day, and most of the time with urgency. Pain while urinating was there but not severe. The pain lasted about 45 days. So today I still have urgency, urinate less times, and the flow pressure is much better. Most nights I will get up once. Hopefully all this will pass with time, and all will come back to normal. When I left the hospital, they gave me samples of what they removed. I was told to go to a lab (different hospital) and have the samples tested. They were suspicious of something. The samples came back positive for cancer. But the beginning stages. My Gleason number is 3+3=6. The surgeon, who does prostate cancer operations at the same hospital, told me I need a MRI of the pelvic area, but not before 3 months from the operation. He explained to me, he needs to see the size of the tumor. If the tumor is small, all I need to do is check my PSA numbers frequently, since the prostate tumor grows very slowly. If large, more than likely I will need an operation. I will get this MRI done at the end of Feb, and hope for the best. A few words about my experience during this procedure. The service was excellent. All the doctors and nurses were top notch. I had a private room, which cost me less than $40 a day. The total price for all was $1130.00 Oliver",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "for some ten years  I\u2019m 64 years old now <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 64
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "13/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Chuck Thank you for your advice . I will be getting my MRI soon, and then see what next. Never really checked my PSA to often. But I guess I will be checking it often now. Going thru my medical papers, I found a few PSA results. 11/04 = 1.60 5/07 = 1.99 3/09 = 2.40 7/16 = 3.09 Thanks again Oliver",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "13/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Highlander Good to hear what you had to say. Will let you know when I get the MRI. I do have one question. I have an option here in Croatia to get an MRI with 1.5T or 3.0T. I've read the 3T gives a better picture, but that the 1.5T is also good enough. Since the 3T is twice the price, and this is out of pocket, what do you think?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Chuck Thank you for your advice . I will be getting my MRI soon, and then see what next. Never really checked my PSA to often. But I guess I will be checking it often now. Going thru my medical papers, I found a few PSA results. 11/04 = 1.60 5/07 = 1.99 3/09 = 2.40 7/16 = 3.09 Thanks again Oliver",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "13/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Justbrandon Thanks for the positive comments. So good to hear. Oliver",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    },
+    {
+      "AuthorID": "obabajko",
+      "AuthorURL": "https://www.cancerforums.net/members/122387-obabajko?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Jim Thanks for your response. Since socialized medicine is not profit oriented, it's not surprising that you have an 8 day stay for such an operation. Evidently they want to make sure all is well before you leave the hospital. The 45 day pain period, perhaps I expressed myself incorrectly. The pain was slight, and only sensing something different when urinating. Thanks for your info that the prostate removed reveals little or nothing about whether your prostate harbors any tumors that could remain in the prostate that may be G6 or higher. I will have to get more information on that. Reading your history, I see that you have been very fortunate, and I'm very glad to hear that. Best Wishes Oliver",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/50210-My-prostate-operation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My prostate operation"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "for some ten years  I\u2019m 64 years old now <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 64
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["urgency"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 1615
+}

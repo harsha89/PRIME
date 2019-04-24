@@ -1,0 +1,239 @@
+{
+  "AuthorID": "t42",
+  "AuthorURL": "https://www.cancerforums.net/members/100622-t42?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "jubilant",
+      "wonderful",
+      "thoughtful",
+      "hopeful",
+      "pained",
+      "pained",
+      "free",
+      "kind",
+      "free",
+      "supportive",
+      "free",
+      "suspicious",
+      "jubilant",
+      "wonderful",
+      "thoughtful",
+      "hopeful",
+      "pained",
+      "pained",
+      "free",
+      "kind",
+      "free",
+      "supportive",
+      "free",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "1",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 9.2,
+    "min": 0.27,
+    "scores": [
+      4,
+      9,
+      3.21,
+      9.2,
+      5.5,
+      0.27
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "t42",
+      "AuthorURL": "https://www.cancerforums.net/members/100622-t42?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I got the result of my 14 pt biopsy on Friday - all clear, nothing unusual felt or anything visible on the ultrasound but I am not feeling quite as jubilant as I thought I would be given that result. I previously had a biopsy in 2004 due to PSA 5.5 found in a regular check up, age then 49. This was also all clear (different urologist). PSA has been around 4 or 5 for 9 years and then went up to 9 last October which was the reason for the latest biopsy. The urologist stressed that PSA is not a prostate cancer marker. I asked about a repeat biopsy (I can't believe those words passed my lips) but was told that I would have to wait a while. He suggested waiting six months and, if PSA has risen dramatically, then doing an MRI - he said that this was quite complicated (I hope that's not doctor-speak for painful). This all seemed reasonable at the time but after thinking about it over the weekend I am now starting to wonder. I haven't read of any non-prostate cancer reasons for high PSA that would extend over 9 years. Both the urologist and my GP (who did a regular ultrasound) said my prostate size was normal.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7899999999999999,
+          "Phrase": "regular check up  age then 49 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/03/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/29959-Biopsy-clear-despite-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Biopsy clear despite high PSA?"
+    },
+    {
+      "AuthorID": "t42",
+      "AuthorURL": "https://www.cancerforums.net/members/100622-t42?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for all the informative replies. I have also been reading some of the other threads - so much information and kind yet realistic support here. I received a copy of the urologist's report back to my GP this morning which contains a little more information than I got from the original discussion with the urologist: PSA 9.2 9% free PSA PSA density 0.27 Prostate volume 33 cc => expected PSA 3.21 No evidence of infections or cancer found in any of the 14 probes. Homogeneous periphery. Central adenoma. Fibromuscular hyperplasy. (I live in Europe and am translating this part, probably badly). His recommendation is to go back in six months for further investigations (he said there is no point in doing any scans or blood tests until the prostate has settled down from this biopsy). He suggests that if the PSA has risen again then an MRI possibly followed by a targeted biopsy would be the best course. I know that those PSA values (absolute and % free) are very suspicious but am inclined to follow his recommendation.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "14/03/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/29959-Biopsy-clear-despite-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Biopsy clear despite high PSA?"
+    },
+    {
+      "AuthorID": "t42",
+      "AuthorURL": "https://www.cancerforums.net/members/100622-t42?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I got the result of my 14 pt biopsy on Friday - all clear, nothing unusual felt or anything visible on the ultrasound but I am not feeling quite as jubilant as I thought I would be given that result. I previously had a biopsy in 2004 due to PSA 5.5 found in a regular check up, age then 49. This was also all clear (different urologist). PSA has been around 4 or 5 for 9 years and then went up to 9 last October which was the reason for the latest biopsy. The urologist stressed that PSA is not a prostate cancer marker. I asked about a repeat biopsy (I can't believe those words passed my lips) but was told that I would have to wait a while. He suggested waiting six months and, if PSA has risen dramatically, then doing an MRI - he said that this was quite complicated (I hope that's not doctor-speak for painful). This all seemed reasonable at the time but after thinking about it over the weekend I am now starting to wonder. I haven't read of any non-prostate cancer reasons for high PSA that would extend over 9 years. Both the urologist and my GP (who did a regular ultrasound) said my prostate size was normal.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7899999999999999,
+          "Phrase": "regular check up  age then 49 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "10/03/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/29959-Biopsy-clear-despite-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Biopsy clear despite high PSA?"
+    },
+    {
+      "AuthorID": "t42",
+      "AuthorURL": "https://www.cancerforums.net/members/100622-t42?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for all the informative replies. I have also been reading some of the other threads - so much information and kind yet realistic support here. I received a copy of the urologist's report back to my GP this morning which contains a little more information than I got from the original discussion with the urologist: PSA 9.2 9% free PSA PSA density 0.27 Prostate volume 33 cc => expected PSA 3.21 No evidence of infections or cancer found in any of the 14 probes. Homogeneous periphery. Central adenoma. Fibromuscular hyperplasy. (I live in Europe and am translating this part, probably badly). His recommendation is to go back in six months for further investigations (he said there is no point in doing any scans or blood tests until the prostate has settled down from this biopsy). He suggests that if the PSA has risen again then an MRI possibly followed by a targeted biopsy would be the best course. I know that those PSA values (absolute and % free) are very suspicious but am inclined to follow his recommendation.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "14/03/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/29959-Biopsy-clear-despite-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Biopsy clear despite high PSA?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7899999999999999,
+      "Phrase": "regular check up  age then 49 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 49
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 807
+}

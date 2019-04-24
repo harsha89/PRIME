@@ -1,0 +1,162 @@
+{
+  "AuthorID": "Carrie",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3406201&p=221051",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "wonderful",
+      "concerned",
+      "willing",
+      "worried",
+      "kind",
+      "comfy",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Carrie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3406201&p=221051",
+      "Content": " Hello this is my first post. I have been reading past posts to understand the possible implications of micro clarifications.\nTwo weeks ago I attended a Women Wellness check and the Dr noticed my left breast was a bit lumpy so when sending me on for the next part of the appointment, mammogram, she put a note on the form for the radiologist highlighting her initial findings. A week later I had a 'phone call from the Dr to say it was recommended that I go back for a second mammogram. They wanted to take a further look at glandular tissue and density of the left breast which I shouldn't worry about\n as it would probably be benign. I attended the recall this week, a week after the 'phone call, which seemed to be a very long week. I had another mammogram which involved further positioning of the left breast to get the correct imaging the radiologist needed for a better diagnosis. I was then taken to another room for an ultra sound. It was explained, by showing me the mammogram picture, that there was a small cluster of micro clarification that they wanted to look at further on the ultra sound. During the ultra sound the only extra lumps they found were a couple of small cysts which they weren't concerned about\n. The radiologist said she would send her report back to the Dr recommending a needle biopsy which she believes will be fine. She did mention that the area will be hard to reach as it is further back in the breast behind scar tissue of an old lumpectomy (fibrosis tissue taken out 25 years ago). I am now waiting for my appointment for a biopsy. I am 46 and was previously diagnosed with melanoma on my back, right shoulder 3 years ago. I had a large excision made to eradicate all the cancer cells. The radiologist has said this is unrelated.\nI was just wondering if anyone else has had a similar experience? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 46 and was previously diagnosed with",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 46
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/05/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3406201",
+      "Title": "Micro-calcification found after 2nd mammogram"
+    },
+    {
+      "AuthorID": "Carrie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3406201&p=221051",
+      "Content": " I had a sterotatic biopsy on Thursday on my left breast and was also left with a titanium marker just in case further investigation is needed. More positioning for detailed mammograms so they knew exactly where to take the tissue samples which was a bit un comfy , but the staff were all very kind and thorough which made it more bearable. When I first arrived, as my cluster is only 4mm very small, I asked if it was necessary to take the biopsy and they said definitely. If they were to leave it a year and it was cancer then it would be different to treat. After the procedure was finished, which took just over an hour, we were ushered into a room with hot tea with a cancer coordinator who said that the results could go either way and we will know next Wednesday. If it is magnilant it will have been caught very early so just have to wait now. Good luck with your results. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "23/05/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3406201",
+      "Title": "Micro-calcification found after 2nd mammogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 46 and was previously diagnosed with",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 46
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urethral strictures",
+      "Bladder neck contracture"
+    ],
+    "SideEffectTypeKeywords": ["fibrosis"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 511
+}

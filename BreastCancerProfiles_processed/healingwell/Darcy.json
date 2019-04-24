@@ -1,0 +1,138 @@
+{
+  "AuthorID": "Darcy",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3818242&p=253252",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "thoughtful",
+      "aggressive",
+      "aggressive",
+      "terrible",
+      "bad",
+      "scared",
+      "pained",
+      "tearful",
+      "pained",
+      "desperate"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "2",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "3",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Darcy",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3818242&p=253252",
+    "Content": " Hi....I am desperate for advice...I have given up going to the doctors about\n this...I am 63 yr old lady, had meno pause at fifty ..never had luckily any flushes, or no real disorders, other than bad mood swings, but they now say this is bipolar...\nI have terrible 12 out of 10 pains almost constantly in my breasts, stabbing swollen feeling, feels like it's going through to my ribs and heart, very scared as never know wether to call for an ambulance Incase it's a heart attack, it's that painful, been in tears again today with the pains, really had enough it's been going on for years and years, like the worst mastitis ever, and I had that with all four of my babies so I know what I am talking about\n...I have taken evening primrose oil vitamin e vitamins, abd take 8 paracetamol every single day and have done for years because of pains in back neck and joints.....I have a massive cancer history in my family all nine aunts and uncles have died of cancer either stomach, breast lung or the latest one bone cancer, and their offspring have all died of cancer too mostly breast about\n ten of them, my mother has had ovarian cancer, my duster double mastectomy , she had a mammogram and they said it was ok, then a month later found lumps in her breast and had to go straight in to have them removed as it was aggressive, so I have no faith I. That at all and to be honest I have had them before and the thought of my akready extremely painful boobs in those rollers makes me feel sick....and because they didn't detect my poor sisters with the mammogram I don't feel it's worth doing...I did have my left boob scanned about\n twelve years ago because of pain there was a small cyst...they said take evening primrose oil, it does nothing....truely in so very much pain ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "doctors about\n this   I am 63 yr old lady  had meno",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 63
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "ovarian",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "27/03/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3818242",
+    "Title": "terrible 12 out of 10 pains almost constantly in my breasts"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "doctors about\n this   I am 63 yr old lady  had meno",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 63
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 353
+}

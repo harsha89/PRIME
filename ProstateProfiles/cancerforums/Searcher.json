@@ -1,0 +1,266 @@
+{
+  "AuthorID": "Searcher",
+  "AuthorURL": "https://www.cancerforums.net/members/128185-Searcher?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "hopeful",
+      "willing",
+      "decisive",
+      "alone",
+      "pained",
+      "exhausted",
+      "pained",
+      "ok",
+      "hopeful",
+      "willing",
+      "decisive",
+      "alone",
+      "pained",
+      "exhausted",
+      "pained",
+      "ok",
+      "hopeful",
+      "willing",
+      "decisive",
+      "alone",
+      "pained",
+      "exhausted",
+      "pained",
+      "ok",
+      "hopeful",
+      "willing",
+      "decisive",
+      "alone",
+      "pained",
+      "exhausted",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 5.8,
+    "min": 5.8,
+    "scores": [5.8]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Searcher",
+      "AuthorURL": "https://www.cancerforums.net/members/128185-Searcher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Diagnosed about 1 month ago. T1c Gleason 6 PSA 5.8 3 of 12 cores (5%, 60%, 70%) Total Length - 16 mm Genetic Markers = 98.5% survival at 10 years with NO treatment History of Cancer in Family (Father) 58 years old This is unquestionably the most difficult decision of my life thus far. I am so thankful that because I have a low grade, enclosed in the prostate, etc. ... that all treatment options are open, but deciding on what is best for me is exhausting. The bottom line is that I want to LIVE, but I would like to not deal with incontinence or significant ED. Hope some of you can help with your experiences and input. I take Viagra now in order to get Super Hard, but the little fellow does OK without on some days. Does this impact my odds of having ED after treatment? I am torn between Brachytherapy and having the Surgery. I am willing to do whatever is necessary to live!!! But it appears that Brachytherapy as a stand alone treatment would have the least side effects, do the least damage, be less painful, less down time, increased odd of not having ED, increased odds of not being incontinent long term. Again, I welcome any and all experiences and input! THANKS GUYS!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "of Cancer in Family  Father  58 years old This is unquestionably",
+          "Relation": "second-person",
+          "Tense": "present",
+          "Value": 58
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "06/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55461-Torn-between-Brachy-or-Surgery-Input-Requested?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Torn between Brachy or Surgery: Input Requested"
+    },
+    {
+      "AuthorID": "Searcher",
+      "AuthorURL": "https://www.cancerforums.net/members/128185-Searcher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Diagnosed about 1 month ago. T1c Gleason 6 PSA 5.8 3 of 12 cores (5%, 60%, 70%) Total Length - 16 mm Genetic Markers = 98.5% survival at 10 years with NO treatment History of Cancer in Family (Father) 58 years old This is unquestionably the most difficult decision of my life thus far. I am so thankful that because I have a low grade, enclosed in the prostate, etc. ... that all treatment options are open, but deciding on what is best for me is exhausting. The bottom line is that I want to LIVE, but I would like to not deal with incontinence or significant ED. Hope some of you can help with your experiences and input. I take Viagra now in order to get Super Hard, but the little fellow does OK without on some days. Does this impact my odds of having ED after treatment? I am torn between Brachytherapy and having the Surgery. I am willing to do whatever is necessary to live!!! But it appears that Brachytherapy as a stand alone treatment would have the least side effects, do the least damage, be less painful, less down time, increased odd of not having ED, increased odds of not being incontinent long term. Again, I welcome any and all experiences and input! THANKS GUYS!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "of Cancer in Family  Father  58 years old This is unquestionably",
+          "Relation": "second-person",
+          "Tense": "present",
+          "Value": 58
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55461-Torn-between-Brachy-or-Surgery-Input-Requested?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Torn between Brachy or Surgery: Input Requested"
+    },
+    {
+      "AuthorID": "Searcher",
+      "AuthorURL": "https://www.cancerforums.net/members/128185-Searcher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Diagnosed about 1 month ago. T1c Gleason 6 PSA 5.8 3 of 12 cores (5%, 60%, 70%) Total Length - 16 mm Genetic Markers = 98.5% survival at 10 years with NO treatment History of Cancer in Family (Father) 58 years old This is unquestionably the most difficult decision of my life thus far. I am so thankful that because I have a low grade, enclosed in the prostate, etc. ... that all treatment options are open, but deciding on what is best for me is exhausting. The bottom line is that I want to LIVE, but I would like to not deal with incontinence or significant ED. Hope some of you can help with your experiences and input. I take Viagra now in order to get Super Hard, but the little fellow does OK without on some days. Does this impact my odds of having ED after treatment? I am torn between Brachytherapy and having the Surgery. I am willing to do whatever is necessary to live!!! But it appears that Brachytherapy as a stand alone treatment would have the least side effects, do the least damage, be less painful, less down time, increased odd of not having ED, increased odds of not being incontinent long term. Again, I welcome any and all experiences and input! THANKS GUYS!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "of Cancer in Family  Father  58 years old This is unquestionably",
+          "Relation": "second-person",
+          "Tense": "present",
+          "Value": 58
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "06/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55461-Torn-between-Brachy-or-Surgery-Input-Requested?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Torn between Brachy or Surgery: Input Requested"
+    },
+    {
+      "AuthorID": "Searcher",
+      "AuthorURL": "https://www.cancerforums.net/members/128185-Searcher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Diagnosed about 1 month ago. T1c Gleason 6 PSA 5.8 3 of 12 cores (5%, 60%, 70%) Total Length - 16 mm Genetic Markers = 98.5% survival at 10 years with NO treatment History of Cancer in Family (Father) 58 years old This is unquestionably the most difficult decision of my life thus far. I am so thankful that because I have a low grade, enclosed in the prostate, etc. ... that all treatment options are open, but deciding on what is best for me is exhausting. The bottom line is that I want to LIVE, but I would like to not deal with incontinence or significant ED. Hope some of you can help with your experiences and input. I take Viagra now in order to get Super Hard, but the little fellow does OK without on some days. Does this impact my odds of having ED after treatment? I am torn between Brachytherapy and having the Surgery. I am willing to do whatever is necessary to live!!! But it appears that Brachytherapy as a stand alone treatment would have the least side effects, do the least damage, be less painful, less down time, increased odd of not having ED, increased odds of not being incontinent long term. Again, I welcome any and all experiences and input! THANKS GUYS!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "of Cancer in Family  Father  58 years old This is unquestionably",
+          "Relation": "second-person",
+          "Tense": "present",
+          "Value": 58
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "06/07/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55461-Torn-between-Brachy-or-Surgery-Input-Requested?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Torn between Brachy or Surgery: Input Requested"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urinary incontinence",
+      "Erectile dysfunction"
+    ],
+    "SideEffectTypeKeywords": [
+      "incontinence",
+      "ED"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "brachytherapy",
+      "brachy",
+      "surgery"
+    ]
+  },
+  "WordCount": 899
+}

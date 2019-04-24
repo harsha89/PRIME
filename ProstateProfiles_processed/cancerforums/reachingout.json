@@ -1,0 +1,335 @@
+{
+  "AuthorID": "reachingout",
+  "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "willing",
+      "ignorant",
+      "free",
+      "free",
+      "free",
+      "understanding",
+      "willing",
+      "ignorant",
+      "understanding",
+      "willing",
+      "ignorant",
+      "understanding",
+      "willing",
+      "ignorant",
+      "free",
+      "free",
+      "free"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.25",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0.5",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.75",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.25"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 8,
+  "NPosts": 8,
+  "PSAInfo": {
+    "max": 23.6,
+    "min": 17.28,
+    "scores": [
+      20,
+      23.6,
+      17.28
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Chuck and Otago, Thank You. Your insight was helpful. PSA test and DRE performed by the urologist in July and August. I have no \"classic\" prostatitis symptoms but BPH is a high probability says urologist. There was 5 weeks between 2 PSA tests for an antibiotic regimen. My age is 63. Because of ignorance, these two PSA test's were the first in 5 years, which is a hurdle I must deal with. Bone scan, and CT scan scheduled. I will know more in several weeks from 2 tests. Yes, another examination of slide pathology in process. Without 2 imaging scans, researching treatment options is the best I can do now if I understand all.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> My age is 63 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "30/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "2013 PSA reading 23.6 and 5 weeks later 24.1 (after antibiotic regimen) DRE revealed BPH, but no lumps (soft / mushy) Biopsy revealed adenocarcinoma in 2 of 12 cores (both 10% of tissue (LLA and RA)) Gleason score 3+3=6. Free PSA Ratio: 17.28% CT of abdomen, bone scan next. Question 1: Is it unusual to have a DRE test with no lumps (soft/mushy), and a PSA of >20 and only a Gleason score of 6?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "30/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Chuck and Otago, Thank You. Your insight was helpful. PSA test and DRE performed by the urologist in July and August. I have no \"classic\" prostatitis symptoms but BPH is a high probability says urologist. There was 5 weeks between 2 PSA tests for an antibiotic regimen. My age is 63. Because of ignorance, these two PSA test's were the first in 5 years, which is a hurdle I must deal with. Bone scan, and CT scan scheduled. I will know more in several weeks from 2 tests. Yes, another examination of slide pathology in process. Without 2 imaging scans, researching treatment options is the best I can do now if I understand all.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> My age is 63 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "30/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Chuck and Otago, Thank You. Your insight was helpful. PSA test and DRE performed by the urologist in July and August. I have no \"classic\" prostatitis symptoms but BPH is a high probability says urologist. There was 5 weeks between 2 PSA tests for an antibiotic regimen. My age is 63. Because of ignorance, these two PSA test's were the first in 5 years, which is a hurdle I must deal with. Bone scan, and CT scan scheduled. I will know more in several weeks from 2 tests. Yes, another examination of slide pathology in process. Without 2 imaging scans, researching treatment options is the best I can do now if I understand all.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> My age is 63 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "30/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Both imaging tests (Bone Scan and CT scan) result in no findings. But second review by JHU find three cores below five per cent, one core of five per cent, and one core of twenty per cent. Four of the five cores on one side. Truly cannot comprehend what to think.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "16/09/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Both imaging tests (Bone Scan and CT scan) result in no findings. But second review by JHU find three cores below five per cent, one core of five per cent, and one core of twenty per cent. Four of the five cores on one side. Truly cannot comprehend what to think.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "16/09/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Chuck and Otago, Thank You. Your insight was helpful. PSA test and DRE performed by the urologist in July and August. I have no \"classic\" prostatitis symptoms but BPH is a high probability says urologist. There was 5 weeks between 2 PSA tests for an antibiotic regimen. My age is 63. Because of ignorance, these two PSA test's were the first in 5 years, which is a hurdle I must deal with. Bone scan, and CT scan scheduled. I will know more in several weeks from 2 tests. Yes, another examination of slide pathology in process. Without 2 imaging scans, researching treatment options is the best I can do now if I understand all.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> My age is 63 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 63
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "30/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    },
+    {
+      "AuthorID": "reachingout",
+      "AuthorURL": "https://www.cancerforums.net/members/106117-reachingout?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "2013 PSA reading 23.6 and 5 weeks later 24.1 (after antibiotic regimen) DRE revealed BPH, but no lumps (soft / mushy) Biopsy revealed adenocarcinoma in 2 of 12 cores (both 10% of tissue (LLA and RA)) Gleason score 3+3=6. Free PSA Ratio: 17.28% CT of abdomen, bone scan next. Question 1: Is it unusual to have a DRE test with no lumps (soft/mushy), and a PSA of >20 and only a Gleason score of 6?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33390-PSA-vs-Gleason-vs-DRE-question?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA vs Gleason vs DRE question"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> <Z> My age is 63 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 63
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 730
+}

@@ -1,0 +1,133 @@
+{
+  "AuthorID": "curly1",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=954888&p=65911",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "surprised",
+      "concerned"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "curly1",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=954888&p=65911",
+    "Content": " Hi, I am new to the forum. My sister-in-law has just been diagnosed with invasive lobular w/ bone mets. I went with her to the onc. to hear the results from her pet scan and to find out what course of treatment is planned. I am an 18 yr bc survivor. Mine was invasive ductal w/no node involvement at age 35. I had a dbl mastectomy and 6mos chemo, due to family history of bc w/10yr return to bone and liver of my mother.\nMy sister-in-law is 58 and post meno. I was surprised that the onc wants to wait on her mastectomy. He is starting Femaro and Zometa. He said that he would do another bone scan in a few months and would be able check her breast for any changes. \nI have posted here to see if some of the other Stage IV survivors had this type of treatment. I am just so concerned because he is not choosing to eliminate the primary immediately. I know there have been alot of advances in the last 18 yrs.. She is in Atl. w/ onc. that is supposed to be really good! \nThanks to all of you for your help! ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "no node involvement at age 35 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 35
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "My sister in law is 58 and post meno <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 58
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 17,
+    "PostDate": "13/07/2008",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=954888",
+    "Title": "Stage IV Breast Cancer Survivors?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "My sister in law is 58 and post meno <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 58
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 206
+}

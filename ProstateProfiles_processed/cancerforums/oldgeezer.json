@@ -1,0 +1,143 @@
+{
+  "AuthorID": "oldgeezer",
+  "AuthorURL": "https://www.cancerforums.net/members/121242-oldgeezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "hopeful",
+      "willing",
+      "free"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "oldgeezer",
+    "AuthorURL": "https://www.cancerforums.net/members/121242-oldgeezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "From what I read, at 73 and with a Gleason of 4+5, I am at the high end of the scale for RARP. Last year my brother, a forum member, had a successful procedure with Dr. Patel. Here's hoping my visit to Florida next month will have similar results. I look forward to skiing the bumps at Sunday River when I am 80 and the lift tickets are free.",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.9,
+          "Phrase": "From what I read  at 73 and with a Gleason of",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 73
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "Sunday River when I am 80 and the lift tickets are",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 80
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "01/11/2016",
+    "Signature": "PSA 2006/1.6 2007/2.5 2008/1.4 2012/2.9 2014 /3.1/3.9 2015/4.4/7.7 2016/4.5/6.3 8/25/2016 2.4 with bicalutamide 8/25/16 biopsy Gleason 3+4=7 9/26/16 2nd opinion Gleason 4+5=9 right lateral mid Dana-Farber 10/12/16 endorectal MRI: Prostate 2.5 x 4.2 x 3.9 cm 22mL 1.3 x 0.8 cm focal lesion no extraprostatic extension Nureovascular bundle: normal Seminal vesicles: normal Pelvic lymph nodes: normal Retroperitoneum: normal Bones: normal RARP scheduied Dec 2016 =",
+    "ThreadURL": "https://www.cancerforums.net/threads/49327-74-Gleason-9-going-for-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "74, Gleason 9, going for surgery"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "Sunday River when I am 80 and the lift tickets are",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 80
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "rarp",
+      "surgery"
+    ]
+  },
+  "WordCount": 77
+}

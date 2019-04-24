@@ -1,0 +1,288 @@
+{
+  "AuthorID": "SaraR",
+  "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "certain",
+      "supportive",
+      "hopeful",
+      "sure",
+      "certain",
+      "aggressive",
+      "aggressive",
+      "worried",
+      "understanding",
+      "certain",
+      "supportive",
+      "hopeful",
+      "sure",
+      "certain",
+      "aggressive",
+      "aggressive",
+      "worried",
+      "understanding",
+      "great",
+      "sure",
+      "upset",
+      "aggressive",
+      "aggressive",
+      "upset",
+      "overwhelmed",
+      "understanding",
+      "great",
+      "sure",
+      "upset",
+      "aggressive",
+      "aggressive",
+      "upset",
+      "overwhelmed"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "2.5",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "1",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "1.5"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 13,
+    "min": 13,
+    "scores": [13]
+  },
+  "Posts": [
+    {
+      "AuthorID": "SaraR",
+      "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, my 70yr old father was diagnosed recently with aggressive prostate cancer. I was not able to be at the appointment, and my mom was a wreck.. so I'm hoping to get some feed back on some of the results. They are near impossible to understand by just reading them. From what I can tell from the biopsy report, his PSA is 13 and his Gleason score is 9. And something about 4+5 (no idea what that means- but the doc's note said 'aggressive'. His scans show the cancer has not spread to bones or anywhere else as far as they can tell. Treatment options include either radiation and some shots every few months, or removing the prostate and possible radiation. My mom is beside herself with worry and is sure this is a certain death sentence for my dad. Any advice or support to help us understand these results would be very much appreciated.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "aggressive prostate cancer Hello  my 70yr old father was diagnosed recently",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52075-Dad-newly-diagnosed-w-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad newly diagnosed w/aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "SaraR",
+      "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, my 70yr old father was diagnosed recently with aggressive prostate cancer. I was not able to be at the appointment, and my mom was a wreck.. so I'm hoping to get some feed back on some of the results. They are near impossible to understand by just reading them. From what I can tell from the biopsy report, his PSA is 13 and his Gleason score is 9. And something about 4+5 (no idea what that means- but the doc's note said 'aggressive'. His scans show the cancer has not spread to bones or anywhere else as far as they can tell. Treatment options include either radiation and some shots every few months, or removing the prostate and possible radiation. My mom is beside herself with worry and is sure this is a certain death sentence for my dad. Any advice or support to help us understand these results would be very much appreciated.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> Hello  my 70yr old father was diagnosed recently",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "16/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52075-Dad-newly-diagnosed-w-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad newly diagnosed w/aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "SaraR",
+      "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Wow! Thank you all SO much for taking the time to give me such thoughtful informative answers! It really means a lot. I will pass this info onto my mom and dad. My parents live in WI and are seeing a Doctor at Mayo Clinic. They are less then 2 hours from Mayo Rochester and about 1 hour from Minneapolis, but his primary doctor is in Eau Claire, WI. When my mom forwards me the purposed treatment plans and other info from the results, I will surely be back for more questions! Thank you all again!! Will keep u posted.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "16/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52075-Dad-newly-diagnosed-w-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad newly diagnosed w/aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "SaraR",
+      "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Great info on the link! Thank you! That was going to be my next question in regards to treatment options. I am passing all this info along to my parents are they greatly appreciative! It's all so overwhelming and hard to understand- but you guys have helped a ton! I think their next plan is to get a second opinion/ continue treatment at Mayo Rochester. My only other question would be about what stage of cancer this is? My mom keeps saying the cancer is stage 5.. but I don't think there even is a stage 5. I think she's referring to the tumor grade possibly.. but the fact that she keeps saying that is upsetting to hear. I think she tuned out the doctor as soon as she heard how aggressive it was..and only heard the negative! I saw Stage T2a listed on one of the many papers.. but I'm not sure what that means.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "16/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52075-Dad-newly-diagnosed-w-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad newly diagnosed w/aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "SaraR",
+      "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Great info on the link! Thank you! That was going to be my next question in regards to treatment options. I am passing all this info along to my parents are they greatly appreciative! It's all so overwhelming and hard to understand- but you guys have helped a ton! I think their next plan is to get a second opinion/ continue treatment at Mayo Rochester. My only other question would be about what stage of cancer this is? My mom keeps saying the cancer is stage 5.. but I don't think there even is a stage 5. I think she's referring to the tumor grade possibly.. but the fact that she keeps saying that is upsetting to hear. I think she tuned out the doctor as soon as she heard how aggressive it was..and only heard the negative! I saw Stage T2a listed on one of the many papers.. but I'm not sure what that means.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "16/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52075-Dad-newly-diagnosed-w-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad newly diagnosed w/aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "SaraR",
+      "AuthorURL": "https://www.cancerforums.net/members/125015-SaraR?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Wow! Thank you all SO much for taking the time to give me such thoughtful informative answers! It really means a lot. I will pass this info onto my mom and dad. My parents live in WI and are seeing a Doctor at Mayo Clinic. They are less then 2 hours from Mayo Rochester and about 1 hour from Minneapolis, but his primary doctor is in Eau Claire, WI. When my mom forwards me the purposed treatment plans and other info from the results, I will surely be back for more questions! Thank you all again!! Will keep u posted.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "16/08/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52075-Dad-newly-diagnosed-w-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad newly diagnosed w/aggressive prostate cancer"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "aggressive prostate cancer Hello  my 70yr old father was diagnosed recently",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 70
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 847
+}

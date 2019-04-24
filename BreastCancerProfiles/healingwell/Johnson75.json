@@ -1,0 +1,145 @@
+{
+  "AuthorID": "Johnson75",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2347507&p=140691",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "sure",
+      "lost",
+      "numb"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Johnson75",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2347507&p=140691",
+    "Content": " I found a lump in my right breast and noticed an indention, I had recently lost weight and thought maybe it was related to that. I thought on it for a few days & figured maybe I should get a mammogram. So I scheduled one and they requested a doctors name to send the results. I haven't been to the doctor in 4 years when my son was born so I chose my mothers nurse practitoner. I went in for the mammogram and told the tech I found the lump & showed it to her. She got on the phone saying she needed orders for a diagnostic mammogram. She took at least 15 images mostly on my right breast, left the room, and when she came back she said they won't be doing an ultrasound but to be sure to see the doctor for my results. I went to the doctors office and they said they'd see me at 3:00 so I came in at 2:20 and they didn't call me back until 3:00, then I waited in the room 20 minutes. I could hear people leaving saying \"see you tomorrow\" and I thought wow saving me for last. The practitioner came in with a grim look on her face, felt the lump, and said \"the radiologist called and said it looks like cancer we need a biopsy asap. She said there's a lesion and it doesn't look good. She showed me the mammogram and there where big white areas that look like starbursts and what looked like to me a big round barely visible line from top to bottom I describe looking like a capsule. She scheduled me for a biopsy this Tuesday, told me to be looking for an oncologist, get the fmla papers ready because I'm gonna be busy for awhile, and I'm looking at a masectomy! Then says you are going to have a busy year. So I'm numb, I'm only 36 have a 4 year old, 10 years into my career...now what. Can a radiologist be that convincing that the practitioner would have me looking for an oncologist before I get a biopsy and to mention a masectomy, oncologist, and fmla papers. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.8,
+          "Phrase": "I came in at 2 20 and they didn't call me",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 20
+        },
+        {
+          "Confidence": 0.975,
+          "Phrase": "So I'm numb  I'm only 36 have a 4 year old",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 36
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "I'm only 36 have a 4 year old  10 years into",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 4
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "19/02/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2347507",
+    "Title": "Lesion found on mammogram"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.975,
+      "Phrase": "So I'm numb  I'm only 36 have a 4 year old",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 385
+}

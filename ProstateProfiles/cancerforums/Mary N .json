@@ -1,0 +1,720 @@
+{
+  "AuthorID": "Mary N.",
+  "AuthorURL": "https://www.cancerforums.net/members/101677-Mary-N?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "willing",
+      "scared",
+      "willing",
+      "bad",
+      "great",
+      "wonderful",
+      "willing",
+      "vulnerable",
+      "frightened"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.25",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.25",
+      "GOOD": "0",
+      "HAPPY": "0.25",
+      "HELPLESS": "0.25",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.25",
+      "POSITIVE": "0.75",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 5,
+  "PSAInfo": {
+    "max": 3,
+    "min": 1,
+    "scores": [
+      1,
+      3
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Mary N.",
+      "AuthorURL": "https://www.cancerforums.net/members/101677-Mary-N?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, I post in another forum because I have NHL. My husband has been through several treatments for prostate cancer. 15 years ago it was discovered and it was quite severe and had become so within the year before and he was operated on. Everything seemed find for several years and then it spread again and they did radiation for 6 weeks daily. It has now been about 7 years and his psa is again going up again. He has an appointment next Tues. I think they are considering hormone therapy. Is there anything I should know? Is there any diet that might help? He is now almost 86 and really except for this he has been doing fairly well. Thanks. Mary N.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.6625,
+          "Phrase": "<Z> He is now almost 86 and really except for this",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 86
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/04/2014",
+      "Signature": "Female ,age 70, Diagnosed Jan 2010 Primary CNS DLBCNHL Treatment every 6 weeks with High dose MTX and Rituxan for 9 months. Tumors shrunk and one was gone in 4 months and the larger one left some brain damage but has not become active as shown on MRI since Aug 2010. Since 2012 monthly Rituxan High Dose MTX and MRI every 4 months. June 6, 2014 NED No more chemo 6/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38074-M-husband-s-psa-just-went-higher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "M husband's psa just went higher."
+    },
+    {
+      "AuthorID": "Mary N.",
+      "AuthorURL": "https://www.cancerforums.net/members/101677-Mary-N?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Ah newporter, it seems my husband's psa has been going up for a year and a half and he just told me when I told him what you said. I guess he was trying to shield me. It has gone up too much and we will certainly keep what you said in mind as we visit his doc. Thanks you so much for the information and scare. I will be interested to find out what protocols and choices there are. Mary",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "19/04/2014",
+      "Signature": "Female ,age 70, Diagnosed Jan 2010 Primary CNS DLBCNHL Treatment every 6 weeks with High dose MTX and Rituxan for 9 months. Tumors shrunk and one was gone in 4 months and the larger one left some brain damage but has not become active as shown on MRI since Aug 2010. Since 2012 monthly Rituxan High Dose MTX and MRI every 4 months. June 6, 2014 NED No more chemo 6/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38074-M-husband-s-psa-just-went-higher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "M husband's psa just went higher."
+    },
+    {
+      "AuthorID": "Mary N.",
+      "AuthorURL": "https://www.cancerforums.net/members/101677-Mary-N?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "We went to the doc's today. We asked a lot of questions and my husband had to deal with the possibility of not making it to 100 to see the littlest grandchildren (3 1/2) graduate. Funny, he always just assumes he will go on forever. Anyway the doc started him on Lupron 22.5 mg every 3 months. We discussed a lot about diet and scans. The doc indicated that he would probably want him to stay on it for quite some time and said if side effects such as hot flashes are too bad there is some medicine to help.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "26/04/2014",
+      "Signature": "Female ,age 70, Diagnosed Jan 2010 Primary CNS DLBCNHL Treatment every 6 weeks with High dose MTX and Rituxan for 9 months. Tumors shrunk and one was gone in 4 months and the larger one left some brain damage but has not become active as shown on MRI since Aug 2010. Since 2012 monthly Rituxan High Dose MTX and MRI every 4 months. June 6, 2014 NED No more chemo 6/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38074-M-husband-s-psa-just-went-higher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "M husband's psa just went higher."
+    },
+    {
+      "AuthorID": "Mary N.",
+      "AuthorURL": "https://www.cancerforums.net/members/101677-Mary-N?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks, I was wondering about if he was going to be needing scans to see if it has spread. I will question the dr if he doesn't suggest any. His psa 3 months ago was 3 and a week ago it was 10. He had his operation when he was 70 and it was fairly complete and they were not able to salvage any nerves because it was wrapped around them. He then about 7 years later had what I assume was salvage radiation because his psa went from 3 to 30 in 6 months. His psa has been less then 1 for 6 years and then it was 3, 3 months ago and now it is 10 so the doc called and we will go in on Tues. Aside from the prostrate cancer and earlier a kidney cancer that was removed completely he is in great heath. BP 120/70 and so forth but must admit he no longer goes rock climbing and I won't allow him on the roof either. Because of my NHL in my brain, I am far more aware of things spreading and have had to learn to ask a lot of questions and I want to be prepared. I must admit that because of my nhl, I am feeling much more vulnerable and a bit frightened but am thankfully really doing well according to my doc.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "his operation when he was 70 and it was fairly complete",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "dr",
+            "MainSubject": "dr",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "19/04/2014",
+      "Signature": "Female ,age 70, Diagnosed Jan 2010 Primary CNS DLBCNHL Treatment every 6 weeks with High dose MTX and Rituxan for 9 months. Tumors shrunk and one was gone in 4 months and the larger one left some brain damage but has not become active as shown on MRI since Aug 2010. Since 2012 monthly Rituxan High Dose MTX and MRI every 4 months. June 6, 2014 NED No more chemo 6/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38074-M-husband-s-psa-just-went-higher?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "M husband's psa just went higher."
+    },
+    {
+      "AuthorID": "Mary N.",
+      "AuthorURL": "https://www.cancerforums.net/members/101677-Mary-N?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Martha, I know it is really hard waiting for responses . I don't have the knowledge to help you but wanted you to know that someone heard you. I'm sure someone with the knowledge will be responding, hopefully soon. Try to be as calm as possible and take some deep breaths. Call the doc. if you have questions. We often are in shock when we hear what is happening and don't think to ask questions. Often there is a nurse in the office who can answer questions for you. Hugs. Mary",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "04/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40652-Need-help-URGENT!!!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Need help-URGENT!!!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "his operation when he was 70 and it was fairly complete",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 70
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 1,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "He had his operation when he was 70 and it was fairly complete and they were not able to salvage any nerves because it was wrapped around them. He then about 7 years later had what I assume was salvage radiation because his psa went from 3 to 30 in 6 months....He then about 7 years later had what I assume was salvage radiation because his psa went from 3 to 30 in 6 months. His psa has been less then 1 for 6 years and then it was 3, 3 months ago and now it is 10 so the doc called and we will go in on Tues....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "interested",
+        "willing",
+        "scared",
+        "great",
+        "wonderful",
+        "willing",
+        "vulnerable",
+        "frightened",
+        "willing",
+        "bad"
+      ],
+      "Emotions": {
+        "AFRAID": "0.5",
+        "ALIVE": "0.25",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.25",
+        "GOOD": "0",
+        "HAPPY": "0.25",
+        "HELPLESS": "0.25",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0.25",
+        "POSITIVE": "0.75",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [
+        "calm",
+        "willing",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "18/04/2014",
+    "TreatmentType": "Radiation",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 643
+}

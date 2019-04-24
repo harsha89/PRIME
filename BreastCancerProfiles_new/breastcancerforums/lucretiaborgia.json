@@ -1,0 +1,202 @@
+{
+  "AuthorID": "lucretiaborgia",
+  "AuthorURL": "https://www.cancerforums.net/members/898-lucretiaborgia?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "caring",
+      "concerned",
+      "pained",
+      "pained",
+      "ok",
+      "hopeful",
+      "pained",
+      "pained",
+      "wonderful",
+      "certain",
+      "sure",
+      "certain",
+      "aggressive",
+      "aggressive",
+      "alone",
+      "terrified",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0.333",
+      "ANGRY": "0.667",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.667",
+      "HAPPY": "0",
+      "HELPLESS": "0.333",
+      "HURT": "0.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.333",
+      "OPEN": "0.333",
+      "POSITIVE": "0.333",
+      "SAD": "0.667",
+      "STRONG": "0.667"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "lucretiaborgia",
+      "AuthorURL": "https://www.cancerforums.net/members/898-lucretiaborgia?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you so much for the replies. I understand that there are often no signs or symptoms present in early liver mets and that it is only as the mets progress that pain and changes in urine are present. If I have mets, I do know it is early. Currently I have no problems caring for myself and my daughter. My concern is what might happen down the road. Thanks again.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "23/08/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/1847-Scared-new-diagnosis-am-I-alone?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Scared, new diagnosis, am I alone?"
+    },
+    {
+      "AuthorID": "lucretiaborgia",
+      "AuthorURL": "https://www.cancerforums.net/members/898-lucretiaborgia?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I initially had a lumpectomy, and sentinel node biopsy which came back negative. However the margins on the lumpectomy were not clear so I went back and had another lumpectomy - which basically took the majority of my breast tissue. I have (had) very small breasts. My urine is back to normal straw color now - although briefly was red/pink following my first chemo. I have no discomfort or pain in the liver area, so am really hoping that despite my elevated liver enzymes that I am ok. Thanks for any input!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "23/08/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/1847-Scared-new-diagnosis-am-I-alone?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Scared, new diagnosis, am I alone?"
+    },
+    {
+      "AuthorID": "lucretiaborgia",
+      "AuthorURL": "https://www.cancerforums.net/members/898-lucretiaborgia?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi. I am a 36 year old healthy (or I was) female who was recently diagnosed with invasive ductal carcinoma with internal mammory nodes being positive. I am er and pr negative and her postive. I just received a phone call that my liver enzymes are elevated. I am told my cancer is very aggressive. I had a > 5cm lump removed along with most of the balance of my breast tissue. I am scheduled for a CT of the liver this week, but am wondering if the elevated liver enzymes are an indicator of liver mets. I just had my first AC and frankly am not sure how I am going to get through this. I am a single parent with a 6 year old child. I have no living relatives and frankly am terrified. I am not certain what I am asking, perhaps just to know I am not alone.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> I am a 36 year old healthy  or I",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 36
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "a single parent with a 6 year old child <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 6
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/08/2005",
+      "ThreadURL": "https://www.cancerforums.net/threads/1847-Scared-new-diagnosis-am-I-alone?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Scared, new diagnosis, am I alone?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 36 year old healthy  or I",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 319
+}

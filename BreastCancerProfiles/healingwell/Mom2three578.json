@@ -1,0 +1,148 @@
+{
+  "AuthorID": "Mom2three578",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2532634&p=155860",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "hopeful",
+      "optimistic",
+      "certain",
+      "optimistic",
+      "willing",
+      "sure",
+      "certain"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Mom2three578",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2532634&p=155860",
+      "Content": " I found a lump during my monthly check that I have never felt before. It is about\n two fingers wide in length and feels flat not round. Its not hard like a rock but harder then the surrouding tissue. I am planning on seeing my ob/gyn but need to wait for a health insurance change so I was hoping someone could ease my mind until then. If any of you have had similar lumps would you mind leaving a comment for me. Thanks! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/10/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2532634",
+      "Title": "Lump..."
+    },
+    {
+      "AuthorID": "Mom2three578",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2532634&p=155860",
+      "Content": " Thank you for the reply pbj. At the advice of my family I ended up going to my doctor anyway to have it looked at. They scheduled an ultrasound and if the radiologist felt it was necessary a diagnostic mammogram to follow. I am happy to say that my mass is what she is almost certain is just an enlarged lymph node. With that being said I do have to follow up in six moths with anther ultrasound to make sure it has gone down to normal size and also have my baseline mammogram done (because I will have just turned 30). I feel very optimistic about\n everything and my mind has been eased. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "13/10/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2532634",
+      "Title": "Lump..."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 199
+}

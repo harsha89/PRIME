@@ -1,0 +1,131 @@
+{
+  "AuthorID": "dwillen",
+  "AuthorURL": "https://www.cancerforums.net/members/2114-dwillen?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "concerned",
+      "keen",
+      "thoughtful",
+      "keen",
+      "insistent",
+      "sure",
+      "lost",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "3",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "dwillen",
+    "AuthorURL": "https://www.cancerforums.net/members/2114-dwillen?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I'm a healthy 25-year-old male graduate student. I eat extremely healthy and exercise daily. I have actually been training to run a marathon for the past couple months and fundraising for the Leukemia and Lymphoma Society. I lost my mother a little over a year ago to cancer (not breast cancer). I discovered a 1cm lump in my right breast area about 14 days ago. I visited the student health center here at school and was examined by a nurse. She told me it felt like a cyst but referred me to a radiologist for an ultrasound to be sure. Unfortunately, that took a week and a half to get an appointment, and another few days before I'll have the radiologist report. The tech who took the ultrasound didn't tell me much, but she said it was not a cyst for sure. Since my initial examination, the mass has grown to about 3cm wide by 1cm tall and is quite firm. I have been insistent on further testing, and today I got a referral to a general surgeon for evaluation. Unfortunately again for me, the place they referred me to doesn't have an opening till the middle of May. I understand I am not statistically at risk for breast cancer, but having a large mass in my chest that nobody can explain away concerns me. I don't understand why I keep getting the runaround. I thought the whole idea behind early detection was to begin treatments earlier. Does it typically take 1.5 - 2 months from discovery to a diagnosis? The insurance people at school said I could seek out my own treatment but I might end up paying more that way. I am fine with this, as my insurance sucks (keeping us grad students healthy!) and I end up paying a bunch anyway I go about it. What is the best way about finding a surgeon to see me? Do I just look them up online and start calling people up saying I've got a lump? Could anyone recommend someone in Northern California? Should I just wait and go to the place they want me to go to? I am not that keen on waiting another month to figure out if anything is wrong with me.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> I'm a healthy 25 year old male graduate student",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 25
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "14/04/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/2806-Discovery-to-diagnosed?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Discovery to diagnosed?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I'm a healthy 25 year old male graduate student",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 25
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 388
+}

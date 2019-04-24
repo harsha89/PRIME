@@ -1,0 +1,122 @@
+{
+  "AuthorID": "kindness4all",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3911831&p=262269",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "easy",
+      "thoughtful",
+      "hopeful",
+      "bad",
+      "pained",
+      "wronged",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "kindness4all",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3911831&p=262269",
+    "Content": " Hello, I am new to this so I hope I am doing this right.\nSo about\n two months ago I felt a very small ball like feeling lump on my left breast right under my nipple area, ultrasound guided biopsy done and the Dr. said it looked like a fibroadenoma but they could not guarantee that 100% without doing a breast biopsy. At 1st I didn't want to perform the biopsy cause they also gave me the option of doing a 6month US follow up, but with my family history of Cancer my mother recently being diagnosed with Triple Negative Breast Cancer and then my own history of having Thyroid Cancer 3yrs ago they pushed for a biopsy. I had it done a week ago and was just told to take it easy the 1st two days no lifting anything over 5lbs I followed the instructions took it easy the two days and then told me I could return back to normal activity after. On the 3rdday I started getting shoulder pain and just yesterday I started getting really bad sharp pains on my breast and what feels like to be muscle spasms around my breast and under armpit area \n I thought after the two days I would be fine I don't know if this is normal has anyone experienced this before? Did I do something wrong I mean what is the worst that can happen from having a ultrasound guided biopsy which I was told is a very small easy procedure?? ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "13/09/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3911831",
+    "Title": "Breast Biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 257
+}

@@ -1,0 +1,119 @@
+{
+  "AuthorID": "asd1612",
+  "AuthorURL": "https://www.cancerforums.net/members/111324-asd1612?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "thoughtful",
+      "hopeful",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "asd1612",
+    "AuthorURL": "https://www.cancerforums.net/members/111324-asd1612?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Trying to understand the pathology report. Here is the pathology report diagnosis Invasive Ductal Carcinoma size of tumor 4-7 mm I thought that was supposed to be in cm. I don't know if that is good or bad. Nottingham score grade 3 score 8. underneath that it says glandular/tublar differentiation score 3, nuclear pleomorphism score 3, mitotic score 2. ER: Negative Pgr: negative ki 67(MIB1) immunostain sho High proliferation index >20 % Her 2 test: negative The doctor said this is stage 1 and to take it one day at a time. Hopefully this does not increase in stage. The doctors still have to do a MRI, Lymph node testing, and even though this is in one breast my mother wants to have a double mastectomy. Even though its not the same thing, I'm able to help my mother somewhat since I have had melanoma removed, and lymph nodes checked. Doctor gave me the all clear on that one. I hope she has same all clear on her sentinel node biopsy as well. This looks like it may be a rough road ahead, and I'm trying to figure out the best way I can help while my mother goes through this.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/08/2018",
+    "ThreadURL": "https://www.cancerforums.net/threads/55650-Mom-diagnosed-with-Invasive-Ductal-Carcinoma?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Mom diagnosed with Invasive Ductal Carcinoma"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 213
+}

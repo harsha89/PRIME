@@ -1,0 +1,161 @@
+{
+  "AuthorID": "scwildman",
+  "AuthorURL": "https://www.cancerforums.net/members/115867-scwildman?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "worried",
+      "great",
+      "surprised",
+      "concerned",
+      "willing",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 4.5,
+    "min": 2,
+    "scores": [
+      2,
+      4.5
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "scwildman",
+      "AuthorURL": "https://www.cancerforums.net/members/115867-scwildman?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, I am 56 years old and just got the results from my latest PSA test and it came back at 9.98. I have no family history of PC and DRE was normal. 5 years ago my first ever PSA test came back at 4.5, DRE normal. Antibiotics given and at retest dropped to 2.5. 3 months later PSA dropped to 2.0. Last year had it tested again and it had climbed to 7.5 in 4 years. retest at three weeks had dropped to 7.2, retested again 2 months later and had dropped to 7.0. Was having urinary problems during this time and doc suspected this was the cause of the high readings. Urinary problems cleared up about a month ago and all is normal now. Urologists appointment scheduled. My question is what is the likelihood that it is something other than PC that is causing this high reading? Also how likely is the PC, if i have it, to be advanced? I have read so much conflicting info on the internet that i am very confused. I am also worried about having a biopsy, as i am on blood thinners due to a couple of small strokes. Thanks for any help !",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> Hello  I am 56 years old and just got",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 56
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44160-Howdy-Folks-New-to-the-site-with-a-few-questions?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Howdy Folks, New to the site with a few questions."
+    },
+    {
+      "AuthorID": "scwildman",
+      "AuthorURL": "https://www.cancerforums.net/members/115867-scwildman?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the replies guys! Went to the Uro Thursday and got some hopefully positive results. Doc thinks it may indeed be Chronic inflammation and has put me on antibiotics for three weeks and retest in 3 months. While doing the DRE, he said \"wow\" and i was instantly concerned and asked if it was that bad. He told me no, that he was surprised because my prostate felt great,that i had a young man's prostate. . Hopefully he is correct. I will report back in three months and hopefully PSA will have dropped back down. Thanks again for the replies, great bunch of guys on here.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "17/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44160-Howdy-Folks-New-to-the-site-with-a-few-questions?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Howdy Folks, New to the site with a few questions."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> Hello  I am 56 years old and just got",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 56
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 327
+}

@@ -1,0 +1,145 @@
+{
+  "AuthorID": "Pama",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=251541",
+  "EmotionInfo": {
+    "EmotionKeywords": ["hopeful"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Pama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=251541",
+      "Content": " \nThank you so much!! And I wifi keep you posted! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 33,
+      "PostDate": "20/02/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+      "Title": "Post-menopausal cysts"
+    },
+    {
+      "AuthorID": "Pama",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=251541",
+      "Content": " HI- I am a 64 year old female - going in for an diagnostic mamogram and also an ultrasound- a palpable small mobile mass in my left breast and a whit lesion on the nipple- an hoping it is a cyst- but has anyone had a white pimple looking thing right at the end of the nipple? No redness or fever- but have been feeling some discomfort in the left breast- also no fluid or a anything from the breast\nThanks !! ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> HI  I am a 64 year old female   going in",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 64
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 32,
+      "PostDate": "19/02/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+      "Title": "Post-menopausal cysts"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> HI  I am a 64 year old female   going in",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 64
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 90
+}

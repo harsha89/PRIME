@@ -1,0 +1,162 @@
+{
+  "AuthorID": "drbeth",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1791168&p=90800",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "wonderful",
+      "surprised",
+      "blessed",
+      "reassured",
+      "considerate",
+      "supportive",
+      "willing",
+      "free",
+      "aggressive",
+      "aggressive",
+      "diminished",
+      "lost",
+      "fearful",
+      "pained",
+      "appalled",
+      "exhausted",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "2",
+      "ANGRY": "2",
+      "CONFUSED": "1",
+      "DEPRESSED": "1",
+      "GOOD": "3",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "3",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "drbeth",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1791168&p=90800",
+    "Content": " I am really sorry that you who are struggling with recurrences were so taken by surprise after being reassured that you were cancer free. I have found that oncologists rarely mention the possible down side o illness and procedures.\nI know that you regret not doing chemo and radiation.\nI had a very aggressive but small ductal carcinoma 18 years ago. I did chemo even though my surgeon kept telling me that the tumor was too small for me to need it. He was one of two experts. I was on medical staff and I read my own pathology reports. I knew that if there was any of this very nasty, aggressive cancer running around in my body and I did not do chemo I would have only a few years to live. \nI had a lumpectomy in 1996 and everyone agreed that I should do radiation. But my surgeon...a very respected national expert was appalled that I would do chemo. \nI now regret doing it. It plays with the endocrine system. I went through menopause at 40 and again at 47. I have osteoporosis; compression fractures in my spine; an arrhythmia; low blood pressure; adrenal exhaustion and extreme depression. You don't realize how powerful estrogen is for reducing depression and helping us focus and organize our lives.\nI know that anyone who foregoes chemo and has a relapse will beat themselves up for not doing it. \n I lost so much quality of life that I sometimes wonder why I wanted to live. I had a kayaking accident 7 years ago that tore up the cartilage in my right hip. The pain medications required for bone grinding bone made practicing as a psychologist impossible. I expect that I have shortened my life considerably. I know that the quality is greatly diminished. I am exhausted all the time.\nMy sister had a small tumor 3 years ago. She had a double mastectomy. She just showed me a lump in her neck. It looks like a very solid lymph node and we will see her oncologist tomorrow. I don't know if she could survive chemo after a massive stroke tne years ago. All of you who have found lumps are living out my fear or recurrence. I facilitated breast cancer support groups then got it myself. Life is so full of uncertainties. Who can know what the next right thing to do is? All we can do is our best with the knowledge we had at the time.\nI wish all of you who are experiencing these recurrences luck on your journeys. God Bless. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 0.9,
+          "Phrase": "I went through menopause at 40 and again at 47 <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 40
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "at 40 and again at 47 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 47
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "estrogen",
+            "menopause",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 11,
+    "PostDate": "05/08/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1791168",
+    "Title": "DCIS Diagnosis/Stage IV Breast Cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "at 40 and again at 47 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 47
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Stroke",
+      "Tiredness"
+    ],
+    "SideEffectTypeKeywords": [
+      "exhaustion",
+      "stroke",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 435
+}

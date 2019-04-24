@@ -1,0 +1,332 @@
+{
+  "AuthorID": "DanF",
+  "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "concerned",
+      "keen",
+      "keen",
+      "free",
+      "pained",
+      "pained",
+      "willing",
+      "hateful",
+      "scared",
+      "numb",
+      "willing",
+      "hateful",
+      "scared",
+      "numb",
+      "free",
+      "free",
+      "concerned",
+      "keen",
+      "keen",
+      "free",
+      "pained",
+      "pained",
+      "eager",
+      "eager",
+      "willing",
+      "fearful",
+      "eager",
+      "eager",
+      "willing",
+      "fearful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0.333",
+      "ANGRY": "0.333",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "1.333",
+      "SAD": "0.333",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 6,
+    "scores": [
+      6,
+      7
+    ]
+  },
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 11,
+    "min": 2.2,
+    "scores": [
+      5.6,
+      8.5,
+      6.2,
+      4.1,
+      11,
+      6.7,
+      6,
+      2.2
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "DanF",
+      "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 60 years old. At age 51 I had a PSA of 4.1, DRE was normal. Three years later it rose to 6.7 and the DRE was normal. At that time my Doctor put me on 2 weeks of Cypro and after the Cypro my PSA dropped to 5.6. I also had a Present of free PSA test done and the results showed .65 ng/ml of free PSA, a percentage of 11%. Four months later my PSA was back up to 6.2. Four more months and my PSA was still only at 6.0 however in six more months it rose to 7.4. Now nine months later it is up to 8.5. I am seeing a different doctor and he says he can feel an abnormal prostate. He says it is very slightly asymmetrical (slightly larger on one side) otherwise normal. He says my PSA is way to high for my age and wants to do a biopsy. Of course I am not too keen on the idea of going through the pain, possibility of complications, and cost since I am not insured, however I am concerned as to why my PSA is so high. Should I go ahead with the biopsy?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 60 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 60
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> At age 51 I had a PSA of",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 51
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31304-Do-I-need-a-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Do I need a biopsy?"
+    },
+    {
+      "AuthorID": "DanF",
+      "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank everyone for your replies. I guess I have been listening too many horror stories about biopsies. Heck, the doctor even told me 1 out of 2 guys get an infection from a biopsy. Not good odds. He says he now gives a antibiotic 1 hour before plus an injection and follow up antibiotics after. I will ask about the numbing. I asked the front desk about cost and was told he charges about $500 and then there is the pathologist, which is about $90 per sample. Then the doctor said since I am not insured he will charge the same as the lowest insurance will pay which is Medicare (don\u2019t know that cost). I\u2019m thinking about $1500 to $2000. It\u2019s the cost of what they find that scares me. I just hate to go through all this and find out it is probably not cancer and just an infection (maybe that\u2019s a good thing) but I guess the biopsy will tell that.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "13/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31304-Do-I-need-a-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Do I need a biopsy?"
+    },
+    {
+      "AuthorID": "DanF",
+      "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank everyone for your replies. I guess I have been listening too many horror stories about biopsies. Heck, the doctor even told me 1 out of 2 guys get an infection from a biopsy. Not good odds. He says he now gives a antibiotic 1 hour before plus an injection and follow up antibiotics after. I will ask about the numbing. I asked the front desk about cost and was told he charges about $500 and then there is the pathologist, which is about $90 per sample. Then the doctor said since I am not insured he will charge the same as the lowest insurance will pay which is Medicare (don\u2019t know that cost). I\u2019m thinking about $1500 to $2000. It\u2019s the cost of what they find that scares me. I just hate to go through all this and find out it is probably not cancer and just an infection (maybe that\u2019s a good thing) but I guess the biopsy will tell that.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "13/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31304-Do-I-need-a-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Do I need a biopsy?"
+    },
+    {
+      "AuthorID": "DanF",
+      "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 60 years old. At age 51 I had a PSA of 4.1, DRE was normal. Three years later it rose to 6.7 and the DRE was normal. At that time my Doctor put me on 2 weeks of Cypro and after the Cypro my PSA dropped to 5.6. I also had a Present of free PSA test done and the results showed .65 ng/ml of free PSA, a percentage of 11%. Four months later my PSA was back up to 6.2. Four more months and my PSA was still only at 6.0 however in six more months it rose to 7.4. Now nine months later it is up to 8.5. I am seeing a different doctor and he says he can feel an abnormal prostate. He says it is very slightly asymmetrical (slightly larger on one side) otherwise normal. He says my PSA is way to high for my age and wants to do a biopsy. Of course I am not too keen on the idea of going through the pain, possibility of complications, and cost since I am not insured, however I am concerned as to why my PSA is so high. Should I go ahead with the biopsy?",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 60 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 60
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> At age 51 I had a PSA of",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 51
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "12/05/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/31304-Do-I-need-a-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Do I need a biopsy?"
+    },
+    {
+      "AuthorID": "DanF",
+      "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Age = 60 PSA = 8.5 Gleason = 7 For about 10 years now I have been watching my PSA level go up from 2.2 to 8.5. Finally 2 years ago at a PSA level of 6.7 I decided to consult a urologist. DRE showed nothing (no enlargement, no lumps) so the DR decided to try antibiotics (cypro) to see if it was an infection. PSA went from 6.7 to down to 5.6. Three months later it was back up to 6.2. Four months later it dropped back to 6.0. Five months later it was back up to 7.4. Nine months later (present) it rose to 8.5. 12/24/03 = 2.20 11/24/08 = 4.10 04/22/11 = 6.70 06/29/11 = 5.60 CYPRO 10/04/11 = 6.20 02/03/12 = 6.00 07/27/12 = 7.40 04/29/13 = 8.50 DRE still normal At this point I agreed to a Needle Biopsy. Four of 12 samples were positive. Three are 3+3 and one is 3+4. Dr says I need treatment and recommends IMRT. I just think doctors are too eager to treatment people. Since my \u0093Doubling Time Velocity\u0094 is low do I really need treatment at this time or will I just be putting off the inevitable? Also I fear that my treatment options will be less if I wait.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> Age = 60 PSA = 8 5 Gleason",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33165-Do-I-really-need-treatment?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Do I really need treatment?"
+    },
+    {
+      "AuthorID": "DanF",
+      "AuthorURL": "https://www.cancerforums.net/members/103731-DanF?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Age = 60 PSA = 8.5 Gleason = 7 For about 10 years now I have been watching my PSA level go up from 2.2 to 8.5. Finally 2 years ago at a PSA level of 6.7 I decided to consult a urologist. DRE showed nothing (no enlargement, no lumps) so the DR decided to try antibiotics (cypro) to see if it was an infection. PSA went from 6.7 to down to 5.6. Three months later it was back up to 6.2. Four months later it dropped back to 6.0. Five months later it was back up to 7.4. Nine months later (present) it rose to 8.5. 12/24/03 = 2.20 11/24/08 = 4.10 04/22/11 = 6.70 06/29/11 = 5.60 CYPRO 10/04/11 = 6.20 02/03/12 = 6.00 07/27/12 = 7.40 04/29/13 = 8.50 DRE still normal At this point I agreed to a Needle Biopsy. Four of 12 samples were positive. Three are 3+3 and one is 3+4. Dr says I need treatment and recommends IMRT. I just think doctors are too eager to treatment people. Since my \u0093Doubling Time Velocity\u0094 is low do I really need treatment at this time or will I just be putting off the inevitable? Also I fear that my treatment options will be less if I wait.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> Age = 60 PSA = 8 5 Gleason",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/08/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/33165-Do-I-really-need-treatment?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Do I really need treatment?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 60 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["imrt"]
+  },
+  "WordCount": 1262
+}

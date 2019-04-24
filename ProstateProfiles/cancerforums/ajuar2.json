@@ -1,0 +1,167 @@
+{
+  "AuthorID": "ajuar2",
+  "AuthorURL": "https://www.cancerforums.net/members/105007-ajuar2?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "at ease",
+      "comfortable",
+      "comforted",
+      "thoughtful",
+      "bad",
+      "fearful",
+      "willing",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 4.06,
+    "min": 4.03,
+    "scores": [
+      4.06,
+      4.03
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "ajuar2",
+      "AuthorURL": "https://www.cancerforums.net/members/105007-ajuar2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Guys, I used to be in the <0.1 club until yesterday. I had my prostate removed 4/11. What i remember is my PSA was 4.06 and that test was to confirm my first PSA test of 4.03, all in my first time testing. My gleason score was 6, margins clear and no spreading to the seminal vesicals. The level of knowledge in this forum is over my head but comforting when I read \"Been there ,done that\" regarding living in fear. At Kaiser my email for past PSA test results would show only <.01. Now the latest one shows .11 and all the bad thoughts came back. Is a result, that high, a reason for SRT even if a re-test shows <.1 again? I am 53 years old. My Doctor told me the biopsy showed 1 bad sample which i was told pre-op that it was 5% cancerous. I am currently looking forward to an appointment with my Doctor who put me at ease before and was very positive in the past. Thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 53 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 53
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "13/07/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32423-Ajuar2-Looking-forward-to-being-positive-and-happy-again?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Ajuar2 - Looking forward to being positive and happy again"
+    },
+    {
+      "AuthorID": "ajuar2",
+      "AuthorURL": "https://www.cancerforums.net/members/105007-ajuar2?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Today I spoke to my Doctor regarding a retest of my .11 PSA test and he said not to worry because sometimes the PSA result will be higher and then go back to zero ( I had been <.10 for 2 years). He said I should retest in 3 months. I think 3 months from now if my PSA rises I will most likely opt for SRT.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "15/07/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32423-Ajuar2-Looking-forward-to-being-positive-and-happy-again?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Ajuar2 - Looking forward to being positive and happy again"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 53 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 53
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 256
+}

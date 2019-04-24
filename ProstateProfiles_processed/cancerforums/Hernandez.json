@@ -1,0 +1,153 @@
+{
+  "AuthorID": "Hernandez",
+  "AuthorURL": "https://www.cancerforums.net/members/126891-Hernandez?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "blessed",
+      "amazed",
+      "supportive",
+      "caring",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Hernandez",
+      "AuthorURL": "https://www.cancerforums.net/members/126891-Hernandez?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Everyone. I am new to this forum. My name is Vanessa. My dad was diagnosed in June of 2017 with prostate cancer and the news to me was devastating. What I know thus far is that it spread to his hip bone and that he was taking lupron injections every 3 months I believe, up until last month because lab results showed that his potassium level was too high and also that lupron was causing kidney levels to rise I believe. So right now he is currently not taking the lupron injections and is waiting on a appt to see what other medication/treatment is available for him. He hasnt been feeling all that well either, he is without energy, he says he feels weak in his muscles, his vision is blurry and he is always sleeping. Any info, insight, advice... all appreciated. Thank you all in advance and god bless everyone.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54330-New-to-this-site-Dad-was-diagnosed-with-PC?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this site. Dad was diagnosed with PC."
+    },
+    {
+      "AuthorID": "Hernandez",
+      "AuthorURL": "https://www.cancerforums.net/members/126891-Hernandez?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for the replies. The support here is amazing. My dad is 65. I don't have his stats on hand because my mom is actually the one that takes him to his appointments and plays a big part as his care giver until he can rebuild his strength and do some things on his own. He has been seeing Dr. Hiney out of Fremont Ca. Hr is also going to see another Dr. on Wednesday to talk about other medications that are available to him other than lupron. I will post his stats soon to give more insight. Hope this new Dr. is able to give him the medication he needs so that my dad can get his strength back. Also, you both mentioned he should see an MO right away, what is an MO ?? sorry, new to all this. Thank you Chuck and Michael for your replies. I appreciat e it so much Have a good night.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My dad is 65 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 65
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "17/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54330-New-to-this-site-Dad-was-diagnosed-with-PC?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this site. Dad was diagnosed with PC."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My dad is 65 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 65
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 322
+}

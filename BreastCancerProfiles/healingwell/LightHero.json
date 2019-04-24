@@ -1,0 +1,118 @@
+{
+  "AuthorID": "LightHero",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3501347&p=228232",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "determined",
+      "willing",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "LightHero",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3501347&p=228232",
+    "Content": " Hello everyone,\nMy Mom just had her Biopsy test and is about\n to find out the result this Saturday.\nShe is extremely worried, and don't know how to react. I feel she is about\n to collapse.\nMy Dad and I are about\n the same, sleepless nights since the day the lump was identified.\nCan someone help me determine if the conditions below is enough to confirm it is breast cancer.\nThe doctor scared my Mom by saying her lump looks more like cancer than other things.\n1. Painless\n2. She checks every year, and it appeared this year. The size is less than 1cm (or 0.4 inch)\n3. The surface is not smooth\n4. The lump is very deep, almost next to the muscle\nI am also really worried. Any advice would be greatly appreciated.\nIf by any chance, it is cancer, what is her survival rate? Is there any chance of cure?\nI see online with 5 year, 10 year survival, is that all she will have left if it is confirmed?\nThank you very much. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "Mom",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "Mom"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "21/09/2015",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3501347",
+    "Title": "Biopsy Result this Saturday"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 183
+}

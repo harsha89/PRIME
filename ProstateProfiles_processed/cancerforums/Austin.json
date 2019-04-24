@@ -1,0 +1,189 @@
+{
+  "AuthorID": "Austin",
+  "AuthorURL": "https://www.cancerforums.net/members/32966-Austin?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "intent",
+      "decisive",
+      "free",
+      "great",
+      "free",
+      "considerate",
+      "free",
+      "alarmed"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.333",
+      "OPEN": "0.333",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0.667"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {
+    "max": 9.6,
+    "min": 2,
+    "scores": [
+      9.6,
+      2,
+      3.4,
+      6
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Austin",
+      "AuthorURL": "https://www.cancerforums.net/members/32966-Austin?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am about to turn 15, but before all of you flame me for being too young, my main intention is just to help my dad in any way possible. He also does know a lot about this topic, but I was just trying to widen his research and look for any additional knowledge to help him make decisions. Also, are there any procedures that are non-invasive, at this point?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "21/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24321-Alarming-PSA-Jump?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Alarming PSA Jump"
+    },
+    {
+      "AuthorID": "Austin",
+      "AuthorURL": "https://www.cancerforums.net/members/32966-Austin?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, my dad had an alarming PSA jump. He jumped from 3.4 PSA to 9.6 PSA in the span of 2 years and 3 months. Also today, he received his Free PSA results and it was 6% We know that a biopsy is the next step but can anyone recommend anything else, what types of treatments to take into consideration, etc.? I have heard people on this forum saying it isn't the place for \"legal\" children to be around but I just want to have a Dad for a while longer, and since we have great dietary habits at home we presume it is genetic. Therefore, knowing more about this for when I'm older would help a lot. Thanks",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24321-Alarming-PSA-Jump?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Alarming PSA Jump"
+    },
+    {
+      "AuthorID": "Austin",
+      "AuthorURL": "https://www.cancerforums.net/members/32966-Austin?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I forgot to mention a couple of things. He is 54 years old and has a small prostate, said by doctors who performed the prostate exams on him. He also has trouble urinating, and has had trouble for 5 years now. Therefore we can only speculate that because his prostate is small, that there is some interference between the inner prostate and his urethra. Thanks to all who reply to this post",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> He is 54 years old and has a",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "21/07/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/24321-Alarming-PSA-Jump?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Alarming PSA Jump"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> He is 54 years old and has a",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 54
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 270
+}

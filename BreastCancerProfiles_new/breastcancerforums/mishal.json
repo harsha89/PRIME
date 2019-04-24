@@ -1,0 +1,184 @@
+{
+  "AuthorID": "mishal",
+  "AuthorURL": "https://www.cancerforums.net/members/29533-mishal?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "scared",
+      "pained",
+      "pained",
+      "kind",
+      "hopeful",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "0.333",
+      "SAD": "0.667",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "mishal",
+      "AuthorURL": "https://www.cancerforums.net/members/29533-mishal?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "hi there my age is 24 and about 2 or 3 three years back i had tumor in my left breast near to nipple i got it checked but the doctor said it was only a minor infection and gave me antibiotic and the tumor vanished after few days but now for many weeks in fact months i am having pain in my left side specially when i bend down it increased and sometimes i feel like it is moving from breast to armpit.few days ago i had severe pain in my left armpit that i couldn't move my arm for seconds but it did not last for long. i do not feel any lump, but i am scared because my maternal grandmother died of breast cancer and paternal grandmother died of lung cancer. so should i get checked again?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "hi there my age is 24 and about 2 or 3",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 24
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/02/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21664-need-to-know-is-it-dangerous?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "need to know is it dangerous?"
+    },
+    {
+      "AuthorID": "mishal",
+      "AuthorURL": "https://www.cancerforums.net/members/29533-mishal?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "my doctor adviced me to go for mammo as i am having continuous breast pain which someyimes also feels in left armpit. I hope it is benigne but symptoms really scared me i also found watery discharge from both sides and having a constant feeling of some kind of burden inside my chest. Need replies and suggestions. Thanx",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "06/06/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21664-need-to-know-is-it-dangerous?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "need to know is it dangerous?"
+    },
+    {
+      "AuthorID": "mishal",
+      "AuthorURL": "https://www.cancerforums.net/members/29533-mishal?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "thanks didee",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "07/06/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/21664-need-to-know-is-it-dangerous?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "need to know is it dangerous?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Hernia"
+    ],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 208
+}

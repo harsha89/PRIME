@@ -1,0 +1,121 @@
+{
+  "AuthorID": "Ann13",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2121340&p=124256",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "terrible",
+      "lost",
+      "fearful",
+      "suspicious",
+      "worried",
+      "agonized"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Ann13",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2121340&p=124256",
+    "Content": " I just found this site as I was checking yet more medical sites about\n BC.\nA routine mammo turned up suspicious Microcalcifications yesterday. The Dr. suggested either waiting 6 months for another mammo or biopsy-he said his level of suspicion is very low but the only way he can be 100% is via biopsy. I have a biopsy scheduled but I am almost regretting it because of the agonizing wait and fear!\n I'm writing because it really does help to read about\n/hear from others in similar situations. And my heart goes out to the young woman,Melissa, who lost family members recently in a car accident. Just remember, the chance that you have breast cancer at your age is SMALL. I would say try not to worry but it is much easier to say when you're not the one awaiting tests and news!!! Also, I am not someone who thinks everyone needs meds for everything but because you have been through so much and are having such a terrible time right now, you may want to ask your doctor for a few anti-anxiety pills (Xanax for example) just to help get you through the next few days. \nBest ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 4,
+    "PostDate": "07/06/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2121340",
+    "Title": "Terrified, found a lump in my breast and am now waiting for appointment with surgeon."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 204
+}

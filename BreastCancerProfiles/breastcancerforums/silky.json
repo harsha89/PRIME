@@ -1,0 +1,131 @@
+{
+  "AuthorID": "silky",
+  "AuthorURL": "https://www.cancerforums.net/members/21892-silky?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "important",
+      "wonderful",
+      "surprised",
+      "willing",
+      "upset",
+      "bad",
+      "upset"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "1",
+      "CONFUSED": "1",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "silky",
+    "AuthorURL": "https://www.cancerforums.net/members/21892-silky?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "So far they've got me diagnosed at Stage I, but I am having a lymph ultrasound tomorrow, and if they find anything funny, then I'll have the lymph biopsy done. If they find anything in the lymph, I move to Stage II. My pathology report says the cancer tests positive for both estrogen and progesteron and negative for HER2. I guess that's supposed to be good. I've had core biopsy, stereotactic biopsy and MRI done so far. I had blood drawn and sent to a geneticist to see if I've got the BRCA1 or BRCA2 mutation, as breast cancer runs very strong in my family (I'm the 4th of 5). If I have the mutation, that's bad news for my daughter and grand-daughter, so am praying that I don't have it. The pathology report says the growth rate is \"intermediate\". Does anyone know what that means? I got no answer from my doctor (which isn't surprising, as so far everyone is treating me like a somewhat retarded 3 year old). I've been very good about getting mammograms each year, and had a questionable one 4 years ago, but the biopsy was that it was a cyst. Anyway, I can see that DCIS doesn't really show up on a mammo, so I am wondering how long I've had this stuff - and how fast I need to move going forward. Can anyone help? Also, how do I get it across to my dr and team that I am not stupid and when they treat me like I am it is very upsetting. It's bad enough that I have cancer and will be losing what is to me a very important part of my body. I do not want to be treated like I'm also losing my mind.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "me like a somewhat retarded 3 year old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 3
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "estrogen",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/11/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/14827-recent-diagnosis-of-DCIS-IDC-questions-if-anyone-can-help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "recent diagnosis of DCIS + IDC - questions if anyone can help."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 320
+}

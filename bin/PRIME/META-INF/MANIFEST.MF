@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Implementation-Title: org.joda.convert
+Bundle-License: Apache 2.0
+Package: org.joda.convert
+Bundle-SymbolicName: joda-convert
+Implementation-Version: 1.2
+Archiver-Version: Plexus Archiver
+Built-By: stephen
+Specification-Vendor: Joda.org
+Bundle-ManifestVersion: 2
+Specification-Title: Joda-Convert
+Implementation-Vendor-Id: org.joda
+Bundle-Vendor: Joda.org
+Bundle-DocURL: http://joda-convert.sourceforge.net/
+Implementation-Vendor: Joda.org
+Export-Package: org.joda.time.convert;version=1.2
+Bundle-Name: Joda-Convert
+Bundle-Version: 1.2
+Extension-Name: joda-convert
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_29
+Specification-Version: 1.2
+

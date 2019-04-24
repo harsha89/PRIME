@@ -1,0 +1,129 @@
+{
+  "AuthorID": "Jwynters",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3249113&p=211640",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "determined",
+      "willing",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Jwynters",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3249113&p=211640",
+    "Content": " I'm 41 years old. My mom had breast cancer twice, each time a different breast & both types were different also. My paternal grandmother & also my mom's aunt have had breast cancer. I've had 3 prior mammograms that were all normal etc. I didn't realize I was supposed to have one every year so I skipped a year. This time a 5mm possible cyst was found. After a diagnostic mammogram & ultrasound, it was determined to be most likely a complicated 6mm cyst. Another was found nearby on the ultrasound. I was told that both contained a combination of solid debris & a small amount of fluid. The report says that I have moderate scattered fibroglandular densities. Ultrasound report shows \"At the 10:00 position,6cm from the nipple, a 6mm oval circumscribed hypoechoic nodule versus complicated cyst with internal echoes. Incidental additional probably benign complicated cyst versus nodule present at 10:00 position approximately 1 cm from the nipple. This small mass measures 6x4x3mm.\" So, it was explained to me that there is a small chance that it could be Cancer but the radiologist determined them to be \"probably benign\" and wants to follow up in 3 months with another diagnostic mammogram & ultrasound. He said that if they have grown at all at that point, I will need a biopsy. In the meantime, I'm trying so hard not to be worried. I have 2 more months of waiting at this point. How concerned should I be? ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "high risk & worried  I'm 41 years old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 41
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "20/11/2014",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3249113",
+    "Title": "Complicated cysts or nodules? high risk & worried"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "high risk & worried  I'm 41 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 262
+}

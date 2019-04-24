@@ -1,0 +1,189 @@
+{
+  "AuthorID": "ann0150",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=143354",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "fortunate",
+      "pleased",
+      "caring",
+      "concerned",
+      "pained",
+      "pained",
+      "wonderful",
+      "worried",
+      "dread",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.333",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "0.667",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.333",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.667",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "ann0150",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=143354",
+      "Content": " Thank you Bev. I am probably going to wait the 6 months & see if the cysts are still present. If they are, I will see if they can aspirate them then. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "31/03/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+      "Title": "Post-menopausal cysts"
+    },
+    {
+      "AuthorID": "ann0150",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=143354",
+      "Content": " Hi Jennett, I take prescript\nion vitamin D2 (50,000 units) once weekly and sporadically take OTC B12 supplements, but have never been told they can cause this problem. Fortunately my pain is not constant. Please keep me informed if you find out anything new and I'll do the same. I had a follow-up mammogram & ultrasound in September that still revealed the cysts, but no concern from the radiologist. I go back in another 3 months. Take care! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "12/12/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+      "Title": "Post-menopausal cysts"
+    },
+    {
+      "AuthorID": "ann0150",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=143354",
+      "Content": " I am a 62 year old post-menopausal woman and am not on hormone replacement. Recently after getting a mammogram, I received the dreaded letter from the imaging center that further investigation of one breast was needed. I scheduled the first available appointment which was for the next week & of course, worried the whole time. When I went the technician did a diagnostic mammogram of my left breast & asked me to wait until she showed it to the radiologist, so I had several more minutes of worrying. She came back & said the radiologist wanted her to do an ultrasound. I almost could have told her the spot to check because I have been having pain there. She said she saw two small fluid-filled cysts & went back to talk to the radiologist. She then came back & said I had nothing to worry about\n and to come back in 6 months to have the breast rechecked. At the time I was so relieved that she said I had nothing to worry about\n that I couldn't come up with any questions. Now I wonder why I would have cysts at my age which are rare since they are estrogen driven and why aspiration was not suggested? Also if there is nothing to worry about\n, why do I need to go back in 6 months instead of my normal annual mammogram? Has anyone else had the same situation? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I am a 62 year old post menopausal woman",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "estrogen",
+              "mammogram",
+              "menopausal",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "31/03/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+      "Title": "Post-menopausal cysts"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 62 year old post menopausal woman",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 62
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 354
+}

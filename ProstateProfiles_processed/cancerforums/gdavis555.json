@@ -1,0 +1,130 @@
+{
+  "AuthorID": "gdavis555",
+  "AuthorURL": "https://www.cancerforums.net/members/112097-gdavis555?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "determined",
+      "willing",
+      "upset",
+      "upset",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 10,
+    "min": 10,
+    "scores": [10]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "gdavis555",
+    "AuthorURL": "https://www.cancerforums.net/members/112097-gdavis555?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "My name is George and I found out yesterday that my dad has PC. He is 71 years old. I don't have all of his stats yet, but what I do have is a copy of his \"Final Surgical Pathology Report.\" \"High grade carcinoma consistent with prostatic adenocarcinoma, Gleason score 5+5=10.\" Yesterday, he underwent a scan (PET Scan?) where they were trying to determine if the cancer spread to his bones/lymph nodes. He has an appt. with his doctor scheduled for this Friday to go over the results of the scan. My mom and dad are of course very upset and worried (as am I) and I feel that I should go to this meeting because my folks are not very agressive people and generally will not question their doctors. Is it appropriate that I go to this appointment? What sorts of questions should I be asking? Thanks so much in advance for any comments/suggestions. George in Youngstown Ohio",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> He is 71 years old <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 71
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostatic"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "dad",
+          "NarrationType": "second-person",
+          "PatientGender": "male",
+          "Relation": "dad"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "30/07/2014",
+    "ThreadURL": "https://www.cancerforums.net/threads/40025-Dad-was-Just-Diagnosed?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Dad was Just Diagnosed"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> He is 71 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 71
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 167
+}

@@ -1,0 +1,797 @@
+{
+  "AuthorID": "Nibbs",
+  "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "scared",
+      "worried",
+      "sure",
+      "sure",
+      "understanding",
+      "reassured",
+      "worried",
+      "understanding",
+      "reassured",
+      "worried",
+      "concerned",
+      "willing",
+      "concerned",
+      "willing",
+      "willing",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "0.625",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.25",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.25",
+      "LOVE": "0",
+      "OPEN": "0.25",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.25"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 8,
+  "NPosts": 8,
+  "PSAInfo": {
+    "max": 22,
+    "min": 3,
+    "scores": [
+      4,
+      22,
+      3
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, My Dad was diagnosed with prostate cancer several years ago. At the time his PSA was 22 I think, maybe 20.... He had radiation treatment along with hormone shots. He was in remission and his PSA dropped to literally 0. After that there was a very slow rise, but doctors said it was normal. At his last appointment (3 months ago) it was 4. His doctor said that for his age (hes in his 60s) that was still normal but they would keep an eye on it. His last PSA test was this week and in the last 3 months it has risen to 90. I'm so scared the cancer is back. Obviously all the tests are being scheduled. Bone scan, CT scan, biopsy. They have started him on pills (hormone maybe?) and he will be getting the hormone shot this week. Is there anything more to do? I'm scared. I want it to be an infection....is there a high chance of that at all? Any stories here about PSA rising after treatment and such?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "his age  hes in his 60s  that was still normal but",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "11/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I talked to my dad, he was able to look up his most recent test online, but the rest weren't there. He couldn't remember his previous Gleason score. Would you get that from a blood test or a biopsy? The recent blood test didn't seem to have anything about that listed. He said he thinks his Gleason score might have been 6 when he was first diagnosed. I'm not sure if thats of any help. His doctors office has booked his biopsy for next week.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "13/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I talked to my dad, he was able to look up his most recent test online, but the rest weren't there. He couldn't remember his previous Gleason score. Would you get that from a blood test or a biopsy? The recent blood test didn't seem to have anything about that listed. He said he thinks his Gleason score might have been 6 when he was first diagnosed. I'm not sure if thats of any help. His doctors office has booked his biopsy for next week.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "13/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all the replies. It really means so much to me. Unfortunately I don't know his Gleason score....he has never talked about that so I feel he possibly doesn't know either. I'm planning to ask about it in the next few days, just to see if he knows. He did have a second PSA test done right away to double check the results were accurate since the jump was so big. He currently sees a urologist...I looked up the doctor and he seems to deal with prostate cancer quite a bit. I have met him and he seemed really knowledgeable and on top of things, however, after researching lately I feel more tests should have been done when the PSA started to rise at all. The reason he got another PSA test 3 months later was due to the original rise...but just the fact that it had risen to 4 already from 0 seems to me like it should have been immediately looked into. My dad has a friend who is a doctor (and is his GP) and told me how the doctors weren't worried, etc. I also went to 2 different doctor appointments with him (3 months ago) and they reassured us that it was only something to keep an eye on. I wish now I had done my own research. I find it so hard to deal with/think about that I have avoided it....and I really wish I hadn't. Using the PSA calculator I got a doubling time of .7 for him......I don't understand it very well though. I just want answers that can't be given yet I guess Still badly praying its an infection. It does seem to be a really rapid rise....I don't know. If cancer comes back and spreads, could it rise that fast? I guess it could also be a combination of cancer again and an infection or something else.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "12/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for all the replies. It really means so much to me. Unfortunately I don't know his Gleason score....he has never talked about that so I feel he possibly doesn't know either. I'm planning to ask about it in the next few days, just to see if he knows. He did have a second PSA test done right away to double check the results were accurate since the jump was so big. He currently sees a urologist...I looked up the doctor and he seems to deal with prostate cancer quite a bit. I have met him and he seemed really knowledgeable and on top of things, however, after researching lately I feel more tests should have been done when the PSA started to rise at all. The reason he got another PSA test 3 months later was due to the original rise...but just the fact that it had risen to 4 already from 0 seems to me like it should have been immediately looked into. My dad has a friend who is a doctor (and is his GP) and told me how the doctors weren't worried, etc. I also went to 2 different doctor appointments with him (3 months ago) and they reassured us that it was only something to keep an eye on. I wish now I had done my own research. I find it so hard to deal with/think about that I have avoided it....and I really wish I hadn't. Using the PSA calculator I got a doubling time of .7 for him......I don't understand it very well though. I just want answers that can't be given yet I guess Still badly praying its an infection. It does seem to be a really rapid rise....I don't know. If cancer comes back and spreads, could it rise that fast? I guess it could also be a combination of cancer again and an infection or something else.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "12/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Initially it rose from 0 to 4....probably in the span of a year or so. He does have an enlarged prostate. The digital rectal exam went well and the doctor was not concerned about anything he found. This was all 3 months ago. But due to the PSA rise to 4 the doctor said they'd do another PSA test in 3 months. So at the last test (last week) it had risen from 4 to 90 in that time (since August). Thank you for the information. I will definitely try to get more information from my dad about the Gleason score.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "12/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Initially it rose from 0 to 4....probably in the span of a year or so. He does have an enlarged prostate. The digital rectal exam went well and the doctor was not concerned about anything he found. This was all 3 months ago. But due to the PSA rise to 4 the doctor said they'd do another PSA test in 3 months. So at the last test (last week) it had risen from 4 to 90 in that time (since August). Thank you for the information. I will definitely try to get more information from my dad about the Gleason score.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "12/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    },
+    {
+      "AuthorID": "Nibbs",
+      "AuthorURL": "https://www.cancerforums.net/members/107670-Nibbs?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, My Dad was diagnosed with prostate cancer several years ago. At the time his PSA was 22 I think, maybe 20.... He had radiation treatment along with hormone shots. He was in remission and his PSA dropped to literally 0. After that there was a very slow rise, but doctors said it was normal. At his last appointment (3 months ago) it was 4. His doctor said that for his age (hes in his 60s) that was still normal but they would keep an eye on it. His last PSA test was this week and in the last 3 months it has risen to 90. I'm so scared the cancer is back. Obviously all the tests are being scheduled. Bone scan, CT scan, biopsy. They have started him on pills (hormone maybe?) and he will be getting the hormone shot this week. Is there anything more to do? I'm scared. I want it to be an infection....is there a high chance of that at all? Any stories here about PSA rising after treatment and such?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "his age  hes in his 60s  that was still normal but",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Dad"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "11/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/34843-My-Dad-in-remission-1-year-now-PSA-rise-so-worried?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "My Dad, in remission 1 year, now PSA rise...so worried"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "his age  hes in his 60s  that was still normal but",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "scared",
+        "willing",
+        "scared",
+        "understanding",
+        "reassured",
+        "worried",
+        "understanding",
+        "reassured",
+        "worried",
+        "concerned",
+        "willing",
+        "concerned",
+        "willing",
+        "sure",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0.5",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.25",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.25",
+        "LOVE": "0",
+        "OPEN": "0.25",
+        "POSITIVE": "0.5",
+        "SAD": "0",
+        "STRONG": "0.25"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Infection"],
+      "SideEffectTypeKeywords": ["infection"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "11/11/2013",
+    "TreatmentType": "Radiation",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 1419
+}

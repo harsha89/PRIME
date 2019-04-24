@@ -1,0 +1,151 @@
+{
+  "AuthorID": "tanya1white",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3883596&p=259321",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "ok",
+      "concerned",
+      "determined",
+      "willing",
+      "annoyed",
+      "alarmed",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "tanya1white",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3883596&p=259321",
+    "Content": " OK. The past 3 weeks have been really insane. I'm 46 with no history of breast cancer in my family at all. I breastfed two kids and have never smoked. So, when I noticed that the right side of my right areola began to swell and turn dark red, I was annoyed more than alarmed. I went to the doctor and he put me on antibiotic (probably a breast infection, he said) and sent me for a diagnostic mammogram. \nFast forward two days. Got 3D imaging on both breasts. They called me back in for more pictures on the left. Did ultrasound on right nipple. Didn't really seem all that concerned with it. Called me back to the back and told me they were going to contact my physician so he could refer me so that I could have a stereostatic biopsy of the left breast due to microcalcifications. They didn't give me a BiRAD score, nor did I know to ask for it. \nFast forward 10 days. 10! I go in, expecting a sterostatic biopsy, but the doctor was only concerned with my right nipple. The antibiotic did not work--at all. He did another ultrasound, asked all kinds of questions, and then said he wanted to do a punch biopsy. Well, I kinda freaked. I wasn't expecting this. My husband was just as floored as I was. Neither the imaging lab, nor my normal physician, said anything like this at all. I started asking all kinds of questions, and the doctor was actually fabulous. He seemed genuinely shocked at my confusion. He went over all the reasons why I should do the punch biopsy with him, and then he said he would refer me back to the imaging facility to have the sterostatic biopsy. I would have scheduled it 10 days ago, if I'd have known to do so. We didn't. \nNeedless to say, I did the punch. Waiting for results. (Friday, I'm told). Imaging lab will call tomorrow to schedule the sterostatic. My husband asked him about\n the microcalcification clusters, and he offhandedly said 50/50. Scared me to death. And then he describes Paget's disease to me without actually calling it by its name. He said the punch was to determine if my symptoms are dermal (if they were, he'd refer me to a dermatologist) or a type of cancer that spreads out of the ducts onto the nipple. He didn't explain it at all. Once I looked it up, I figured it out. Are doctors usually this vague??? \nSo here I sit. I'm punched, worried, and a bit pissed off. \nAnyone have a similar story? ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 46 with no history of breast",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 46
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "clusters  and he offhandedly said 50 50 <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 50
+        },
+        {
+          "Confidence": 0.7,
+          "Phrase": "and he offhandedly said 50 50 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 50
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "17/07/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3883596",
+    "Title": "Right nipple issue and cluster microcalcifications in the left breast. Drowning..."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "clusters  and he offhandedly said 50 50 <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 50
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 462
+}

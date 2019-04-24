@@ -1,0 +1,148 @@
+{
+  "AuthorID": "itsucks",
+  "AuthorURL": "https://www.cancerforums.net/members/125666-itsucks?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": ["fearful"],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "itsucks",
+      "AuthorURL": "https://www.cancerforums.net/members/125666-itsucks?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, I'm new here and I registered this account for my dad (61 years old). My dad recently got some blood test and MRI done. He has fear for biopsy and he doesn't have insurance in the U.S. Would really appreciate some feedback and comments on his results from other members on this forum. Do you guys think this is likely prostate cancer? Is a biopsy absolutely necessary at this stage? Thank you all so much! He got his tests done at a non-English speaking country. So I tried my best to translate them into English here: Blood Test Results: FRT: 49.7 ng/ml Normal range: 23.9-336.2 AFP: 5.58 ng/ml Normal range: 0-10 CEA: 1.29 ng/ml Normal range: 0-5 CA125: 4.8 IU/ml Normal range: 0-35 CA153: 5.4 IU/ml Normal range: 0-35 CA199: 6.3 IU/ml Normal range: 0-37 TPSA: 4.93 ng/ml Normal range: 0-4 FPSA: 0.55 ng/ml Normal range: 0-1 FPSA/TPSA: 0.11 Normal range: >0.25 MRI Results: Bladder filling looks fine. The inner wall of the bladder does not look very smooth. Enlarged prostate, mainly enlarged median lobe, is identified. The median lobe shows multi-nodular. The trigone of bladder is clear. Does not observe fluid in the pelvis. Does not observe swollen enlarged lymph nodes. Impression: Prostatic hyperplasia accompanied by median lobe multi-nodular. Suggests biopsy.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7,
+          "Phrase": "this account for my dad  61 years old <Z> <Z> <Z>",
+          "Relation": "second-person",
+          "Tense": "unknown",
+          "Value": 61
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "Prostatic",
+              "prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52856-Suspect-prostate-cancer-Help-needed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect prostate cancer. Help needed."
+    },
+    {
+      "AuthorID": "itsucks",
+      "AuthorURL": "https://www.cancerforums.net/members/125666-itsucks?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all very much everybody for the helpful insights and suggestions! My dad got another test done a couple of days ago. Here's his new numbers: TPSA: 3.10 decreased from 4.93 (tested 7 weeks ago) FPSA: 0.55 same as 7 weeks ago FPSA/TPSA: 0.18 increased from 0.11 (tested 7 weeks ago) Again, I would really appreciate some feedback and comments on his results from other members on this forum. What do you guys think? Thank you!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "11/11/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52856-Suspect-prostate-cancer-Help-needed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect prostate cancer. Help needed."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 338
+}

@@ -1,0 +1,130 @@
+{
+  "AuthorID": "Aryana70",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=538314&p=100987",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "cheerful",
+      "concerned",
+      "sure",
+      "tired",
+      "worried",
+      "pained",
+      "aching",
+      "ached",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "1",
+      "HURT": "3",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Aryana70",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=538314&p=100987",
+    "Content": " Hi Everyone,\nI recently had blood tests done, and everything was fine, except my liver function was up slightly and kidney function was down. But my ANA count was a concern from my doctor, it came back 2560.....I dont know what that means he is sending me to a rheumatologist for more testing. All the bloods for lupus, arthritis all came back negative. So i'm not to sure how i should react and if there is anything to really worry about\n. I've just turned 40, I have aches and pains, headaches, and i'm tired all the time, would this tie in with the high ANA\ncheers ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "<Z> <Z> I've just turned 40  I have aches and pains",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 40
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 6,
+    "PostDate": "26/04/2010",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=538314",
+    "Title": "High Antinuclear Antibody Count & Cancer"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> <Z> I've just turned 40  I have aches and pains",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 40
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 110
+}

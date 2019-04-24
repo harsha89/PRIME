@@ -1,0 +1,130 @@
+{
+  "AuthorID": "Nic till",
+  "AuthorURL": "https://www.cancerforums.net/members/37170-Nic-till?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "willing",
+      "bad",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Nic till",
+    "AuthorURL": "https://www.cancerforums.net/members/37170-Nic-till?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hello My husband is 39 yo African American with results of 14, 13 and 11. The dr did not feel anything so after 3 high psa they scheduled biopsy. His needle biopsy had 2 positive samples with Gleason of 3+4 and 4+3. on on each side of prostate. Drs have scheduled laparosopic removal next week. He had no symptoms and was only tested for required job physical. Unsure of family history. Called Hopkins and they said they would likely recommend surgery but we did not get official second opinion. I have read so much Negative stuff. What are the chances that his biopsy results are not accurate. Also are the surgery side effects really that bad for young men with no prior issues. If we do not treat it now, what are chances it will not spread and not cause issues in the future. Please help, I am losing my mind thinking of him having to wear pads for the next 20 yrs... Thanks for any advice you have.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "help Hello My husband is 39 yo African American with results",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 39
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "02/09/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/25150-Surgery-scheduled-Scared-to-death-help?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Surgery scheduled Scared to death - help"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "help Hello My husband is 39 yo African American with results",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 39
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 177
+}

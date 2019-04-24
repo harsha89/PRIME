@@ -1,0 +1,167 @@
+{
+  "AuthorID": "jen114",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295251&p=19225",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "hopeful",
+      "great",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "jen114",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295251&p=19225",
+      "Content": " thanks, this is my first time in a chat room. if you do hear of anything let me know. thanks, jen ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "31/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295251",
+      "Title": "new chemo for brain mets"
+    },
+    {
+      "AuthorID": "jen114",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=281078&p=19225",
+      "Content": " i have stage v breast cancer and i took xeloda which is a oral form of chemo. i had to stop taking it because it gave me hand and foot syndrome and i went in the hospital for 9 days because i could not walk . it made me very weak. i am now on temadar and thailimicide which is a oral chemo. for brain mets. which i have, they said that this is my last hope so i hope it works. good luck too you, jennifer ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "01/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=281078",
+      "Title": "Chemo Options"
+    },
+    {
+      "AuthorID": "jen114",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295251&p=19225",
+      "Content": "   i have stage v breast cancer w/mets to the brain. 7 brain tumors. the doctor put me on temadar and thalidomide. has anyone outthere been on this chemo. the dr. said that this is my last hope since nothing gets to the brain. if anyone has any information that would be great. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295251",
+      "Title": "new chemo for brain mets"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 164
+}

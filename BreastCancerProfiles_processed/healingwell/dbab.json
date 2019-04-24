@@ -1,0 +1,262 @@
+{
+  "AuthorID": "dbab",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "suspicious",
+      "concerned",
+      "hopeful",
+      "willing",
+      "willing",
+      "wonderful",
+      "caring",
+      "concerned",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0.167",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.167",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "dbab",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+      "Content": " Actually that helps a lot and yes gives me some relief. Thanks coopfesta!!\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "09/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=805117",
+      "Title": "How dependable is a breast ultrasound?"
+    },
+    {
+      "AuthorID": "dbab",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+      "Content": " Looks like I am not out of the woods yet. The other day I noticed a red brown possibly blood discharge when I did a self exam on the right breast (the one that is suspicious), so I called my doc and she referred me to a general surgeon for a second opinion. I will pick up my films and meet with her on Tuesday. Can one have a bloody discharge and it be a benign condition?\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "31/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=805117",
+      "Title": "How dependable is a breast ultrasound?"
+    },
+    {
+      "AuthorID": "dbab",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+      "Content": " Hi, I haven't posted on this forum before but I had concerns and hope you can help. \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=805117",
+      "Title": "How dependable is a breast ultrasound?"
+    },
+    {
+      "AuthorID": "dbab",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+      "Content": " Thank you MK. I will let you know what I find out.\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "09/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=805117",
+      "Title": "How dependable is a breast ultrasound?"
+    },
+    {
+      "AuthorID": "dbab",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+      "Content": " Thanks sylvie, I'm 31 and my doc said that I will start doing the mammograms when I'm 35. I am guessing that she doesn't think the mammogram is necessary right now since she has already felt the lump so I'm just going straight to the ultrasound or she may do the mammogram also depending on what the sonogram shows I'm thinking. \nThank you for the good luck, I'll take all I can get \n \n ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> Thanks sylvie  I'm 31 and my doc said that",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 31
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "doing the mammograms when I'm 35 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 35
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "09/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=805117",
+      "Title": "How dependable is a breast ultrasound?"
+    },
+    {
+      "AuthorID": "dbab",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=805117&p=5814",
+      "Content": " I just got back from my ultrasound and everything looks good. The area that my doc was concerned about\n, turns out was a \"cluster\" of very dense breast tissue. I have a handful of cysts but they told me that they did not look suspicious. Thank you for all for the wonderful information. Take care to all of you!\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "11/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=805117",
+      "Title": "How dependable is a breast ultrasound?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "doing the mammograms when I'm 35 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 35
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 264
+}

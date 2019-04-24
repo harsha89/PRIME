@@ -1,0 +1,166 @@
+{
+  "AuthorID": "zepplin",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2216081&p=131696",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "certain",
+      "certain"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "zepplin",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2216081&p=131696",
+      "Content": " I just finished all my breast cancer treatments. I am 38yrs old and had Stage I breast cancer. Had double mastectomy and major chemo. I spent a lot of time watching Dr. Oz each day and learned a huge amount of info on antioxidents and what to eat for certain health issues. Go to Dr. Oz's website and sign up. Seriously. I learned sooo much from him. I have tried speaking with numerous dietitions, even at Oncology, and NONE of them had any clue. The only things they seem to know are what to eat for your heart. It's like they forgot all the other diseases! \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 38yrs old and had Stage I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 38
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2216081",
+      "Title": "Need Ideas, Well i'm hoping someone may know"
+    },
+    {
+      "AuthorID": "zepplin",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131696",
+      "Content": " Girlfriend, it is very scary to go through! Been there. I just turned 38 and just finished breast cancer treatment. IF it is cancer....IF....you will get through it. You won't know how, but you will. We just do what we have to. It sucks when you have kids, too. But if you have enough supporters, you can do it. I hope you don't and will pray that you don't. I had Stage I and chose, on my own, to have both breasts removed. I had an aggressive cancer, so I did have to have extensive chemo for over 20wks. I got through it. I even have a 3yr old and a 5yr old. My cancer never showed on my mammo's but showed on my Ultrasound. Go figure. Once you have a biopsy, which I would push for, you will have all the answers you need. We can tell you not to worry until you get to that point, but face it, it just doesn't work that way. I found mine on Xmas morning last year and it was all I could think about\n until I was diagnosed on 1/11. It scares the hell out of us no matter what. Hang in there! I really hope you don't have to join our \"club\". Not one I would of chosen! You are on the right track, though, having mammo's etc. now. You have quite the family history. Again.... good luck and I am rooting for you! \n ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "<Z> <Z> I just turned 38 and just finished breast cancer",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 38
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "a 3yr old and a 5yr old <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 5
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "21/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
+      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 38yrs old and had Stage I",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 362
+}

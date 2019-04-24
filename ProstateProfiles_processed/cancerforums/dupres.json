@@ -1,0 +1,811 @@
+{
+  "AuthorID": "dupres",
+  "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "deprived",
+      "great",
+      "surprised",
+      "curious",
+      "thoughtful",
+      "understanding",
+      "close",
+      "concerned",
+      "close",
+      "hopeful",
+      "surprised",
+      "surprised",
+      "thoughtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.375",
+      "HAPPY": "0.125",
+      "HELPLESS": "0",
+      "HURT": "0.125",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.25",
+      "OPEN": "0.125",
+      "POSITIVE": "0.125",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 8,
+  "NPosts": 8,
+  "PSAInfo": {
+    "max": 30,
+    "min": 0.1,
+    "scores": [
+      1.2,
+      2,
+      0.9,
+      0.1,
+      1.6,
+      0.4,
+      29.1,
+      3,
+      1.7,
+      2.1,
+      1.4,
+      23.9,
+      18,
+      27.8,
+      1.3,
+      30
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "In Aug, 2010, I was diagnosed with PCa (PSA-29, Gleason 4+3). In Dec, 2010 I began a 6 month program of Androgen Deprivation Therapy and had IMRT beginning in Feb. 2011. Since that time, my PSA has been raising and, to me, seems high. My results are as follows (note- the 5/31/11 test was while I was still on ADT, which ended in mid June): PSA <0.1 05/31/2011 PSA 0.9 08/30/2011 PSA 1.2 11/29/2011 PSA 1.2 02/27/2012 PSA 1.4 05/22/2012 My urologist says \u0093Your PSA remains stable.\u0094 SAY WHAT?!!! I haven\u0092t been able to find out much about post radiation PSA levels, but what I have found would indicate that my case is unusual (to say the least). My PSA seems high and seems to be on an upward trend. When a PSA reaches 2.0 post radiation, it usually is taken to mean the treatment failed. I am on this forum looking for information (how common ARE my results so far), advice, opinions, references to published research, etc. Thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Androgen"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "23/05/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/23377-rising-PSA-post-radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "rising PSA post radiation"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Otago PSA 29.1 07/14/2010---- I'm curious, what was your psa history prior to 7/14/2010 ? Was it really slow and gradual, or don't you have enough data points to know? Yes, I have considered that possibility. However, at the time of diagnosis, I was told that my cancer was a rare fast growing type. However, I would not be surprised if the slow growth hypothesis turns out to be correct. The urologist seems unphazed by my stats post radiation. I had not had a PSA test before 2010 (indeed, I had not had a physical exam since the early 90's, when PSA test were not in common usage). I only went in for a physical because I has recently retired and thought I would get some \"base line stats\" to compare against as I grew older. I had no symptoms or physical complaints. I was not quite 64 at the time of diagnosis (I am 69 now). My Gleason was 7 (4+3), DRE negative (no less than 5 doctors tried to find something that way, none succeeded- seems like they could believe a 29 could not be felt). I should add that at the time of diagnosis, I knew very little about prostate cancer. In 2010 I did a great deal of research and feel I know a good bit about it. But my research did not uncover much on cases such as mine.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> I was not quite 64 at the time of diagnosis",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 64
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "time of diagnosis  I am 69 now <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 69
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "20/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46438-seeking-literature-relevant-to-my-case?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "seeking literature relevant to my case"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am seeking pointers to research or theoretical discussions of cases such as mine. I was diagnosed in July of 2010 (PSA: 29.1), started treatment (external beam radiation plus 6 month hormone blockade) in December 2010, finished treatment in June 2011. The first PSA test after treatment (at 3 months) was 0.9. Since that time, now over 4 years, my PSA has fluctuated within the range of 1.2 to 2.1. My urologist says only that my PSA is stable and he wants to continue testing at 6 month intervals. But here\u0092s the thing. If you graph the PSA results you see that while the minimums have been consistent at 1.2, the peaks show a slight raising trend. This has me concerned. By this time, FOUR, FIVE MONTHS after treatment ended, the effects of the radiation should no longer be happening. My PSA should either be very close to zero or quite high and rising. I seem to be caught in between the two. My understanding is that my case is very rare and I can find little in the way of research of other medical science papers dealing with cases such as mine. So, can anyone point me towards some literature which might be relevant? Thanks you. PSA History (most recent test first) PSA 1.7 09/21/2015 PSA 2.1 06/24/2015 PSA 1.2 12/13/2014 PSA 1.2 08/26/2014 PSA 1.2 04/28/2014 PSA 1.7 12/28/2013 PSA 1.2 08/27/2013 PSA 1.7 05/29/2013 PSA 1.6 02/27/2013 PSA 1.7 11/28/2012 PSA 1.3 08/29/2012 PSA 1.4 05/22/2012 PSA 1.2 02/27/2012 PSA 1.2 11/29/2011 PSA 0.9 08/30/2011 PSA <0.1 05/31/2011 PSA <0.1 05/03/2011 PSA 0.1 04/05/2011 PSA 23.9 12/21/2010 PSA 27.8 08/24/2010 PSA 29.1 07/14/2010",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46438-seeking-literature-relevant-to-my-case?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "seeking literature relevant to my case"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Diagnosed in 2010, Gleason 7 (4+3), DRE negative. Underwent 6 months of hormone blockade beginning 12/10, 8 weeks radiation beginning 3/11. Below are my PSA results from the first (pre diagnosis) test in July, 2010 until the most recent, Nov. 2012. The urologist says my PSA is \u0093stable\u0094 and doesn\u0092t comment beyond that (except for scheduling another test in three months). What is the opinion of the members of this forum regarding my prognosis? PSA 1.7 11/28/2012 PSA 1.3 08/29/2012 PSA 1.4 05/22/2012 PSA 1.2 02/27/2012 PSA 1.2 11/29/2011 PSA 0.9 08/30/2011 PSA <0.1 05/31/2011 PSA <0.1 05/03/2011 PSA 0.1 04/05/2011 PSA 23.9 12/21/2010 PSA 27.8 08/24/2010 PSA 29.1 07/14/2010",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27091-post-radiation-PSA-results-at-18-months-after-treatment-completed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post radiation PSA results at 18 months after treatment completed"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "a couple of things: the 29.1 was NOT the first PSA test after radiation treatment; it, as well as the other two 20-somethings, were PRE-treatment. the tests though May 2011 were during the hormone blockade and, thus i believe, do not \"count\" as the nadir. neither does the 0.9 in August 2011 as the blockade continues to have a residual effect for several months (often takes a few months for the chemicals to completely clear the body and testosterone levels return to normal). this may be more my hope that anything, but my psa may not have reached a nadir as yet. indeed, i guess that is the key question. it often takes 18 to 24 months (occasionally longer) of fluctuating results before the psa drops to a nadir- but (and indicative of failure) it can also climb more or less steadily after treatment without ever actually reaching a nadir. i've read that EITHER a post treatment psa of greater than 2.0 or three consecutive rises is taken to indicate failure. i haven't had three rises in a row as yet, but i am getting close to the 2.0. that is worrisome. thanks for the good luck wishes,",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["testosterone"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27091-post-radiation-PSA-results-at-18-months-after-treatment-completed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post radiation PSA results at 18 months after treatment completed"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "just my opinion but, i think radical prostatectomy WAS the gold standard; advances in radiation technology now make it a toss up. also, if i remember my research (its been a couple of years), the number of patients undergoing some form of radiation now surpasses that opting for surgery. I think johnT gave the best answer (although, with his gleason and psa scores, i am surprised the drs recommended Brachytherapy as, with his \"numbers\", he falls in the \"high risk\" category where Brachytherapy is usually not recommended- surprised, but very happy it worked out for him). with success rates a wash, the quality of life issues favor Brachytherapy (where warranted).",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26446-Deciding-on-course-of-therapy-Surgery-vs-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Deciding on course of therapy - Surgery vs Brachytherapy"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "just my opinion but, i think radical prostatectomy WAS the gold standard; advances in radiation technology now make it a toss up. also, if i remember my research (its been a couple of years), the number of patients undergoing some form of radiation now surpasses that opting for surgery. I think johnT gave the best answer (although, with his gleason and psa scores, i am surprised the drs recommended Brachytherapy as, with his \"numbers\", he falls in the \"high risk\" category where Brachytherapy is usually not recommended- surprised, but very happy it worked out for him). with success rates a wash, the quality of life issues favor Brachytherapy (where warranted).",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26446-Deciding-on-course-of-therapy-Surgery-vs-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Deciding on course of therapy - Surgery vs Brachytherapy"
+    },
+    {
+      "AuthorID": "dupres",
+      "AuthorURL": "https://www.cancerforums.net/members/31559-dupres?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "It is now 30 months post external beam radiation. For the past two years, my psa has fluctuated between 1.2 and 1.7 (see below). My Dr. continues to state that my psa is \u0093stable\u0094 and reschedules a new test, (now every 4 months), with no further comment. However, all this is worrisome to me. At this point (30 months post treatment), if there was no there was no metastasis and the radiation cured the cancer, the psa should be below 0.4. I have not been able to find any research or discussion of situation such as mine. i would appreciated comments or thoughts on my condition. thanks. The 20-something psa results were PRE-treatment.The tests though May 2011 were during the hormone blockade (which end 6/11). The 0.9 in August 2011, most likely, was also blockade related, as the blockade continues to have a residual effect for several months. Thus, from 11/2011 to 12/2013 (30 post treatment- 8 weeks of radiation stopped 4/2011, blockade stopped 6/2011) my psa has been between 1.2 and 1.7. PSA 1.7 12/28/2013 PSA 1.2 08/27/2013 PSA 1.7 05/29/2013 PSA 1.6 02/27/2013 PSA 1.7 11/28/2012 PSA 1.3 08/29/2012 PSA 1.4 05/22/2012 PSA 1.2 02/27/2012 PSA 1.2 11/29/2011 PSA 0.9 08/30/2011 PSA <0.1 05/31/2011 PSA <0.1 05/03/2011 PSA 0.1 04/05/2011 PSA 23.9 12/21/2010 PSA 27.8 08/24/2010 PSA 29.1 07/14/2010",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/12/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/35725-post-radiation-PSA-results-at-30-months-after-treatment-completed?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post radiation PSA results at 30 months after treatment completed"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "time of diagnosis  I am 69 now <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 69
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 1,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "also, if i remember my research (its been a couple of years), the number of patients undergoing some form of radiation now surpasses that opting for surgery. I think johnT gave the best answer (although, with his gleason and psa scores, i am surprised the drs recommended Brachytherapy as, with his \"numbers\", he falls in the \"high risk\" category where Brachytherapy is usually not recommended- surprised, but very happy it worked out for him)....I think johnT gave the best answer (although, with his gleason and psa scores, i am surprised the drs recommended Brachytherapy as, with his \"numbers\", he falls in the \"high risk\" category where Brachytherapy is usually not recommended- surprised, but very happy it worked out for him). with success rates a wash, the quality of life issues favor Brachytherapy (where warranted)....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1,
+      "docMentions": "drs"
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": ["deprived"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [
+        "close",
+        "hopeful",
+        "surprised",
+        "surprised"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.5",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.25",
+        "OPEN": "0",
+        "POSITIVE": "0.25",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "23/05/2012",
+    "TreatmentType": "Radiation",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "imrt",
+      "prostatectomy",
+      "brachytherapy",
+      "surgery"
+    ]
+  },
+  "WordCount": 1666
+}

@@ -1,0 +1,143 @@
+{
+  "AuthorID": "Gunzergreat69",
+  "AuthorURL": "https://www.cancerforums.net/members/122894-Gunzergreat69?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "important",
+      "free",
+      "okay",
+      "concerned",
+      "willing",
+      "free",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 16.22,
+    "min": 0.18,
+    "scores": [
+      1.2,
+      4,
+      0.18,
+      1.01,
+      1.6,
+      1.11,
+      16.22,
+      15
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "Gunzergreat69",
+    "AuthorURL": "https://www.cancerforums.net/members/122894-Gunzergreat69?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I am a 53 year old White male and will be 54 in September...another six months. I do NOT have any history whatsoever of prostate cancer on either my father's side of the family or my mother's side. When doctors started checking my PSA fifteen years ago it was always a fraction of one percent, like 0.05, etc. In my mid forties it fluctuated steadily between 1.0 and 1.2 and never went higher that 1.2 and that's how it has been until now. I have had four recent blood tests since November 2016 that just happened to include a PSA check even though none of the doctors nor myself were concerned with the prostate. The tests were for other reasons and the doctors just happened to check the PSA for the purposes of being thorough, I suppose. 1) The first test was on November 29th, 2016 and the total PSA was 1.11 ng/mL (Reference Range 0.0-4.0) with the free PSA at 0.18 ng/mL. The total to free PSA ratio was 16.22%. 2) The second blood test was on December 9th, 2016 and the total PSA was 1.2 ng/mL (Ref. Range 0.0-4.0) with the free PSA at 0.18 ng/mL and the free PSA percentage at 15.0%. 3) On February 9th, 2017 a Gastroentrologist ordered complete bloodwork. This time the total PSA was 1.01 (Reference Range 0.00-4.00) but the free PSA was not checked. 4) On March 02, 2017 a GP performing my annual physical ordered complete bloodwork and this time the PSA was 1.6 but no free PSA was tested. On the day I got my results (yesterday) it was a Physician Assistant who gave them to me instead of the doctor. The PA said that the PSA's jump to 1.6 is nothing to worry about as it's way below the threshold of 4.0 I would like to know what those of you here think, as many of you have a lot of experience with this. I recently began walking at a very brisk pace to whip myself into shape after being somewhat sedentary and I walk two to three miles every day. Could the sudden return to exercise make it jump like this? Or perhaps from having sex with my wife? I may very well have had sex just before the blood was drawn and no doctor has ever told me that ejaculation can effect PSA numbers....I learned this by reading on the internet last night. And what importance or significance does free PSA and the percentage ratio have? Are those readings of mine okay? Any information or advice would be GREATLY appreciated. Thank you.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> I am a 53 year old White male and",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 53
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "22/03/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/50477-PSA-jumps-By-Four-Points-In-Three-Weeks?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "PSA jumps By Four Points In Three Weeks."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 53 year old White male and",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 53
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 479
+}

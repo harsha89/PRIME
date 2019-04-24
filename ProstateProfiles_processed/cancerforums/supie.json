@@ -1,0 +1,141 @@
+{
+  "AuthorID": "supie",
+  "AuthorURL": "https://www.cancerforums.net/members/32717-supie?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "approachable",
+      "thoughtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 5.39,
+    "min": 3.5,
+    "scores": [
+      3.66,
+      4.22,
+      5.39,
+      5.22,
+      3.5
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "supie",
+    "AuthorURL": "https://www.cancerforums.net/members/32717-supie?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I live on the California Central Coast near San Luis Obispo. There are no Oncology Radiation doctors here that do Brachytherapy. The closest qualified doctor(s)are 120 miles away (but I do not believe they have extensive experience). So if I have to travel anyway I might as well go another 100+ miles, to the Los Angeles or San Francisco Areas where I should be able to find more experience doctors and Prostate Radiation Centers. The problem with this approach is none of my doctors know who is good in Northern or Southern California. So can anyone recommend Doctors and/or Prostate Radiation Centers, they were very happy with? Also, any thoughts on HDR vs. LDR Brachytherapy? Thanks Age 74 Stage T1c Biopsy 6/28/12 Gleason grade 3+4=7 - 5 of 12 cores positive 5% to 80% PSA 5.39 \u0096 Mar 27, 2012 no symptoms whatsoever. PSA 5.22 - Mar 5, 2012 PSA 4.22 \u0096 Oct 2011 PSA 3.66 - Apr 2011 PSA 3.5 - Dec 2009",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> Thanks Age 74 Stage T1c Biopsy 6 28",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 74
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["Prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "11/07/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/24165-Looking-for-Brachytherapy-Center-Doctor-in-California?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Looking for Brachytherapy Center/Doctor in California"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Thanks Age 74 Stage T1c Biopsy 6 28",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 74
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "brachytherapy"
+    ]
+  },
+  "WordCount": 178
+}

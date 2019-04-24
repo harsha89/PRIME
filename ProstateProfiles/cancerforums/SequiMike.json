@@ -1,0 +1,964 @@
+{
+  "AuthorID": "SequiMike",
+  "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "amazed",
+      "glad",
+      "pleased",
+      "surprised",
+      "bad",
+      "pained",
+      "pained",
+      "ok",
+      "concerned",
+      "thoughtful",
+      "anxious",
+      "aggressive",
+      "aggressive",
+      "anxious",
+      "glad",
+      "nice",
+      "miserable",
+      "hopeful",
+      "willing",
+      "sure",
+      "dread",
+      "pained",
+      "pained",
+      "glad",
+      "nice",
+      "miserable",
+      "great",
+      "hopeful",
+      "willing",
+      "decisive",
+      "fearful",
+      "scared",
+      "pained",
+      "pained",
+      "hopeful",
+      "willing",
+      "sure",
+      "dread",
+      "pained",
+      "pained",
+      "ok",
+      "concerned",
+      "thoughtful",
+      "anxious",
+      "aggressive",
+      "aggressive",
+      "anxious",
+      "amazed",
+      "glad",
+      "pleased",
+      "surprised",
+      "bad",
+      "pained",
+      "pained",
+      "great",
+      "hopeful",
+      "willing",
+      "decisive",
+      "fearful",
+      "scared",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.8",
+      "ALIVE": "0",
+      "ANGRY": "0.4",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.4",
+      "GOOD": "0.8",
+      "HAPPY": "0.6",
+      "HELPLESS": "0",
+      "HURT": "0.6",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.4",
+      "LOVE": "0",
+      "OPEN": "0.2",
+      "POSITIVE": "1",
+      "SAD": "0.6",
+      "STRONG": "0.4"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 10,
+  "NPosts": 10,
+  "PSAInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "Posts": [
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by jkile Hi There, I am 55 and was diagnosed in October. 12 step biopsy, 3 positive. PSA 6, Gleason 6. I am still recovering from my surgery. Prostate removal December 3rd. Catheter out on December 18th. I really had no pain throughout this whole event. The biggest problem was my catheter. I had nerve sparing traditional vs robotic. I seem to have recovered fast in the erection department. Enjoyed my wife for the first time yesterday in almost a month. I'm surprised, but pleased, that your surgery left you with no pain. I took the DiVinci route because it was less invasive, but it's certainly not post-op pain-free. It's not bad - they gave me some narcotics for the pain, but so far I have been surviving fine on Tylenol. Also, glad to hear you're back in the saddle so quickly - that's amazing!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "jkile Hi There  I am 55 and was diagnosed in October",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "31/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi everyone, Been reading through the posts for a while and thought it would be a good time to throw my first post out there. I'm 69 and had been experiencing rising PSA levels for a while. Had a biopsy done at the beginning of October and they told me I had a case of \"non aggressive\" prostate cancer - Gleason score of 6 (3+3). We discussed the various options and I chose removal via Di Vinci robotic surgery. Had that done on Thursday in Seattle and today my abdomen still feels like it was run over by a truck. But I'm trying to walk a little every day and am VERY anxious to get rid of the catheter on Friday. Because I did not want my prostate to be a focus of concern for those around me, I did not tell ANYONE except my wife about the issue. My neighbor called me yesterday to ask if everything was OK, as they hadn't seen me around in a few days, so I know I'm going to have to open up about it soon. Hopefully when I do, I can also tell them that it's all behind me now and I'm OK. Coincidentally, I bought a new Harley about 4 hours before being told I had cancer, so that has been a good mental diversion these past 2-3 months. Can't wait to get better and go riding!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 69 and had been experiencing rising",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "30/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi there, Glad to hear that you met \"Mr DaVinci\" and are doing fine. You'll be feeling a bit stronger each & every day. The only downside I can think of is that you'll need to keep the Harley parked for the next few months. LOL But you should be good to go before spring arrives. Good luck! Chuck Thanks, Chuck! Weather in this part of the country is pretty miserable in the winter, so now I'll have TWO things to look forward to - the completion of my recovery, and a nice ride over the Cascades in the spring. I was going to explain to my wife that the bike is therapeutic, but I think she's smarter than that!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "31/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by jkile SequiMike, Just tell your wife that riding the Harley will help restore the blood flow to a significant area Not sure that will work, but it's worth a try! To be honest, I know which one I would rather be riding at my age, but that's another matter altogether..... ;-0 It has been two weeks since the surgery now, and I'm feeling pretty good. The little incision tapes are gone, as is the dreaded catheter. Still a bit of a leaky faucet, but I'm hoping that will continue to improve. No pain anywhere now, except when the dog unexpectedly comes flying up into my lap.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "10/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi there, Glad to hear that you met \"Mr DaVinci\" and are doing fine. You'll be feeling a bit stronger each & every day. The only downside I can think of is that you'll need to keep the Harley parked for the next few months. LOL But you should be good to go before spring arrives. Good luck! Chuck Thanks, Chuck! Weather in this part of the country is pretty miserable in the winter, so now I'll have TWO things to look forward to - the completion of my recovery, and a nice ride over the Cascades in the spring. I was going to explain to my wife that the bike is therapeutic, but I think she's smarter than that!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "31/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Just a brief update, in case anyone is still reading this thread. In a few days it will be one month since surgery and things are going well. When I press on the incision line above my belly button I feel a little slight pain but, otherwise, I am totally pain-free. I'm still stuffing girlie-pads in my underware, but they are becoming less needed every day, and I no longer fear coughing or blowing my nose. I've been on the Harley a couple of times, but never for more than 15 minutes. The seat still feels a little funny but I am hoping that will go away in time. Last week I got up in the middle of the night and peed blood - scared the dickens out of me. Next morning I peed out a blood clot (ugh!), but everything has been fine since then. Checked with the Doctor's office and his nurse said that's not at all unusual - I wish they had given me a heads-up on that beforehand! Overall I feel great and think I made the right decision. Now I'm looking forward to spring and riding my noisy motorcycle over the Cascades and across central Washington. Life is good.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "24/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by jkile SequiMike, Just tell your wife that riding the Harley will help restore the blood flow to a significant area Not sure that will work, but it's worth a try! To be honest, I know which one I would rather be riding at my age, but that's another matter altogether..... ;-0 It has been two weeks since the surgery now, and I'm feeling pretty good. The little incision tapes are gone, as is the dreaded catheter. Still a bit of a leaky faucet, but I'm hoping that will continue to improve. No pain anywhere now, except when the dog unexpectedly comes flying up into my lap.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "10/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi everyone, Been reading through the posts for a while and thought it would be a good time to throw my first post out there. I'm 69 and had been experiencing rising PSA levels for a while. Had a biopsy done at the beginning of October and they told me I had a case of \"non aggressive\" prostate cancer - Gleason score of 6 (3+3). We discussed the various options and I chose removal via Di Vinci robotic surgery. Had that done on Thursday in Seattle and today my abdomen still feels like it was run over by a truck. But I'm trying to walk a little every day and am VERY anxious to get rid of the catheter on Friday. Because I did not want my prostate to be a focus of concern for those around me, I did not tell ANYONE except my wife about the issue. My neighbor called me yesterday to ask if everything was OK, as they hadn't seen me around in a few days, so I know I'm going to have to open up about it soon. Hopefully when I do, I can also tell them that it's all behind me now and I'm OK. Coincidentally, I bought a new Harley about 4 hours before being told I had cancer, so that has been a good mental diversion these past 2-3 months. Can't wait to get better and go riding!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 69 and had been experiencing rising",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by jkile Hi There, I am 55 and was diagnosed in October. 12 step biopsy, 3 positive. PSA 6, Gleason 6. I am still recovering from my surgery. Prostate removal December 3rd. Catheter out on December 18th. I really had no pain throughout this whole event. The biggest problem was my catheter. I had nerve sparing traditional vs robotic. I seem to have recovered fast in the erection department. Enjoyed my wife for the first time yesterday in almost a month. I'm surprised, but pleased, that your surgery left you with no pain. I took the DiVinci route because it was less invasive, but it's certainly not post-op pain-free. It's not bad - they gave me some narcotics for the pain, but so far I have been surviving fine on Tylenol. Also, glad to hear you're back in the saddle so quickly - that's amazing!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "jkile Hi There  I am 55 and was diagnosed in October",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 55
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "31/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    },
+    {
+      "AuthorID": "SequiMike",
+      "AuthorURL": "https://www.cancerforums.net/members/96665-SequiMike?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Just a brief update, in case anyone is still reading this thread. In a few days it will be one month since surgery and things are going well. When I press on the incision line above my belly button I feel a little slight pain but, otherwise, I am totally pain-free. I'm still stuffing girlie-pads in my underware, but they are becoming less needed every day, and I no longer fear coughing or blowing my nose. I've been on the Harley a couple of times, but never for more than 15 minutes. The seat still feels a little funny but I am hoping that will go away in time. Last week I got up in the middle of the night and peed blood - scared the dickens out of me. Next morning I peed out a blood clot (ugh!), but everything has been fine since then. Checked with the Doctor's office and his nurse said that's not at all unusual - I wish they had given me a heads-up on that beforehand! Overall I feel great and think I made the right decision. Now I'm looking forward to spring and riding my noisy motorcycle over the Cascades and across central Washington. Life is good.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "24/01/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/28136-New-guy-here-post-surgery?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New guy here - post surgery"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "jkile Hi There  I am 55 and was diagnosed in October",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 55
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Clot"],
+    "SideEffectTypeKeywords": ["clot"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 1,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "Had a biopsy done at the beginning of October and they told me I had a case of \"non aggressive\" prostate cancer - Gleason score of 6 (3+3). We discussed the various options and I chose removal via Di Vinci robotic surgery....I'm surprised, but pleased, that your surgery left you with no pain. I took the DiVinci route because it was less invasive, but it's certainly not post-op pain-free....We discussed the various options and I chose removal via Di Vinci robotic surgery. Had that done on Thursday in Seattle and today my abdomen still feels like it was run over by a truck....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [
+        "ok",
+        "concerned",
+        "thoughtful",
+        "anxious",
+        "aggressive",
+        "aggressive",
+        "anxious",
+        "ok",
+        "concerned",
+        "thoughtful",
+        "anxious",
+        "aggressive",
+        "aggressive",
+        "anxious"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0",
+        "ANGRY": "2",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "2",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "amazed",
+        "free",
+        "glad",
+        "free",
+        "pleased",
+        "surprised",
+        "free",
+        "bad",
+        "pained",
+        "pained",
+        "glad",
+        "nice",
+        "miserable",
+        "glad",
+        "nice",
+        "miserable",
+        "amazed",
+        "free",
+        "glad",
+        "free",
+        "pleased",
+        "surprised",
+        "free",
+        "bad",
+        "pained",
+        "pained",
+        "hopeful",
+        "willing",
+        "sure",
+        "dread",
+        "pained",
+        "pained",
+        "hopeful",
+        "willing",
+        "sure",
+        "dread",
+        "pained",
+        "pained",
+        "free",
+        "great",
+        "free",
+        "hopeful",
+        "willing",
+        "free",
+        "decisive",
+        "fearful",
+        "scared",
+        "pained",
+        "pained",
+        "free",
+        "great",
+        "free",
+        "hopeful",
+        "willing",
+        "free",
+        "decisive",
+        "fearful",
+        "scared",
+        "pained",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0.75",
+        "ALIVE": "0.5",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.5",
+        "GOOD": "0.75",
+        "HAPPY": "0.75",
+        "HELPLESS": "0",
+        "HURT": "0.75",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0.75",
+        "POSITIVE": "1",
+        "SAD": "0.75",
+        "STRONG": "1"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Clot"],
+      "SideEffectTypeKeywords": ["clot"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "31/12/2012",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "davinci",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 1695
+}

@@ -1,0 +1,960 @@
+{
+  "AuthorID": "crablad",
+  "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "great",
+      "great",
+      "hopeful",
+      "pained",
+      "pained",
+      "great",
+      "great",
+      "glad",
+      "willing",
+      "sure",
+      "great",
+      "glad",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.727",
+      "HELPLESS": "0",
+      "HURT": "0.091",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.273",
+      "SAD": "0.091",
+      "STRONG": "0.182"
+    }
+  },
+  "GleasonInfo": {"scores": [6]},
+  "NExperiencePosts": 11,
+  "NPosts": 11,
+  "PSAInfo": {
+    "max": 187,
+    "min": 3.8,
+    "scores": [
+      139,
+      44,
+      187,
+      3.8,
+      30
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "\"Dr. Patrick Walsh's Guide to Surviving Prostate Cancer\" this is the best book I have read. My husband had a PSA of 44 at the age of 56 he is now 72. Get a GOOD oncologist and follow your plan with the doctor.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.7,
+            "Phrase": "44 at the age of 56 he is now 72 <Z>",
+            "Relation": "second-person",
+            "Tense": "past",
+            "Value": 56
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "of 56 he is now 72 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 72
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "04/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40648-First-Post-Please-help-me-understand-about-my-Dad-metastatic?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First Post: Please help me understand about my Dad - metastatic?"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "\"Dr. Patrick Walsh's Guide to Surviving Prostate Cancer\" this is the best book I have read. My husband had a PSA of 44 at the age of 56 he is now 72. Get a GOOD oncologist and follow your plan with the doctor.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.7,
+            "Phrase": "44 at the age of 56 he is now 72 <Z>",
+            "Relation": "second-person",
+            "Tense": "past",
+            "Value": 56
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "of 56 he is now 72 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 72
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "04/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40648-First-Post-Please-help-me-understand-about-my-Dad-metastatic?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First Post: Please help me understand about my Dad - metastatic?"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Bravehardon That is a great out come crablad.What procedures did your husband have during the past 16 years? B He has had it all..radiation, seeds, 3 clinical trials,casodex, provenge, zometa, zytiga, taxotere, xtandi. His PSA went from 187 to 26 after taxotere, plus he has also had radiation to bone mets. He just keeps going, works hard and feels good. We have a great oncologist here in Seattle area.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "04/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40648-First-Post-Please-help-me-understand-about-my-Dad-metastatic?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First Post: Please help me understand about my Dad - metastatic?"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Bravehardon That is a great out come crablad.What procedures did your husband have during the past 16 years? B He has had it all..radiation, seeds, 3 clinical trials,casodex, provenge, zometa, zytiga, taxotere, xtandi. His PSA went from 187 to 26 after taxotere, plus he has also had radiation to bone mets. He just keeps going, works hard and feels good. We have a great oncologist here in Seattle area.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "04/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40648-First-Post-Please-help-me-understand-about-my-Dad-metastatic?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First Post: Please help me understand about my Dad - metastatic?"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband's prostate cancer first arrived at the age of 56 he is now 72. First PSA 44 and then 184. He has been on casadex, Zytiga, Provenge and Taxotere. His PSA is now at 30, has spread to the bone but is stable. Last scan July 30, 2014. He gets a Zometa treatment every 3 months. Still working hard and feeling pretty good.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "arrived at the age of 56 he is now 72 <Z>",
+            "Relation": "second-person",
+            "Tense": "past",
+            "Value": 56
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "of 56 he is now 72 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 72
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "04/08/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39204-Taken-off-of-Zytiga-due-to-Kidneys-and-Liver?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Taken off of Zytiga due to Kidneys and Liver"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "\"He has had it all..radiation, seeds, 3 clinical trials,casodex, provenge, zometa, zytiga, taxotere, xtandi. His PSA went from 187 to 26 after taxotere, plus he has also had radiation to bone mets. ...\" Since I posted this my husband's PSA has gone down to 3.8 WOW it has never been this low in 16 years. He is on Xtandi daily and Zometa and hormone shot every three months.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/01/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/42436-A-great-update?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "A great update"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband was diagnosed with prostate cancer in 1996, PSA 44 Gleason 6. The cancer was on its way out of the seminal vertical. Radiation was the only alternative at that time and he had 38 treatments. Then caxidex, protocols with alter viruses, zytiga, zometa, provenge, taxotere and probably more protocols that I can remember. BUT today his PSA has gone form 187 to 26 and holding. That is still a high number but he has no pain and is working like he used to. So for everyone...there is hope and lots of options. At 72 he still looks good and works hard.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> At 72 he still looks good and",
+          "Relation": "second-person",
+          "Tense": "past",
+          "Value": 72
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/08/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40377-18-years?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "18 years"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "After Radium 223 husband is starting Jevtana first treatment this week.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "13/12/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49621-What-s-next?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What's next?"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband had taxotere which worked great but is suffering from chemo- induced peripheral neuropathy in his feet, has anyone else experienced this?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "13/12/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/42101-neuropathy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "neuropathy"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by hollienbilly My name is Hollie and my husband (45) was diagnosed with prostate cancer on 1/14/14. He has no signs or symptoms of the cancer. They started him on hormone therapy and after 6 weeks his psa fell to 139 and then after another 6 weeks it is down to 39. I am very glad to see the numbers drop but does this mean they will go back up faster as well and the cells become resistant? I have so many questions just not sure where to start?? My husband was diagnosed at the age of 54 PSA 44, he is now 72 and his PSA is 30. We have had it go up and down, up and down. He has had probably every type of meds available plus three clinical trials. When his PSA went to 187 he started chemo with taxotere which worked great, some side effects. He is now on Xtandi...we will see how that goes. He is still strong and works hard...so there are lots of options...just find a good oncologist.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "is Hollie and my husband  45  was diagnosed with prostate cancer",
+            "Relation": "second-person",
+            "Tense": "present",
+            "Value": 45
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "diagnosed at the age of 54 PSA 44  he is now",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 54
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "PSA 44  he is now 72 and his PSA is 30",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 72
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "20/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39775-Psa-5-928?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Psa 5,928"
+    },
+    {
+      "AuthorID": "crablad",
+      "AuthorURL": "https://www.cancerforums.net/members/31877-crablad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by hollienbilly My name is Hollie and my husband (45) was diagnosed with prostate cancer on 1/14/14. He has no signs or symptoms of the cancer. They started him on hormone therapy and after 6 weeks his psa fell to 139 and then after another 6 weeks it is down to 39. I am very glad to see the numbers drop but does this mean they will go back up faster as well and the cells become resistant? I have so many questions just not sure where to start?? My husband was diagnosed at the age of 54 PSA 44, he is now 72 and his PSA is 30. We have had it go up and down, up and down. He has had probably every type of meds available plus three clinical trials. When his PSA went to 187 he started chemo with taxotere which worked great, some side effects. He is now on Xtandi...we will see how that goes. He is still strong and works hard...so there are lots of options...just find a good oncologist.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "is Hollie and my husband  45  was diagnosed with prostate cancer",
+            "Relation": "second-person",
+            "Tense": "present",
+            "Value": 45
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "diagnosed at the age of 54 PSA 44  he is now",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 54
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "PSA 44  he is now 72 and his PSA is 30",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 72
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "20/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39775-Psa-5-928?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Psa 5,928"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "of 56 he is now 72 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 72
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [
+        "hopeful",
+        "pained",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "1",
+        "STRONG": "0"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [
+        "great",
+        "glad",
+        "willing",
+        "sure",
+        "great",
+        "glad",
+        "willing",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "1.333",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.667",
+        "SAD": "0",
+        "STRONG": "0.667"
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "great",
+        "great"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": ["great"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "1",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "04/09/2014",
+    "TreatmentType": "Radiation",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 884
+}

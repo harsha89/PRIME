@@ -1,0 +1,125 @@
+{
+  "AuthorID": "jefuchs",
+  "AuthorURL": "https://www.cancerforums.net/members/18468-jefuchs?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "willing",
+      "decisive",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "jefuchs",
+    "AuthorURL": "https://www.cancerforums.net/members/18468-jefuchs?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My wife was recently diagnosed with breast cancer, and next week will have a lumpectomy and possibly will be referred for radiation. The tumor is a little larger than 1cm. Because of the genetics, we were told that chemo is the standard treatment, but she cannot have chemo because of other health issues. Granted, the chemo is intended to treat the whole body to prevent other tumors, not any KNOWN tumors. So skipping treatment only carries a CHANCE of future problems. But how much of a chance? My wife is currently overdue to get back into treatment for a primary brain cancer. That's why she can't have chemo for this. There's no questioning the decision. The right thing to do is deal with the breast cancer as quickly as possible and get right back to the brain cancer. So I'm not asking which treatment is best. I'm just wondering what to expect in the future after not using chemo for the breast cancer. We were told there's a 20% chance of new tumors over the next few years if she doesn't have chemo. But what I don't know is whether those tumors tend to pop up in less-treatable places, and whether they tend to be more aggressive, or numerous. If they come back in an area outside the breasts, how would they be detected early? Mammograms won't find them if they're in other organs. After 6 1/2 years of brain cancer, we're back to the millions-of-questions stage. And this is emotionally difficult for my wife, so I don't ask too many of these questions in front of her. Thanks in advance.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "wife",
+          "NarrationType": "second-person",
+          "NarratorGender": "male",
+          "PatientGender": "female",
+          "Relation": "wife"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "17/06/2016",
+    "Signature": "My wife was diagnosed with grade II Oligodendroglioma in November, 2009 at age 49. Started Temodar in January 2010. Stopped Temodar June 2011. Recurrence confirmed July 2013. Temodar again from April 2014 to March 2015. Recurrence in April 2015. Radiation May-June 2015. Recurrence January 2016. Tumor is bi-lateral and multi-focal. Partial resection in Feb. 2016. Confirmed progression to oligo 3. May 2016 diagnosed with breast cancer. Lumpectomy June 2016. No further treatment recommended for breast cancer, due to priority of brain cancer treatment. Emergency resection July 2016. Started dex. Started Avastin August 2016.",
+    "ThreadURL": "https://www.cancerforums.net/threads/48233-Triple-negative-tumor-receptors-but-no-chemo-What-are-the-risks?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Triple negative tumor receptors, but no chemo. What are the risks?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 299
+}

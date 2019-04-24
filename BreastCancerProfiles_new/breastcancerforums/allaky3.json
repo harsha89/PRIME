@@ -1,0 +1,154 @@
+{
+  "AuthorID": "allaky3",
+  "AuthorURL": "https://www.cancerforums.net/members/17766-allaky3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "glad",
+      "supportive",
+      "hopeful",
+      "willing",
+      "terrified",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "allaky3",
+      "AuthorURL": "https://www.cancerforums.net/members/17766-allaky3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I got my biopsy results back and it's a fibroadenoma. I'm so relieved but also very glad that I pursued the biopsy! After seeing some friends and family members battle breast cancer, it seemed like a must. I will be diligent now about my annual mammo. Though mine was benign, I hope anyone in this situation would get the biopsy. I am terrified of needles, not to mention the possibility of cancer. The biopsy wasn't nearly as difficult as I'd expected...just the waiting was hard. Thank you for your information and support!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "30/09/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/10476-Breast-lump-but-negative-test?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Breast lump but negative test"
+    },
+    {
+      "AuthorID": "allaky3",
+      "AuthorURL": "https://www.cancerforums.net/members/17766-allaky3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I'm 38 and found a lump in my breast. I went to my gyn and she could also feel it and also said there were smaller places surrounding it, but not attached to the chest wall. I had a diagnostic mamogram and ultrasound and both were negative. A needle biopsy is scheduled for next week. Does this sound fibrocystic? Has anyone else had negative results and still have a lump? I guess I'm just confused by the negative results and still have a lump the size of my thumb nail. Obviously I'm worried about cancer. I'm otherwise healthy and have had no problems like this before. I have no risk factors for breast cancer.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "lump but negative test I'm 38 and found a lump in",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 38
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/09/2009",
+      "ThreadURL": "https://www.cancerforums.net/threads/10476-Breast-lump-but-negative-test?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Breast lump but negative test"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "lump but negative test I'm 38 and found a lump in",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 220
+}

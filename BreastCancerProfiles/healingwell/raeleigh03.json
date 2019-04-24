@@ -1,0 +1,129 @@
+{
+  "AuthorID": "raeleigh03",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3356626&p=217350",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "reassured",
+      "lost",
+      "worried",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "raeleigh03",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3356626&p=217350",
+    "Content": " Hello. I am 39. I started about\n a year ago with spontaneous nipple discharge. ...clear. July 2013 i had a mammo and u/s due to a lump i felt. I have been doing these every 6 months since. A year ago after the discharge my ob found a lump under my left nipple. Everything showed cysts as before but was still sent to a surgeon. Surgeon did cytology on discharge.....said rare ductal cells and lymphkcytes. He wasnt worried despite aunt having double masectomy years ago and mom having non-hodgkins and lung cancer and a breast tumor. She passed away in 2013. He said a ductogram would hurt but reassured we can watch and wait. Well now i have bilateral nipple complex cysts and the left feels heavy and the right only discharges if you squeeze it. I see same surgeon tomorrow. I saw a new surgeon PA last week and she calling me back after surgeon returns on Wed. As she feels benign but woth family history and losing a cousin to ovarian cancer a year ago i can get aspiration but maybe need be in OR because \nlocation under nipple and the are 1cm and need for maybe a core biopsy but if still small then consider bilateral excisiobal biopsy because small cysts and \nlocation but i am small chested too so she said may end up lil bit deformed. I have read a lot and i really want a core biopsy like radiologist recommended but i am just lost and confused. And my nerves are all shot. Help \n ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 39 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 39
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "ovarian",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/03/2015",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3356626",
+    "Title": "new complex cysts under nipple and nipple discharge"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 39 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 39
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surveillance"],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": ["watch and wait"]
+  },
+  "WordCount": 271
+}

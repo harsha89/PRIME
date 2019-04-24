@@ -1,0 +1,166 @@
+{
+  "AuthorID": "Chris702",
+  "AuthorURL": "https://www.cancerforums.net/members/127524-Chris702?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "worried",
+      "free",
+      "free",
+      "willing",
+      "free",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 1.5,
+    "min": 1.5,
+    "scores": [1.5]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Chris702",
+      "AuthorURL": "https://www.cancerforums.net/members/127524-Chris702?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi everyone My name is Chris and I\u0092m 47 years old. I have been on a low dose of TRT for the past 6 months. My original PSA was 1.5 but as of last weeks labs it made a significant leap to 5.9. My endocrinologist also had me on Clomid for two months (big mistake) that dramatically increased my testosterone and estrogen levels so I stopped 6 weeks prior to my current PSA lab. My estrogen levels have dropped but are still over the high range at 45 (should be around 20-25) I am very affraid of my current PSA levels and I\u0092m unable to see a urologist until early June because they are all booked up. Should I be as worried as I am? What tests should I request other than the DRE and repeat PSA? Does this sound like CA or an infection. Thank you in advance.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "name is Chris and I\u0092m 47 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 47
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "at 45  should be around 20 25  I am very affraid",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 20
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["estrogen"],
+            "MaleMedicalTerms": ["testosterone"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54959-TRT-and-PSA-Jump?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "TRT and PSA Jump"
+    },
+    {
+      "AuthorID": "Chris702",
+      "AuthorURL": "https://www.cancerforums.net/members/127524-Chris702?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you everyone for all your advice. I will definitely keep you updated after I do a repeat PSA and see my urologist. I\u0092ve been off the TRT for about 2 1/2 weeks and definitely feel the loss of energy even on the super low dose I was on. I will go and pay for my own lab work next week to check my regular and free PSA. Can anyone explain the free PSA and what are considered good and bad numbers? Thanks for everything. You\u0092ve been a big help...",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "10/05/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54959-TRT-and-PSA-Jump?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "TRT and PSA Jump"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "name is Chris and I\u0092m 47 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 47
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 247
+}

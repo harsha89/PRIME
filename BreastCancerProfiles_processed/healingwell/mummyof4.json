@@ -1,0 +1,168 @@
+{
+  "AuthorID": "mummyof4",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2704340&p=168619",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "pleased",
+      "tender",
+      "touched",
+      "concerned",
+      "anxious",
+      "brave",
+      "willing",
+      "upset",
+      "upset",
+      "lost",
+      "terrified",
+      "anxious",
+      "worried",
+      "tearful",
+      "hurtful",
+      "anxious",
+      "willing",
+      "anxious",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0.5",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "2.5",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "mummyof4",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2704340&p=168619",
+      "Content": " Hi,don't know if I'm posting in the right part I apologise in advance if I am.\nI found a lump in my breast last week which was tender to touch,went to the doctors the next day where he examined me and said it was fatty tissue and he is not concerned at all about\n it. I'm a very anxious person I worry about\n everything and was in tears while he was talking I'd already convinced myself it was cancer. He seen how upset I was an asked if I would like him to get me an appointment for the breast clinic to ease my mind which I said yes too. He stated that he was only sending me as I had asked an he didn't think there was any chance of it being cancer as the lump felt benign plus it he said it was extremely rare for someone of my age to get breast cancer (I'm 25). I have my appointment next wednesday which I'm terrified about\n an was wondering if anybody could please tell me what to expect. Also will I need a biopsy no matter what? And how long will I have to wait for the results?\nThe lump is now smaller an does not hurt any more an whereas I could feel it straight away last week I now have to root to find it,is this a good sign that it might not be cancer?\nI'm making myself ill with worry,I'm not sleeping or eating properly and have lost 7lbs since my appointment with the doctor. I put a brave face on for my husband and children but inside I'm falling apart :(\nThanks in advance for any replies xxx ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "to get breast cancer  I'm 25 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/04/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2704340",
+      "Title": "breast lump"
+    },
+    {
+      "AuthorID": "mummyof4",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2704340&p=168619",
+      "Content": " Thank you so much for your reply,I'm a little less anxious after reading it.\nI'm trying to keep my self occupied so I don't think about\n it too much,plans for my youngest birthday next week so hopefully I will be to busy to worry.\nThanks again for your reply x ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "17/04/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2704340",
+      "Title": "breast lump"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "to get breast cancer  I'm 25 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 25
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 354
+}

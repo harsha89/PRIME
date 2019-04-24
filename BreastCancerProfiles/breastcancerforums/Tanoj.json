@@ -1,0 +1,167 @@
+{
+  "AuthorID": "Tanoj",
+  "AuthorURL": "https://www.cancerforums.net/members/95570-Tanoj?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "merry",
+      "willing",
+      "caring",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Tanoj",
+      "AuthorURL": "https://www.cancerforums.net/members/95570-Tanoj?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi Friends, iam here becos my mother ( Age - 65 years ) , is diagnoised with breast cancer ( High grade, non invasive, insitu ductal carcinoma ) , a month ago let me tell you abt the journey so far - last month she told me that she found a lump in her breaset , i just checked with hand and noticed it could be around 5 CM in lenght and 3 cm wide we went to oncologist, he did fine needle byopcy - the report said ( it is in fravour of insitu ductal carcinoma ) then for 5 days he prescribed - antibiotic tablets - ( augmentin 625 mg , 3 times a day ) we went to him after a week, he found that redness decreased, however wanted to confirm once more, so he did tru cut byopsy the report came after 5 days and said it is just infection and not cancer we continued the antibiotic for other 5- 10 days and went to him, the lump was still there so he did biopsy ( opened and removed a small piece ) , after 5 days the report came and it says its facorable High grade, non invasive, insitu ductal carcinoma ) the onco sergeon suggested we shuld do masstectomy next week ( 12/20 ) i read about graviola fruit , that it cures cancer, luckly i found it at fruit marker, from last three days we are giving her the juice ( 3 times a day - 100 ml approx ) did anyone got cured by eating this fruit ? do i go for one more biopsy at a different diagnostic center to re-confirm ? any suggestions and help will be highly appreciable Thanks and Merry Christmas to everyone",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.9,
+            "Phrase": "here becos my mother   Age   65 years     is diagnoised with breast",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 65
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "do masstectomy next week   12 20   i read about graviola fruit",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 20
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "oncologist",
+            "MainSubject": "oncologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27650-Hello-friends-Iam-From-INDIA-Breast-cancer-to-mom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Hello friends, Iam From INDIA - Breast cancer to mom"
+    },
+    {
+      "AuthorID": "Tanoj",
+      "AuthorURL": "https://www.cancerforums.net/members/95570-Tanoj?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Mom got Mastectomy yesturday, do you people think it will solve the issue completly ? what care do i need to take more than usual ? Any suggestions are welcome which can help her recover Thank you Tanoj",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Mom",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "Mom"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "25/12/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/27650-Hello-friends-Iam-From-INDIA-Breast-cancer-to-mom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Hello friends, Iam From INDIA - Breast cancer to mom"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "here becos my mother   Age   65 years     is diagnoised with breast",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 65
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Hernia"
+    ],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 313
+}

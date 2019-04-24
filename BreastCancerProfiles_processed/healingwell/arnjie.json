@@ -1,0 +1,151 @@
+{
+  "AuthorID": "arnjie",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2704340&p=169429",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "blessed",
+      "willing",
+      "blessed",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "arnjie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2704340&p=169429",
+      "Content": " hi i'm 23 yrs old i found a lump in my right breast, so i decided to go to my gynecology so i undergo a breast ultrasound and the result stated that i have a small well-defined complex(retroareola region)(4mm)and hypoechoic (7 o'clock)(3mm) and no architectural distortion or ductal ectasia. what does itmean?is it dangerous?and my dr. said that i just have to observe it after six months and i will undergo again a breast ultrasound.thanks guys!God bless ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> hi i'm 23 yrs old i found a",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 23
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "28/04/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2704340",
+      "Title": "breast lump"
+    },
+    {
+      "AuthorID": "arnjie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2704340&p=169429",
+      "Content": " thanks for reply.. :) i really appreciate it.. but i found another lump in my left breast it was so small and movable...do you think that complex nodule is a serious thing?and what hypo echoic means? my ob said that it was just water..but when i read it in the internet it was not.. i'm so worried :( thanks for sharing your experience and ideas God bless :) ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "29/04/2013",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2704340",
+      "Title": "breast lump"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 156
+}

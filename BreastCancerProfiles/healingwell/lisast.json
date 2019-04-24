@@ -1,0 +1,152 @@
+{
+  "AuthorID": "lisast",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3207761&p=207597",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "affected"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "lisast",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3207761&p=207597",
+      "Content": " Hello everyone. I started taken Tamoxifen beginning of 2013. My periods continued as normal for a few months, then they totally stopped, and i didnt see one for almost 6 maybe 7 months. I know this medication can put you into menopause, so i just figured that is what was going on. Last month i started bleeding, not just a normal period, but a very very heavy one, one that i was changing pads every 30 minutes or less, and bleeding all over myself. This lasted about\n 3 to 4 days and then i stopped. This month i started again and same thing, im flooding everything. Is this a normal function for being on tamoxifen or should i go see my doctor? anybody have this issue ,any suggestion will be helpful.\nThanks\nLisa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "menopause",
+              "periods"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/10/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3207761",
+      "Title": "Tamoxifen and cycle changes."
+    },
+    {
+      "AuthorID": "lisast",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3207769&p=207597",
+      "Content": " Lisa, age 48, ohio. cancer left breast, double mastectomy November 2012 . On Tamoxifen for 5 years. Tamoxifen sucks, many side affects , and weight gain. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> new member  Lisa  age 48  ohio <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 48
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/10/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3207769",
+      "Title": "new member"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> new member  Lisa  age 48  ohio <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 48
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bleeding"],
+    "SideEffectTypeKeywords": ["bleeding"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 163
+}

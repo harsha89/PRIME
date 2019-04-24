@@ -1,0 +1,176 @@
+{
+  "AuthorID": "Jetcap",
+  "AuthorURL": "https://www.cancerforums.net/members/112119-Jetcap?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "great",
+      "free",
+      "concerned",
+      "willing",
+      "free",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 6,
+    "scores": [
+      6,
+      7
+    ]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 8.7,
+    "min": 7.7,
+    "scores": [
+      7.7,
+      8.7
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Jetcap",
+      "AuthorURL": "https://www.cancerforums.net/members/112119-Jetcap?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all! I just recently found this forum and wanted to thank all that have shared their experiences. They gave me that extra bit of information that is so much better coming from those that have lived it rather than the medical texts. I am 62 and on a routine physical last January my psa came in at 8.7. Off to the urologist. After a normal DRE, 10 days of cipro. The next psa was 7.7 but the free psa was not good. I then had a 3t MRI that showed an area of concern. The next step was an MRI guided biopsy that showed a 3+4 on the Gleason scale on the right side in 25%. My urologist sent me to a radiation oncologist and a D Vinci surgeon for consultations, both at home in Florida. My local doc recommended the hormone therapy and beam radiation. Not the Brachytherapy. This is where this forum really helped. I read the names of several doctors and decided to go to Johns Hopkins and talk to Dr. Allaf about the robotic and Dr. Burnett about the open. Due to possible scar tissue from a prior surgery both recommended the open procedure. I had the procedure yesterday morning. In the days leading up to surgery Dr. Burnett called me at home to answer follow up questions and quickly responded to emails. Both the pre and post op system is first rate with great staff. Dr. Burnett referred to my operation as text book. Post op pain has been minimal. I was up and walking 10 hours after. I cannot say enough about Dr. Burnett and all here at Johns Hopkins. It will take a few days for the final pathology, but the doctor says it looks great. Both nerves in good shape as well. I learned just yesterday a friend has been diagnosed as well. I've emailed him a link to this forum. Thanks again to all!!! Jetcap",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 62 and on a routine physical",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/07/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40040-First-post?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First post"
+    },
+    {
+      "AuthorID": "Jetcap",
+      "AuthorURL": "https://www.cancerforums.net/members/112119-Jetcap?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Thank you Di, for sending him over. And wishing you, Jetcap, a warm welcome to the forum. Please forgive me for taking the liberty of segmenting your post (by inserting a few blank lines of seperation) so that it is easier to read. Sorry, that's the journalist in me. LOL Dr Burnett sounds like a patient's dream in being so communicative through phone calls and prompt email responses. Please share your pathology report with us when you receive it. Sounds like all went very well. A great thing to know (if you don't already know about this) is that you \"had!\" the \"good\" type of Gleason 7 because a 3+4 can often behave more like the low risk Gleason 6. Sounds like you can look forward to a very good report. Also wishing a warm welcome to Dr Burnett if he should use the link to our forum. Best wishes! Chuck First, let me thank you for cleaning up my post. I guess you could say the journalist in you covered for the oxycodone in me lol. I have not yet received the written pathology report. I did receive a call from my doctor and he confirmed an all clear!! The grade remains at a 3+4. The cancer was confined to the proststate. A few lymph nodes were tested as well. It has been a week now and while still on pain meds, I have cut the usage 50%. No other unexpected issues thus far.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "07/08/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40040-First-post?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "First post"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 62 and on a routine physical",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 62
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "brachytherapy",
+      "post op",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 587
+}

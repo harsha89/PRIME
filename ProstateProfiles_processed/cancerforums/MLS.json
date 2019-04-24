@@ -1,0 +1,219 @@
+{
+  "AuthorID": "MLS",
+  "AuthorURL": "https://www.cancerforums.net/members/115931-MLS?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "willing",
+      "romantic",
+      "concerned",
+      "affected",
+      "hopeful",
+      "willing",
+      "sure",
+      "concerned"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0.25",
+      "OPEN": "0",
+      "POSITIVE": "0.75",
+      "SAD": "0",
+      "STRONG": "0.25"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 3.1,
+    "min": 3,
+    "scores": [
+      3.1,
+      3
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "MLS",
+      "AuthorURL": "https://www.cancerforums.net/members/115931-MLS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Catheter came out fairly easily today and then went for ultrasound. He still was retaining liquid (250 after justing using restroom). Nurse taught him how to self catheter to be on the safe side. Once catheter was in quite a few blood clots came out with urine nurse said that hopefully that unclogged any thing that was still plugging him up. We will see the doctor on Wednesday, any thoughts?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "nurse",
+            "MainSubject": "nurse",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "22/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44243-Weekend-getaway-turned-into-ER-visit-and-catheter-for-urinary-retention-now-what?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Weekend getaway turned into ER visit and catheter for urinary retention, now what?"
+    },
+    {
+      "AuthorID": "MLS",
+      "AuthorURL": "https://www.cancerforums.net/members/115931-MLS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My husband and I's romantic getaway weekend turned into a visit at the ER because he could not Pee and stomach was rock hard. It took ER nurses three times to finally be able to get foley in, there seemed to be a lot of blood. Drained 1500 of urine. Saw a urologist yesterday and would like to keep Cath in for two more days to give the bladder a rest. Husband will clip one end of catheter and remove himself on Thursday and follow up for an ultrasound Thursday afternoon to see if he is still retaining liquid. Dr. visit on the following Tuesday to discuss options. What tests should we make sure to have done in order to verify no prostate or bladder cancers. We are hoping it is BPH and not any type of cancer. He Had been getting testosterone treatments for a year and a half but has not had any in the last six months. He was taking an over the counter enhancement pill called Zyrexin the night before and morning of ER visit. Could there be an adverse affect to taking this supplement? He is 60 yrs, psa last 3 years in the upper 3 range, testosterone treatments for about 1.6 years. What are treatments for BPH with minimal invasion? Thank you for your help, very concerned wife",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> <Z> He is 60 yrs  psa last 3 years",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "testosterone"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "Husband"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44243-Weekend-getaway-turned-into-ER-visit-and-catheter-for-urinary-retention-now-what?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Weekend getaway turned into ER visit and catheter for urinary retention, now what?"
+    },
+    {
+      "AuthorID": "MLS",
+      "AuthorURL": "https://www.cancerforums.net/members/115931-MLS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "He was prescribed antibiotics at hospital and rapidflo by urologist. PSA 2014 3.1; 2013 3.64; 2012 3.12",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "19/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44243-Weekend-getaway-turned-into-ER-visit-and-catheter-for-urinary-retention-now-what?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Weekend getaway turned into ER visit and catheter for urinary retention, now what?"
+    },
+    {
+      "AuthorID": "MLS",
+      "AuthorURL": "https://www.cancerforums.net/members/115931-MLS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Voiced our concerns with Dr about husband removing at home, he said it would be no problem and then go to office about 4-5 hours later. Praying no problems",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "husband",
+            "NarrationType": "second-person",
+            "NarratorGender": "female",
+            "PatientGender": "male",
+            "Relation": "husband"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "19/05/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/44243-Weekend-getaway-turned-into-ER-visit-and-catheter-for-urinary-retention-now-what?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Weekend getaway turned into ER visit and catheter for urinary retention, now what?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> <Z> <Z> He is 60 yrs  psa last 3 years",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 359
+}

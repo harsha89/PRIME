@@ -1,0 +1,141 @@
+{
+  "AuthorID": "markjo",
+  "AuthorURL": "https://www.cancerforums.net/members/2199-markjo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "ok",
+      "hopeful",
+      "insistent",
+      "willing",
+      "sure",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "3",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "markjo",
+    "AuthorURL": "https://www.cancerforums.net/members/2199-markjo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "hi everyone: i was looking on the net on breast cancer and came across your site.i am going in for an ultrasound on wed 3rd may and will be having a biopsy in the afternoon.i am 42 menopausal and have a lump on my right breast that is being investigated further i am hoping all will be ok.i have a sister inlaw that had breast cancer ,which then moved on to 5 brain tumors and then she ended up with cancer of the spine.she passed away last week at the age of 40.on her insistance i had the mamogram done.thank god i went when i did...i have had the lump for 13 years but it has grown bigger and now they are worried about it...this is a wonderful site and i am sure i will be getting alot of feedback and i will also be here for anyone needing someont to talk to.thanks for listening jo-anne",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> am 42 menopausal and have a lump",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 42
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "week at the age of 40 on her insistance i had",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 40
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "menopausal",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 3,
+    "PostDate": "29/04/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/587-READ-THIS-BEFORE-POSTING?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "READ THIS BEFORE POSTING"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> am 42 menopausal and have a lump",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 42
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 166
+}

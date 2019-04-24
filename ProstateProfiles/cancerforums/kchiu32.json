@@ -1,0 +1,135 @@
+{
+  "AuthorID": "kchiu32",
+  "AuthorURL": "https://www.cancerforums.net/members/111668-kchiu32?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "willing",
+      "hesitant",
+      "hesitant"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "Posts": [{
+    "AuthorID": "kchiu32",
+    "AuthorURL": "https://www.cancerforums.net/members/111668-kchiu32?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi everyone, I am posting for my dad 67 year old with hypertension and high cholesterol. Otherwise generally healthy. Testing: PSA currently at 7. Peak of 10 at one point but lowered with finasteride and tamsulosin. Biopsy: Left lobe ok Right lobe Gleason score 4+3=7 noted in 2 out of 2 submitted core segments. Approximately 36% of submitted tissue involved. Future: Just got a chest xray done. Will be getting a bone scan soon. Doctor is recommending robotic radical prostatectomy. Should we get a second opinion and see if this procedure is really necessary? I am hesitant for him to undergo this after reading about all the potential adverse effects following the procedure.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.8,
+        "Phrase": "am posting for my dad 67 year old with hypertension and",
+        "Relation": "second-person",
+        "Tense": "present",
+        "Value": 67
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "28/06/2014",
+    "ThreadURL": "https://www.cancerforums.net/threads/39428-Newly-diagnosed-should-I-seek-a-second-opinion?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Newly diagnosed - should I seek a second opinion?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Clot"],
+    "SideEffectTypeKeywords": ["hypertension"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "prostatectomy",
+      "robotic"
+    ]
+  },
+  "WordCount": 123
+}

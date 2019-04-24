@@ -1,0 +1,160 @@
+{
+  "AuthorID": "StiffUpperLip",
+  "AuthorURL": "https://www.cancerforums.net/members/125682-StiffUpperLip?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "spirited",
+      "determined",
+      "hopeful",
+      "scared",
+      "desperate",
+      "understanding",
+      "comfortable",
+      "encouraged",
+      "certain",
+      "comforted",
+      "hopeful",
+      "certain",
+      "disappointed"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.5",
+      "GOOD": "1.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0.5",
+      "POSITIVE": "1.5",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "StiffUpperLip",
+      "AuthorURL": "https://www.cancerforums.net/members/125682-StiffUpperLip?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi everyone, I'm somewhat desperate for information. Two and a half weeks ago my 71 year old dad was diagnosed with stage 4 metastatic prostate cancer. His scans show it has spread to his bones, spinal cord, one eye socket and likely into his brain due to neurologic symptoms he has had. I'm having trouble finding information on treatments for his particular advanced stage, other than it is so rare for it to be in the brain. My dad is in amazingly high spirits considering everything and seems determined to fight as long as he can. So far he has only seen the urologist (horrible healthcare system options in the area). The urologist did place him on ADT and told him that his PSA was 4200 and that result was incredibly high. Can that result be right if normal is below 10? Should we request a redraw? My dad is supposed to see the oncologist this week and get his Gleason score and (possibly) more treatment options. We are all trying to be positive for him, but honestly the minute I leave I break down. He has always been an incredibly healthy and strong farmer and just three days after his diagnosis he barely had the strength to walk me down the aisle and can't do much without having to stop and rest. He seems to be declining right in front of me and I'm scared that the reason I can't find information might be because there is nothing that can be done for him. Any information you have at all is greatly appreciated!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "a half weeks ago my 71 year old dad was diagnosed",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52869-Dad-with-metastatic-prostate-cancer-is-there-hope?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad with metastatic prostate cancer, is there hope?"
+    },
+    {
+      "AuthorID": "StiffUpperLip",
+      "AuthorURL": "https://www.cancerforums.net/members/125682-StiffUpperLip?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for giving me hope! My dad had an appointment with the oncologist today. I live several hours away, so my siblings and mother are taking turns attending the majority of appointments with him. My dad was very encouraged by his appointment today. The oncologist told him that he could live another 1-5 years with treatment! Apparently they are going to monitor the effectiveness of the ADT by rechecking the PSA periodically. They are going to go with the ADT for about a month and then begin adding chemo. From what I understand, it sounds like he would be receiving chemo once every three weeks (not certain about that yet). I was disappointed that the oncologist did not have a Gleason score for him, but my dad was told that they aren't going to bother with a prostate biopsy and just use PSA levels instead. What made me even happier today was when my dad said that he feels like the ADT is already having an effect because he has experienced a significant decrease in the itching/skin discomfort that he has had for many months. He said it isn't gone, but that it is already much more tolerable. I'm so relieved that after over a year of going to the doctor and getting brushed off before this diagnosis, even though his prognosis is not good, he is at least starting to be be a bit more comfortable.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "25/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52869-Dad-with-metastatic-prostate-cancer-is-there-hope?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad with metastatic prostate cancer, is there hope?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "a half weeks ago my 71 year old dad was diagnosed",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 71
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 521
+}

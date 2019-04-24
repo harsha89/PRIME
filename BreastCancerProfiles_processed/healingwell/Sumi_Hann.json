@@ -1,0 +1,175 @@
+{
+  "AuthorID": "Sumi_Hann",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=898777&p=52648",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sympathetic",
+      "energetic",
+      "pleased",
+      "tender",
+      "concerned",
+      "willing",
+      "worried",
+      "pained",
+      "pained",
+      "crying",
+      "confident",
+      "free",
+      "important",
+      "free",
+      "caring",
+      "confident",
+      "free",
+      "upset",
+      "cross",
+      "upset"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "1",
+      "ANGRY": "1",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "1",
+      "OPEN": "1.5",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Sumi_Hann",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=898777&p=52648",
+      "Content": " Hello everyone, I've never posted on these forums before and I'm just really thankful that I can come here and speak of my concerns because frankly...I'm a bit freaked out. I just turned 19 years old and for maybe a year I've been experiencing mild sharp pain (like tiny hot needles) in my left breast accompanied by increased lumpiness and tenderness. I want to state that as far as I know only one family member has had fibrocystic breasts. Additionally, there is no history in my family of any other cancers including breast. I don't know if being overweight contributes (which that one family member is) while on the other hand my whole life I've fluctuated between 110 and 120 lbs. My breast are a large C cup, so no extra fatty tissue there either. I looked up the \"disease\" but apparently I'm too young to have it. However, the symptoms are practically identical and seem too to worsen before and after my period. Since I learned that breast pain could be due to hormonal changes I guess I should say that I became sexually active (I don't know if the frequency contributes, but I have relations on average about\n 3 times a day every day) about\n a year ago, and soon thereafter, the pain. My menstrual period thereafter also changed. It increased from four days or less to 7 or 8 days! I never experienced menstrual pains in any way shape or form and gradually the pain has become unbearable. Since stress might also be an underlying factor: this last year has been extremely stressful for me in many ways. And please, don't worry about\n being sympathetic, but I cry almost every night. Also, my whole life I've been very active and energetic. I exercised everyday of my life until about\n a year ago, and abruptly stopped altogether. I have never been pregnant so no breastfeeding. With all that in mind I'm trying to piece together a cause but I have nothing so far, except for maybe fibrocysts. I could go to a doctor but I have no insurance or anything. \nI will greatly appreciate any feedback no matter how seemingly insignificant. Thank You all very much in advance. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I just turned 19 years old and for maybe",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 19
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnant",
+              "breast",
+              "breasts",
+              "menstrual"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/08/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=898777",
+      "Title": "naive child says:I'm too young to worry about breast cancer!"
+    },
+    {
+      "AuthorID": "Sumi_Hann",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=898777&p=52648",
+      "Content": " Thank You for the replies I looked a few things up and still could not find anything that matched my symptoms. Until...I stumbled upon fibroadenoma. Check this: it happens MOSTLY to young women precisely in late teens early twenties (which rules out the age issue), it is most common in the left breast because (perhaps) of blood flow (that is an important area), and it is a cause of hormonal craziness (which I have been experiencing) and freakin' estrogen taking over. *phew* I'm pretty confident that this it. Oh, and it is also caused mostly because of stress. Man, that set me off. I was so upset to know that the situations I've had this past year have made me sick like this. It's crazy. It made me realize how important it is to live stress free and to take care of oneself. I visited my mom yesterday and she said she also wants to get some testing done to herself and tomorrow we're both going to get mammograms! I feel a lot better now that I know it's actually the most common benign breast condition ( if it is indeed fibroadenoma). I'm crossing my fingers. \nIt might seem redundant or lame but I really am grateful that many of you actually take your times to read this and offer advice. I have no one to talk to about\n this. I live in a man's world (no seriously, I'm the only young female in my family). Hehe. My mom is real busy and lives elsewhere. Anyway, thank you all. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "estrogen",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "29/08/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=898777",
+      "Title": "naive child says:I'm too young to worry about breast cancer!"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.75,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 661
+}

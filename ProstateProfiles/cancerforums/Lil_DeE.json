@@ -1,0 +1,150 @@
+{
+  "AuthorID": "Lil_DeE",
+  "AuthorURL": "https://www.cancerforums.net/members/111445-Lil_DeE?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 8,
+    "min": 8,
+    "scores": [8]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Lil_DeE",
+      "AuthorURL": "https://www.cancerforums.net/members/111445-Lil_DeE?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I'm 48, I was told by my GP on friday 6th June that i had a PSA reading of 8. I actually live in North London so am I safe to assume I should hopefully qualify for eligability to attend the Royal Marden as I live in the London area? is there a website available that I can check what other specialist units are in the London area or should i stick with the Royal Marden as the best choice for prostrate cancer diagnosis/treatment?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 48  I was told by my",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 48
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "10/06/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39083-What-is-the-best-Hospital-in-London-for-prostrate-Diagmosis-treatment?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What is the best Hospital in London for prostrate Diagmosis / treatment?"
+    },
+    {
+      "AuthorID": "Lil_DeE",
+      "AuthorURL": "https://www.cancerforums.net/members/111445-Lil_DeE?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, I have just had a higher than normal PSA test and i'm about to be refered to a specialist for further diagnosis/treatment. I've been told by a friend that I dont have to go to my local catchment Hospital but I can ask my Doctor to be refered to any hospital of my choice. The Royal Marsden was suggested as a world leader in cancer diagnosis/treament. Can anyone here confirm: a) That I can pick which NHS hospital I attend in the UK under current rules? b) The Royal Marsden would be the best hospital to attend for Prostrate cancer diagnosis/treatment in London? Any advice would be greatly appreciated.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/06/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/39083-What-is-the-best-Hospital-in-London-for-prostrate-Diagmosis-treatment?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What is the best Hospital in London for prostrate Diagmosis / treatment?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 48  I was told by my",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 48
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 213
+}

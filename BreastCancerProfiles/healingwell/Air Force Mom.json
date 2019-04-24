@@ -1,0 +1,151 @@
+{
+  "AuthorID": "Air Force Mom",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349559&p=136789",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "wonderful",
+      "comfortable",
+      "comforted",
+      "willing",
+      "terrified",
+      "worried",
+      "wronged",
+      "supportive",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.5",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Air Force Mom",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349559&p=136789",
+      "Content": " tbossk - I'm in the exact same boat as you. I had my very first physical - which included my very first mammogram a couple of weeks ago. I've always been healthy and never went to the doctor. Now my insurance more or less requires us to get a physical every year. The tech also told me not to worry if I get a call back that it's extremely common. I'm a stats person, so it comforted me to read that 92% of callbacks turn out to be nothing. I also read on an earlier post that 80% of lumps are benign. I know I have these great odds, but I'm still terrified. My husband has been wonderful. He says whatever it is, we'll get through it. I am just worried how my kids will handle it if something is wrong. I haven't told them anything yet. I didn't want them to worry since I don't really know anything at this point - and it could very well be nothing. When the nurse called me, she said it could be calcium deposits or even a mole - so it sounds like it is small. I was so much beside myself when I got the call back, nothing really sank in and I didn't ask any questions. I go for my 2nd mammogram and ultrasound on Thursday - December 29th. I'll take any prayers I can get. I'm a strong believer. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 36,
+      "PostDate": "23/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=349559",
+      "Title": "Second Call back On Mammogram and scared"
+    },
+    {
+      "AuthorID": "Air Force Mom",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349559&p=136789",
+      "Content": " Thanks, Bev. I really appreciate your support! I will check back in a couple of days.. hopefully with good news! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 62,
+      "PostDate": "27/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=349559",
+      "Title": "Second Call back On Mammogram and scared"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 269
+}

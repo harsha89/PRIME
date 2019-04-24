@@ -1,0 +1,232 @@
+{
+  "AuthorID": "Rolian",
+  "AuthorURL": "https://www.cancerforums.net/members/104449-Rolian?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "willing",
+      "pained",
+      "pained",
+      "hopeful",
+      "willing",
+      "worried",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0.25",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0.25",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 5,
+  "PSAInfo": {
+    "max": 100,
+    "min": 4.08,
+    "scores": [
+      4.08,
+      100,
+      50
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Rolian",
+      "AuthorURL": "https://www.cancerforums.net/members/104449-Rolian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you newporter! After consulting with different doctors, we decided to start Casodex instead of Flutamide. We will see how he responds to it meantime looking for options for next step, though there maybe few. We will try.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "27/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32018-post-castration-treatment-and-life-expectancy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post-castration treatment and life expectancy"
+    },
+    {
+      "AuthorID": "Rolian",
+      "AuthorURL": "https://www.cancerforums.net/members/104449-Rolian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Greetings All. My dad is 78 years old living in China. He was recently diagnosed with poorly differentiated prostate cancer with bone metastases, PSA 100. Orchiectomy was given and he is doing well now. We were told though that the only treatment needed after castration is Flutamide and life expectancy is around 2 years. Is it true? My dad is very healthy otherwise. Would doctors do differently post-castration, in US or Canada? Anyone in the similar situation, what`s life expectancy？ Any word/advice would be appreciated!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My dad is 78 years old living in China",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 78
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "23/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32018-post-castration-treatment-and-life-expectancy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post-castration treatment and life expectancy"
+    },
+    {
+      "AuthorID": "Rolian",
+      "AuthorURL": "https://www.cancerforums.net/members/104449-Rolian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks Otago and Lancepeace for the replies! It seems we will have to wait and see how he responds to the Orchiectomy by next PSA test.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "24/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32018-post-castration-treatment-and-life-expectancy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post-castration treatment and life expectancy"
+    },
+    {
+      "AuthorID": "Rolian",
+      "AuthorURL": "https://www.cancerforums.net/members/104449-Rolian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you very much Fairwind, very useful information. My dad has not done ECT bone scan yet, bone metastases was based on his PSA and result of Biopsy. He did not feel any pain on bones though. Anyway, will come back once I know the post-castration test results",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "25/06/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32018-post-castration-treatment-and-life-expectancy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post-castration treatment and life expectancy"
+    },
+    {
+      "AuthorID": "Rolian",
+      "AuthorURL": "https://www.cancerforums.net/members/104449-Rolian?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, hope everyone is doing well here. My dad received surgical castration early June and has been taking Flutamide. PSA dropped to 4.08 first month after. Another blood test couple of days ago, and his PSA bounced back to 50!! So worried, what could be wrong? Does it mean it's castration resistant already? Doctor did not give much info yet as what the next step will be, we gonna talk to him later. Does anyone have similar experience, or know anything about what the problem could be, and next step? Thank you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "20/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/32018-post-castration-treatment-and-life-expectancy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "post-castration treatment and life expectancy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My dad is 78 years old living in China",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 78
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 301
+}

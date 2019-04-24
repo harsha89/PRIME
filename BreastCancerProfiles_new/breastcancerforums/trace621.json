@@ -1,0 +1,208 @@
+{
+  "AuthorID": "trace621",
+  "AuthorURL": "https://www.cancerforums.net/members/121378-trace621?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "chill",
+      "tender",
+      "warm",
+      "close",
+      "concerned",
+      "anxious",
+      "lost",
+      "anxious",
+      "nervous",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "1.5",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "trace621",
+      "AuthorURL": "https://www.cancerforums.net/members/121378-trace621?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I'm 36 and I just had my first mammogram. I have a high risk of breast cancer with family history. My doctor told me as of age 35, women can get mammograms if there's a potential risk. My mammogram showed very dense breasts but that is it. I felt two lumps, got an ultrasound and categorized as birads 4c and now I'm getting an MRI in a few days. Keep pushing for a mammogram. Or try looking into brca testing and that might help? Good luck",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> I'm 36 and I just had my",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 36
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "told me as of age 35  women can get mammograms if",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 35
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "16/11/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/45169-How-to-justify-a-mammogram-before-age-40?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "How to justify a mammogram before age 40"
+    },
+    {
+      "AuthorID": "trace621",
+      "AuthorURL": "https://www.cancerforums.net/members/121378-trace621?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi everyone! This is my first time posting here. Quite nervous about the results I obtained yesterday from my doctor. I am 36 years old - single, no kids. I was diagnosed with endometriosis, lost my left ovary and tube. Family history - Cousin (under age 45) diagnosed with stage 3 BC and tested positive for BRCA (which unknown). Grandmother died of uterine cancer (under age 50/55). (Both on dad's side) I have had a mammogram and report was very high dense tissue but nothing else. Week later, Had another exam and found two lumps on my left breast. Ultrasound report is below. They put me on antibiotics for a few days and i was getting chills, my breasts were warm, tenderness, shooting pain, throbbing. 6 days later, I had an appointment with a breast specialist and I have an MRI Next Monday. She wants to wait for the biopsy until after the MRI. Any help understanding the results below would be appreciated! (I understand Cat 4C is possible suspicion of cancer but not proven). I'm also concerned bc the breast specialist said if I test positive for brca, I'll need to remove my other ovary. So in addition to the breast lump, more anxious knowing I may have an issue too and bottom. My Results.... ---- \"There is a circumscribed complex hypoechoic and very vascular circumscribed mass measuring 12 x 5 x 14mm with macrolobulated shape, oriented parallel and in close contiguity with the dermis. Its origin as being either intra or extra dermal appears ambiguous, as the more medial aspect of the mass appears to have some continuity with the overlying dermis, but the rest of the mass protrudes posteriorly and could represent an extra dermal mass of breast tissue origin.\" BIRADS: Susp Abnormality - BX (Cat 4 Susp) - The patient is sent Letter C Thank you Tracy",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 36 years old   single  no kids",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 36
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "Family history   Cousin  under age 45  diagnosed with stage 3 BC",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 45
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "of uterine cancer  under age 50 55 <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 50
+          },
+          {
+            "Confidence": 0.78,
+            "Phrase": "uterine cancer  under age 50 55 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 55
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "endometriosis",
+              "mammogram",
+              "ovary",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/11/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/49455-Question-about-my-ultrasound-results-and-birads-4c?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Question about my ultrasound results and birads 4c"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 36 and I just had my",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 407
+}

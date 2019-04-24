@@ -1,0 +1,1944 @@
+{
+  "AuthorID": "Geezer",
+  "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "approachable",
+      "willing",
+      "understanding",
+      "affected",
+      "willing",
+      "sure",
+      "decisive",
+      "understanding",
+      "affected",
+      "willing",
+      "sure",
+      "decisive",
+      "understanding",
+      "affected",
+      "willing",
+      "sure",
+      "decisive",
+      "understanding",
+      "affected",
+      "willing",
+      "sure",
+      "decisive",
+      "understanding",
+      "affected",
+      "willing",
+      "sure",
+      "decisive",
+      "touched",
+      "willing",
+      "sure",
+      "touched",
+      "willing",
+      "sure",
+      "touched",
+      "willing",
+      "sure",
+      "easy",
+      "caring",
+      "affected",
+      "willing",
+      "sure",
+      "lousy",
+      "fatigued",
+      "fatigued",
+      "willing",
+      "touched",
+      "willing",
+      "sure",
+      "understanding",
+      "willing",
+      "sure",
+      "pained",
+      "numb",
+      "pained",
+      "understanding",
+      "willing",
+      "pleased",
+      "caring",
+      "determined",
+      "willing",
+      "understanding",
+      "willing",
+      "sure",
+      "pained",
+      "numb",
+      "pained",
+      "pleased",
+      "caring",
+      "determined",
+      "willing",
+      "pleased",
+      "caring",
+      "determined",
+      "willing",
+      "pleased",
+      "caring",
+      "determined",
+      "willing",
+      "understanding",
+      "willing",
+      "sure",
+      "pained",
+      "numb",
+      "pained",
+      "understanding",
+      "willing",
+      "sure",
+      "pained",
+      "numb",
+      "pained",
+      "pleased",
+      "caring",
+      "determined",
+      "willing",
+      "understanding",
+      "willing",
+      "sure",
+      "pained",
+      "numb",
+      "pained",
+      "blessed",
+      "challenged",
+      "blessed",
+      "challenged"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.038",
+      "GOOD": "0.269",
+      "HAPPY": "0",
+      "HELPLESS": "0.038",
+      "HURT": "0.423",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.231",
+      "LOVE": "0.385",
+      "OPEN": "0.5",
+      "POSITIVE": "1.154",
+      "SAD": "0.192",
+      "STRONG": "0.769"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 26,
+  "NPosts": 41,
+  "PSAInfo": {
+    "max": 4,
+    "min": 3.9,
+    "scores": [
+      4,
+      5,
+      3.9
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi msjoh88, I to assume you are in the UK and I have some knowledge of GB since I lived there for 10 years, albeit many moons ago. I am a new guy here and you have already heard from the more experienced so I will not try to muddy the waters. I have researched and been reading since my diagnosis plus help on this forum......all have lightened the load allot. I had myself dead and buried initially, only to find out the grim reaper is not behind every door and many live years and years. My Dr is about my age (71) and he told me it use to be common if one of his a patients were diagnosed with PC at age 75 they typically did not treat them since something else would surface. Anyway we will say a prayer for you and your father tonight and trust a thorough examination will will lead to a successful approach....Hang in there",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "Dr is about my age  71  and he told me it",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 71
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "diagnosed with PC at age 75 they typically did not treat",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 75
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "26/04/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47809-Only-just-found-out-suspected-prostate-cancer-Very-high-PSA-How-bad-is-it?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Only just found out suspected prostate cancer. Very high PSA. How bad is it??"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Well this is a thread I will be following. I start hormone therapy next week for an undetermined length of time, a break then 25 EBRT, break then permanent seed implants. I have not asked yet whether it will be HD or LD, bu I am assuming LD. I am not sure if the decision has been made. I am classified at High Risk but no apparent near gland invasion and was told no lymph nodes invasion, all per MRI. There was extraprostatic extension and I guess thats why I am high risk. From what I understand there is a yet to be validated Canadian study that the protocol I outlined is showing very good results. I have been advised on the brachy side affects and will prepare as we move forward. Thanks to all that posted, I will report back when I get to that stage",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 39,
+      "PostDate": "27/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/32647-What-I-Need-to-Know-About-TWO-TYPES-of-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What I Need to Know About TWO TYPES of Brachytherapy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Well this is a thread I will be following. I start hormone therapy next week for an undetermined length of time, a break then 25 EBRT, break then permanent seed implants. I have not asked yet whether it will be HD or LD, bu I am assuming LD. I am not sure if the decision has been made. I am classified at High Risk but no apparent near gland invasion and was told no lymph nodes invasion, all per MRI. There was extraprostatic extension and I guess thats why I am high risk. From what I understand there is a yet to be validated Canadian study that the protocol I outlined is showing very good results. I have been advised on the brachy side affects and will prepare as we move forward. Thanks to all that posted, I will report back when I get to that stage",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "27/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/32647-What-I-Need-to-Know-About-TWO-TYPES-of-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What I Need to Know About TWO TYPES of Brachytherapy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Well this is a thread I will be following. I start hormone therapy next week for an undetermined length of time, a break then 25 EBRT, break then permanent seed implants. I have not asked yet whether it will be HD or LD, bu I am assuming LD. I am not sure if the decision has been made. I am classified at High Risk but no apparent near gland invasion and was told no lymph nodes invasion, all per MRI. There was extraprostatic extension and I guess thats why I am high risk. From what I understand there is a yet to be validated Canadian study that the protocol I outlined is showing very good results. I have been advised on the brachy side affects and will prepare as we move forward. Thanks to all that posted, I will report back when I get to that stage",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "27/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/32647-What-I-Need-to-Know-About-TWO-TYPES-of-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What I Need to Know About TWO TYPES of Brachytherapy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Well this is a thread I will be following. I start hormone therapy next week for an undetermined length of time, a break then 25 EBRT, break then permanent seed implants. I have not asked yet whether it will be HD or LD, bu I am assuming LD. I am not sure if the decision has been made. I am classified at High Risk but no apparent near gland invasion and was told no lymph nodes invasion, all per MRI. There was extraprostatic extension and I guess thats why I am high risk. From what I understand there is a yet to be validated Canadian study that the protocol I outlined is showing very good results. I have been advised on the brachy side affects and will prepare as we move forward. Thanks to all that posted, I will report back when I get to that stage",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 29,
+      "PostDate": "27/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/32647-What-I-Need-to-Know-About-TWO-TYPES-of-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What I Need to Know About TWO TYPES of Brachytherapy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Well this is a thread I will be following. I start hormone therapy next week for an undetermined length of time, a break then 25 EBRT, break then permanent seed implants. I have not asked yet whether it will be HD or LD, bu I am assuming LD. I am not sure if the decision has been made. I am classified at High Risk but no apparent near gland invasion and was told no lymph nodes invasion, all per MRI. There was extraprostatic extension and I guess thats why I am high risk. From what I understand there is a yet to be validated Canadian study that the protocol I outlined is showing very good results. I have been advised on the brachy side affects and will prepare as we move forward. Thanks to all that posted, I will report back when I get to that stage",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 49,
+      "PostDate": "27/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/32647-What-I-Need-to-Know-About-TWO-TYPES-of-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What I Need to Know About TWO TYPES of Brachytherapy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "You are just a little ahead of me, I am waiting for my biopsy reports which should be in anytime. I have nothing to offer except the books recommend here to research for treatment options, I am sure one of the more experienced guys will chime in very soon. Having said all that I will watch your post carefully, possibly we can compare notes for mutual benefit. It appears to me the popular option for surgery is robotic, the jury is still out but I am not leaning in that direction. I am 71 yrs old, be in touch, Butch",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 71 yrs old  be in touch",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "01/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47046-biopsy-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "biopsy results"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "You are just a little ahead of me, I am waiting for my biopsy reports which should be in anytime. I have nothing to offer except the books recommend here to research for treatment options, I am sure one of the more experienced guys will chime in very soon. Having said all that I will watch your post carefully, possibly we can compare notes for mutual benefit. It appears to me the popular option for surgery is robotic, the jury is still out but I am not leaning in that direction. I am 71 yrs old, be in touch, Butch",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 71 yrs old  be in touch",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "01/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47046-biopsy-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "biopsy results"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "You are just a little ahead of me, I am waiting for my biopsy reports which should be in anytime. I have nothing to offer except the books recommend here to research for treatment options, I am sure one of the more experienced guys will chime in very soon. Having said all that I will watch your post carefully, possibly we can compare notes for mutual benefit. It appears to me the popular option for surgery is robotic, the jury is still out but I am not leaning in that direction. I am 71 yrs old, be in touch, Butch",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 71 yrs old  be in touch",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 32,
+      "PostDate": "01/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47046-biopsy-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "biopsy results"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Well 25 EBRT are behind me (prostate and pelvic), 63 low dose seed implants behind as of 6 days ago. Still on Lupron for several more months, probably all next year as well. Side affects are typical I guess, burning on urination and lose stool, fatigue also. Flomax seems to work well and Ibroprofen appears to being taking care of inflammation and discomfort. Today is the best I felt since the procedure last Wednesday, follow up with Doc 2 July. Of course wife is continually telling me today to take it easy, I know she is right but when you have felt lousy for week its hard to sit still when you feel pretty good. So I did some weeding in the garden. Seemed quite a journey for a 71 year old a few months ago but the time did pass. Five week course of radiation was a breeze the first two weeks then some affects, primarily the last week and 1/2. However, if I can get a few more years out of this it was for sure all worth it. I asked the DOC how do we know all this is value added and we are making headway, he simply said your PSA will probably be .5 or so and we will check all when the treatments are complete. So, we will see.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "quite a journey for a 71 year old a few months",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/06/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48207-Radiation-Phase-Complete?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Radiation Phase Complete"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Baddabing I am on day 30 and was given Flomax that helped tremendously. Will be getting dose #31 in the morning at UFHPI Jacksonville FL. well you seem to be coping fine, I start radiation 28 April for 25 treatments, then seed implant. If I get in a jam I will ask about flomax. Hang in there....",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/04/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47763-Day-seven-of-forty?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Day seven of forty"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "SRT?????? Forgot what this meant",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "16/06/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48207-Radiation-Phase-Complete?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Radiation Phase Complete"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "You are just a little ahead of me, I am waiting for my biopsy reports which should be in anytime. I have nothing to offer except the books recommend here to research for treatment options, I am sure one of the more experienced guys will chime in very soon. Having said all that I will watch your post carefully, possibly we can compare notes for mutual benefit. It appears to me the popular option for surgery is robotic, the jury is still out but I am not leaning in that direction. I am 71 yrs old, be in touch, Butch",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 71 yrs old  be in touch",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "01/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47046-biopsy-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "biopsy results"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi Geezer, Welcome to the friendliest, most helpful prostate cancer forum in the solar system. We're glad to have you with us and -- at the same time -- we hope to REJECT your application to join the PC club. This means, of course, that we hope your upcoming biopsy is negative. For your age group, your PSA number is pretty normal. What this can mean is that, even if there IS prostate cancer, it is VERY likely to still be confined to the prostate and thus still curable by either surgery or radiation. Remember that the MRI only can suggest possible areas of \"interest,\" but only the biopsy can actually diagnose PC. To make sure that nothing is missed (as can happen with a standard 12-core biopsy), you might ask the doctor about a saturation biopsy where 20+ samples are taken. I would also recommend, as we so often do around here, that you read a treasure chest of PC information, the \"Guide to Surviving Prostate Cancer,\" 3rd edition by Dr Pat Walsh. In the meantime, stick around with us and you'll find many others jumping in to help you. Good luck! Chuck Thanks for the reply. I will discuss samples they plan to take with my Dr. I forgot to mention there was a comment about \"electroprostatic\" extension identified, but I dunno what that means, no other info. Well, more end of Jan after biopsy, thanks again for replying Oh, book ordered via amazon, thanks for the tip",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "[QUOTE=Michael F;297929] Therefore it makes no sense whatsoever to get all worked up before having the biopsy. REPLY: Totally agree. I think for the vast majority of people just the \"Big C\" word puts them in a tale spin. I have to admit it captured my attention, but after going through this with my wife, we know how emotions can run 110 mph. Did you by any chance experience BPH or prostatitis last year around the time of your PSA test? These conditions can cause an increase in PSA with a subsequent decrease in PSA after the condition is treated and it resolves. REPLY: Infected prostrate many years ago. No recurrence I am aware of and prostrate only slightly enlarged so I understand. You are definitely doing the right thing by getting a biopsy soon. The vast majority of \"Brothers\" on this Forum will attest that the biopsy process is a true pain in the ass that can be described as uncomfortable but not painful (make sure your URO injects your prostate with a \"numbing\" agent such as lidocaine first!) REPLY: My urologist informed me the biopsy is a \"minutes\" procedure and its all in office. I will ask about a numbing agent, but cant imagine them not using one. Appreciate the replies, book should be here Friday for some weekend reading and hopefully increase some basics so we are better informed. I have been hitting the Mayo www site some as well. thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi Geezer, Welcome to the friendliest, most helpful prostate cancer forum in the solar system. We're glad to have you with us and -- at the same time -- we hope to REJECT your application to join the PC club. This means, of course, that we hope your upcoming biopsy is negative. For your age group, your PSA number is pretty normal. What this can mean is that, even if there IS prostate cancer, it is VERY likely to still be confined to the prostate and thus still curable by either surgery or radiation. Remember that the MRI only can suggest possible areas of \"interest,\" but only the biopsy can actually diagnose PC. To make sure that nothing is missed (as can happen with a standard 12-core biopsy), you might ask the doctor about a saturation biopsy where 20+ samples are taken. I would also recommend, as we so often do around here, that you read a treasure chest of PC information, the \"Guide to Surviving Prostate Cancer,\" 3rd edition by Dr Pat Walsh. In the meantime, stick around with us and you'll find many others jumping in to help you. Good luck! Chuck Thanks for the reply. I will discuss samples they plan to take with my Dr. I forgot to mention there was a comment about \"electroprostatic\" extension identified, but I dunno what that means, no other info. Well, more end of Jan after biopsy, thanks again for replying Oh, book ordered via amazon, thanks for the tip",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am a noob but reviewing your bio it sounds like your numbers are holding good. I fully understand the waiting process, I waited nearly one month for the biopsy and should have the results next week. Then, I believe if I am reading correctly there is a waiting period after biopsy for surgery (if they feel I am a good candidate). So I know what you mean about waiting, that is always the tough part. We Americans are programmed to want everything right now.....10 minute oil changes, all our food this minute from the window as we drive past and our suppers on the table the instant we walk in the door. I like the old axiom, God is never a hurry....and never late I do trust all will go well for you",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "30/01/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47031-Longest-Month-of-My-Life!?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Longest Month of My Life!"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, New guy here, nearly 71 year old white male. This site has a wealth of info and I am in overload, but we will keep digging and learning. Kinda rising PSA over a few months led my primary care Doc to refer me to urologist. After a year of observation DRE indicated I should have a MRI. That was completed in two days (kinda record time) and the results indicated three lesions, one on the right side and one on the left. Left 1.6x0.7x2.4cm. Scores 5 on T2WI and 5 on DWI Right 2.4x0.6x1.1cm. Scores 5 again. DCE is negative whatever that means. Lesion 3 right anterior peripheral zone at mid gland. Score 4 Ony thing I know is a score of 5 is not good. My urologist (specializes in cancer) instructed me to schedule an appointment for a biopsy, first available date late Jan 16. PSA below 4 one year ago and this last time it dropped to 3.2, but again the DRE revealed some firmness on the sides of prostrate that initiated the MRI. So, I have allot to learn and as of now obviously no Gleason score until late Jan (earlier if they get a cancellation). My father died from lung cancer and did indeed have prostrate cancer in his mid seventies so there is a history in the family. No information on the third generation back. I just wanted to introduce myself and say hello. I will be hanging around learning and gleaning, how I contribute is yet to be determined. If there is another forum I should consider for additional info would someone please advise, Thanks for the site",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hello  New guy here  nearly 71 year old white male <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Ron_G Welcome Geezer--unfortunately you're with us. I believe the 'DCE' refers to using contrast (Dynamic contrast-enhancement) with the MRI. Did you mean 'extraprostatic extension?' If so, unfortunately, that means evidence was seen on the images that the tumor is beyond the confines of the gland into the surrounding tissue (periprostatic tissue). Please don't freak yourself out though!!! Let's get the biopsy over with and then you and your docs can decide on a plan of action. The only definitive way for a diagnoses of cancer is a biopsy. You don't have that yet, you merely have unidentified 'lesions' at this point. Additionally, can you provide your location? Maybe put it in your profile? Good luck to you, sir! Ron extraprostatic extension, yup that is what the report says. Guess I fat fingered too many keys. Kinda weird my PSA actually dropped from 3.9 to 3.2 from a year ago, so to my mind PSA may or may not be a good benchmark for me. Could be some variance in the lab results to. My wife bravely fought and conquered ovarian cancer stage 3C nearly 20 years ago, so we understand a little about CA 125 and PSA numbers. My Dr did say some patients have a 2.5 PSA and have PC. I guess that is why I am reading PSA testing can be controversial. However, seems a no brainer to be tested. Still gathering info and trying to learn, lots to understand. I simply want to be in a position to make an informed decision about treatment options. thanks, Butch",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["ovarian"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 45,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "[QUOTE=Michael F;297929] Therefore it makes no sense whatsoever to get all worked up before having the biopsy. REPLY: Totally agree. I think for the vast majority of people just the \"Big C\" word puts them in a tale spin. I have to admit it captured my attention, but after going through this with my wife, we know how emotions can run 110 mph. Did you by any chance experience BPH or prostatitis last year around the time of your PSA test? These conditions can cause an increase in PSA with a subsequent decrease in PSA after the condition is treated and it resolves. REPLY: Infected prostrate many years ago. No recurrence I am aware of and prostrate only slightly enlarged so I understand. You are definitely doing the right thing by getting a biopsy soon. The vast majority of \"Brothers\" on this Forum will attest that the biopsy process is a true pain in the ass that can be described as uncomfortable but not painful (make sure your URO injects your prostate with a \"numbing\" agent such as lidocaine first!) REPLY: My urologist informed me the biopsy is a \"minutes\" procedure and its all in office. I will ask about a numbing agent, but cant imagine them not using one. Appreciate the replies, book should be here Friday for some weekend reading and hopefully increase some basics so we are better informed. I have been hitting the Mayo www site some as well. thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi Geezer, Welcome to the friendliest, most helpful prostate cancer forum in the solar system. We're glad to have you with us and -- at the same time -- we hope to REJECT your application to join the PC club. This means, of course, that we hope your upcoming biopsy is negative. For your age group, your PSA number is pretty normal. What this can mean is that, even if there IS prostate cancer, it is VERY likely to still be confined to the prostate and thus still curable by either surgery or radiation. Remember that the MRI only can suggest possible areas of \"interest,\" but only the biopsy can actually diagnose PC. To make sure that nothing is missed (as can happen with a standard 12-core biopsy), you might ask the doctor about a saturation biopsy where 20+ samples are taken. I would also recommend, as we so often do around here, that you read a treasure chest of PC information, the \"Guide to Surviving Prostate Cancer,\" 3rd edition by Dr Pat Walsh. In the meantime, stick around with us and you'll find many others jumping in to help you. Good luck! Chuck Thanks for the reply. I will discuss samples they plan to take with my Dr. I forgot to mention there was a comment about \"electroprostatic\" extension identified, but I dunno what that means, no other info. Well, more end of Jan after biopsy, thanks again for replying Oh, book ordered via amazon, thanks for the tip",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 32,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH It is still possible to have PC even with a low PSA. But that is the exception rather than the rule. And, since your PSA went DOWN, it is not real likely that PC is involved. The PSA goes up when PC is there and growing, so there are details involved here for you to be hopeful for. Thanks Chuck, in reading your posts you are honest and encouraging. We are not hyperventilating with worry, but are realists. The Doc evaluating the MRI report scored us as highly possible PC, so we will just wait and see how the biopsy goes. When my wife was diagnosed her CA 125 was rising and even after her ultrasound and films the surgeon doubted she was diseased. Fortunate for us she was in for surgery in a week and the rest is history after 6 chemo treatments, three operations and 20 years being cancer free. Cancer can be defeated. Thanks for the replies.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 38,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, New guy here, nearly 71 year old white male. This site has a wealth of info and I am in overload, but we will keep digging and learning. Kinda rising PSA over a few months led my primary care Doc to refer me to urologist. After a year of observation DRE indicated I should have a MRI. That was completed in two days (kinda record time) and the results indicated three lesions, one on the right side and one on the left. Left 1.6x0.7x2.4cm. Scores 5 on T2WI and 5 on DWI Right 2.4x0.6x1.1cm. Scores 5 again. DCE is negative whatever that means. Lesion 3 right anterior peripheral zone at mid gland. Score 4 Ony thing I know is a score of 5 is not good. My urologist (specializes in cancer) instructed me to schedule an appointment for a biopsy, first available date late Jan 16. PSA below 4 one year ago and this last time it dropped to 3.2, but again the DRE revealed some firmness on the sides of prostrate that initiated the MRI. So, I have allot to learn and as of now obviously no Gleason score until late Jan (earlier if they get a cancellation). My father died from lung cancer and did indeed have prostrate cancer in his mid seventies so there is a history in the family. No information on the third generation back. I just wanted to introduce myself and say hello. I will be hanging around learning and gleaning, how I contribute is yet to be determined. If there is another forum I should consider for additional info would someone please advise, Thanks for the site",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hello  New guy here  nearly 71 year old white male <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 40,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH It is still possible to have PC even with a low PSA. But that is the exception rather than the rule. And, since your PSA went DOWN, it is not real likely that PC is involved. The PSA goes up when PC is there and growing, so there are details involved here for you to be hopeful for. Thanks Chuck, in reading your posts you are honest and encouraging. We are not hyperventilating with worry, but are realists. The Doc evaluating the MRI report scored us as highly possible PC, so we will just wait and see how the biopsy goes. When my wife was diagnosed her CA 125 was rising and even after her ultrasound and films the surgeon doubted she was diseased. Fortunate for us she was in for surgery in a week and the rest is history after 6 chemo treatments, three operations and 20 years being cancer free. Cancer can be defeated. Thanks for the replies.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 48,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Ron_G Welcome Geezer--unfortunately you're with us. I believe the 'DCE' refers to using contrast (Dynamic contrast-enhancement) with the MRI. Did you mean 'extraprostatic extension?' If so, unfortunately, that means evidence was seen on the images that the tumor is beyond the confines of the gland into the surrounding tissue (periprostatic tissue). Please don't freak yourself out though!!! Let's get the biopsy over with and then you and your docs can decide on a plan of action. The only definitive way for a diagnoses of cancer is a biopsy. You don't have that yet, you merely have unidentified 'lesions' at this point. Additionally, can you provide your location? Maybe put it in your profile? Good luck to you, sir! Ron extraprostatic extension, yup that is what the report says. Guess I fat fingered too many keys. Kinda weird my PSA actually dropped from 3.9 to 3.2 from a year ago, so to my mind PSA may or may not be a good benchmark for me. Could be some variance in the lab results to. My wife bravely fought and conquered ovarian cancer stage 3C nearly 20 years ago, so we understand a little about CA 125 and PSA numbers. My Dr did say some patients have a 2.5 PSA and have PC. I guess that is why I am reading PSA testing can be controversial. However, seems a no brainer to be tested. Still gathering info and trying to learn, lots to understand. I simply want to be in a position to make an informed decision about treatment options. thanks, Butch",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["ovarian"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, New guy here, nearly 71 year old white male. This site has a wealth of info and I am in overload, but we will keep digging and learning. Kinda rising PSA over a few months led my primary care Doc to refer me to urologist. After a year of observation DRE indicated I should have a MRI. That was completed in two days (kinda record time) and the results indicated three lesions, one on the right side and one on the left. Left 1.6x0.7x2.4cm. Scores 5 on T2WI and 5 on DWI Right 2.4x0.6x1.1cm. Scores 5 again. DCE is negative whatever that means. Lesion 3 right anterior peripheral zone at mid gland. Score 4 Ony thing I know is a score of 5 is not good. My urologist (specializes in cancer) instructed me to schedule an appointment for a biopsy, first available date late Jan 16. PSA below 4 one year ago and this last time it dropped to 3.2, but again the DRE revealed some firmness on the sides of prostrate that initiated the MRI. So, I have allot to learn and as of now obviously no Gleason score until late Jan (earlier if they get a cancellation). My father died from lung cancer and did indeed have prostrate cancer in his mid seventies so there is a history in the family. No information on the third generation back. I just wanted to introduce myself and say hello. I will be hanging around learning and gleaning, how I contribute is yet to be determined. If there is another forum I should consider for additional info would someone please advise, Thanks for the site",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hello  New guy here  nearly 71 year old white male <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH It is still possible to have PC even with a low PSA. But that is the exception rather than the rule. And, since your PSA went DOWN, it is not real likely that PC is involved. The PSA goes up when PC is there and growing, so there are details involved here for you to be hopeful for. Thanks Chuck, in reading your posts you are honest and encouraging. We are not hyperventilating with worry, but are realists. The Doc evaluating the MRI report scored us as highly possible PC, so we will just wait and see how the biopsy goes. When my wife was diagnosed her CA 125 was rising and even after her ultrasound and films the surgeon doubted she was diseased. Fortunate for us she was in for surgery in a week and the rest is history after 6 chemo treatments, three operations and 20 years being cancer free. Cancer can be defeated. Thanks for the replies.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, New guy here, nearly 71 year old white male. This site has a wealth of info and I am in overload, but we will keep digging and learning. Kinda rising PSA over a few months led my primary care Doc to refer me to urologist. After a year of observation DRE indicated I should have a MRI. That was completed in two days (kinda record time) and the results indicated three lesions, one on the right side and one on the left. Left 1.6x0.7x2.4cm. Scores 5 on T2WI and 5 on DWI Right 2.4x0.6x1.1cm. Scores 5 again. DCE is negative whatever that means. Lesion 3 right anterior peripheral zone at mid gland. Score 4 Ony thing I know is a score of 5 is not good. My urologist (specializes in cancer) instructed me to schedule an appointment for a biopsy, first available date late Jan 16. PSA below 4 one year ago and this last time it dropped to 3.2, but again the DRE revealed some firmness on the sides of prostrate that initiated the MRI. So, I have allot to learn and as of now obviously no Gleason score until late Jan (earlier if they get a cancellation). My father died from lung cancer and did indeed have prostrate cancer in his mid seventies so there is a history in the family. No information on the third generation back. I just wanted to introduce myself and say hello. I will be hanging around learning and gleaning, how I contribute is yet to be determined. If there is another forum I should consider for additional info would someone please advise, Thanks for the site",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hello  New guy here  nearly 71 year old white male <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Ron_G Welcome Geezer--unfortunately you're with us. I believe the 'DCE' refers to using contrast (Dynamic contrast-enhancement) with the MRI. Did you mean 'extraprostatic extension?' If so, unfortunately, that means evidence was seen on the images that the tumor is beyond the confines of the gland into the surrounding tissue (periprostatic tissue). Please don't freak yourself out though!!! Let's get the biopsy over with and then you and your docs can decide on a plan of action. The only definitive way for a diagnoses of cancer is a biopsy. You don't have that yet, you merely have unidentified 'lesions' at this point. Additionally, can you provide your location? Maybe put it in your profile? Good luck to you, sir! Ron extraprostatic extension, yup that is what the report says. Guess I fat fingered too many keys. Kinda weird my PSA actually dropped from 3.9 to 3.2 from a year ago, so to my mind PSA may or may not be a good benchmark for me. Could be some variance in the lab results to. My wife bravely fought and conquered ovarian cancer stage 3C nearly 20 years ago, so we understand a little about CA 125 and PSA numbers. My Dr did say some patients have a 2.5 PSA and have PC. I guess that is why I am reading PSA testing can be controversial. However, seems a no brainer to be tested. Still gathering info and trying to learn, lots to understand. I simply want to be in a position to make an informed decision about treatment options. thanks, Butch",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["ovarian"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 25,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH It is still possible to have PC even with a low PSA. But that is the exception rather than the rule. And, since your PSA went DOWN, it is not real likely that PC is involved. The PSA goes up when PC is there and growing, so there are details involved here for you to be hopeful for. Thanks Chuck, in reading your posts you are honest and encouraging. We are not hyperventilating with worry, but are realists. The Doc evaluating the MRI report scored us as highly possible PC, so we will just wait and see how the biopsy goes. When my wife was diagnosed her CA 125 was rising and even after her ultrasound and films the surgeon doubted she was diseased. Fortunate for us she was in for surgery in a week and the rest is history after 6 chemo treatments, three operations and 20 years being cancer free. Cancer can be defeated. Thanks for the replies.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 28,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi Geezer, Welcome to the friendliest, most helpful prostate cancer forum in the solar system. We're glad to have you with us and -- at the same time -- we hope to REJECT your application to join the PC club. This means, of course, that we hope your upcoming biopsy is negative. For your age group, your PSA number is pretty normal. What this can mean is that, even if there IS prostate cancer, it is VERY likely to still be confined to the prostate and thus still curable by either surgery or radiation. Remember that the MRI only can suggest possible areas of \"interest,\" but only the biopsy can actually diagnose PC. To make sure that nothing is missed (as can happen with a standard 12-core biopsy), you might ask the doctor about a saturation biopsy where 20+ samples are taken. I would also recommend, as we so often do around here, that you read a treasure chest of PC information, the \"Guide to Surviving Prostate Cancer,\" 3rd edition by Dr Pat Walsh. In the meantime, stick around with us and you'll find many others jumping in to help you. Good luck! Chuck Thanks for the reply. I will discuss samples they plan to take with my Dr. I forgot to mention there was a comment about \"electroprostatic\" extension identified, but I dunno what that means, no other info. Well, more end of Jan after biopsy, thanks again for replying Oh, book ordered via amazon, thanks for the tip",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Ron_G Welcome Geezer--unfortunately you're with us. I believe the 'DCE' refers to using contrast (Dynamic contrast-enhancement) with the MRI. Did you mean 'extraprostatic extension?' If so, unfortunately, that means evidence was seen on the images that the tumor is beyond the confines of the gland into the surrounding tissue (periprostatic tissue). Please don't freak yourself out though!!! Let's get the biopsy over with and then you and your docs can decide on a plan of action. The only definitive way for a diagnoses of cancer is a biopsy. You don't have that yet, you merely have unidentified 'lesions' at this point. Additionally, can you provide your location? Maybe put it in your profile? Good luck to you, sir! Ron extraprostatic extension, yup that is what the report says. Guess I fat fingered too many keys. Kinda weird my PSA actually dropped from 3.9 to 3.2 from a year ago, so to my mind PSA may or may not be a good benchmark for me. Could be some variance in the lab results to. My wife bravely fought and conquered ovarian cancer stage 3C nearly 20 years ago, so we understand a little about CA 125 and PSA numbers. My Dr did say some patients have a 2.5 PSA and have PC. I guess that is why I am reading PSA testing can be controversial. However, seems a no brainer to be tested. Still gathering info and trying to learn, lots to understand. I simply want to be in a position to make an informed decision about treatment options. thanks, Butch",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["ovarian"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 35,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "[QUOTE=Michael F;297929] Therefore it makes no sense whatsoever to get all worked up before having the biopsy. REPLY: Totally agree. I think for the vast majority of people just the \"Big C\" word puts them in a tale spin. I have to admit it captured my attention, but after going through this with my wife, we know how emotions can run 110 mph. Did you by any chance experience BPH or prostatitis last year around the time of your PSA test? These conditions can cause an increase in PSA with a subsequent decrease in PSA after the condition is treated and it resolves. REPLY: Infected prostrate many years ago. No recurrence I am aware of and prostrate only slightly enlarged so I understand. You are definitely doing the right thing by getting a biopsy soon. The vast majority of \"Brothers\" on this Forum will attest that the biopsy process is a true pain in the ass that can be described as uncomfortable but not painful (make sure your URO injects your prostate with a \"numbing\" agent such as lidocaine first!) REPLY: My urologist informed me the biopsy is a \"minutes\" procedure and its all in office. I will ask about a numbing agent, but cant imagine them not using one. Appreciate the replies, book should be here Friday for some weekend reading and hopefully increase some basics so we are better informed. I have been hitting the Mayo www site some as well. thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 39,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Hi Geezer, Welcome to the friendliest, most helpful prostate cancer forum in the solar system. We're glad to have you with us and -- at the same time -- we hope to REJECT your application to join the PC club. This means, of course, that we hope your upcoming biopsy is negative. For your age group, your PSA number is pretty normal. What this can mean is that, even if there IS prostate cancer, it is VERY likely to still be confined to the prostate and thus still curable by either surgery or radiation. Remember that the MRI only can suggest possible areas of \"interest,\" but only the biopsy can actually diagnose PC. To make sure that nothing is missed (as can happen with a standard 12-core biopsy), you might ask the doctor about a saturation biopsy where 20+ samples are taken. I would also recommend, as we so often do around here, that you read a treasure chest of PC information, the \"Guide to Surviving Prostate Cancer,\" 3rd edition by Dr Pat Walsh. In the meantime, stick around with us and you'll find many others jumping in to help you. Good luck! Chuck Thanks for the reply. I will discuss samples they plan to take with my Dr. I forgot to mention there was a comment about \"electroprostatic\" extension identified, but I dunno what that means, no other info. Well, more end of Jan after biopsy, thanks again for replying Oh, book ordered via amazon, thanks for the tip",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 42,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "[QUOTE=Michael F;297929] Therefore it makes no sense whatsoever to get all worked up before having the biopsy. REPLY: Totally agree. I think for the vast majority of people just the \"Big C\" word puts them in a tale spin. I have to admit it captured my attention, but after going through this with my wife, we know how emotions can run 110 mph. Did you by any chance experience BPH or prostatitis last year around the time of your PSA test? These conditions can cause an increase in PSA with a subsequent decrease in PSA after the condition is treated and it resolves. REPLY: Infected prostrate many years ago. No recurrence I am aware of and prostrate only slightly enlarged so I understand. You are definitely doing the right thing by getting a biopsy soon. The vast majority of \"Brothers\" on this Forum will attest that the biopsy process is a true pain in the ass that can be described as uncomfortable but not painful (make sure your URO injects your prostate with a \"numbing\" agent such as lidocaine first!) REPLY: My urologist informed me the biopsy is a \"minutes\" procedure and its all in office. I will ask about a numbing agent, but cant imagine them not using one. Appreciate the replies, book should be here Friday for some weekend reading and hopefully increase some basics so we are better informed. I have been hitting the Mayo www site some as well. thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 49,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, New guy here, nearly 71 year old white male. This site has a wealth of info and I am in overload, but we will keep digging and learning. Kinda rising PSA over a few months led my primary care Doc to refer me to urologist. After a year of observation DRE indicated I should have a MRI. That was completed in two days (kinda record time) and the results indicated three lesions, one on the right side and one on the left. Left 1.6x0.7x2.4cm. Scores 5 on T2WI and 5 on DWI Right 2.4x0.6x1.1cm. Scores 5 again. DCE is negative whatever that means. Lesion 3 right anterior peripheral zone at mid gland. Score 4 Ony thing I know is a score of 5 is not good. My urologist (specializes in cancer) instructed me to schedule an appointment for a biopsy, first available date late Jan 16. PSA below 4 one year ago and this last time it dropped to 3.2, but again the DRE revealed some firmness on the sides of prostrate that initiated the MRI. So, I have allot to learn and as of now obviously no Gleason score until late Jan (earlier if they get a cancellation). My father died from lung cancer and did indeed have prostrate cancer in his mid seventies so there is a history in the family. No information on the third generation back. I just wanted to introduce myself and say hello. I will be hanging around learning and gleaning, how I contribute is yet to be determined. If there is another forum I should consider for additional info would someone please advise, Thanks for the site",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Hello  New guy here  nearly 71 year old white male <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 71
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by Ron_G Welcome Geezer--unfortunately you're with us. I believe the 'DCE' refers to using contrast (Dynamic contrast-enhancement) with the MRI. Did you mean 'extraprostatic extension?' If so, unfortunately, that means evidence was seen on the images that the tumor is beyond the confines of the gland into the surrounding tissue (periprostatic tissue). Please don't freak yourself out though!!! Let's get the biopsy over with and then you and your docs can decide on a plan of action. The only definitive way for a diagnoses of cancer is a biopsy. You don't have that yet, you merely have unidentified 'lesions' at this point. Additionally, can you provide your location? Maybe put it in your profile? Good luck to you, sir! Ron extraprostatic extension, yup that is what the report says. Guess I fat fingered too many keys. Kinda weird my PSA actually dropped from 3.9 to 3.2 from a year ago, so to my mind PSA may or may not be a good benchmark for me. Could be some variance in the lab results to. My wife bravely fought and conquered ovarian cancer stage 3C nearly 20 years ago, so we understand a little about CA 125 and PSA numbers. My Dr did say some patients have a 2.5 PSA and have PC. I guess that is why I am reading PSA testing can be controversial. However, seems a no brainer to be tested. Still gathering info and trying to learn, lots to understand. I simply want to be in a position to make an informed decision about treatment options. thanks, Butch",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["ovarian"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "09/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH It is still possible to have PC even with a low PSA. But that is the exception rather than the rule. And, since your PSA went DOWN, it is not real likely that PC is involved. The PSA goes up when PC is there and growing, so there are details involved here for you to be hopeful for. Thanks Chuck, in reading your posts you are honest and encouraging. We are not hyperventilating with worry, but are realists. The Doc evaluating the MRI report scored us as highly possible PC, so we will just wait and see how the biopsy goes. When my wife was diagnosed her CA 125 was rising and even after her ultrasound and films the surgeon doubted she was diseased. Fortunate for us she was in for surgery in a week and the rest is history after 6 chemo treatments, three operations and 20 years being cancer free. Cancer can be defeated. Thanks for the replies.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "[QUOTE=Michael F;297929] Therefore it makes no sense whatsoever to get all worked up before having the biopsy. REPLY: Totally agree. I think for the vast majority of people just the \"Big C\" word puts them in a tale spin. I have to admit it captured my attention, but after going through this with my wife, we know how emotions can run 110 mph. Did you by any chance experience BPH or prostatitis last year around the time of your PSA test? These conditions can cause an increase in PSA with a subsequent decrease in PSA after the condition is treated and it resolves. REPLY: Infected prostrate many years ago. No recurrence I am aware of and prostrate only slightly enlarged so I understand. You are definitely doing the right thing by getting a biopsy soon. The vast majority of \"Brothers\" on this Forum will attest that the biopsy process is a true pain in the ass that can be described as uncomfortable but not painful (make sure your URO injects your prostate with a \"numbing\" agent such as lidocaine first!) REPLY: My urologist informed me the biopsy is a \"minutes\" procedure and its all in office. I will ask about a numbing agent, but cant imagine them not using one. Appreciate the replies, book should be here Friday for some weekend reading and hopefully increase some basics so we are better informed. I have been hitting the Mayo www site some as well. thanks again",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 29,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46599-Suspect-MRI-awaiting-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Suspect MRI, awaiting Biopsy"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "What a post!!! Gotta be a boost to anyone. I just finished 25 EBRT and headed for seed implantation tomorrow in the AM. Been on Lupron and Casodex since 2 March, 29 more months on Lupron, 3 more on Casodex. I am not complaining, but it has been a little challenging. Anyway good for you. God Bless ya",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I just finished 25 EBRT and headed for seed",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "07/06/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48161-10-year-Anniversary?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "10 year Anniversary"
+    },
+    {
+      "AuthorID": "Geezer",
+      "AuthorURL": "https://www.cancerforums.net/members/117971-Geezer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "What a post!!! Gotta be a boost to anyone. I just finished 25 EBRT and headed for seed implantation tomorrow in the AM. Been on Lupron and Casodex since 2 March, 29 more months on Lupron, 3 more on Casodex. I am not complaining, but it has been a little challenging. Anyway good for you. God Bless ya",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I just finished 25 EBRT and headed for seed",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "07/06/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48161-10-year-Anniversary?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "10 year Anniversary"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Dr is about my age  71  and he told me it",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 71
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Tiredness",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "fatigue"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [
+        "interested",
+        "glad",
+        "hopeful",
+        "willing",
+        "sure",
+        "rejected",
+        "interested",
+        "glad",
+        "hopeful",
+        "willing",
+        "sure",
+        "rejected",
+        "pleased",
+        "caring",
+        "determined",
+        "willing",
+        "understanding",
+        "pleased",
+        "brave",
+        "dynamic",
+        "decisive",
+        "interested",
+        "glad",
+        "hopeful",
+        "willing",
+        "sure",
+        "rejected",
+        "pleased",
+        "caring",
+        "determined",
+        "willing",
+        "understanding",
+        "pleased",
+        "brave",
+        "dynamic",
+        "decisive",
+        "pleased",
+        "caring",
+        "determined",
+        "willing",
+        "pleased",
+        "caring",
+        "determined",
+        "willing",
+        "understanding",
+        "pleased",
+        "brave",
+        "dynamic",
+        "decisive",
+        "interested",
+        "glad",
+        "hopeful",
+        "willing",
+        "sure",
+        "rejected",
+        "understanding",
+        "pleased",
+        "brave",
+        "dynamic",
+        "decisive",
+        "interested",
+        "glad",
+        "hopeful",
+        "willing",
+        "sure",
+        "rejected",
+        "pleased",
+        "caring",
+        "determined",
+        "willing",
+        "understanding",
+        "pleased",
+        "brave",
+        "dynamic",
+        "decisive"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.667",
+        "HAPPY": "0.333",
+        "HELPLESS": "0",
+        "HURT": "0.333",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.333",
+        "OPEN": "0.667",
+        "POSITIVE": "1.667",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "willing",
+        "sure",
+        "pained",
+        "numb",
+        "pained",
+        "understanding",
+        "willing",
+        "sure",
+        "pained",
+        "numb",
+        "pained",
+        "free",
+        "fortunate",
+        "free",
+        "encouraged",
+        "hopeful",
+        "willing",
+        "free",
+        "doubtful",
+        "defeated",
+        "worried",
+        "doubtful",
+        "free",
+        "fortunate",
+        "free",
+        "encouraged",
+        "hopeful",
+        "willing",
+        "free",
+        "doubtful",
+        "defeated",
+        "worried",
+        "doubtful",
+        "free",
+        "fortunate",
+        "free",
+        "encouraged",
+        "hopeful",
+        "willing",
+        "free",
+        "doubtful",
+        "defeated",
+        "worried",
+        "doubtful",
+        "free",
+        "fortunate",
+        "free",
+        "encouraged",
+        "hopeful",
+        "willing",
+        "free",
+        "doubtful",
+        "defeated",
+        "worried",
+        "doubtful",
+        "understanding",
+        "willing",
+        "sure",
+        "pained",
+        "numb",
+        "pained",
+        "understanding",
+        "willing",
+        "sure",
+        "pained",
+        "numb",
+        "pained",
+        "free",
+        "fortunate",
+        "free",
+        "encouraged",
+        "hopeful",
+        "willing",
+        "free",
+        "doubtful",
+        "defeated",
+        "worried",
+        "doubtful",
+        "understanding",
+        "willing",
+        "sure",
+        "pained",
+        "numb",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0.5",
+        "ANGRY": "0",
+        "CONFUSED": "0.5",
+        "DEPRESSED": "0",
+        "GOOD": "0.5",
+        "HAPPY": "0.5",
+        "HELPLESS": "0.5",
+        "HURT": "1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "1",
+        "POSITIVE": "1.5",
+        "SAD": "0.5",
+        "STRONG": "1"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "willing",
+        "touched",
+        "willing",
+        "sure",
+        "touched",
+        "willing",
+        "sure",
+        "touched",
+        "willing",
+        "sure",
+        "touched",
+        "willing",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.8",
+        "OPEN": "0.2",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0.8"
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "affected",
+        "willing",
+        "sure",
+        "decisive",
+        "understanding",
+        "affected",
+        "willing",
+        "sure",
+        "decisive",
+        "understanding",
+        "affected",
+        "willing",
+        "sure",
+        "decisive",
+        "understanding",
+        "affected",
+        "willing",
+        "sure",
+        "decisive",
+        "understanding",
+        "affected",
+        "willing",
+        "sure",
+        "decisive"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1",
+        "LOVE": "0",
+        "OPEN": "1",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "2"
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "approachable",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0.5",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [
+        "blessed",
+        "challenged",
+        "blessed",
+        "challenged"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [
+        "easy",
+        "caring",
+        "affected",
+        "willing",
+        "sure",
+        "lousy",
+        "fatigued",
+        "fatigued"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.5",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0.5",
+        "HURT": "0.5",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.5",
+        "LOVE": "0.5",
+        "OPEN": "0.5",
+        "POSITIVE": "0.5",
+        "SAD": "0",
+        "STRONG": "0.5"
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [
+        "Tiredness",
+        "Bladder Irritation"
+      ],
+      "SideEffectTypeKeywords": [
+        "burning",
+        "fatigue"
+      ]
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "10/12/2015",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "ebrt",
+      "radiation",
+      "seed implant",
+      "brachy",
+      "robotic",
+      "surgery"
+    ]
+  },
+  "WordCount": 7959
+}

@@ -1,0 +1,202 @@
+{
+  "AuthorID": "Sandra2529",
+  "AuthorURL": "https://www.cancerforums.net/members/126735-Sandra2529?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "aggressive",
+      "aggressive",
+      "fearful",
+      "scared",
+      "worried",
+      "hopeful",
+      "bad",
+      "wonderful"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.333",
+      "ANGRY": "0.667",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.333",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Sandra2529",
+      "AuthorURL": "https://www.cancerforums.net/members/126735-Sandra2529?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad was diagnosed with an aggressive form of prostate cancer last year. He\u2019s 69 years old. He\u2019s a very, very stubborn man who has told his doctor numerous times that he\u2019s not going to go through radiation or operation. I haven\u2019t had a deep conversation as to why he refuses to do either. I\u2019m assuming it\u2019s either pride or he\u2019s fear. He instead chose to do take homeopathic medicine to \u201ccure\u201d him because he\u2019s a firm believer of that. He\u2019s gone to Mexico to get this medication because a family friend\u2019s nephew specializes in homeopathic remedies. He swears that this is helping, although his PSA levels say otherwise. I wish I knew his scores and information, but I don\u2019t have that with me. He received a second opinion on Wednesday and was told the same thing that he needs to get the proper treatment and now the doctor worries that the cancer has spread because of its aggressiveness. I know I have to talk to my dad again as well as my other siblings. But would any of you know what the chances are if it already spread out of the prostate? I know his numbers would help and every case is different. I\u2019m just so scared, sad and just losing sleep over this. Thank you all and wish you all the best.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> He\u2019s 69 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54252-Worried-about-my-dad?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Worried about my dad"
+    },
+    {
+      "AuthorID": "Sandra2529",
+      "AuthorURL": "https://www.cancerforums.net/members/126735-Sandra2529?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, my father is getting this test done tomorrow. Is this a standard test that\u0092s done? If so, how was your experience with it? And what is good/bad about it? What type of results should we hope to get back? Thanks so much!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/05/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/55125-FDG-PET-Scan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "FDG-PET Scan"
+    },
+    {
+      "AuthorID": "Sandra2529",
+      "AuthorURL": "https://www.cancerforums.net/members/126735-Sandra2529?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "My dad received some results on his acid phosphate and prostatic acid phosphate. His scores are: 3.9 & 2.1. I\u0092ve read some information, but I was wondering if any of you would be able to clear this up for me? Thanks so much!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostatic"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "dad",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "dad"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "27/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54951-Educate-me-on-Acid-phosphate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Educate me on Acid phosphate"
+    },
+    {
+      "AuthorID": "Sandra2529",
+      "AuthorURL": "https://www.cancerforums.net/members/126735-Sandra2529?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank your for this information!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "28/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54951-Educate-me-on-Acid-phosphate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Educate me on Acid phosphate"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> He\u2019s 69 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 69
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 330
+}

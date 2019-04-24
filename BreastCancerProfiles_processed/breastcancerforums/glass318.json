@@ -1,0 +1,180 @@
+{
+  "AuthorID": "glass318",
+  "AuthorURL": "https://www.cancerforums.net/members/3669-glass318?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "supportive",
+      "decisive",
+      "affected",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.333",
+      "OPEN": "0",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "glass318",
+      "AuthorURL": "https://www.cancerforums.net/members/3669-glass318?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "New changes in breast definitely need to be looked at by a physician. You need to see your physician ASAP for an exam and if possible mamogram. Don't leave anything to chance! G LUCK",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "physician",
+            "MainSubject": "physician",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "17/12/2006",
+      "Signature": "Glass",
+      "ThreadURL": "https://www.cancerforums.net/threads/3904-Help-me-Do-I-need-to-get-checked-for-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Help me. Do I need to get checked for breast cancer?"
+    },
+    {
+      "AuthorID": "glass318",
+      "AuthorURL": "https://www.cancerforums.net/members/3669-glass318?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, I think its her decision. All you can do is be supportive. Anyway, good luck",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "17/12/2006",
+      "Signature": "Glass",
+      "ThreadURL": "https://www.cancerforums.net/threads/3924-Big-Decision-time-now?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Big Decision time now"
+    },
+    {
+      "AuthorID": "glass318",
+      "AuthorURL": "https://www.cancerforums.net/members/3669-glass318?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi there, Paget's disease of the Breast (PDB) is relatively uncommon, thus the silence, I guess. Treatment and prognosis depends on the answers to these questions: - Is there a lump/mass in the affected breast? - Is there invasive ductal carcinoma? - Are there affected (metastatic) axillary lymph nodes? PDB in association with a palpable lump tends to be found at a more advanced stage (ie, larger size, more frequent invasive disease and axillary node positivity, and multifocal underlying disease), than cases without a mass For women with PDB associated with a palpable lump, the five-year survival is between 20 and 60 percent, while for women without an associated lump, five-year survival ranges from 75 to 100 percent. If there is no lump or mass, the treatment paradoxically becomes a bit more controversial! Some advocate for a total mastectomy. I guess this is the traditional way, based on the fact that most women will have underlying carcinoma even if there is no mass (recurrence is less than 5%). However, there are a couple of small trials which showed excellent results with just nipple-areolar resection or similar limited, breast-conserving therapy. If there is a lump (or ductal carcinoma or affected nodes), more comprehensive surgery may be required. An excision of the nipple-areolar complex together with the lump (if adjacent) can conserve breast but has to be complemented by radiation therapy.. There is no data on the use of Tamoxifen as adjuvant therapy in Paget's disease of the breast. I hope your wife's disease has no underlying palpable lump. Good Luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "22/12/2006",
+      "Signature": "Glass",
+      "ThreadURL": "https://www.cancerforums.net/threads/3937-Paget-s-Disease-of-the-Breast-Looking-for-help?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Paget's Disease of the Breast. Looking for help."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 317
+}

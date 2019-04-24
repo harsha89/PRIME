@@ -1,0 +1,145 @@
+{
+  "AuthorID": "in pain 2012",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2126302&p=150424",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "in pain 2012",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2126302&p=150424",
+      "Content": " This reply is for stella49.  I know your post is from last year...I wanted to know how you're doing now?...I have the same problem (minus the tissue expanders)....I had a double mastectomy almost 3 weeks ago and my skin is sooooooooo tight with edema I'm losing my mind.  I plan to get tussue expanders in a few months.  Any reply would be helpful if someone has experienced this. \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "16/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2126302",
+      "Title": "MAJOR STIFFNESS/SWELLING UNDER ARMS AFTER MASTECTOMY/RECONSTRUCTION"
+    },
+    {
+      "AuthorID": "in pain 2012",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2126302&p=150424",
+      "Content": " I just got back from my Doctor's appt and she said it is back fat that has now repositioned,not edema....I could not believe my ears....I wear a size 4 or 6 and I'm 5 foot 7 inches tall...I never had back fat..she had no advice.. More confused now, then ever.\nThanks for replying. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "4 or 6 and I'm 5 foot 7 inches tall   I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 5
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "18/07/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2126302",
+      "Title": "MAJOR STIFFNESS/SWELLING UNDER ARMS AFTER MASTECTOMY/RECONSTRUCTION"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 130
+}

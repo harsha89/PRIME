@@ -1,0 +1,137 @@
+{
+  "AuthorID": "hunter548",
+  "AuthorURL": "https://www.cancerforums.net/members/70083-hunter548?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "affected",
+      "curious",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 8,
+    "min": 7,
+    "scores": [
+      7,
+      8
+    ]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 2.74,
+    "min": 2.74,
+    "scores": [2.74]
+  },
+  "Posts": [{
+    "AuthorID": "hunter548",
+    "AuthorURL": "https://www.cancerforums.net/members/70083-hunter548?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "New to the forum. I'm 58 and was diagnosed 9/3/12 with 2-3 mm lump felt upon routine DRE. PSA 2.74. I opted to have a biopsy to rule out cancer, but unfortunately as a result, I've been selected to join this club. I just received the results of my biopsy: 2 cores out of 12 positive, < 1% of each core sample affected, both affected samples Gleason 3+5 (but reported by the Urologist as Gleason 7 given the other factors), stage T2a. I currently have another PSA and biopsy scheduled for February to confirm the diagnosis, but given the moderately aggressive nature of the cancer, I'm inclined to consider going ahead with the RAPD surgery. The Urologist indicated that some sectioning of the nerves on one side of the prostate would likely be necessary. I've also had prostatitis on and off for the past 30 years and have recently started RAPAFLO, so a surgical solution would probably be best for me. The one thing I'm curious about is whether others have had a relatively high gleason score when the other factors were \"minimal\".",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> <Z> I'm 58 and was diagnosed 9 3",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 58
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "06/11/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/26533-Gleason-7-Other-Factors-quot-minimal-quot?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Gleason 7 - Other Factors \"minimal\""
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 58 and was diagnosed 9 3",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 58
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 198
+}

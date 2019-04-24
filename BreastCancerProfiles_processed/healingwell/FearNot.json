@@ -1,0 +1,146 @@
+{
+  "AuthorID": "FearNot",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=918057&p=53608",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "encouraged",
+      "blessed",
+      "thoughtful",
+      "willing",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "FearNot",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=918057&p=53608",
+      "Content": " Just wanted to let you all know that I dodged the bullet again and was truly blessed. When I went in for my biopsy after two more radiologists did some more ultrasounds on my breast they felt like it was fibrous tissue and maybe a cyst. He inserted a needle and withdrew fluid. IT WAS A CYST, PRAISE GOD! Anyway they put in a marker near the area and I am to go back in 6 months. Even though these cysts are truly a pain to deal with, I will not complain for this one was truly a blessing. Thank you all for your encouraging and kind words and I will keep you all in my thoughts and prayers. \nDebbie ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "24/09/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=918057",
+      "Title": "Waiting for Biop"
+    },
+    {
+      "AuthorID": "FearNot",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=918057&p=53608",
+      "Content": " \n  Hi to all you wonderful Ladies (& Men)\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/09/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=918057",
+      "Title": "Waiting for Biop"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 131
+}

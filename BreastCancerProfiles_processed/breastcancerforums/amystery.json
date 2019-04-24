@@ -1,0 +1,130 @@
+{
+  "AuthorID": "amystery",
+  "AuthorURL": "https://www.cancerforums.net/members/30303-amystery?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "paranoid",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "amystery",
+    "AuthorURL": "https://www.cancerforums.net/members/30303-amystery?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I am a 35 yr old woman. Since Dec 2011 my right axillary lymph node under my right arm will have a trobbing pain like there is a golf ball sized something under my arm. Other times it's hardly noticable. I went to the Dr. in Feb. because it wasnt going away. I was give a 10day round of bactrim and that did not seem to help. They sent me for an ultrasound they found a 1.8 x 1.0 cm enlarged lymph node. Ordered another ultrasound and mammogram in 6m I have since found dime size lump in my breast which my obgyn say \"ehh doesnt feel like anything to worry about\" I had an aunt on my father's side die from breast cancer. I am a little paranoid about breast cancer anyway. So should I get a second opinion, goback to my general (who I went to for the lymph node) and tell her about the lumps I found or just suck it up, quit freakin and wait till the test?",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> I am a 35 yr old woman <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 35
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/03/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/22390-second-opinion-or-wait-patiently?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "second opinion or wait patiently????"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 35 yr old woman <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 35
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 181
+}

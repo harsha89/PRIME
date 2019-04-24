@@ -1,0 +1,186 @@
+{
+  "AuthorID": "prayerwings",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1233247&p=68749",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "lost",
+      "willing",
+      "sure",
+      "concerned",
+      "sore",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.333",
+      "ALIVE": "0",
+      "ANGRY": "0.333",
+      "CONFUSED": "0.333",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "0.333",
+      "SAD": "0.333",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "prayerwings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1233247&p=68749",
+      "Content": " Thanks.\nActually my breasts are quite small and had been naturally somewhat lumpy and of uneven texture. Probably because I have so little fat. So for a long time I could not tell if this lump was just normal. But recently my breasts have smoothed out some, and this one lump is more defined. I've also lost a lot of weight recently, though I'm already thin, so now it is easier to feel this lump in my small breast. The lump is long but kind of flat. Not standing out.\nAlthough I am young, I have already finished menopause, since having a hysterectomy for cancer 6 years ago. I also have fibromyalia. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hysterectomy",
+              "menopause",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "07/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1233247",
+      "Title": "Breast lump, but no pain???"
+    },
+    {
+      "AuthorID": "prayerwings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1233247&p=68749",
+      "Content": " I am trying to get an appointment at a local hospital. I am American but living in Taiwan; I'm not sure what the procedure for testing is here. \nMy friend told me that they will probably need to use a needle to take a sample, a biopsy. But she says that, if it is cancer, this test also increases the risk of spread, as the cancer cells can escape out into the body more easily. She said that cancer cells are basically contained inside the tumor, but if the outer wall is broken, then the cells spread more quickly. Does that make sense? Have you heard of that? \nAre there any specific tests I should ask for or expect? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "08/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1233247",
+      "Title": "Breast lump, but no pain???"
+    },
+    {
+      "AuthorID": "prayerwings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1233247&p=68749",
+      "Content": " I have had a lump in my breast for at least 6 months, but there is no pain or soreness. The lump is about\n 1 inch long, and half an inch wide. Should I be concerned. Does breast cancer always come with pain? Does no pain equal no worry? I am 34 years old. My mom had breast cancer 8 years ago. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 34 years old <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 34
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1233247",
+      "Title": "Breast lump, but no pain???"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 34 years old <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 34
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 301
+}

@@ -1,0 +1,165 @@
+{
+  "AuthorID": "drb46",
+  "AuthorURL": "https://www.cancerforums.net/members/28890-drb46?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thoughtful",
+      "willing",
+      "frustrated",
+      "supportive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 12,
+    "min": 7.78,
+    "scores": [
+      8,
+      7.78,
+      12,
+      11.51,
+      10.26
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "drb46",
+      "AuthorURL": "https://www.cancerforums.net/members/28890-drb46?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi: I'm 69 and have had two in office biopsies both were negative. My psa keeps going up, so my urologist wants to do his version of a saturation biopsy, which is 18 samples. And at the same time do a turp which he says will add more material for biopsy and will help my urinary symptoms. I can live with my urinary symptoms...they are more of a nuisance that anything else. I'm not real crazy about having anymore biopsies. I'm thinking about just letting him do the saturation biopsy and hold off doing the turp for now. Any thoughts on my situation? It seems to me that if they were going to find something, they should have found something in the first 2 biopsies. I think that I'm just frustrated with the whole situation.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> Hi  I'm 69 and have had two in",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/01/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/36046-saturation-biopsy-and-turp-at-the-same-time?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "saturation biopsy and turp at the same time."
+    },
+    {
+      "AuthorID": "drb46",
+      "AuthorURL": "https://www.cancerforums.net/members/28890-drb46?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you very much for the replys. I dug through my records and came up with this: 9/9/08 3.9 psa 10/10/08 biopsy #1 12 core samples, benign prostatic tissue left and right sides 03/20/12 7.2 psa 03/20/12 7.0% fractionated psa 04/30/12 biopsy #2 There are listed 6 areas of core needle biopsy all of them are benign prostatic tissue except these: Right Apex = benign prostatic tissue with atrophy Right Mid = benign prostatic tissue with sclerotic atrophy. p63, p504s, 24bE12 support the diagnosis Prostate is 1 to 2+ enlarged, slightly irregular, without discrete nodule. The seminal vesicles are normal and symmetrical with a diameter of 7.3mm on the left and 10.3mm on the right. There is good preservation of the fat planes around the seminal vessicles. The prostate measures 2.79 x 5.69 x 5.19 cm. The peripheral zone is somewhat inhomogeneous with patchy hypoechoic lesions on both sides but preservation of the prostatic capsule. There are calcifications present within the transition zone centrally. The boundary between the peripheral zone and the transition zone is somewat indistinct. 2 directed biopsies from the apex, midgland and base on both sides for a total of 12 biopsies. Any other ideas or comments would be welcome. Thanks again. I forgot the final psa's 12/03/12 psa 7.78 06/07/13 psa 10.26 12/26/13 psa 11.51",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostatic",
+              "Prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "07/01/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/36046-saturation-biopsy-and-turp-at-the-same-time?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "saturation biopsy and turp at the same time."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Hi  I'm 69 and have had two in",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 69
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 398
+}

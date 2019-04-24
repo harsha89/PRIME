@@ -1,0 +1,147 @@
+{
+  "AuthorID": "mwinston111",
+  "AuthorURL": "https://www.cancerforums.net/members/115852-mwinston111?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "curious",
+      "willing",
+      "intent",
+      "hopeful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 520,
+    "scores": [520]
+  },
+  "Posts": [
+    {
+      "AuthorID": "mwinston111",
+      "AuthorURL": "https://www.cancerforums.net/members/115852-mwinston111?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi Has anyone else been on a non hormonal non toxic treatment called SM88 for prostate cancer with elevated PSA? Number was 520. Now 8. I'm curious if anyone else can share with me. My friend has been on this trial for four months and he is thriving. I had another friend who went on this treatment last year. I posted about. Friend is doing fine. Will it last? thank you everyone for reading. Good luck everyone.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "friend",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "friend"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/04/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47660-PSA-levels-went-lower-with-trial-drug?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA levels went lower with trial drug"
+    },
+    {
+      "AuthorID": "mwinston111",
+      "AuthorURL": "https://www.cancerforums.net/members/115852-mwinston111?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi thank you for the response. First, I'm a school teacher. Secondly, I posted my question in hopes of learning not promoting. My apologies if my post came across that way. I hope this clarifies for you my intentions. Thank you for the response.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "09/04/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47660-PSA-levels-went-lower-with-trial-drug?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PSA levels went lower with trial drug"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 130
+}

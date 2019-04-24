@@ -1,0 +1,132 @@
+{
+  "AuthorID": "MarieBeas623",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3359370&p=217510",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "sore",
+      "inflamed",
+      "terrified",
+      "alarmed",
+      "worried",
+      "bruised"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "MarieBeas623",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3359370&p=217510",
+    "Content": " Hello,\nI have never turned to forums like this before, but I am completely freaked.\nI am a 26 yr female and for several weeks I have been monitoring my breasts as I have noticed some odd changes. The most alarming change is for about\n 1 month the upper right side of my right breast located closest to my armpit area has been sore, like a bruised feeling, however I only feel that soreness if I am examining the breast. At that same time I found a lump.mthe lump seems hard and doesn't really move. Although it doesn't appear to be swollen from the outside of the breast it certainly feels very swollen, inflamed on the inside area. This part of my breast certainly has no feeling resemblance to my left breast. My breast nipples have been itching like crazy as well. \nI called my family dr who didn't even see me, instead she has ordered me an ultrasound. I go in tomorrow at 8:30 for this test. \nPlease also its I am very petite, 5\"3 130 lbs and I have naturally large breast. 34DD\nShould I be worried this is cancer? I'm so terrified. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> I am a 26 yr female and for several",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 26
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "18/03/2015",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3359370",
+    "Title": "is BC at 26 really possible? Terrified!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> I am a 26 yr female and for several",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 26
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 209
+}

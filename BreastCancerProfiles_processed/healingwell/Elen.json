@@ -1,0 +1,120 @@
+{
+  "AuthorID": "Elen",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1498110&p=57182",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "important",
+      "close",
+      "caring",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Elen",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1498110&p=57182",
+    "Content": " Hi, Oraca... I so understand you! I'm very close with my mom and she was diagnosed a few month ago with lung cancer stage IV (with metastazes to backbone).\nShe is going through chemo now, they didn't do any operations for her (it is impossible).\nWe got a juicer for her and she is taking fresh veggies and fruits juices everyday - that's most important thing is to keep the body strong (celery, spinach, currot, cranberries, pommergranate, blueberries). I went to Amazon.com and just got few books about\n nutritions which will help best. Also, I read a lot about\n ginseng, so I bought couple of boxes for her as well.. \nYou know, the doctors can't tell exactly how long patient will leave, it is all very individually. I've read stories that some patients was given only couple of month but they alive few years later.. Well, few years is not enough anyway, we want our moms to live forever.. I hope your mom will be a miracle patient, who will leave longer then anybody would think. Just watch over her, little exersices, fresh and nutritious food, fresh air - and let the body do the rest.\nWrite me if you need to talk to someone. \nTake care. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mom",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mom"
+        }
+      }
+    },
+    "MessageIndex": 1,
+    "PostDate": "14/06/2009",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1498110",
+    "Title": "my mom has cancer>("
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 211
+}

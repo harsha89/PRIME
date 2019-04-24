@@ -1,0 +1,180 @@
+{
+  "AuthorID": "visitorq",
+  "AuthorURL": "https://www.cancerforums.net/members/9120-visitorq?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "great",
+      "touched",
+      "hopeful",
+      "willing",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.333",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.333",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "visitorq",
+      "AuthorURL": "https://www.cancerforums.net/members/9120-visitorq?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, my cousin (age 54) had a breast cancer operation in July, her condition is: ER(-) PR(-) CerbB-2(+++) Her doctor told her that her post operation condition isn't very good; diagnosis showed there's a relatively high chance of re-occurence. She doesn't live in the U.S. and I believe she's on chemotherapy now. I was wondering if there's any medication that's available in the U.S. or any resources/options that might help with her condition? We would be very thankful and appreciate any advice you could offer. Thank you very much!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> Hi  my cousin  age 54  had a breast cancer operation",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/08/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5129-Had-Operation-in-July-condition-not-good-what-can-be-done?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Had Operation in July, condition not good, what can be done?"
+    },
+    {
+      "AuthorID": "visitorq",
+      "AuthorURL": "https://www.cancerforums.net/members/9120-visitorq?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you again. She lives in China. Her doctor suggested a u.s. manufactured medication. Her son wanted to know more about that and if there's other options available in the U.S. He did not tell me all the details of her condition and the medication, maybe because he's also trying to get in touch with a cousin who's pursuing a pharmacist degree in the US, who is better able than myself to discuss the subject with him. I have just shared this site and this thread with both of them. I am trying to help her in my own limited way... I hope they will make use of this great resource.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/08/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5129-Had-Operation-in-July-condition-not-good-what-can-be-done?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Had Operation in July, condition not good, what can be done?"
+    },
+    {
+      "AuthorID": "visitorq",
+      "AuthorURL": "https://www.cancerforums.net/members/9120-visitorq?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thank you very much Muttsmom, I learned of her condition tonight from her son on MSN. I am sorry I couldn't describe her condition more clearly, since I don't know much about breast cancer and I had to translate what he told me. This was saddening news to me and I would really like to help her. I will try to find out more about her condition, and I really appreciate your help.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "21/08/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5129-Had-Operation-in-July-condition-not-good-what-can-be-done?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Had Operation in July, condition not good, what can be done?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> Hi  my cousin  age 54  had a breast cancer operation",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 54
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 302
+}

@@ -1,0 +1,138 @@
+{
+  "AuthorID": "cassiebug",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=983360&p=56655",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "wonderful",
+      "concerned",
+      "thoughtful",
+      "bad",
+      "terrified",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "cassiebug",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=983360&p=56655",
+    "Content": " I was wondering, I went to the ER complaining of my shoulder since may and everybody just gave me what they thought it could be so I decided to ask my family doctor what was going on and she sent me to have a ctscan and an MRI. Well the results came back and it showed up that my rotator cup was fine and she told me to that the mri came back with abnormal mass signal so she sent me to an orthapedic and I went today he told me that it sounds like a pinched nerve but that it was the least of my worries. He said he did not understand why the radioligist don't report the of very enlarged lympnodes to my family doctor. He is very concerned about\n this and now has me terrified. He has me going to have a ct of my chest monday to see if I have an infection and if i dont then we go from there. He asked me if i had had a mammagram and I told  him that i had one last year before I had my breast reduction. but I havent had one since the operation. My sister asked him what else it could be and he said anywhere from an infection caused for the reduction or as serious as cancer. I personly dont think it would caused from my breduction because that was in may of this year that was 7 months ago. What do you think? I am 36 years old, a mother of 3 which i have breast fed all 3 of them and I am a smoker. I wouldnt be freaking so bad if I hadnt heard him in his office talking to someone on the phone about\n me. Help!!!!!!!    ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 36 years old  a mother of",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 36
+        },
+        {
+          "Confidence": 0.9,
+          "Phrase": "years old  a mother of 3 which i have breast fed",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 3
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "30/11/2007",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=983360",
+    "Title": "enlarged lympnodes"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 36 years old  a mother of",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 291
+}

@@ -1,0 +1,140 @@
+{
+  "AuthorID": "tthall81",
+  "AuthorURL": "https://www.cancerforums.net/members/1370-tthall81?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "sure",
+      "bad",
+      "tired",
+      "nervous",
+      "worried",
+      "pained",
+      "wronged",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "tthall81",
+    "AuthorURL": "https://www.cancerforums.net/members/1370-tthall81?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi, not sure what good this site will be for me but I am worried about some things. I have had a pain, not severe, just chronic achiness in my upper right thigh for a year now, always attributed it to a herniated disc in my back, however, a painful lump popped up under my right arm in April 2005 for over a month and I finally went to my regular doctor who felt there and said she did not feel a lump (must be it went away.) She told me not to worry about it. I did not mention the pain in my leg because I have just assumed it is from my bad back. Then, I found out I was pregnant (conceived in June) and this October the lump came back, swelled up really big and over a month now later it has shrunk in size but is still there and still painful. Sometimes the pain radiates through my leg from the thigh pain and now down into my breast from the underarm lump (can't tell if there is a lump in my leg, doesn't feel like it though.) I went to my ob-gyn who referred me to an internist who I couldn't get in with and then she referred me to a dermotologist. The dermotologist said the lump under my arm (he didn't mention the leg pain at all) was soft, mobile, almost seemed to disappear when you pushed on it, like it was fluid. He said he couldn't remove it though as these small masses tend to leak a lot upon removal and referred me to a surgeon if I felt it was uncomfortable enough to have removed. He couldn't answer why I'm 24, have never had issues with my breast like this before but somehow had the same issue twice in the last six months, once before I got pregnant so he couldn't attribute it to my pregnancy. I feel fine otherwise, not sick or anything. I am quite itchy but again, can't remember if I've only gotten really itchy since the pregnancy or if I was itchy before the pregnancy. Should I see a surgeon to have this removed or wait it out and see if it goes away again? The dermotologist didn't even take a sample of the fluid or anything, so, how does he really know the lump is nothing and will go away? How do I know for sure that the pain in my leg is just from a busted out disc and not from another swollen lymph node or something? Should I still try to see an internist and at what point do you just stop seeing doctors? I'm tired of doctors already but I am nervous with my baby coming that something might be seriously wrong and people just aren't diagnosing it. Any advice would be appreciated. Oh and I do have HPV, the type with cancer causing dysplasia but I have been receiving regular pap smears that have been testing normal for the last two years. My baby also seems to be healthy and doing fine.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "He couldn't answer why I'm 24  have never had issues with",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 24
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "pregnancy",
+            "pregnant",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "06/11/2005",
+    "ThreadURL": "https://www.cancerforums.net/threads/2224-painful-underarm-lump-and-pain-in-right-thigh?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "painful underarm lump and pain in right thigh"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urinary incontinence",
+      "Hernia"
+    ],
+    "SideEffectTypeKeywords": [
+      "leak",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 540
+}

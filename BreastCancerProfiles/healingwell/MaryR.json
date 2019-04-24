@@ -1,0 +1,176 @@
+{
+  "AuthorID": "MaryR",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3004726&p=197288",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "pained",
+      "pained",
+      "concerned",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "MaryR",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3004726&p=197288",
+      "Content": " I have been diagnosed with \"extensive fibrocystic changes\" and right now am having pain in my chest, armpit, and down my arm and even into my back shoulder blade. I am concerned b/c the pain is pretty severe, but I've had CBEs by both an integrative practitioner (my regular doc) and a breast surgeon, as well as ultrasound and thermography. I am 30 years old, and have just finished a very rigorous grad degree while also teaching full time, and I believe stress and overconsumption of caffeine for 5-10 years have done this to me. Starting a no-caffeine phase (on day 12 currently), and continuing to clean up my diet and exercise more, as well as on progesterone theraphy, iodine, vit. D., other supplements, and a Chinese med. combo called \"Resolve Internal Fire.\" My doc wants another thermography in 2 months to follow up--hoping for the best. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 30 years old  and have just",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 30
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "progesterone",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "26/04/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3004726",
+      "Title": "Cyst with pain in breast and runs up my shoulder and arm!!help!"
+    },
+    {
+      "AuthorID": "MaryR",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1612075&p=197288",
+      "Content": " I have been diagnosed with \"extensive fibrocystic changes\" and right now am having pain in my chest, armpit, and down my arm and even into my back shoulder blade. I am concerned b/c the pain is pretty severe, but I've had CBEs by both an integrative practitioner (my regular doc) and a breast surgeon, as well as ultrasound and thermography. I am 30 years old, and have just finished a very rigorous grad degree while also teaching full time, and I believe stress and overconsumption of caffeine for 5-10 years have done this to me. Starting a no-caffeine phase (on day 12 currently), and continuing to clean up my diet and exercise more, as well as on progesterone theraphy, iodine, vit. D., other supplements, and a Chinese med. combo called \"Resolve Internal Fire.\" My doc wants another thermography in 2 months to follow up--hoping for the best. I have a \"hot spot\" shaped like a 'C' in the upper-outer portion of my left breast, where the pain is most severe, but I have other \"hot spots\" and painful spots in both breasts, and my doc. thinks that it's approximately symmetrical, so she is not currently concerned that it is BC. However, if others have had such extensive changes and pain (esp. around my age), it would help me to know that. I am considering requesting MRI if next thermography does not show improvement and if I don't feel less pain in 2 months. They won't do mammography on me b/c my breasts are far too dense and I'm 30. ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 30 years old  and have just",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 30
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "far too dense and I'm 30 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 30
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "progesterone",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "26/04/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1612075",
+      "Title": "Severe Fibrocystic Breast disease"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 30 years old  and have just",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 30
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 422
+}

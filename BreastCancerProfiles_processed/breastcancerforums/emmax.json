@@ -1,0 +1,128 @@
+{
+  "AuthorID": "emmax",
+  "AuthorURL": "https://www.cancerforums.net/members/16993-emmax?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "affected",
+      "thoughtful",
+      "willing",
+      "pained",
+      "tearful",
+      "pained",
+      "crying"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "3",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "emmax",
+    "AuthorURL": "https://www.cancerforums.net/members/16993-emmax?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "hi, my name is Emma. and i recently got told i have breast cancer, i'm currently undergoing a course of chemo to 'shrink it for surgery' i think that's what they said? the thing that i can't deal with is... im 17 years old. i always thought that was too young? i keep breaking down in tears whenever i think about it or feel pain. should it be painful? 'cos it is, quite a lot of the time what are the affects of chemo? i know it sounds.. trivial and unimportant and i may sound shallow but its something that bugs me, with chemo, will i lose my hair? i don't really know what might happen to me? i dont know anyone thats gone through this and i don't want to ask my mum - she's finding it hard to deal with. and when the doctor was explaining everything, i zoned out and was just crying. ): i just can't deal with it",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "can't deal with is    im 17 years old <Z> <Z> <Z>",
+        "Relation": "first-person",
+        "Tense": "present",
+        "Value": 17
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "09/07/2009",
+    "ThreadURL": "https://www.cancerforums.net/threads/9680-i-can-t-deal-with-this?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "i can't deal with this"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 175
+}

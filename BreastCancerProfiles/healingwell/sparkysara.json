@@ -1,0 +1,131 @@
+{
+  "AuthorID": "sparkysara",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=241831&p=15838",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "important",
+      "pleased",
+      "supportive",
+      "affected",
+      "thoughtful",
+      "bold",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "1",
+      "OPEN": "1",
+      "POSITIVE": "3",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "sparkysara",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=241831&p=15838",
+    "Content": " I thought that I would use this messege board as a fundraising tool for my upcoming journey! Over the weekend of June 24-26 I'll be participating in the Susan G. Komen Breast Cancer 3 Day Walk. Upon registration I agreed to raise at least $2,100 in donations, which is where your support comes in. It's hard asking people for money, but this cause and this event are every important to me. The net proceeds will support breast cancer research, education, screening and treatment through the Susan G. Komen Breast Cancer Foundation and the National Philanthropic Trust Breast Cancer Fund. According to the Susan G. Komen Breast Cancer Foundation, approximately 200,000 American women will be diagnosed with breast cancer this year, and nearly 40,000 will die from the disease. That's why I'm walking so far(60 miles to be exact). To do something bold about breast cancer. I hope that you'll share this incredible adventure with me -- by supporting me in my fundraising efforts. I will be walking in the honor of my beautiful, strong mother, Gail Anderson, who was diagnosed with breast cancer last summer. Her struggle over the last year makes what I'll be doing look like a cakewalk. Chances are that you know others as well that have been affected by breast cancer and I would be proud to walk in their honor as well. If you are interested, you can donate on-line at www.the3day.org. Just click on \"twin cities\", then on \"donate\", enter my name, Sara Anderson(Team Walkers for Knockers), and take it from there. Any donation would be greatly appreciated. Thanks for taking the time to read this! Sara ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "why I'm walking so far 60 miles to be exact <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 60
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "28/04/2005",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=241831",
+    "Title": "Please support me on this spiritual and important journey!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "why I'm walking so far 60 miles to be exact <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 297
+}

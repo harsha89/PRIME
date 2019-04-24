@@ -1,0 +1,136 @@
+{
+  "AuthorID": "RED",
+  "AuthorURL": "https://www.cancerforums.net/members/1346-RED?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "bright",
+      "blessed",
+      "close",
+      "concerned",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "RED",
+    "AuthorURL": "https://www.cancerforums.net/members/1346-RED?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi I am 39 soon to be 40 (april) Have had dark bloody discharge from duct. had mammogram done which showed nothing, then a ductogram. Which showed a 2mm object. DR says will take out if I want, But do not really need, to more than likely it is nothing he says in 20 years of seeing this it has never been cancer sounds like he does not even want to look at. . So I think why do it then. Now after about three weeks or so after ductogram I feel a lump it is small feels about size of a beebee hardish . not on nipple but close to outer edge of it right next to a bright red molish type thing that has shown up within the last month. So what do you think. Something to be checked or I am I being overly concerned? thanks for reading god bless RED",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "Just Concerned Hi I am 39 soon to be 40  april",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 39
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "am 39 soon to be 40  april  Have had dark bloody",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 40
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["mammogram"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "31/10/2005",
+    "ThreadURL": "https://www.cancerforums.net/threads/2208-Just-Concerned?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Just Concerned"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Just Concerned Hi I am 39 soon to be 40  april",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 39
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 154
+}

@@ -1,0 +1,147 @@
+{
+  "AuthorID": "suzieq855",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1359607&p=86113",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "loving",
+      "loved",
+      "supportive",
+      "caring",
+      "hopeful",
+      "willing",
+      "bitter",
+      "lost"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "1",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "4",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "suzieq855",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1359607&p=86113",
+    "Content": " I have stage IV breast cancer with mets to my sacrum bone. So far....no where else, though it's been a while since any PET scan or bone scan. My MRI's show the same. I get monthly Faslodex shots and monthly Aredia thru medpot. I'm still walking, talking and living! I have Faith in God that He will take me when He wants to and I will gladly go. My son is 18 and has gotten into drugs thru the last 4 or 5 yrs of me dealing with this diseae. He has no one else to love him, but me and his girlfriend. i hope he is grwoing up now. He attends N/A twice a week. He stays with her most of the time. I have lost my home and am giong to an apt. The thing I crave most is family support. I have none. Daughter is bitter about\n somethin g with me and holding a grudge. Thinks it's all my fault my son was the way he was. My 44 yr old brother is taking advantage of my 84 yr old father. So....I have detached myself from those 3 and I'm there for my son only. I can't take the stress anymore. God willing.... will be moving out of state to a pleasant warmer climate as I cannot stand winter in Michigan anymore. Things happen for a reason and God will let me live as long as I'm still needed here. I have no man in my life. I try to eat healthier than I used to, as I cared for my mom with Alzheimers until she passed, then I became ill. \nWonderful stories on this website. ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My son is 18 and has gotten into drugs",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 18
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> My 44 yr old brother is taking",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 44
+        },
+        {
+          "Confidence": 0.8,
+          "Phrase": "is taking advantage of my 84 yr old father <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 84
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 16,
+    "PostDate": "15/07/2009",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1359607",
+    "Title": "Stage IV breast cancer survivors"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> My 44 yr old brother is taking",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 44
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 289
+}

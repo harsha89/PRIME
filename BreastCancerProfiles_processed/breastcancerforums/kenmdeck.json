@@ -1,0 +1,128 @@
+{
+  "AuthorID": "kenmdeck",
+  "AuthorURL": "https://www.cancerforums.net/members/97823-kenmdeck?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "great",
+      "important",
+      "free",
+      "pleased",
+      "close",
+      "supportive",
+      "willing",
+      "free"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "2",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "kenmdeck",
+    "AuthorURL": "https://www.cancerforums.net/members/97823-kenmdeck?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "...as a song writer I write (in this case a co-write) about things that are important to me, that hit close to home, I have experienced, or mean something to me or someone close. Breast Cancer falls into all those categories for all of us. To a woman with breast cancer the scary future and the many emotional uncertainties need positive support and that is what this song is intended to do. Written from the perspective of her husband, giving his assurance that she is still and will always be 'all the woman he'll ever need'. If this song might help one husband help his wife stand tall after losing her breasts, then great! Listen, if would like, to \"Where The Girls Used To Be\". If you would like a free copy or to use it in any beneficial manor then contact me at Link removed as per forum policy. Please read rules for new members. If anyone wants the link please PM this member. kenm",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "Breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "husband",
+          "NarrationType": "second-person",
+          "NarratorGender": "female",
+          "PatientGender": "male",
+          "Relation": "husband"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "15/01/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/28632-New-Breast-Cancer-Song?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "New Breast Cancer Song ...."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 173
+}

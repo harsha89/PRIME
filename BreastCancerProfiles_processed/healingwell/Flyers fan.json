@@ -1,0 +1,157 @@
+{
+  "AuthorID": "Flyers fan",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3478016&p=226361",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "confident",
+      "okay",
+      "confident",
+      "willing",
+      "upset",
+      "upset",
+      "cold",
+      "worried",
+      "relaxed",
+      "caring",
+      "upset",
+      "discouraged",
+      "upset"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "1",
+      "DEPRESSED": "0.5",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0.5",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Flyers fan",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3478016&p=226361",
+      "Content": " I had a 3D mammogram on Aug. 10th. She repeated the left breast because she said she got a piece of my tummy in the shot!!! Extra radiation. Two days later got call that they saw \"changes\" from last mammo and I had to go to Breast center at hospital for more tests. Took half day from work and went. Tech took ANOTHER 3D of left breast and then 4 additional films! She couldn't get \"it\" in the films so she told me she'd talk to the doctor about\n doing an ultrasound, and sent me back to waiting room. Fifteen minutes later a different woman tells me I can leave! I demanded to see someone for an explanation. The tech comes in and says the DOCTOR thinks it's a lymph node. WHAT?? how come they couldn't tell that from the 3D on the 10th when she admitted she couldn't get good shots today! Now they can tell? No ultrasound needed? I said Why is my lymph node so big then? oh, they enlarge after infection or colds, she says. I am not sick, I say. She says not to worry and gives me a paper that says I should come back in 6 months. WHY???? What unprofessional treatment at a breast centre at a highly rated hospital. I will NOT go back there. I am not feeling confident that I am okay either, and what about\n how many films they shot in within 8 days of each other? I am so upset I don't know what to do next.... ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/08/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3478016",
+      "Title": "Multiple/excessive films for no reason"
+    },
+    {
+      "AuthorID": "Flyers fan",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3478016&p=226361",
+      "Content": " I know--I am shocked that they don't care about\n the node. Also shocked that it took so many films to arrive at the conclusion--and never spoke to a doctor. I was at a reputable Breast Center--i don't know where to go that would be better. I wish I could relax about\n all the radiation--that has me more upset than anything. This is why I have friends who won't go--they hear these stories all the time. I waited 3 years myself and look what happened. It's discouraging that they advocate mammograms and then have a difficult time reading them!!!!!!! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/08/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3478016",
+      "Title": "Multiple/excessive films for no reason"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 378
+}

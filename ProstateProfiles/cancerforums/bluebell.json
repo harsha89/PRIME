@@ -1,0 +1,372 @@
+{
+  "AuthorID": "bluebell",
+  "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "chill",
+      "ok",
+      "willing",
+      "willing",
+      "willing",
+      "great",
+      "touched",
+      "willing",
+      "sure",
+      "wronged",
+      "great",
+      "touched",
+      "willing",
+      "sure",
+      "wronged",
+      "chill",
+      "ok",
+      "willing",
+      "willing",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.4",
+      "HAPPY": "0.2",
+      "HELPLESS": "0",
+      "HURT": "0.2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.2",
+      "OPEN": "0",
+      "POSITIVE": "0.8",
+      "SAD": "0",
+      "STRONG": "0.2"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 10,
+  "NPosts": 10,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Trying again, To start at the beginning, my partner was rushed into hospital with an extremely high temperature, and chills,it was a urine and prostate infection, he was treated with ABs and sent home, a few days later was rushed in again with inability to urinate and got Sepsis, he was then kept in for 2 weeks and sent home with catheter ,after discovering a very enlarged prostate,then the tests started, first prostate shave,which was biopsied, lots of samples taken, but seemed ok, then Mri ,then bone scan with radioactive dye, then this perineal biopsy,at a different hospital not local, He was contacted by phone last week telling him it was Cancer but no details,except the hospital he will be treated at is one ,again not local, but specialises in Chemo and Radiotherapy, so guessing they must know what type of cancer they are dealing with He had bowel cancer about 11 years ago, @stage 4, so had chemo before,he is 70",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "had chemo before he is 70 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "partner",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "partner"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "28/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, i am a new member, my partner has been diagnosed with prostate cancer Although he has had tests MRIs and 2 biopsies it has taken8 months to come to this conclusion, not that he hasnt been seen or long gaps between appointments etc, but the last appointment he was told he had a shadow on the perineum, which is where the last biopsy was performed Just wonderingif anyone else has been diagnosed this way, also lymph nodes were mentioned, so might mean it is in his lymph nodes, Still waiting for more details of exactly what and where this cancer is, appointment later this week Thanks in advance",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "partner",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "partner"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "26/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I have tried 3 times to post and not been allowed so if this gets through i will try again in the morning",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "27/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, i am a new member, my partner has been diagnosed with prostate cancer Although he has had tests MRIs and 2 biopsies it has taken8 months to come to this conclusion, not that he hasnt been seen or long gaps between appointments etc, but the last appointment he was told he had a shadow on the perineum, which is where the last biopsy was performed Just wonderingif anyone else has been diagnosed this way, also lymph nodes were mentioned, so might mean it is in his lymph nodes, Still waiting for more details of exactly what and where this cancer is, appointment later this week Thanks in advance",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "partner",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "partner"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "26/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you i will pass this information on, as this is the NHS in England i dont know if he can get a second opinion, they have been really on the ball with testing quickly etc, he will get more details on the 5th, maybe surgery will be an option, we only know that the hospital he will be treated at does specialise in Chemo and Radiotherapy, probably also do operations too, he hasnt spcifically been told he will have either of those treatments, but assuming that, as our local hospital does ops too, Will just have to see what the 5th brings Thank you very much for your input Hopefully he will be given options,i believe people usually are",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "01/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for your replies, firstly his first biopsy was a transrectal one and they took a lot of samples i am sure he said 48, cant remember now, but a lot more than he expected I am sorry i cant tell you a lot about it,as we dont live together and his daughter usually goes with him so she can remember what he doesnt take in Also have no great details,asked for We are in England so not sure if he has actually been given all the details as others on here have I am assuming most of these posts are American I really just wanted to know why his last biopsy would be transperineal All he has been told in a phone call from the consultant is that he has cancer, and will find out the details on the 5th I think it was Chuck [sorry if wrong] who doesnt think it will be prostate cancer because of the perineal biopsy We were assuming it was because it was easier to access the exact spot the cancer was in, as obviously something showed up in tests or his PSA that he DID have cancer somewhere So sorry i cant tell you more at this stage,also lymph nodes were mentioned, but he cant remember what they said I am not in touch with his daughter, [its complicated] so cant ask her",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "27/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you all for your replies, firstly his first biopsy was a transrectal one and they took a lot of samples i am sure he said 48, cant remember now, but a lot more than he expected I am sorry i cant tell you a lot about it,as we dont live together and his daughter usually goes with him so she can remember what he doesnt take in Also have no great details,asked for We are in England so not sure if he has actually been given all the details as others on here have I am assuming most of these posts are American I really just wanted to know why his last biopsy would be transperineal All he has been told in a phone call from the consultant is that he has cancer, and will find out the details on the 5th I think it was Chuck [sorry if wrong] who doesnt think it will be prostate cancer because of the perineal biopsy We were assuming it was because it was easier to access the exact spot the cancer was in, as obviously something showed up in tests or his PSA that he DID have cancer somewhere So sorry i cant tell you more at this stage,also lymph nodes were mentioned, but he cant remember what they said I am not in touch with his daughter, [its complicated] so cant ask her",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "27/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Trying again, To start at the beginning, my partner was rushed into hospital with an extremely high temperature, and chills,it was a urine and prostate infection, he was treated with ABs and sent home, a few days later was rushed in again with inability to urinate and got Sepsis, he was then kept in for 2 weeks and sent home with catheter ,after discovering a very enlarged prostate,then the tests started, first prostate shave,which was biopsied, lots of samples taken, but seemed ok, then Mri ,then bone scan with radioactive dye, then this perineal biopsy,at a different hospital not local, He was contacted by phone last week telling him it was Cancer but no details,except the hospital he will be treated at is one ,again not local, but specialises in Chemo and Radiotherapy, so guessing they must know what type of cancer they are dealing with He had bowel cancer about 11 years ago, @stage 4, so had chemo before,he is 70",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "had chemo before he is 70 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 70
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "partner",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "partner"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "28/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you i will pass this information on, as this is the NHS in England i dont know if he can get a second opinion, they have been really on the ball with testing quickly etc, he will get more details on the 5th, maybe surgery will be an option, we only know that the hospital he will be treated at does specialise in Chemo and Radiotherapy, probably also do operations too, he hasnt spcifically been told he will have either of those treatments, but assuming that, as our local hospital does ops too, Will just have to see what the 5th brings Thank you very much for your input Hopefully he will be given options,i believe people usually are",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "01/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    },
+    {
+      "AuthorID": "bluebell",
+      "AuthorURL": "https://www.cancerforums.net/members/126970-bluebell?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I have tried 3 times to post and not been allowed so if this gets through i will try again in the morning",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "27/02/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54398-Shadow-on-Perineum?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Shadow on Perineum"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "had chemo before he is 70 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 70
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "radiotherapy",
+      "surgery"
+    ]
+  },
+  "WordCount": 1321
+}

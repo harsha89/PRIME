@@ -1,0 +1,149 @@
+{
+  "AuthorID": "melissa4roland",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3575853&p=234695",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "amazed",
+      "free",
+      "ecstatic",
+      "free",
+      "pleased",
+      "concerned",
+      "free",
+      "sure",
+      "lost",
+      "ignorant",
+      "terrified",
+      "nervous",
+      "pained",
+      "cramped",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "1",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "3",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "2"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "melissa4roland",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3575853&p=234695",
+    "Content": " Hi everyone.\n I guess I'll start by telling you my story. In July of 2013, myself and my amazing wife became deathly ill. After 4 days of no sleep and vomiting white, foamy mucus, we decided to go to the Dr. After a round of antibiotics, nothidr changed and now we can't hold down water. As a matter of fact, water actually turned out to be the problem. Apparently, our well was found with high levels of arsenic. Long story short, Shan got better and I did not. The second round of antibiotics is used to treat exposure to anthrax. Whatever, it worked. From September to November, I had several days where my stomach felt like it would explode. The cramps would last so long and feel so deep that my blood pressure would rise. I even had to go on medication for that. Dr said it's a pain pressure and my body was basically going through hell. Each emergency room I went to, and that was 7, gave me another shot of morphine to get my blood pressure down, and tell me I have a cyst. When I finally got in to an obgyn, I had to have a full hysterectomy. Now please understand, I'm only 37. So January of 2015, I delivered a very unhealthy 11lb uterus. For any of you who don't know, the average uterus weighs 2 pounds. Mine was covered with 1 five lb tumor and 18 smaller ones. All benign, thank you Lord. However, during 6 week check up, I found a rather hard lump in my right breast. I had my Dr check it at the appointment, she says it doesn't feel like a cyst, better have it checked. A few days later, I'm getting my first mammogram and ultra sound. I was terrified. Cancer of all types runs deep in my family. I've lost every single relative on my dad's side, including my dad to cancer. The tech could tell I was nervous as she's probably seen a million times but she's seemed extremely gentle to me. I didn't feel like another number, you know? Afterwards, this lady comes in, tells me she's the radiologist, hugs me and tells me I'm cancer free. I was so ecstatic, I cried right there. 3 days later, I get a letter telling me that 5 sets of clusters were found in the top, bottom, both sides and middle of the right breast. Recheck in 6 months. I felt betrayed by the radiologist. Like I was not quite lied to but not told the whole truth. I didn't make my 6 month, life got hectic but I did get in there by 10 months. I figured it wasn't doing anything anyway because no one seems that concerned about\n it. A lot of weird things began happening in that 10 months. For instance, on an incidental find, I was told I have a small polyp on the inside of my arterial renal artery. Watch it every 3 months. Check. Began noticing about\n 4 months ago, I couldn't walk across the room and back without being breathless. My muscles in my legs turn to pudding when I get this way and I fall. My lymph nodes in my armpits are swollen. Have been for 6 months. Also, my groin lymph nodes are swollen and have been for 3 months. Got second scan done, same clusters, same spots, not doing anything but hanging out and this time said that it was a fluid filled cyst that's so hard in there. I asked about\n the lymph nodes, she basically ignored me. No one in the medical field seems all that concerned about\n me, I have no medical insurance right now which I'm sure is a lot of it, but still, I had to look up what a cluster even was on Google. Shouldn't the Dr have explained all of this? Sorry so long but I'm just getting fed up. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "Now please understand  I'm only 37 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 37
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hysterectomy",
+            "mammogram",
+            "uterus",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "male",
+          "PatientGender": "male"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "28/01/2016",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3575853",
+    "Title": "getting fed up"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Now please understand  I'm only 37 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 37
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Rectal irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "lump",
+      "mucus"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 683
+}

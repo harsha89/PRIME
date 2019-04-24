@@ -1,0 +1,118 @@
+{
+  "AuthorID": "mikev",
+  "AuthorURL": "https://www.cancerforums.net/members/127796-mikev?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "approachable",
+      "hopeful",
+      "suspicious"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "mikev",
+    "AuthorURL": "https://www.cancerforums.net/members/127796-mikev?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "first post.... I recently had an MRI which revealed a \"moderately suspicious T2 hypointense focus of diffusion restriction, seen within the right peripheral zone of the prostate. No focal perfusion abnormality\". An Artemis Fusion Biopsy has been scheduled for mid July though I am hoping to get it done sooner. My PSA actually decreased recently. The TRUS biopsy I had done last October revealed two very small spots. Active surveillance was the recommended course of action. The findings of the upcoming fusion biopsy may dictate another approach. This is all very new to me. Any input on how the live with the uncertainty of an upcoming biopsy? If the appointment still stands for mid July, I may not get the results for another week...approximately 7 weeks from now. Yes...it could be worse. Yes...prostate cancer treatments have improved. Yet...not much is helping me with some degree of anxiety. I guess it comes with the territory.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/05/2018",
+    "ThreadURL": "https://www.cancerforums.net/threads/55145-Pirads-iv?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Pirads iv"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surveillance"],
+    "TreatmentType": "Surveillance",
+    "TreatmentTypeKeywords": ["surveillance"]
+  },
+  "WordCount": 160
+}

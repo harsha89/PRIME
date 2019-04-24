@@ -1,0 +1,124 @@
+{
+  "AuthorID": "turbulent",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=341692&p=21972",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "comfortable",
+      "comforted",
+      "insistent",
+      "suspicious",
+      "nervous",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "turbulent",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=341692&p=21972",
+    "Content": " I recently had a mammogram that had suspicious findings for which they sent me for another mammogram.  After the second one the results came back that the findings appear to be benign and to have another mammogram in six months.  The appear to be benign did not comfort me and I requested my doctor send me for an ultrasound which I had done today.  The radiologists asked me what we were looking for and I told her that I had a finding that appeared to be benign.  Her response was that it was just a calcification and that the recommendation was to repeat the mammogram in six months.  I told her that I wanted the ultrasound done of that area.  ( I should not have even been having this discussion with her)  While she was doing the ultrasounds two \" possible cysts\"  showed that I could see.  she took the measurements and stated that the findings would be sent to my doctor.  I am really nervous about\n this.  Should I insist on a biopsy regardless of their recommendations?  What is a breast cacification and a cyst?  If it is not a cyst what else could it be?  Very scared and Unsure of how to procede.  I want to be prepared on what questions to ask when I talk to my doctor.  Any suggestions. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "11/10/2005",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=341692",
+    "Title": "abnormal mammogram"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 223
+}

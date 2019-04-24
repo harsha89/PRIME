@@ -1,0 +1,130 @@
+{
+  "AuthorID": "june2017",
+  "AuthorURL": "https://www.cancerforums.net/members/124300-june2017?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "wonderful",
+      "thoughtful",
+      "willing",
+      "overwhelmed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 100,
+    "scores": [100]
+  },
+  "Posts": [{
+    "AuthorID": "june2017",
+    "AuthorURL": "https://www.cancerforums.net/members/124300-june2017?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hello. My husband was diagnosed with Prostate cancer a few days ago. He finally took a PSA test a month ago. His primary did a physical exam a year ago, but didn't feel a test was necessary. I asked him again a year later, and this time he took the PSA test. It was over 100. Took it again, still over 100. Had a biopsy, the highest number was an 8, also a 6, 2 lower numbers & some negative samples. Two of his lymph nodes are involved. Saw urologist; recommended surgery or radiation followed by hormone treatment. At first we thought Surgery was best. Saw the Oncologist today. He says radiation may be best due to the two lymph nodes being involved. He also had several full body scans, and the rest of his body is without cancer. He took his first pill (hormone treatment) today. Trying to figure out whether surgery or radiation is best. And also wondering what types of radiation is used. He is symptom-free, and feels great. Any comments or suggestions appreciated. I'm setting this up for him, but will turn this over to him shortly. This is all so new to us and we're a bit overwhelmed. Thank you so much.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["Prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "husband",
+          "NarrationType": "second-person",
+          "NarratorGender": "female",
+          "PatientGender": "male",
+          "Relation": "husband"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "21/06/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/51394-Newly-Diagnosed-(wife)?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Newly Diagnosed (wife)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 214
+}

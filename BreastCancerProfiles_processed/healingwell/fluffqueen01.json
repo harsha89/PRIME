@@ -1,0 +1,144 @@
+{
+  "AuthorID": "fluffqueen01",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=186417&p=112416",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "willing",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "fluffqueen01",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=186417&p=112416",
+      "Content": " Thanks for the info. As an fyi, surgeon did not want me to mess with bacitracin. Says that kind of stuff can \"muck up\" the glue. It is itchy now.\nNews was excellent and medium. The biopsy was negative. However, they did find I have LCIS, a currently non-cancerous condition that makes me 25% more likely to develop invasive breast cancer. Doctor said it was a fortuitous find, as they often find it from biopsies that are already cancerous. \nI will meet with someone after the first of the year to decide how to proceed with that. May be looking at a 5 year dose of chemo. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "08/12/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=186417",
+      "Title": "Breast biopsy scheduled, scared."
+    },
+    {
+      "AuthorID": "fluffqueen01",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=186417&p=112416",
+      "Content": " How are you all treating your incision area? Mine has internal sutures and then was glued. I took my first shower today and feel that I should put some bacitracin on it and cover it. It is on the inside breastbone are going into the breast, just ending above my bra (yes, it will show above my swimsuit). I would like it to scar as little as possible.\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "05/12/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=186417",
+      "Title": "Breast biopsy scheduled, scared."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 177
+}

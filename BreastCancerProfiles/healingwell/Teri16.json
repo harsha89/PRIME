@@ -1,0 +1,153 @@
+{
+  "AuthorID": "Teri16",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267488&p=5479",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "glad",
+      "okay",
+      "hopeful",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Teri16",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267488&p=5479",
+      "Content": " Hi, my name is Teri and I'm the cardio and asthma mod. Laure', I saw your post and I just wanted to mention that I'm glad you're seeing a cardio \nDr. :)\nSometimes arrhythmia's are benign like the PVC's, but if you are already on a med. for them (a beta blocker?), then it's likely more then a PVC?! I also am diabetic and so was my Mom, who recently passed away. She was 76 and had Breast Cancer.\nLots of things can cause fatigue-that's for sure! So it's great that you are getting this all checked out.\nHugs, Teri :)\nPS I hope it was okay, that I poked my head in here?!\n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> She was 76 and had Breast Cancer <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 76
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "11/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267488",
+      "Title": "Diabetes/heart palpatations?"
+    },
+    {
+      "AuthorID": "Teri16",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267488&p=5479",
+      "Content": " Actually, I'm due now for one. Thanks! Come visit me anytime!!\nHugs, Teri :)\n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "11/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267488",
+      "Title": "Diabetes/heart palpatations?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> She was 76 and had Breast Cancer <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 76
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["fatigue"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 136
+}

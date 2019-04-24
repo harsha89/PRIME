@@ -1,0 +1,263 @@
+{
+  "AuthorID": "DannyD33",
+  "AuthorURL": "https://www.cancerforums.net/members/124845-DannyD33?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": ["willing"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.25",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "Posts": [
+    {
+      "AuthorID": "DannyD33",
+      "AuthorURL": "https://www.cancerforums.net/members/124845-DannyD33?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "sorry to hear about your dad. I'm 61 and just was diagnosed with prostate cancer. Gleason 3+4 PSA 7 After visiting 3 doctors not one of them suggested removing my prostate .. they said if I was 40 years old they would go that route but at 60 or over they believe treatment is better. I elected to go with cyberknife since its a 5 day treatment over the 9 week program good luck DD",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> I'm 61 and just was diagnosed with",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 61
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "they said if I was 40 years old they would go",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "go that route but at 60 or over they believe treatment",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 22,
+      "PostDate": "23/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52875-Dad-has-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "DannyD33",
+      "AuthorURL": "https://www.cancerforums.net/members/124845-DannyD33?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "sorry to hear about your dad. I'm 61 and just was diagnosed with prostate cancer. Gleason 3+4 PSA 7 After visiting 3 doctors not one of them suggested removing my prostate .. they said if I was 40 years old they would go that route but at 60 or over they believe treatment is better. I elected to go with cyberknife since its a 5 day treatment over the 9 week program good luck DD",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> I'm 61 and just was diagnosed with",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 61
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "they said if I was 40 years old they would go",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "go that route but at 60 or over they believe treatment",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "23/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52875-Dad-has-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "DannyD33",
+      "AuthorURL": "https://www.cancerforums.net/members/124845-DannyD33?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "sorry to hear about your dad. I'm 61 and just was diagnosed with prostate cancer. Gleason 3+4 PSA 7 After visiting 3 doctors not one of them suggested removing my prostate .. they said if I was 40 years old they would go that route but at 60 or over they believe treatment is better. I elected to go with cyberknife since its a 5 day treatment over the 9 week program good luck DD",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> I'm 61 and just was diagnosed with",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 61
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "they said if I was 40 years old they would go",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "go that route but at 60 or over they believe treatment",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 60
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "23/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52875-Dad-has-aggressive-prostate-cancer?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Dad has aggressive prostate cancer"
+    },
+    {
+      "AuthorID": "DannyD33",
+      "AuthorURL": "https://www.cancerforums.net/members/124845-DannyD33?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello all, I will have my markings placed tomorrow for the upcoming cyberknife treatment . should I expect that I will feel the same discomfort as the biopsy I had done? best Dan",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/10/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52701-fiducial-markers-for-cyberknife?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "fiducial markers for cyberknife"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 61 and just was diagnosed with",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 61
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["cyberknife"]
+  },
+  "WordCount": 264
+}

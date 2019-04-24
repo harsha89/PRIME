@@ -1,0 +1,252 @@
+{
+  "AuthorID": "KPS",
+  "AuthorURL": "https://www.cancerforums.net/members/67495-KPS?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "confident",
+      "approachable",
+      "confident",
+      "uncertain",
+      "kind",
+      "tender",
+      "willing",
+      "decisive",
+      "pained",
+      "pained",
+      "kind",
+      "tender",
+      "willing",
+      "decisive",
+      "pained",
+      "pained",
+      "confident",
+      "approachable",
+      "confident",
+      "uncertain"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "1.5",
+      "POSITIVE": "1",
+      "SAD": "0.5",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {
+    "max": 6,
+    "min": 6,
+    "scores": [6]
+  },
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {
+    "max": 4.6,
+    "min": 4.6,
+    "scores": [4.6]
+  },
+  "Posts": [
+    {
+      "AuthorID": "KPS",
+      "AuthorURL": "https://www.cancerforums.net/members/67495-KPS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I was diagnosed last month with Prostate Cancer, and I am trying to decide the course of therapy. I am 54 yrs old, t2a, PSA 4.6, gleason 6 with 5 of 12 cores (all on right side) showing cancer. In addition to my urologyst, I have seen a radiation oncologist, who indicated I was an excellent candidate for brachytherapy (he has performed 700+), and had a second opinion with a doctor who has done 900+ prostate surgeries, including 400 robotic, who, of course, recommended surgery as the best option. Both had compelling arguements, and I have confidence that both are excellent at what they do. I have since done significant research, and I am still uncertain the best course of action. -- If both treatments have similar outcomes for the long term, the brachytherapy certainly has a much shorter recover time and would be preferred. Still in the back of my mind, getting the prostate taken out and being over and done with it seems a good long term approach. -- Would appreciate any and all opinions offered. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 54 yrs old  t2a  PSA 4",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "02/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26446-Deciding-on-course-of-therapy-Surgery-vs-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Deciding on course of therapy - Surgery vs Brachytherapy"
+    },
+    {
+      "AuthorID": "KPS",
+      "AuthorURL": "https://www.cancerforums.net/members/67495-KPS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks to everyone who responded to my post. I appreciate the kind words and helpful information. At my age (54) and the stage of my cancer (t2a, gleason 6, 5 of12 cores) watchful waiting really made no sense. Having narrowed the decision down to surgery and brackytherapy, the number one issue for me at my age is long term survivability. I did a lot of research, had a first and second opinion, and consulted with my family doctor. I also have a family friend who is a surgeon who was very helpful in providing information to me. For someone with my particular situation, the long term survivability rates for both procedures came out about the same. In looking at the recovery time and potential side effects, brackytherapy made the most sense. I went in yesterday (11/29/12) to have the procedure done. They started a little after 8AM, I woke up in recovery about 10:15, and was heading home about 11:00. I was told that many who have this procedure are sent home with a catheter for one day, but I did not need one. So far, things have been going very well. There was some pain and burning when I first came home, but after taking my first dose of Phenazoprid for the burning and Tamsulosin that went away. Other than that, I have a little tenderness as expected where the needles were inserted, and some nausea. I took one tylenol w/codeine when I got home, but have not felt the need to take any more. I will try and post a little more information in the future. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> At my age  54  and the stage of my",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26446-Deciding-on-course-of-therapy-Surgery-vs-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Deciding on course of therapy - Surgery vs Brachytherapy"
+    },
+    {
+      "AuthorID": "KPS",
+      "AuthorURL": "https://www.cancerforums.net/members/67495-KPS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks to everyone who responded to my post. I appreciate the kind words and helpful information. At my age (54) and the stage of my cancer (t2a, gleason 6, 5 of12 cores) watchful waiting really made no sense. Having narrowed the decision down to surgery and brackytherapy, the number one issue for me at my age is long term survivability. I did a lot of research, had a first and second opinion, and consulted with my family doctor. I also have a family friend who is a surgeon who was very helpful in providing information to me. For someone with my particular situation, the long term survivability rates for both procedures came out about the same. In looking at the recovery time and potential side effects, brackytherapy made the most sense. I went in yesterday (11/29/12) to have the procedure done. They started a little after 8AM, I woke up in recovery about 10:15, and was heading home about 11:00. I was told that many who have this procedure are sent home with a catheter for one day, but I did not need one. So far, things have been going very well. There was some pain and burning when I first came home, but after taking my first dose of Phenazoprid for the burning and Tamsulosin that went away. Other than that, I have a little tenderness as expected where the needles were inserted, and some nausea. I took one tylenol w/codeine when I got home, but have not felt the need to take any more. I will try and post a little more information in the future. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> At my age  54  and the stage of my",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "30/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26446-Deciding-on-course-of-therapy-Surgery-vs-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Deciding on course of therapy - Surgery vs Brachytherapy"
+    },
+    {
+      "AuthorID": "KPS",
+      "AuthorURL": "https://www.cancerforums.net/members/67495-KPS?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I was diagnosed last month with Prostate Cancer, and I am trying to decide the course of therapy. I am 54 yrs old, t2a, PSA 4.6, gleason 6 with 5 of 12 cores (all on right side) showing cancer. In addition to my urologyst, I have seen a radiation oncologist, who indicated I was an excellent candidate for brachytherapy (he has performed 700+), and had a second opinion with a doctor who has done 900+ prostate surgeries, including 400 robotic, who, of course, recommended surgery as the best option. Both had compelling arguements, and I have confidence that both are excellent at what they do. I have since done significant research, and I am still uncertain the best course of action. -- If both treatments have similar outcomes for the long term, the brachytherapy certainly has a much shorter recover time and would be preferred. Still in the back of my mind, getting the prostate taken out and being over and done with it seems a good long term approach. -- Would appreciate any and all opinions offered. Thanks.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 54 yrs old  t2a  PSA 4",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 54
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "02/11/2012",
+      "ThreadURL": "https://www.cancerforums.net/threads/26446-Deciding-on-course-of-therapy-Surgery-vs-Brachytherapy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Deciding on course of therapy - Surgery vs Brachytherapy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 54 yrs old  t2a  PSA 4",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 54
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["burning"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surveillance",
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "brachytherapy",
+      "robotic",
+      "watchful waiting",
+      "surgery"
+    ]
+  },
+  "WordCount": 912
+}

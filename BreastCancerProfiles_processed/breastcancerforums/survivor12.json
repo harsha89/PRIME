@@ -1,0 +1,152 @@
+{
+  "AuthorID": "survivor12",
+  "AuthorURL": "https://www.cancerforums.net/members/103241-survivor12?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "supportive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "survivor12",
+      "AuthorURL": "https://www.cancerforums.net/members/103241-survivor12?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I agree with pretty much everything Didee said, though I can relate a little better. I am 18 and have had breast cancer three times, the first time was the worst as I had a tumor that was 12 cm across which destroyed most of my healthy breast tissue. My oncologist said if it comes back again I may have to have a mastectomy, and in which case I would probably opt for a double as I have had the cancer in each one. Whatever you decide is solely up to you and is your decision, no one else can decide this for you as it is your life. I will give my opinion though, I think if you are choosing this because you wish to live a healthier cancer free life then you are making the right decision. Just don't make this big of a decision out of fear, and don't let anyone sway your decision, they aren't the ones that are going through this and they aren't the ones that have to live with it. As long as you believe your decision is the right one, it will be! Best of luck to you!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 18 and have had breast cancer",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 18
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "26/04/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/30876-Double-mastectomy!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Double mastectomy!"
+    },
+    {
+      "AuthorID": "survivor12",
+      "AuthorURL": "https://www.cancerforums.net/members/103241-survivor12?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Originally Posted by mary_athens_greece Thanks for your post NMgal. I did have the biopsy last Monday and it was only a bit uncomfortable. They did use a lidocaine cream but in general the procedure was ok. I am currently waiting on my biopsy results and this is much harder than the actual biopsy. Mary I send all my support your way! I know the feeling very well, I've gone through this same thing three times, and I'm only 18! I know how you feel, the wait is horrible.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "three times  and I'm only 18  I know how you feel",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 18
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "26/04/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/30370-does-a-breast-needle-biopsy-hurt?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "does a breast needle biopsy hurt?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 290
+}

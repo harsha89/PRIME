@@ -1,0 +1,128 @@
+{
+  "AuthorID": "M. Ali",
+  "AuthorURL": "https://www.cancerforums.net/members/24542-M-Ali?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "pained",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "2",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "M. Ali",
+    "AuthorURL": "https://www.cancerforums.net/members/24542-M-Ali?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My mother aged 50, suffered from CA Breast in 2000 got her chemotherapy and radiation done but was diagnosed with pleaural effussion in the right lung in 2007 got her chemotherapy and radiation done again but was again found with the same in 2010 chemotherapy and radiation was again applied. Last month fluid with cancerous cells was found in her stoumach. It has been drained but doctors say her chemotherapy cycle has been completed and now XELODA has been advised. 1500 mg twice a day which makes it 3000 mg per day. She is also having severe pain in her lower back, hips and right leg. Though a physiotherapist has said that these pains are due to the dislocation of a disc from the back bone and his treatment is giving some relief. A physicain (Not Oncologist) pulled my heart out last week when saying she might not be having a lot of time left. Our Oncologist says she is a bit hopeful and has started giving XELODA. I do not want to hurt any culture but I think the family structure and bonds are a bit more strong here in the east. For me a glimpse of the thought that my mother will not be with me is like being in the hell. My question is:- Having a look at the case are you hopefull that XELODA will make a difference. In Case yes how much more time will it be granting. In case cancer has hit the bones will radiation be usefull. In short Can You Please Please Please Please Give me some hope that my will survuve. Regards Ali",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.8,
+        "Phrase": "mother Pleaseeeeeeeeeeeee           My mother aged 50  suffered from CA Breast in",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 50
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mother",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mother"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "20/05/2011",
+    "ThreadURL": "https://www.cancerforums.net/threads/17261-A-hope-for-my-mother-Pleaseeeeeeeeeeeee!!!!!!!!!!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "A hope for my mother Pleaseeeeeeeeeeeee!!!!!!!!!!"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "mother Pleaseeeeeeeeeeeee           My mother aged 50  suffered from CA Breast in",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 50
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 278
+}

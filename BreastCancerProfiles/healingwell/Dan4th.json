@@ -1,0 +1,169 @@
+{
+  "AuthorID": "Dan4th",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2484933&p=126008",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "blessed",
+      "hopeful",
+      "fatigued",
+      "pained",
+      "cramped",
+      "fatigued",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.333",
+      "HAPPY": "0",
+      "HELPLESS": "0.333",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.333",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Dan4th",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2484933&p=126008",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/08/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2484933",
+      "Title": "Cancer Anxiety Study at Johns Hopkins (Baltimore)"
+    },
+    {
+      "AuthorID": "Dan4th",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2101180&p=126008",
+      "Content": " I was able to stay on Tamoxifen for 2 years and 10 months before stopping. My risk of recurrence was so low that I could do so with my doctor's approval. I did experience hip pains, leg cramps, and fatigue. I'm happy to report that those symptoms went away after Tamoxifen, so, at least in my case, the side effects were not permanent. I hope you find relief and can stay on the medication as long as is best for you. \nBlessings, \na ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "09/07/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2101180",
+      "Title": "tomoxifen"
+    },
+    {
+      "AuthorID": "Dan4th",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2157100&p=126008",
+      "Content": " PETER WAITE HAS APPROVED THIS POST. - MODERATORS, PLEASE DO NOT DELETE.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/07/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2157100",
+      "Title": "Cancer Anxiety Clinical Trial in Baltimore"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Tiredness"],
+    "SideEffectTypeKeywords": ["fatigue"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 109
+}

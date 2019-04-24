@@ -1,0 +1,191 @@
+{
+  "AuthorID": "Kimberly M.",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=232953&p=15685",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "pleased",
+      "supportive",
+      "thoughtful",
+      "sure",
+      "discouraged",
+      "pleased",
+      "willing",
+      "discouraged",
+      "bad"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "1",
+      "GOOD": "0.667",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.333",
+      "OPEN": "0.333",
+      "POSITIVE": "0.333",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Kimberly M.",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=232953&p=15685",
+      "Content": " Hi Christine,\nMy name is Kimberly. I'm a volunteer with an organization called Women's Cancer Resource Center in Berkeley, California. I have a client who was informed this morning, over the telephone I might add, that she had \"spots on her liver\". She feels very discouraged because she thought her breast cancer was behind her. I think she could really use some support right now. As could you, I'm sure. Would you be interested in speaking with her? She is 36, has a 2 year-old and lives in Maple Heights, Ohio. If so, please give us a call at (510) 420-7900. Or, please send an email to kimsacher@yahoo.com.\nThank you so much,\nKimberly ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 0.85,
+            "Phrase": "<Z> <Z> <Z> She is 36  has a 2 year old",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 36
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "She is 36  has a 2 year old and lives in",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 2
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "25/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=232953",
+      "Title": "Breast cancer in the liver"
+    },
+    {
+      "AuthorID": "Kimberly M.",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=232953&p=15685",
+      "Content": " Hi all,\nAgain, my name is Kimberly. I'm a volunteer with the Women's Cancer Resource Center. Please refer to my reply to Christine, posted today at 12:40 p.m. If any of you are willing to speak with my client, I would really appreciate it. Like I said, she got her bad news this morning and is feeling really discouraged. I think she would really benefit from speaking with someone who has undergone something similar. If any of you are willing, please give me a call at (510) 420-7900 or send an email to kimsacher@yahoo.com or post a reply. \nThank you,\nKimberly ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "25/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=232953",
+      "Title": "Breast cancer in the liver"
+    },
+    {
+      "AuthorID": "Kimberly M.",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=232953&p=15685",
+      "Content": " Thank you Lori. I appreciate your response. Unforunately, I don't think she has access to a computer. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "25/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=232953",
+      "Title": "Breast cancer in the liver"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.85,
+      "Phrase": "<Z> <Z> <Z> She is 36  has a 2 year old",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 36
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 244
+}

@@ -1,0 +1,127 @@
+{
+  "AuthorID": "noelle3",
+  "AuthorURL": "https://www.cancerforums.net/members/19756-noelle3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "touched",
+      "close",
+      "thoughtful",
+      "sure",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "noelle3",
+    "AuthorURL": "https://www.cancerforums.net/members/19756-noelle3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi all. I'm here looking for some insight and possible opinions. Any info you all have would be greatly appreciated. For starters, I am a 22 year old female. For about a year now, I have had a small, pea-sized lump right below my left collarbone. It hasn't changed in size, which is hopefully good. It is very noticeable to the touch, it literally feels like there is a pea beneath my skin, but not attached to my skin, as when I pull the skin up, the lump does not pull up too. It's not rock hard, but pretty firm, and kind of moves back and forth a little, but barely. It has never hurt whatsoever. As far as I know, no family history of breast cancer. I'm just really not sure what to think. It's been a year, and I'm still fine, yet the lump is still there and is obviously not normal. I'm not sure if it is even close enough to breast tissue to be relevant, but I thought I'd check in with you guys, and also posted this within the lymphoma board. So I would really appreciate some opinions on what this could possibly be. Thanks so much. Noelle",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "For starters  I am a 22 year old female <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 22
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "30/03/2010",
+    "ThreadURL": "https://www.cancerforums.net/threads/12541-small-lump-right-below-collarbone?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "small lump right below collarbone?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 217
+}

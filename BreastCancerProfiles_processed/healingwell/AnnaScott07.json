@@ -1,0 +1,128 @@
+{
+  "AuthorID": "AnnaScott07",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=160768",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "thrilled",
+      "excited",
+      "hopeful",
+      "willing",
+      "decisive",
+      "lost",
+      "fearful",
+      "dread",
+      "pained",
+      "aching",
+      "ached",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "3",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "3",
+      "SAD": "2",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "AnnaScott07",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=160768",
+    "Content": " I am one week away from finishing Tamoxifen! I should be excited and for the most part I am. I can't wait to start feeling better and losing the aches and pains. Is there anyone out there that can tell me if my feet will stop aching? Will I lost the dreaded weight I gained? \nI was dx in June of '07. Had a mastectomy of the left breast and then took the other off a year later. best decision I have ever made. \nMy doc told me I could go off tamox last week (11 days early) and I was thrilled. Till night time came and I tried to go to bed without the pill. (I take mine at night cause then I am sleeping when the icky tummy happens). I had to get up and take the darn thing. We are taking a trip next week to celebrate my last pill. I just hope that I am able to go off of it without any fear. Saw a study on the news saying 10 years is better than 5. I don't think I can do it for another 5. Feet are killing me. Try to walk for exercise but it hurts. Gained 25 lbs. \nIf anyone who reads this and is off the drug, can you tell me anything positive???\nThanks,\nAS07 ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 55,
+    "PostDate": "25/12/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1461099",
+    "Title": "Tamoxifen Side Effects"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 226
+}

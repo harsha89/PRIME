@@ -1,0 +1,218 @@
+{
+  "AuthorID": "Teresa A",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=614892&p=33010",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "wonderful",
+      "loving",
+      "loved",
+      "concerned",
+      "willing",
+      "caring",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.25",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.25",
+      "LOVE": "0.75",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.25"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Teresa A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=614892&p=33010",
+      "Content": " I am new here, this is my first post.  My mother was diagnosed with dcis in 2000 (pre-menopause at age 42) with calcifications to the other breast.  She opted for a mast. on both sides.  I also have an aunt that had breast cancer, another with ovarian cancer, and one with cervical cancer.  I was wondering if anyone here has had genetic testing?  I don't think it is something my insurance would cover and I am concerned about\n the cost.  I had my first mammogram this year and it was fine (I'm 31).  I would love to hear from anyone that has had experience with genetic testing.  Thanks,\n ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "2000  pre menopause at age 42  with calcifications to the other",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 42
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "and it was fine  I'm 31 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 31
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "cervical cancer",
+              "mammogram",
+              "menopause",
+              "ovarian",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/10/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=614892",
+      "Title": "Genetic Testing"
+    },
+    {
+      "AuthorID": "Teresa A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=614892&p=33010",
+      "Content": " Thank you for your replies!  I called my insurance company today and they do cover genetic testing in some instances.  I will have to see my doctor first to get referred.  I would consider getting a mastectomy as a preventative measure as well.  After watching my mom go through hell I will do just about\n anything to avoid that.  Thanks again,\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "04/10/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=614892",
+      "Title": "Genetic Testing"
+    },
+    {
+      "AuthorID": "Teresa A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=614892&p=33010",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "05/10/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=614892",
+      "Title": "Genetic Testing"
+    },
+    {
+      "AuthorID": "Teresa A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=614892&p=33010",
+      "Content": " Danie, Thanks for sharing your experience with me. Do you feel better knowing, or is it worse? I think I will feel better knowing, that way I can make sure to get proper care. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "06/10/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=614892",
+      "Title": "Genetic Testing"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "and it was fine  I'm 31 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 31
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 207
+}

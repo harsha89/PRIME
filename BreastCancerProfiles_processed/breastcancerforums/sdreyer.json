@@ -1,0 +1,128 @@
+{
+  "AuthorID": "sdreyer",
+  "AuthorURL": "https://www.cancerforums.net/members/12279-sdreyer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "great",
+      "insistent",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "sdreyer",
+    "AuthorURL": "https://www.cancerforums.net/members/12279-sdreyer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "my mom has been diagnosed with DCIS with Mets in her ribs,clavicle,lungs,liver,femur,skull and cervicle spine along with the 3x neg breast cancer all within 1 month.. she has had bilateral masectomies and had her first chemo on May 12.. she started decadron on May 11 and by monday may 12 she was totally lethargic and may 13 didn't know where she was ( in her own house) couldn't find the door or the phone was so confused... she ended up in the ER then the hospital for 2 weeks.. her amonia levels were through the roof and her O2 was only at 60 in the ER. Her oncologist was insistant that it was not from the decadron but the timeline of events of her \"losing her mind\" fit in pattern with the decadron.. she started getting goofy on May 11 she doesn't remember that she had a mother's day bar b que at her house and that she really did have a great time. She didn't start to come back to herself until Friday May 16 after they stopped giving her the decadron then she ended up with pneumonia and a cedif infection which kept her in the hospital for the additional week... Her doctor mentioned finally he agreed it was the decadron but then a few days later said when she is able to have chemo again she will resume the decadron.. we are afraid to let her have this stuff has anyone experienced any side effects of this drug like this??? She is on Decadron with Taxotere and Carboplatnin.. we are not sure why?? We are meeting with a new oncologist because we don't fully trust this doctor and he doesn't really explain things very well.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.7,
+        "Phrase": "her O2 was only at 60 in the ER <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 60
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mom",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mom"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "29/05/2008",
+    "ThreadURL": "https://www.cancerforums.net/threads/6947-reactions-to-Decadron?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "reactions to Decadron"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7,
+      "Phrase": "her O2 was only at 60 in the ER <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 60
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": [
+      "infection",
+      "pneumonia"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 302
+}

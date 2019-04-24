@@ -1,0 +1,167 @@
+{
+  "AuthorID": "momto3",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1656998&p=39452",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "thoughtful",
+      "sure",
+      "sore"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0.333",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "momto3",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1656998&p=39452",
+      "Content": " I realize this forum is for ladies with breast cancer and I'm so sorry for intruding. I have some questions and I don't know where else to turn.  For the last few weeks I have been having pain in my right breast, the kind that stops you in your tracks and within the last week it is now larger than the left side and feels hot. I noticed that I have some sort of red spot as well, but I'm not sure where it could have came from, and I thought it was a sore but I have had it since the week before Thanksgiving and it is still there. \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/12/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1656998",
+      "Title": "In need of help"
+    },
+    {
+      "AuthorID": "momto3",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1656998&p=39452",
+      "Content": " Hi Gail,\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "03/12/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1656998",
+      "Title": "In need of help"
+    },
+    {
+      "AuthorID": "momto3",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1656998&p=39452",
+      "Content": " Hi Bev,\n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "02/12/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1656998",
+      "Title": "In need of help"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 118
+}

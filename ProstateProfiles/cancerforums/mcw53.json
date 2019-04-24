@@ -1,0 +1,128 @@
+{
+  "AuthorID": "mcw53",
+  "AuthorURL": "https://www.cancerforums.net/members/114208-mcw53?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "confident",
+      "easy",
+      "important",
+      "cheerful",
+      "attracted",
+      "supportive",
+      "caring",
+      "confident",
+      "decisive"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "2",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "3",
+      "OPEN": "2",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "mcw53",
+    "AuthorURL": "https://www.cancerforums.net/members/114208-mcw53?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi Logic, Just joined TCF today and this is my first post. I was at the same point you are a few months ago. For me, surgery was a no-brainer. The decision for me was between open and robot assisted surgery (daVinci). I spent a month or so researching surgical outcomes of the different procedures, which to me was by far the most important criteria. Basically, they are the same surgery using different techniques. I ultimately elected the open surgery after reading a white paper published by Johns Hopkins (link below). The paper made the point that the experience and skill of the surgeon is far more important than the technique he/she uses. The surgical outcomes of open and robot assisted surgery at Johns Hopkins were statistically identical. In fact, the open surgery outcomes were slightly better until they excluded Dr. Walsh's results from the analysis. For me, the choice was between my urologist here in town who has done over 1500 open RPs with excellent results -or- having the daVinci surgery done at Vanderbilt in Nashville. My urologist would support my decision either way and would do all the post-op care if I chose to have the robot assisted surgery done at Vanderbilt. Since Vanderbilt is a teaching hospital, the procedure would most likely be performed by an intern. Even though Vandy attracts the best and the brightest, there is a learning curve. So in the end, it was a fairly easy decision for me. But I needed to get to the point where I would have no regrets if the outcome was less than desireable. So do you. Take the time to feel confident about your decision. Cheers, Mike Choosing The Right Treatment For Prostate Cancer",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["Prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 9,
+    "PostDate": "09/01/2015",
+    "Signature": "Μολὼν λαβέ",
+    "ThreadURL": "https://www.cancerforums.net/threads/42343-Leaning-toward-surgery-don-t-know-what-kind-I-d-select?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Leaning toward surgery; don't know what kind I'd select"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "davinci",
+      "surgery"
+    ]
+  },
+  "WordCount": 292
+}

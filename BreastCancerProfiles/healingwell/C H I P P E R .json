@@ -1,0 +1,120 @@
+{
+  "AuthorID": "C.H.I.P.P.E.R.",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1965610&p=112572",
+  "EmotionInfo": {
+    "EmotionKeywords": ["hopeful"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "C.H.I.P.P.E.R.",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1965610&p=112572",
+    "Content": " hello ladies, I too have been \"called back\" can't get in until a week from Thursday! ugh - but at any rate - I found last April what has made my life so much more enjoyable - a program called CHIP - Coronary Health Improvement Project - could just as easily be Cancer Health Improvement Project. I was having GERD, high cholestrol, high bp, high sugar - overweight (still am) but now down 30+ pounds and all those other things have disappeared! I too had hysto, gall bladder yada yada yada, I only wish I would have found this program soon. \nso now I'm 53 and called back, let's hope its for a pretzel or something. Thanks for listening. ",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> so now I'm 53 and called back  let's hope",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 53
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 20,
+    "PostDate": "07/12/2010",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1965610",
+    "Title": "Called Back for a Diagnostic Mammo"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> so now I'm 53 and called back  let's hope",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 53
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 116
+}

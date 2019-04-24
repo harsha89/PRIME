@@ -1,0 +1,145 @@
+{
+  "AuthorID": "Razool",
+  "AuthorURL": "https://www.cancerforums.net/members/121889-Razool?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "kind",
+      "pleased",
+      "hopeful",
+      "willing",
+      "powerless",
+      "lost",
+      "powerless"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "1",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "2",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Razool",
+    "AuthorURL": "https://www.cancerforums.net/members/121889-Razool?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "hi Everyone, My mother is age 69 and diagnosed with Breast Cancer Last November which is now spread to lungs as per CT scan and now She is on Stage 4 .the doctors here told me they cannot cure this but with chemotherapy they can just retaliate (or just buying us some time).i want to know what are the alternatives rather than chemotherapy ? here where i live Doctors are Arabs and Sometime ( i lost in translation ) . they told me here what i understood so far they cannot cure,cannot do surgery or any Radiotherapy With a stage 4 patient they Just gave me a option of chemotherapy.what i want to know is there any alternatives ? because with our first day of chemotherapy which was 20/12/2016 she started with palliative treatment with docetaxel first cycle 100MG/M2 and the dose will be modified according to her tolerance <(this is what doctors said ) just after the chemo She felt so weak and powerless (yes doctor told us about the Side effects).My questions Cancer started from the right breast and now in lung is chemotherapy treatment now stops it from spreading ? isnt it right to do the breast surgery (which doctors are not doing here ) and than the cancer will be in lung only which can cured than? what kind of diet (food) will be good for her ? any recommended treatment or therapy ? i can attach her medical report if you guys like to see idk its right to do here or not ? i am new here and defenetly do not know how things works here.but i just need Some advice i already Lost my Father and 2 brothers because of a heart disease in our family but with this breast cancer which is now stage 4 we have no experience how to deal with it. i just need Some answers,advice,anything to not lose hope. Regards Razool Ps. if any one find this message please reply if you can help or guide me thanks. (Pardon me For not using medical language here Because i dont understand Much of it )",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "Everyone  My mother is age 69 and diagnosed with Breast Cancer",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        },
+        {
+          "Confidence": 0.7,
+          "Phrase": "already Lost my Father and 2 brothers because of a heart",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 2
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "04/01/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/49877-New-here-and-i-Need-help-(guideline)-(consultancy)?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "New here and i Need help (guideline) (consultancy)"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Everyone  My mother is age 69 and diagnosed with Breast Cancer",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 69
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiotherapy",
+      "surgery"
+    ]
+  },
+  "WordCount": 362
+}

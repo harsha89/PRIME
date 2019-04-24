@@ -1,0 +1,161 @@
+{
+  "AuthorID": "hair_diva",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1349303&p=75319",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "tender",
+      "thoughtful",
+      "willing",
+      "hateful",
+      "sensitive",
+      "insistent",
+      "willing",
+      "frustrated",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0.5",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "hair_diva",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1349303&p=75319",
+      "Content": " Thank you for your reply. I made an appointment with a new doctor to see if they will give me a referral to a specialist.\nMy lump is a round and hard and shaped like a pea. It is tender. I thought adhesions where elongated and sort of ropey feeling?\nI'll keep working on this, but it's causing me stress. I hate my insurance. I wish I didn't have to get all these referrals to see who I want to see.\nThanks! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "14/01/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1349303",
+      "Title": "lump can't be viewed on ultrasound or mammogram"
+    },
+    {
+      "AuthorID": "hair_diva",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1349303&p=75319",
+      "Content": " Hello,\nI am scared and frustrated and I don't know what to do. In July 2008 I found a hard, pea size lump in my breast. My doctor couldn't feel, but at my insistance sent me for a mammogram and ultrasound. Neither one of those tests detected any lump, so my doctor told me \"don't worry\".\nWell I am worried. So I got a referral to a surgeon, who again can't feel my lump and tells me 'don't worry'. (I don't know why they can't feel my lump, it's not very deep and I even mark the area with a sharpie marker so they know the area in which I am talking about\n)\nMy primary doctor won't give me another referral to get another opinion. She said I am 'over sensitive' and 'worry too much'. But in my mind if they can't tell me what this lump is, then they can't tell me what it isn't!\nAlso, part of the problem is that I have breast implants, and it seems like no surgeon wants to do a biopsy on a person with implants. My insurance denied me for a breast MRI, since I don't have a family history. (I'm 38 years old)\nWhat should I do now? I worry about\n this everyday. I found this lump almost 6 months ago, and I just can't believe that no one is willing to help me solve this problem. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 38 years old \nWhat should I",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 38
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "13/01/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1349303",
+      "Title": "lump can't be viewed on ultrasound or mammogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 38 years old \nWhat should I",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 348
+}

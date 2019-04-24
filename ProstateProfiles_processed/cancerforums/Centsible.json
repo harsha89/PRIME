@@ -1,0 +1,157 @@
+{
+  "AuthorID": "Centsible",
+  "AuthorURL": "https://www.cancerforums.net/members/111331-Centsible?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "optimistic",
+      "encouraged",
+      "concerned",
+      "optimistic",
+      "hopeful",
+      "worried",
+      "optimistic",
+      "encouraged",
+      "concerned",
+      "optimistic",
+      "hopeful",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Centsible",
+      "AuthorURL": "https://www.cancerforums.net/members/111331-Centsible?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I had my prostate removed on May 5, 2014 for cancer and struggle now with incontinence, as is expected. My concern is that it is a couple weeks after having the catheter removed, and have absolutely no control or improvement over voiding yet. In bed, I can hold, and make it to the bathroom without much leakage. Then, away she flows with no stopping. While sitting or standing, I just leak constantly with no control. I have been doing my Kegals, drinking lots of water to encourage my plumbing, but worried about not seeing any change at all since day one. Can anyone give me some hope that things may start to improve over the next few weeks, having been in a similar situation - am I being too optimistic? These incontinence pads certainly hold a lot of liquid (and get heavy!) - thank goodness for them.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["Prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "01/06/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38967-Prostate-Cancer-Incontinence?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer Incontinence"
+    },
+    {
+      "AuthorID": "Centsible",
+      "AuthorURL": "https://www.cancerforums.net/members/111331-Centsible?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I had my prostate removed on May 5, 2014 for cancer and struggle now with incontinence, as is expected. My concern is that it is a couple weeks after having the catheter removed, and have absolutely no control or improvement over voiding yet. In bed, I can hold, and make it to the bathroom without much leakage. Then, away she flows with no stopping. While sitting or standing, I just leak constantly with no control. I have been doing my Kegals, drinking lots of water to encourage my plumbing, but worried about not seeing any change at all since day one. Can anyone give me some hope that things may start to improve over the next few weeks, having been in a similar situation - am I being too optimistic? These incontinence pads certainly hold a lot of liquid (and get heavy!) - thank goodness for them.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "01/06/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/38967-Prostate-Cancer-Incontinence?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Prostate Cancer Incontinence"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Urinary incontinence"],
+    "SideEffectTypeKeywords": [
+      "leak",
+      "incontinence",
+      "leakage"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 293
+}

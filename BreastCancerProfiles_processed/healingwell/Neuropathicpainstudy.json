@@ -1,0 +1,162 @@
+{
+  "AuthorID": "Neuropathicpainstudy",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1785255&p=99224",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Neuropathicpainstudy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1785255&p=99224",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "27/04/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1785255",
+      "Title": "Study for people with post-mastectomy neuropathy"
+    },
+    {
+      "AuthorID": "Neuropathicpainstudy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1833284&p=99224",
+      "Content": " Participate in an NIH funded study for Chemotherapy Induced Peripheral Neuropathy and Post-Mastectomy Neuropathy   WHAT IS THE STUDY? The study is testing Websites about self-managing pain.   WHY PARTICIPATE? ·          You may or may not experience reduced pain and increased physical functioning. ·          You may learn more about chemotherapy induced peripheral neuropathy and post-mastectomy neuropathy.   CONTACT US FOR MORE INFORMATION www.inflexxion.com/researchstudies   Study Coordinator neuropathicpain@inflexxion.com 1-800-848-3895, extension 245   Participants may receive up to $175 for completing all study requirements   The study is funded by a National Institutes of Health (NIH) grant to Inflexxion, Inc., an independent research firm. It has been approved by the New England Institutional Review Board (NEIRB). The Principal Investigator is Dr. Jonas Bromberg. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "23/06/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1833284",
+      "Title": "Post Mastectomy Neuropathy, Chemotherapy Induced Peripheral Neuropathy (topic approved by P. Waite)"
+    },
+    {
+      "AuthorID": "Neuropathicpainstudy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1754256&p=99224",
+      "Content": " We received permission from Peter Waite for this post:\n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "23/03/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1754256",
+      "Title": "Neuropathic Pain Study (Approved by P. Waite)"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 159
+}

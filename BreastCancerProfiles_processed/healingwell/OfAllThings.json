@@ -1,0 +1,150 @@
+{
+  "AuthorID": "OfAllThings",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=136708",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "easy",
+      "glad",
+      "reassured"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.5",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "OfAllThings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=136708",
+      "Content": " lol :) thanks! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "21/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2276474",
+      "Title": "Called Back Scared....."
+    },
+    {
+      "AuthorID": "OfAllThings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2276474&p=136708",
+      "Content": " Hi, I have a callback appt. on Friday (right before Christmas!) & have been looking online to get some reassurance. I'm glad I found this site! I just turned 42 & have four kids ages 1 - 9 so I've been freaking out about\n leaving them so soon (yes, my mind goes to the worst case scenario). I just had my mammogram this past Sat. so my wait isn't long at all but boy, this came as a shock. I can't feel any lumps & have no symptoms. I have been losing weight for the past few months--easier than I ever have & I'm at my lowest weight that I can remember--so I almost called a doctor a couple of months ago just to get it checked out but then felt silly so I didn't (I mean--I WANTED to lose weight, right?). I've read that's only a symptom if your cancer is pretty advanced though. My last mammogram was two years ago (because I had a baby a year ago). ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> <Z> I just turned 42 & have four kids ages",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 42
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "21/12/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2276474",
+      "Title": "Called Back Scared....."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "<Z> <Z> I just turned 42 & have four kids ages",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 42
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 182
+}

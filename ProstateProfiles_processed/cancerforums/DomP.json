@@ -1,0 +1,177 @@
+{
+  "AuthorID": "DomP",
+  "AuthorURL": "https://www.cancerforums.net/members/124211-DomP?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "great",
+      "free",
+      "hopeful",
+      "willing",
+      "free",
+      "paranoid",
+      "alarmed",
+      "worried",
+      "reassured",
+      "touched",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0.5",
+      "ANGRY": "0.5",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.5",
+      "OPEN": "0.5",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 70,
+    "min": 16,
+    "scores": [
+      16,
+      70,
+      23
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "DomP",
+      "AuthorURL": "https://www.cancerforums.net/members/124211-DomP?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi, new to all of this 40 year old male here, been using propecia for hairless for about 12 years. No side effects other than a I have kept my hair... When I was 38 previous Dr. did a full blood work up as part of a physical said I couldn't be in better health no issues... Well he just retired, new Dr did the routine bloodworm a few weeks ago, told me everything looked great PSA good but never gave me a #... Today I picked up my medical records from the old Dr's office and noticed 2 years ago when they did my prostate bloodworm my PSA .70 My Free PSA was 16 and my free PSA percent was 23%... So I get they were all normal, yet if I double my PSA as suggested for being on Propecia its more like 1.40. Is that a # that causes alarm at 38 years of age or is it still in the normal range and I should not worry. Have an appointment today to hope new Dr will give me the actual #s other than it looks good...",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "new to all of this 40 year old male here  been",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 40
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> When I was 38 previous Dr  did a full",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 38
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "15/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51316-Being-Paranoid?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Being Paranoid???"
+    },
+    {
+      "AuthorID": "DomP",
+      "AuthorURL": "https://www.cancerforums.net/members/124211-DomP?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Gentlemen, thank you so much for the reassuring advice! I greatly appreciate it and will touch base when I see him latter today! Best of luck on your continued success!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "15/06/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/51316-Being-Paranoid?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Being Paranoid???"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "new to all of this 40 year old male here  been",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 225
+}

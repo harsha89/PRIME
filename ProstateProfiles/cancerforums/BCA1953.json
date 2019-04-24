@@ -1,0 +1,157 @@
+{
+  "AuthorID": "BCA1953",
+  "AuthorURL": "https://www.cancerforums.net/members/108036-BCA1953?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "important",
+      "hopeful",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.5",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 9,
+    "scores": [9]
+  },
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 7.5,
+    "min": 0.1,
+    "scores": [
+      0.1,
+      7.5
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "BCA1953",
+      "AuthorURL": "https://www.cancerforums.net/members/108036-BCA1953?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am trying to locate a cancer center that will at least consider removing the prostate even though there is bone mets. my PSA has been 0.1-0.4 for over 8 years now. Bone scans always show improvement, but having problems with blockage due to cancer growth in prostate. There must be a good cancer center out there that will do this.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/35159-Anyone-know-of-Cancer-Center-that-will-remove-prostate-in-spite-of-bone-metastasis?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Anyone know of Cancer Center that will remove prostate in spite of bone metastasis?"
+    },
+    {
+      "AuthorID": "BCA1953",
+      "AuthorURL": "https://www.cancerforums.net/members/108036-BCA1953?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by San635 My husband has diagnosed in October 2013 with a gleason 9 T2a. After much discussion and several opinions he opted for a clinical trial phase three with docetaxal with lupron injections and will be followed by surgery after every 3 weeks for total of 18 week chemo Thearpy. Has anyone been through this trial ? Not sure how this forum works. I was diagnosed with adenocarcinoma Gleason 9 and given two years to live. That was over 8 years ago. Doctors should NEVER estimate lifespan. They are NOT God. Now here is something important to know...I have never taken any form of Chemotherapy. I have been on Zoladex for the whole time. My PSA was about 7.5 when this whole thing started. Since then It has remained around 0.1-0.4 I believe the difference maker for me was my personal doctor. He suggested Hi-Dose Vitamin C infusions right from day 1. 3 x a week, 3 hours each time. I did this for two &a half years. No side effects what so ever. Vitamin C is natural cancer killer and taking it interveneuosly takes it right to the bones, and other infected parts. I cant say that this treatment would help your husband the same way, but what are the chances with chemo? Not good, let me tell you. That's why I have refused it. I hope many are listening. I have all records to back up what I am saying.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "27/11/2013",
+      "ThreadURL": "https://www.cancerforums.net/threads/35060-Husband-with-Gleason-9-at-age-48?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Husband with Gleason 9 at age 48"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 0.6669999957084656,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 328
+}

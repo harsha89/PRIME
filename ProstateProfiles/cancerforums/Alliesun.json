@@ -1,0 +1,275 @@
+{
+  "AuthorID": "Alliesun",
+  "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "hopeful",
+      "willing",
+      "encouraged",
+      "sensitive",
+      "eager",
+      "eager",
+      "worried",
+      "wonderful",
+      "sure",
+      "bad",
+      "willing",
+      "great",
+      "willing",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0.167",
+      "ALIVE": "0.167",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.167",
+      "GOOD": "0.167",
+      "HAPPY": "0.167",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.167",
+      "LOVE": "0.167",
+      "OPEN": "0.167",
+      "POSITIVE": "0.833",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 12.75,
+    "min": 3,
+    "scores": [
+      5,
+      10.75,
+      3,
+      12.75,
+      11.14
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Alliesun",
+      "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you for your reply, HighlanderCFH! All the doctors are urologists in a very famous hospital in Beijing. My father had an enlarged prostate for years. He began to have psa tested every 3 months back to 2014, but all his psa fluctuated around 5 and never exceeded 6. I guess that is why the doctors didn't order a biopsy test. But they should have and now I blamed them so much! Now my father will have his biopsy done on 09/19. The doctors declined to give him any prescription before they can finally decide if it is cancer. My father will have PET tomorrow. PET will show if it is cancer and bone mets. If PET can show all his cancer location, he does not need biopsy any more. Now I am quite convinced he has it, because both MRI and bone scan gave positive results. The bone scan result showed diffused uptake and active metabolism in his left pelvis. If it is a trauma, it will show one or multiple hot spots. If it is arthritis, all the hot spots should be in his joints. If it is degenerative changes, the hotspots should be in his vertebra or joints. I really hope it is infection, but his tumor at left peripheral zone of his prostate and diffused uptake in his left pelvis should not be a mere coincidence. The only thing I don't understand is the way his psa changes. It never went up quickly until this March (11.14), and then back to 5.6 in the following month. Even the August result dropped from 12.54 to 10.75 in July.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "05/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48831-Bone-mets?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone mets"
+    },
+    {
+      "AuthorID": "Alliesun",
+      "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I forgot to mention my father is 69 this year.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "to mention my father is 69 this year <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 69
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "05/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48831-Bone-mets?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone mets"
+    },
+    {
+      "AuthorID": "Alliesun",
+      "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I finally have an update. My daddy took the biopsy test and his result just came in yesterday. He had 13 cores and none of them showed cancer cells. I believed he had a systematic rather than targeted test. Now no one can explain the diffuse uptake in his left pelvis. I am not happy with the explanation that both MRI and bone scan had false positive results. According to the research articles, both tests have very high (at least 80%) sensitivity and specificity. The doctor recommended a PSMA- PET/CT and I am encouraging my father to take it this week. Then he doesn't need to take the follow-up biopsy test at all which is scheduled 2 months later. I am eager to know what happened to his pelvis. Before the doctor can make the final diagnosis, my father cannot receive any treatment, which make me really worried.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "20/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48831-Bone-mets?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone mets"
+    },
+    {
+      "AuthorID": "Alliesun",
+      "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "The doctor said my father has prostate cancer bone metastasis last week. My father's psa on 08/12 is tpsa 10.75 fpsa 1.710 fpsa/tpsa 0.16. Before Dec 2015, his psa has always been under 5-6, but the doctor never suggested a biopsy. Btw, my father is based in China. In March 2016, his psa became 11.14, but went down to 5.87 in April. On 7/13, his psa was 12.75, but in August it changed to 10.75. Till now my father cannot get a biopsy because in Wonderful China too many patients and no plenty of resources. He is in Beijing. His MRI showed a tumor in peripheral zone at left side which is very bad. His bone scan showed diffused uptake and active metabolism in his left pelvis. He has never got any fracture in his pelvis before. We are waiting for biopsy and not sure if he can get one next week.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "08 12 is tpsa 10 75 fpsa 1 710 fpsa tpsa",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 75
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "04/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48831-Bone-mets?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone mets"
+    },
+    {
+      "AuthorID": "Alliesun",
+      "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I googled \"capsaicin prostate cancer\" and found many research showed it can help inhibit the cancer and psa. I will buy some for my father.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "05/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48831-Bone-mets?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone mets"
+    },
+    {
+      "AuthorID": "Alliesun",
+      "AuthorURL": "https://www.cancerforums.net/members/120592-Alliesun?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you Highlander! Your post helped me a lot and I felt better now. I checked the internet again and found out prostatitis may have similar MRI results as prostate cancer. I am not sure why we got joy spots in bone scan. My father in fact can get the biopsy tomorrow. I will post the result when I have it. Thank you and you are great!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "07/09/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/48831-Bone-mets?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Bone mets"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "08 12 is tpsa 10 75 fpsa 1 710 fpsa tpsa",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 75
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 698
+}

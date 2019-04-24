@@ -1,0 +1,114 @@
+{
+  "AuthorID": "Wind Titan",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=954888&p=128489",
+  "EmotionInfo": {
+    "EmotionKeywords": ["nice"],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Wind Titan",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=954888&p=128489",
+    "Content": " Recently diagnosed with Agressive EST/PROG NEG, HER2 POSS IDC. Four tumors originally scanned in Right breast, new doctor found about\n 6-8 more tumors in my lymph nodes that have tested positive for cancer. Going for MRI, Bone Scan, marker testing and PET next week.\nLump is quite large now, found it myself, no thanks to the radiologist who has been reading my mammos for the last 5+ years.\nPrior to 2008 he was using old technology which I can not read well, but beginning 2008 to date in digital I can see the microcalcifications (cancer precursers). It would have been nice if I was told what calcifications could mean and where they were so I could at least monitor them. All I got was a normal or benign Bi-Rad. In fact two of the areas targeted by the the computer aided software identtify the exact same areas I now have tumors. So this has been going on for at least 3+ years. (I just found the lump 6-19-11). I am not real happy about\n this medical neglect and after this much time without treatment I don't see how my tests next week could possibly with a favorable outcome. Anyone out there have any similar issues? or guidance? I have no idea what to expect or what to consider. ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 41,
+    "PostDate": "06/08/2011",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=954888",
+    "Title": "Stage IV Breast Cancer Survivors?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 224
+}

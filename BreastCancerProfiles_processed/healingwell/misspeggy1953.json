@@ -1,0 +1,119 @@
+{
+  "AuthorID": "misspeggy1953",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1649831&p=175239",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sympathy",
+      "challenged",
+      "willing",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "misspeggy1953",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1649831&p=175239",
+    "Content": " I have this pain as well. Just had bilateral mastectomy about\n a month ago, and when I tell them that the pain is intense and not relieved by pain medications thus far they say I shouldnt have pain. Its an extreme hard, tight binding feeling that just increases and increases as the day goes on and never really goes away. Its hard learning you have cancer, rushing into surgery to remove it and doing everything you are told you must do to be better, feel better, but when you try telling them you are in pain it shouldnt be dismissed. It should be addressed. I have to return for tests and treatment tomorrow and will be armed with many of the comments that I have found here. This is a real syndrome and it should be addressed, there have to be answers, it seems the real challenge is going to be getting the \"doctors\" to admit its real and that our complaints are not requests for drugs or sympathy,we want relief, just relief, simple as that.\n ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 45,
+    "PostDate": "16/07/2013",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1649831",
+    "Title": "Post mastectomy pain syndrome"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 177
+}

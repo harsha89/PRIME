@@ -1,0 +1,154 @@
+{
+  "AuthorID": "Mike123q",
+  "AuthorURL": "https://www.cancerforums.net/members/125436-Mike123q?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "Posts": [
+    {
+      "AuthorID": "Mike123q",
+      "AuthorURL": "https://www.cancerforums.net/members/125436-Mike123q?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Originally Posted by HighlanderCFH Has your doctor every said anything about having an enlarged prostate? BPH (which is not cancer) will add to the PSA number. Last year when I had my biopsy they told me that my prostate is not enlarged. Thanks everyone for the advice. I will ask my Dr about those test.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "28/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52565-2nd-PSA-still-high-after-no-cancer-found-in-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "2nd PSA still high after no cancer found in biopsy"
+    },
+    {
+      "AuthorID": "Mike123q",
+      "AuthorURL": "https://www.cancerforums.net/members/125436-Mike123q?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, A year ago I had PSA levels tested and they were above ~7 (can't remember exact number). I had a biopsy and it showed no cancer. I had another blood test 2 days ago and the lab just text me to say my PSA was above 7 (don't know by how much) Will I have to have another biopsy and how likely will it be that I have cancer? And if it comes back negative will I have to have one every year until they find cancer? I'm 60yo. thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> I'm 60yo <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/09/2017",
+      "ThreadURL": "https://www.cancerforums.net/threads/52565-2nd-PSA-still-high-after-no-cancer-found-in-biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "2nd PSA still high after no cancer found in biopsy"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> <Z> I'm 60yo <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 60
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 160
+}

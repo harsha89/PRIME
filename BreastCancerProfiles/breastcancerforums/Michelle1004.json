@@ -1,0 +1,120 @@
+{
+  "AuthorID": "Michelle1004",
+  "AuthorURL": "https://www.cancerforums.net/members/105136-Michelle1004?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "reliable",
+      "sure"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Michelle1004",
+    "AuthorURL": "https://www.cancerforums.net/members/105136-Michelle1004?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "I have a question that I am not sure if you can answer. I had a breast biopsy done that showed I have benign breast tissue with fibrosis and adenosis. However, in the comment section underneath the final pathologic diagnosis states: the areas of adenosis are sometimes formed into small round glands/ducts and in other places are streaming elongate tubules, suggesting a mixture of microglandular and tubular adenosis. It is farily sparsely cellular and involves fat and fibrous tissue. The surgeon stated to me that surgery is not necessary. However, upon researching scholarly reports and other hospital sites, I found that microglandular adenosis is a precursor for breast cancer and in one study 19 of the 20 women that had it ended up with breast cancer. I am not sure if I am just freaking out or if what these reliable websites are stating are true. Has anyone had this issue or know anything about it? I keep getting the run around from the surgeon. I feel as though I am being left in the dark. Thank you!",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "19/07/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/32539-Breast-Biopsy?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Breast Biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urethral strictures",
+      "Bladder neck contracture"
+    ],
+    "SideEffectTypeKeywords": ["fibrosis"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 181
+}

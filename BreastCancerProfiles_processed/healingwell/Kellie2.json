@@ -1,0 +1,200 @@
+{
+  "AuthorID": "Kellie2",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=374151&p=23984",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "supportive",
+      "thoughtful",
+      "willing",
+      "worried",
+      "thoughtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.25",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.25",
+      "OPEN": "0",
+      "POSITIVE": "0.25",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Kellie2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=374151&p=23984",
+      "Content": " I am 40.  I am very new to this whole situation.  I have never had any problems in any area so this entire thing is new to me. The worst I have ever had is the flu.  ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 40 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 40
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "05/12/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=374151",
+      "Title": "Advice for callback mammogram etc"
+    },
+    {
+      "AuthorID": "Kellie2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=374151&p=23984",
+      "Content": " Hi.  I am new to this website and thought maybe I could get support for what may or may not happen.  Here is the story.  I had my very first mammogram done on 11/14 and on 11/22 they called me to say they needed some more pictures done to get clearer magnification.  Then the same day my DR. Called to say the same thing execpt she did say that they found one spot that was 3cm that they wanted to review closer.  I am scheduled for a follow up mammogram and ultrasound on 12/13.  Another kicker to not help, my father died just 30 days ago of cancer (brain) but this is haunting me like crazy.  I am so worried about\n the next visit eventhough they have told me I will have the findings before I leave that day.  I keep picturing myself as I saw may dad on his last few days.\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/12/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=374151",
+      "Title": "Advice for callback mammogram etc"
+    },
+    {
+      "AuthorID": "Kellie2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=374151&p=23984",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "12/12/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=374151",
+      "Title": "Advice for callback mammogram etc"
+    },
+    {
+      "AuthorID": "Kellie2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=374151&p=23984",
+      "Content": " I went for the callback today and good news...All is well.  I do not have to go back for 1 year.  They found a couple of cyst (benign).  Your hugs and thoughts helped me tremendously. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "13/12/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=374151",
+      "Title": "Advice for callback mammogram etc"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 40 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 234
+}

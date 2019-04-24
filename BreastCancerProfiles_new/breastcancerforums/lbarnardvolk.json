@@ -1,0 +1,130 @@
+{
+  "AuthorID": "lbarnardvolk",
+  "AuthorURL": "https://www.cancerforums.net/members/2330-lbarnardvolk?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "kind",
+      "glad",
+      "comfortable",
+      "comforted",
+      "challenged",
+      "pained",
+      "numb",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "2",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "lbarnardvolk",
+    "AuthorURL": "https://www.cancerforums.net/members/2330-lbarnardvolk?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "hi - i am new to this site but am glad i have found it. i was diagnosed with stage 2 breast CA in 1998, i was 38. i had mastectomy with TRAM Flap resconcstructive surgery. they used stomach muscle to move up underneath the skin and create a new breast for me. the pain from the this still continues and i am numb from my right breast down to lower abdomen. my arm is numb where the lymph nodes were removed. the \"cocktail\" of chemotherapy i was on has left me with all kinds of longterm cognitive, emotional and neurological effects. I don't think \"normal\" as we \"knew\" it comes back. a new kind of \"normal\" emerges. after all of the chemotheraphy I had i was supposed to take Tamoxifen but my body had had enough, so i didn't take it and i am 8 years out - clean. everyone's road they travel is different, but like the others said, you have to find what is comfortable for you so that your quality of life is something you can \"live\" with. yes, \"live\" with. if we weren't having these challanges we wouldn't be living. i am glad each one of you has reached some form of success so that you can still say you have challenges because you are living. sincerely,",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "CA in 1998  i was 38 <Z> <Z> <Z> <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 38
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 6,
+    "PostDate": "12/07/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/3046-tamoxifen?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "tamoxifen"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "CA in 1998  i was 38 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 38
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 225
+}

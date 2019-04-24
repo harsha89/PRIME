@@ -1,0 +1,152 @@
+{
+  "AuthorID": "Mimicat",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3374669&p=210704",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "supportive",
+      "thoughtful",
+      "anxious",
+      "willing",
+      "fearful",
+      "anxious"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Mimicat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3374669&p=210704",
+      "Content": " Hi!\nIt\u2019s been months since I got online because what I have feared to happen seems to be happening now. I have history of breast cancer in my mother\u2019s family. An aunt and a cousin died of breast cancer. Thus, I\u2019ve tried having a lifestyle that will reduce the risk of cancer. I eat healthy, drink herbal teas, and exercise regularly after my OB gynecologist gave me the green light months after I gave birth through normal delivery. But what I did is not enough\u2026\nI'm so anxious at the moment. I'm having nightmares and not sleeping well. I had an ultrasound which showed: 7x3x7 mm breast lesion 2cm from nipple. Hypoechoic with some through transmission. Small echogenic foci are identified within. No vasculariry or architectural distortion. It may represent a fibroadenoma however there does appear to be some tapering suggesting ductal in origin. \nHow likely is this to be cancer? I'm seeing specialist on Friday. The report says it suggest a biopsy. I have a 2-year-old son and I breast fed him for 1.5 years. I thought this would have been protective. I'm really after some support and some insight as to how likely this is something nasty. I actually went in to see my doctor as I had other lumps which just turned out to be benign glandular tissue- just part of my breast anatomy and then they found this unexpected lesion. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I have a 2 year old son and I",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 2
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/04/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3374669",
+      "Title": "Can this lead to cancer?"
+    },
+    {
+      "AuthorID": "Mimicat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3374669&p=210704",
+      "Content": " Thanks Debdidit! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/04/2015",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3374669",
+      "Title": "Can this lead to cancer?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 248
+}

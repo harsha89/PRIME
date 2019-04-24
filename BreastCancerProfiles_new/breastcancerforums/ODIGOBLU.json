@@ -1,0 +1,126 @@
+{
+  "AuthorID": "ODIGOBLU",
+  "AuthorURL": "https://www.cancerforums.net/members/1948-ODIGOBLU?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "understanding",
+      "important",
+      "pleased",
+      "willing",
+      "distressed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "1",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "ODIGOBLU",
+    "AuthorURL": "https://www.cancerforums.net/members/1948-ODIGOBLU?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "O estudo imunohistoquimico realizado revelou imunorreactividade das celulas neoplasicas para os receptores hormonais (positividade em cerca de 90% das celulas neoplaicas para as Estrogeneos e positividade em cerca de 90% das celulas neoplasicas para a Progesterona.) OC erb2 for negativo. Hi there I am new to this and need some help please. I live on a Island in the Azores but I am also new here I have just immigrated from South Africa. My problem is I have just been diagnosed with invasive ductal carcinoma and the above giberish is what my cancer is all about. Now my docters they dont speak english and I dont speak Portugues. HELP ME PLEASE to understand the above tells me if i am estogen or and and and all the important things that i should know about my cancer if somebody out there can help I will be forever grateful, My docs speak only portuguese and cant help me at all. I would also appreciate what treatments i should consider.... I am 37 years old I have invasive ductal carcinoma I have had a lumpectomy but have refused chemo and radiation until I know what I am dealing with. I have had all yests, i have no lynph involvement no liver nor lung. I have had a bone scan mamogram and a scan of the liver kidneys and colon all have been told to me as clear. as far as what they can see. Anybody out there please help me to get my head around this. Thanks so much A very distressed Odigoblu",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 37 years old I have invasive",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 37
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "18/03/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/2682-INFO-ON-IDC-and-a-language-problem?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "INFO ON IDC and a language problem"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 37 years old I have invasive",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 37
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 269
+}

@@ -1,0 +1,201 @@
+{
+  "AuthorID": "Krista",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157417&p=3345",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "calm",
+      "touched",
+      "willing",
+      "bad",
+      "scared",
+      "pained",
+      "pained",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "0.25",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0.25",
+      "GOOD": "0.25",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.25",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0.25",
+      "OPEN": "0",
+      "POSITIVE": "0.25",
+      "SAD": "0.5",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 4,
+  "NPosts": 4,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Krista",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157417&p=3345",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "20/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157417",
+      "Title": "scared about mamagram..."
+    },
+    {
+      "AuthorID": "Krista",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157417&p=3345",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "28/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157417",
+      "Title": "scared about mamagram..."
+    },
+    {
+      "AuthorID": "Krista",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157417&p=3345",
+      "Content": " I have chrohns disease so I usually read the posts there. Last week I went to my doctor for a physical and he found a few lumps in my breast and also when he touched the top part it hurt really bad and he said it feels like a mass or something like that. I have a mamagram on Monday followed by an ultrasound, I am really scared because I have never had one done and I'm 41. I am praying that their only cyst but what scares me is the pain when he touches there. What will the mamagram and ultrasound be able to show? There is no breast cancer in my family but I hear that doesn't matter. Anyone have any advice that will calm my nerves. \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "had one done and I'm 41 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157417",
+      "Title": "scared about mamagram..."
+    },
+    {
+      "AuthorID": "Krista",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157417&p=3345",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157417",
+      "Title": "scared about mamagram..."
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "had one done and I'm 41 <Z> <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 134
+}

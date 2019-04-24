@@ -1,0 +1,125 @@
+{
+  "AuthorID": "baysideskincancer",
+  "AuthorURL": "https://www.cancerforums.net/members/30270-baysideskincancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "caring",
+      "willing",
+      "sure",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "baysideskincancer",
+    "AuthorURL": "https://www.cancerforums.net/members/30270-baysideskincancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "It is normal to have differences in breast density ( and size ) left to right Mammograms often show lots of variance in the white lines seen If the radiologists were worried they probably would have spent more time At age 28 cancer is unlikely , but lumps do need careful management This can include seeing breast specialists and biopsy ( relatively painless sampling of tissue ) Cysts are often drained , and the breast re-examined to make sure the lump has gone A couple of days will make no difference at all Everything should be OK ,enjoy those children",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "spent more time At age 28 cancer is unlikely   but lumps",
+        "Relation": "unknown",
+        "Tense": "past",
+        "Value": 28
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "NarrationType": "unknown",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 3,
+    "PostDate": "05/05/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/23027-Question-about-Mammogram?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Question about Mammogram?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "spent more time At age 28 cancer is unlikely   but lumps",
+      "Relation": "unknown",
+      "Tense": "past",
+      "Value": 28
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 95
+}

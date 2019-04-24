@@ -1,0 +1,158 @@
+{
+  "AuthorID": "tamiep",
+  "AuthorURL": "https://www.cancerforums.net/members/9089-tamiep?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "tender",
+      "touched",
+      "thoughtful",
+      "hopeful",
+      "sure",
+      "kind",
+      "encouraged",
+      "paranoid",
+      "embarrassed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0.5",
+      "CONFUSED": "0.5",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "1",
+      "OPEN": "0.5",
+      "POSITIVE": "0.5",
+      "SAD": "0",
+      "STRONG": "0.5"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "tamiep",
+      "AuthorURL": "https://www.cancerforums.net/members/9089-tamiep?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I have never been diagnosed with breast cancer, so I hope that is ok to ask questions here. I was taking a shower yesterday and ran my hand over my breast and found what felt like a long hard cord in my right breast. I thought I was imagining things, so I felt again and sure enough. It runs the length of by breast, which aren't big, from the top to the nipple area. I imagine it feels like a hard vein. It is tender, but only to the touch. I am 45 and breast fed my nearly 5 year old son until he was 3. I don't know if any of this is relevant, but thought I'd throw it out there. I called the doctor's office yesterday and they were about to go home for the weekend and couldn't be bothered with me and just said make an appointment for next week. My mind is going crazy trying to figure this out: is it cancer? blood clot blocking a vein? milk duct clogged? What? Any ideas?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 45 and breast fed my nearly",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 45
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/08/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5120-Hard-Vein-(-)-in-Breast?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Hard Vein (?) in Breast"
+    },
+    {
+      "AuthorID": "tamiep",
+      "AuthorURL": "https://www.cancerforums.net/members/9089-tamiep?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Thanks so much you guys for the encouraging words. I'm kind of embarrassed to say that I cannot find the hard vain thing now. But it was still there up until a few hours ago. I'm still going to go to the doctor tomorrow or Tuesday to see what it might have been. My sister had Hodgkin's so I think I get kind of paranoid sometimes.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "20/08/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5120-Hard-Vein-(-)-in-Breast?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Hard Vein (?) in Breast"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 45 and breast fed my nearly",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 45
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Clot"],
+    "SideEffectTypeKeywords": ["clot"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 255
+}

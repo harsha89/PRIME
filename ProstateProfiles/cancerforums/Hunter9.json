@@ -1,0 +1,138 @@
+{
+  "AuthorID": "Hunter9",
+  "AuthorURL": "https://www.cancerforums.net/members/122109-Hunter9?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "thoughtful",
+      "anxious",
+      "willing",
+      "free",
+      "fearful",
+      "anxious",
+      "scared"
+    ],
+    "Emotions": {
+      "AFRAID": "3",
+      "ALIVE": "1",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "1",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 11.14,
+    "min": 7,
+    "scores": [
+      11.14,
+      7
+    ]
+  },
+  "Posts": [{
+    "AuthorID": "Hunter9",
+    "AuthorURL": "https://www.cancerforums.net/members/122109-Hunter9?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "I am 45yo with two young children at home. I have a history of testicular cancer from 1999 (no reacurance) Anyway, I went to the doctor last week for a regular check up. My PSA came back as 11.14 with a free PSA of 7%. Doc said to wait a week and we will recheck. A week later we rechecked and it in now 7.89 with 6% free. He also completed a urine culture to rule out infection. He scheduled me for a Biopsy and indicated that he believes that I have prostate cancer. I am very scared and anxious. Any thoughts or ideas about my situation would be helpful. I am otherwise healthy. I have to say that large part of my fear Is being able to achieve an erection once all of this is over. Thanks",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "Confused and scared I am 45yo with two young children at",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 45
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["prostate"]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "20/01/2017",
+    "ThreadURL": "https://www.cancerforums.net/threads/50026-Confused-and-scared?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Confused and scared"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "Confused and scared I am 45yo with two young children at",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 45
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 145
+}

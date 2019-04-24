@@ -1,0 +1,152 @@
+{
+  "AuthorID": "UCwhat?",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4082459&p=160300",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "worried",
+      "fret"
+    ],
+    "Emotions": {
+      "AFRAID": "2",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "UCwhat?",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4082459&p=160300",
+      "Content": " Hi all! I\u2019ve been a member here and active on some other boards for quite some time now...first time here though. Last week I had my first 40 year old mammogram, my 2nd one ever though. The first was over 6 years ago and I was told it looked good. This time I got a call the next day saying I needed to schedule more testing on my left breast, and am now scheduled for a diagnostic mammogram and ultrasound next week. I know it\u2019s pointless to fret at this point...but I can\u2019t help doing so at least a little bit. I have a medical history that involves issues often ending up worse than expected. The report from the mammogram said I have extremely dense breast tissue with asymmetry in the left breast. This worries me even more because of the risk that the test will be misread and that tumors could go unnoticed. Anyone here have similar circumstances? Is it crazy to want to ask I doctor for genetic tests and/or ultrasound instead of mammogram each year to get better test results?? Thanks for listening... ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "week I had my first 40 year old mammogram  my 2nd",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 40
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "11/11/2018",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4082459",
+      "Title": "Called back after mammogram"
+    },
+    {
+      "AuthorID": "UCwhat?",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4075784&p=160300",
+      "Content": " How did it go? How are you??\n6/12:DX Mild Ulcerative Proctitis:quick remission w/1 Canasa nightly\nMAJOR Flare began late 11/12\nBy 2/4/13, UC Severe into transverse colon\nPrednisone refractory,little to no relief from enemas or Remicade\n3/13/13:Proctocolectomy w/end ileostomy;pathology showed Severe Chronic UC throughout colon\n2/26/15:Perineal Proctectomy (all sewn up!) ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "11/11/2018",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4075784",
+      "Title": "Bad Mammogram"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.8,
+      "Phrase": "week I had my first 40 year old mammogram  my 2nd",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 40
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 259
+}

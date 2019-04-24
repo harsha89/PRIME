@@ -1,0 +1,275 @@
+{
+  "AuthorID": "michaelcz",
+  "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "free",
+      "hopeful",
+      "willing",
+      "free",
+      "great",
+      "unpleasant",
+      "wronged",
+      "free",
+      "free",
+      "hopeful",
+      "willing",
+      "free",
+      "great",
+      "unpleasant",
+      "wronged"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.333",
+      "ANGRY": "0.333",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0.333",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0.333",
+      "POSITIVE": "0.667",
+      "SAD": "0",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 6,
+  "NPosts": 6,
+  "PSAInfo": {
+    "max": 21.2,
+    "min": 2,
+    "scores": [
+      2,
+      21.2
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "michaelcz",
+      "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I'm a 49 year old male with the following statistics: 1- mentioned to the doc during a physical one year ago that I sometimes had to get up in the middle of the night to pee, so he added a PSA test into my blood work. 2- PSA test came back at 2.0 back in 12/2017 06/18/2018 = 2.62 09/05/2018 = 2.28 01/03/2019 = 3.12 01/07/2019 - 3.23 3 - Referred to a urologist; PHI test was done - score of 34.27 with a free PSA of 21.2%; sent for an MRI 4 - Results back show 2 lesions (grade '3') - next step is a consult with the urologist next week. Googling results is the equivalent of going down the rabbit hole of terror, so hoping folks could give some guidance as to any similar experiences they may have had with similar results. My guess is that the discussion will either be to (1) have a biopsy or (2) monitor PSA levels along with a future MRI? Thank you!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "this whole thing I'm a 49 year old male with the",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/01/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56365-New-to-this-whole-thing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this whole thing"
+    },
+    {
+      "AuthorID": "michaelcz",
+      "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks everyone for the replies and guidance - I really appreciate it! This is one party I wish I were not invited to, yet that's life I suppose. The PSA dates were wrong - here's the list with the accurate years: 12/2017= 2.01 06/18/2018 = 2.62 09/05/2018 = 2.28 01/03/2019 = 3.12 01/07/2019 - 3.23 For what it is worth, the PSA tests were completed after the digital exams except for the 06/18 and 09/05 readings - I read that could add some to the total yet the trend certainly is upward here unfortunately. I feel decent about my urologist - he's out of Northwestern Hospital in Chicago. Also relieved that I was able to get in to see him next Wednesday to discuss the next steps. Notwithstanding the general unpleasantness of what I would expect from a biopsy and the risks of infection, I am leaning towards it especially if I can get the fusion guided one or under some sort of general sedation. I've got a lot of time on my hands now courtesy some recent job cuts at Xerox that trickled down to their subsidiaries where I worked (yea, it's been a GREAT 30 days here) so I suppose it makes sense to knock this out now. We'll see what he says next week and move ahead. Thanks again for all of the guidance guys.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "26/01/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56365-New-to-this-whole-thing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this whole thing"
+    },
+    {
+      "AuthorID": "michaelcz",
+      "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Nope, no testosterone or hormone supplement treatments at all. The only thing I take is a very low dose of a statin and 5 MG of melatonin per night.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["testosterone"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "26/01/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56365-New-to-this-whole-thing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this whole thing"
+    },
+    {
+      "AuthorID": "michaelcz",
+      "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Nope, no testosterone or hormone supplement treatments at all. The only thing I take is a very low dose of a statin and 5 MG of melatonin per night.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["testosterone"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "26/01/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56365-New-to-this-whole-thing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this whole thing"
+    },
+    {
+      "AuthorID": "michaelcz",
+      "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I'm a 49 year old male with the following statistics: 1- mentioned to the doc during a physical one year ago that I sometimes had to get up in the middle of the night to pee, so he added a PSA test into my blood work. 2- PSA test came back at 2.0 back in 12/2017 06/18/2018 = 2.62 09/05/2018 = 2.28 01/03/2019 = 3.12 01/07/2019 - 3.23 3 - Referred to a urologist; PHI test was done - score of 34.27 with a free PSA of 21.2%; sent for an MRI 4 - Results back show 2 lesions (grade '3') - next step is a consult with the urologist next week. Googling results is the equivalent of going down the rabbit hole of terror, so hoping folks could give some guidance as to any similar experiences they may have had with similar results. My guess is that the discussion will either be to (1) have a biopsy or (2) monitor PSA levels along with a future MRI? Thank you!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I'm a 49 year old male with the",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 49
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "urologist",
+            "MainSubject": "urologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "25/01/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56365-New-to-this-whole-thing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this whole thing"
+    },
+    {
+      "AuthorID": "michaelcz",
+      "AuthorURL": "https://www.cancerforums.net/members/129262-michaelcz?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks everyone for the replies and guidance - I really appreciate it! This is one party I wish I were not invited to, yet that's life I suppose. The PSA dates were wrong - here's the list with the accurate years: 12/2017= 2.01 06/18/2018 = 2.62 09/05/2018 = 2.28 01/03/2019 = 3.12 01/07/2019 - 3.23 For what it is worth, the PSA tests were completed after the digital exams except for the 06/18 and 09/05 readings - I read that could add some to the total yet the trend certainly is upward here unfortunately. I feel decent about my urologist - he's out of Northwestern Hospital in Chicago. Also relieved that I was able to get in to see him next Wednesday to discuss the next steps. Notwithstanding the general unpleasantness of what I would expect from a biopsy and the risks of infection, I am leaning towards it especially if I can get the fusion guided one or under some sort of general sedation. I've got a lot of time on my hands now courtesy some recent job cuts at Xerox that trickled down to their subsidiaries where I worked (yea, it's been a GREAT 30 days here) so I suppose it makes sense to knock this out now. We'll see what he says next week and move ahead. Thanks again for all of the guidance guys.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "26/01/2019",
+      "ThreadURL": "https://www.cancerforums.net/threads/56365-New-to-this-whole-thing?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "New to this whole thing"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "this whole thing I'm a 49 year old male with the",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 49
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Infection"],
+    "SideEffectTypeKeywords": ["infection"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 923
+}

@@ -1,0 +1,132 @@
+{
+  "AuthorID": "madan",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=151230",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "interested",
+      "great",
+      "certain",
+      "loving",
+      "loved",
+      "willing",
+      "certain",
+      "irritated",
+      "upset",
+      "upset",
+      "lost",
+      "fearful",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "2",
+      "CONFUSED": "2",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "2",
+      "OPEN": "1",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "madan",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1461099&p=151230",
+    "Content": " I took Tamoxifen for 3 months, and I am facing stopping it because of fear of uterine cancer and because I was irritable all the time. I did not have the hot flashes or the weight gain, in fact I had a lot of energy and saw a reduction on my typical belly bulge. But 5 weeks into taking the drug I started spotting and had an endometrial biopsy. I had uterine pain all the time. My OBGYN told me that tamoxifen can cause thickening of the lining of the uterus and in certain cases uterine cancer. She said that it was manageable if we did a biopsy every time I spotted, but that seemed to be the case the next month too. In addition to that, I felt extremely irritable, lost interest in my lovely husband and was upset at my children all the time. My energy level was great, though. My oncologist suggested to consider dropping it since I only had DCIS, which was removed with lumpectomy and treated with radiation, but I'm willing to give it a longer try to see if the side effects disappear. Any advise? ",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "hot flashes",
+            "uterus"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 48,
+    "PostDate": "28/07/2012",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1461099",
+    "Title": "Tamoxifen Side Effects"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["bulge"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 192
+}

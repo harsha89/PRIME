@@ -1,0 +1,1987 @@
+{
+  "AuthorID": "bobkeenan",
+  "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "easy",
+      "great",
+      "considerate",
+      "affected",
+      "willing",
+      "decisive",
+      "willing",
+      "decisive",
+      "free",
+      "accepting",
+      "great",
+      "free",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "free",
+      "bad",
+      "forced",
+      "pained",
+      "pained",
+      "considerate",
+      "willing",
+      "sure",
+      "decisive",
+      "decisive",
+      "considerate",
+      "willing",
+      "sure",
+      "decisive",
+      "free",
+      "accepting",
+      "great",
+      "free",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "free",
+      "bad",
+      "forced",
+      "pained",
+      "pained",
+      "free",
+      "accepting",
+      "great",
+      "free",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "free",
+      "bad",
+      "forced",
+      "pained",
+      "pained",
+      "free",
+      "accepting",
+      "great",
+      "free",
+      "concerned",
+      "thoughtful",
+      "willing",
+      "free",
+      "decisive",
+      "bad",
+      "forced",
+      "pained",
+      "pained",
+      "considerate",
+      "willing",
+      "sure",
+      "decisive",
+      "considerate",
+      "willing",
+      "sure",
+      "decisive",
+      "thoughtful",
+      "willing",
+      "sure",
+      "bad",
+      "great",
+      "kind",
+      "ok",
+      "close",
+      "thoughtful",
+      "excited",
+      "willing",
+      "lost",
+      "lucky",
+      "ok",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful",
+      "affected",
+      "hopeful",
+      "willing",
+      "affected",
+      "hopeful",
+      "willing",
+      "kind",
+      "ok",
+      "close",
+      "thoughtful",
+      "excited",
+      "willing",
+      "lost",
+      "lucky",
+      "ok",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful",
+      "lucky",
+      "ok",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful",
+      "kind",
+      "ok",
+      "close",
+      "thoughtful",
+      "excited",
+      "willing",
+      "lost",
+      "kind",
+      "great",
+      "hopeful",
+      "willing",
+      "bad",
+      "kind",
+      "ok",
+      "close",
+      "thoughtful",
+      "excited",
+      "willing",
+      "lost",
+      "lucky",
+      "ok",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful",
+      "kind",
+      "ok",
+      "close",
+      "thoughtful",
+      "excited",
+      "willing",
+      "lost",
+      "kind",
+      "great",
+      "hopeful",
+      "willing",
+      "bad",
+      "kind",
+      "great",
+      "hopeful",
+      "willing",
+      "bad",
+      "affected",
+      "hopeful",
+      "willing",
+      "kind",
+      "great",
+      "hopeful",
+      "willing",
+      "bad",
+      "lucky",
+      "ok",
+      "willing",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful",
+      "affected",
+      "hopeful",
+      "willing",
+      "kind",
+      "great",
+      "hopeful",
+      "willing",
+      "bad",
+      "affected",
+      "hopeful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0.114",
+      "ANGRY": "0",
+      "CONFUSED": "0.143",
+      "DEPRESSED": "0.429",
+      "GOOD": "0.286",
+      "HAPPY": "0.457",
+      "HELPLESS": "0.114",
+      "HURT": "0.257",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.571",
+      "LOVE": "0.286",
+      "OPEN": "0.543",
+      "POSITIVE": "1.314",
+      "SAD": "0.4",
+      "STRONG": "0.486"
+    }
+  },
+  "GleasonInfo": {"scores": [7]},
+  "NExperiencePosts": 35,
+  "NPosts": 39,
+  "PSAInfo": {"scores": [
+    2.8,
+    3.75
+  ]},
+  "Posts": [
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I am 64. Over the past 5 years my PSA has increased from 3.75 to 5.75, digital exams show my prostate as smooth and not large. No Family history. I have had a little decline in urination stream and some erectile disfunction over the past 4-5 years. I decided to do a biopsy 3 years ago and it was negative. Now a new doctor, new city (Portland), and he suggests I get a urine PCA3 test. I just got my results and it was 96. He tells me that below 30 is low risk of cancer above 30 is higher risk. I think the scale goes to 125. So we are going to do another biopsy. I was expecting that. But how scary should the PCA3 test result be, given the other history. Never heard of the test before a couple weeks ago?",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 64 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 64
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/08/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40289-PCA3-High?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "PCA3 High ????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks for the reply. That does not really answer my question. But I did find one internet site that briefly said that the cancer area is changed to scar tissue and most or all of the prostate is as well. I will post what the doc says after I talk with him next week. One of my considerations was what happens if the procedure does not work. And with surgery radiation is the back up. While with radiation surgery, as a back up, is not a great option. But I have some other health issues (Mastocytosis) where surgery may have some risk. No one seems to know but it was an unknown. And when a senior surgeon at OHSU (went there for a second opinion) said that all the options are about the same and all will have good outcomes. But with my Masto that \"radiation deserves strong consideration\". That comment put me over the top with my decision. I will post what my side affects are and effectiveness of the IGRT as the treatment continues. So far its easy peasy at 2 of 43 treatments. But I am told that the first 2 weeks are the \"honeymoon\" period.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "30/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41469-What-does-radiation-actually-do-to-the-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What does radiation actually do to the prostate?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Going through IGRT right now. 2 down and 41 to go. I will ask the doctor at my next visit. But what does the radiation actually do to the prostate? and what condition will the prostate be in after the conclusion of all of the treatments? Will it be a mass of scar tissue with a urinary passage through it. Or will it be a living prostate that will repair its healthy cells while the cancer cells are dead? I have done a bit of research on the internet and there is surprisingly little to find in this.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "right now  2 down and 41 to go <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41469-What-does-radiation-actually-do-to-the-prostate?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "What does radiation actually do to the prostate?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "There is a lot of good info on this forum for Prostatectomies and to a lesser degree Brachytherapy. But very few External Beam Radiation threads ( saw a few about salvage EBR after surgery). Anyone out there who did one of the External Beam Radiation treatments as an initial treatment to PC? And if so could you please share your success or lack of with the procedure and what the initial and longterm side effects are. Thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41111-External-beam-radiation-side-effects-experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "External beam radiation: side effects, experiences?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "The sticky about EBR seems to be mostly about filling you bladder up before each session. Its not nearly as complete as the surgery sticky. Specifically about your experience. I can do any of the procedures but probably not HT. I have a rare disease called mastocytosis and flushing, a side effect of HT, could be bad for me. As for specific questions: 1. Did you think that HT was a real benefit for you? 2. Did you experience any bowel issues during or after the treatments and are they gone now? 3. Did you experience any urinary issues during or after treatments and are they gone now? i think that is all that I am smart enough to ask for now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "06/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41111-External-beam-radiation-side-effects-experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "External beam radiation: side effects, experiences?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "The sticky about EBR seems to be mostly about filling you bladder up before each session. Its not nearly as complete as the surgery sticky. Specifically about your experience. I can do any of the procedures but probably not HT. I have a rare disease called mastocytosis and flushing, a side effect of HT, could be bad for me. As for specific questions: 1. Did you think that HT was a real benefit for you? 2. Did you experience any bowel issues during or after the treatments and are they gone now? 3. Did you experience any urinary issues during or after treatments and are they gone now? i think that is all that I am smart enough to ask for now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "06/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41111-External-beam-radiation-side-effects-experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "External beam radiation: side effects, experiences?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks. This helps with my decision",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "06/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41111-External-beam-radiation-side-effects-experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "External beam radiation: side effects, experiences?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "After talking with the Urologist/ Surgeon and reading the Walsh book and all of the online info I was convinced that surgery was the answer. My rationale was when you pull the prostate PSA goes to 0 and should stay there. A biopsy of the lymph nodes and the prostate will tell me if they got the cancer out. And I was accepting of the fact that i will have some pain, discomfort of the catheter and bag, and potential for some continence issues in the future. Even thought those may be small. But to be fair to myself I wanted to talk to a radiologist and I did that today. BTW i am getting a second opinon on both the surgery and radiology in a few weeks. I did not like the radiation because it lacked the surety of knowing I am cancer free. I also did not like some of the reports of urinary or rectal issues well after treatment. Well I come out of the Radiation Oncologists office, the same office that cured my Wife's breast cancer last year (with surgery too), and now my thoughts have shifted. The radiologist basically said that my cancer was caught very early and there is very little risk that it has spread beyond the prostate. He said that just about any modality would work and they all have about the same success rate at this early stage. Great!! He said that the urinary issues for him were very rare and were of the urgency nature. In all of the treatments that he has performed he only had rectal bleeding once or twice that was very small, occurred when BM's were forced, and easily remedied. I was also concerned about if the radiation failed and my PSA began to rise again that surgery was off the table. He agreed with that but the PSA increase if it did occur would be years down the road and would likely be at about the same rate it was before @.75 / yr and given when that would happen and my age at the time it just may not be worth doing much. He did also suggest that if it did occur, which was highly unlikely, that I could be treated with salvage radiation or hormone therapy. He said salvage radiation is vary rarely needed to be done. Hormone therapy BTW might be an issue with me as it might trigger bad things with a rare disease call Mastosystosis. So now I am being seduced by the promise of the same cure with no painful surgery, no catheter, no bag, and minimal continence issues. Any thoughts? I have heard that this forum leans toward the surgery. Right now if the second opinons mirror the first I am likely going to go with the External Beam radiation.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "18/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Comment on the above posts.... The radiologist did offer Brachytherapy. He said that it would be equally effective as compared to EB and prostatectomy. He said that it is particularly a good option for men who would find it difficult to be at the hospital 5 days a week for 8 weeks. He also said that, in his experience, there are a bit more side effects from the Brachy, during initial treatment, than with EB. Also the urologist and an prostate oncology expert (part of a prostate cancer seminar that I attended up here in portland that included Seattle and Vancouver BC) Said that brachytherapy was big in the 90's and early 2000's but was being done less now. So because of the added side effects and I prefer to go where most of the experience is these days.... I pulled Brachytherapy off the list. I also had a friend in the 1990's who did the brachy therapy. The cancer came back, metastasized and he eventually died. I am sure his cancer was much more advanced so its like comparing apples and oranges. And I know that all these treatments have improved since then. Not very logical, But it puts a stigma in my head. BTW they do IGBT for the EB. As for the ED. Because of the drugs that I have to take for this rare disease I have, called Mastocytosis, my erectile function is shot anyway and will stay that way. So that is one consideration that I do not have to deal with. I was relieved to hear that all the main treatments are almost equally good but with differing side effects. Right now I am like 60% for the IGBT and 40% for the da vinci surgery. I meet with the a full team (surgery, radiation, oncology) at OHSU on 7 OCT. If they not reveal anything new I will probably go with the IGBT that is at our hospital that is a mile away from our house. If they tell me something new... then it may be another decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 34,
+      "PostDate": "19/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks. This helps with my decision",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "06/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41111-External-beam-radiation-side-effects-experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "External beam radiation: side effects, experiences?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "There is a lot of good info on this forum for Prostatectomies and to a lesser degree Brachytherapy. But very few External Beam Radiation threads ( saw a few about salvage EBR after surgery). Anyone out there who did one of the External Beam Radiation treatments as an initial treatment to PC? And if so could you please share your success or lack of with the procedure and what the initial and longterm side effects are. Thanks.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "05/10/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41111-External-beam-radiation-side-effects-experiences?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "External beam radiation: side effects, experiences?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Comment on the above posts.... The radiologist did offer Brachytherapy. He said that it would be equally effective as compared to EB and prostatectomy. He said that it is particularly a good option for men who would find it difficult to be at the hospital 5 days a week for 8 weeks. He also said that, in his experience, there are a bit more side effects from the Brachy, during initial treatment, than with EB. Also the urologist and an prostate oncology expert (part of a prostate cancer seminar that I attended up here in portland that included Seattle and Vancouver BC) Said that brachytherapy was big in the 90's and early 2000's but was being done less now. So because of the added side effects and I prefer to go where most of the experience is these days.... I pulled Brachytherapy off the list. I also had a friend in the 1990's who did the brachy therapy. The cancer came back, metastasized and he eventually died. I am sure his cancer was much more advanced so its like comparing apples and oranges. And I know that all these treatments have improved since then. Not very logical, But it puts a stigma in my head. BTW they do IGBT for the EB. As for the ED. Because of the drugs that I have to take for this rare disease I have, called Mastocytosis, my erectile function is shot anyway and will stay that way. So that is one consideration that I do not have to deal with. I was relieved to hear that all the main treatments are almost equally good but with differing side effects. Right now I am like 60% for the IGBT and 40% for the da vinci surgery. I meet with the a full team (surgery, radiation, oncology) at OHSU on 7 OCT. If they not reveal anything new I will probably go with the IGBT that is at our hospital that is a mile away from our house. If they tell me something new... then it may be another decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "19/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "After talking with the Urologist/ Surgeon and reading the Walsh book and all of the online info I was convinced that surgery was the answer. My rationale was when you pull the prostate PSA goes to 0 and should stay there. A biopsy of the lymph nodes and the prostate will tell me if they got the cancer out. And I was accepting of the fact that i will have some pain, discomfort of the catheter and bag, and potential for some continence issues in the future. Even thought those may be small. But to be fair to myself I wanted to talk to a radiologist and I did that today. BTW i am getting a second opinon on both the surgery and radiology in a few weeks. I did not like the radiation because it lacked the surety of knowing I am cancer free. I also did not like some of the reports of urinary or rectal issues well after treatment. Well I come out of the Radiation Oncologists office, the same office that cured my Wife's breast cancer last year (with surgery too), and now my thoughts have shifted. The radiologist basically said that my cancer was caught very early and there is very little risk that it has spread beyond the prostate. He said that just about any modality would work and they all have about the same success rate at this early stage. Great!! He said that the urinary issues for him were very rare and were of the urgency nature. In all of the treatments that he has performed he only had rectal bleeding once or twice that was very small, occurred when BM's were forced, and easily remedied. I was also concerned about if the radiation failed and my PSA began to rise again that surgery was off the table. He agreed with that but the PSA increase if it did occur would be years down the road and would likely be at about the same rate it was before @.75 / yr and given when that would happen and my age at the time it just may not be worth doing much. He did also suggest that if it did occur, which was highly unlikely, that I could be treated with salvage radiation or hormone therapy. He said salvage radiation is vary rarely needed to be done. Hormone therapy BTW might be an issue with me as it might trigger bad things with a rare disease call Mastosystosis. So now I am being seduced by the promise of the same cure with no painful surgery, no catheter, no bag, and minimal continence issues. Any thoughts? I have heard that this forum leans toward the surgery. Right now if the second opinons mirror the first I am likely going to go with the External Beam radiation.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "18/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "After talking with the Urologist/ Surgeon and reading the Walsh book and all of the online info I was convinced that surgery was the answer. My rationale was when you pull the prostate PSA goes to 0 and should stay there. A biopsy of the lymph nodes and the prostate will tell me if they got the cancer out. And I was accepting of the fact that i will have some pain, discomfort of the catheter and bag, and potential for some continence issues in the future. Even thought those may be small. But to be fair to myself I wanted to talk to a radiologist and I did that today. BTW i am getting a second opinon on both the surgery and radiology in a few weeks. I did not like the radiation because it lacked the surety of knowing I am cancer free. I also did not like some of the reports of urinary or rectal issues well after treatment. Well I come out of the Radiation Oncologists office, the same office that cured my Wife's breast cancer last year (with surgery too), and now my thoughts have shifted. The radiologist basically said that my cancer was caught very early and there is very little risk that it has spread beyond the prostate. He said that just about any modality would work and they all have about the same success rate at this early stage. Great!! He said that the urinary issues for him were very rare and were of the urgency nature. In all of the treatments that he has performed he only had rectal bleeding once or twice that was very small, occurred when BM's were forced, and easily remedied. I was also concerned about if the radiation failed and my PSA began to rise again that surgery was off the table. He agreed with that but the PSA increase if it did occur would be years down the road and would likely be at about the same rate it was before @.75 / yr and given when that would happen and my age at the time it just may not be worth doing much. He did also suggest that if it did occur, which was highly unlikely, that I could be treated with salvage radiation or hormone therapy. He said salvage radiation is vary rarely needed to be done. Hormone therapy BTW might be an issue with me as it might trigger bad things with a rare disease call Mastosystosis. So now I am being seduced by the promise of the same cure with no painful surgery, no catheter, no bag, and minimal continence issues. Any thoughts? I have heard that this forum leans toward the surgery. Right now if the second opinons mirror the first I am likely going to go with the External Beam radiation.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "After talking with the Urologist/ Surgeon and reading the Walsh book and all of the online info I was convinced that surgery was the answer. My rationale was when you pull the prostate PSA goes to 0 and should stay there. A biopsy of the lymph nodes and the prostate will tell me if they got the cancer out. And I was accepting of the fact that i will have some pain, discomfort of the catheter and bag, and potential for some continence issues in the future. Even thought those may be small. But to be fair to myself I wanted to talk to a radiologist and I did that today. BTW i am getting a second opinon on both the surgery and radiology in a few weeks. I did not like the radiation because it lacked the surety of knowing I am cancer free. I also did not like some of the reports of urinary or rectal issues well after treatment. Well I come out of the Radiation Oncologists office, the same office that cured my Wife's breast cancer last year (with surgery too), and now my thoughts have shifted. The radiologist basically said that my cancer was caught very early and there is very little risk that it has spread beyond the prostate. He said that just about any modality would work and they all have about the same success rate at this early stage. Great!! He said that the urinary issues for him were very rare and were of the urgency nature. In all of the treatments that he has performed he only had rectal bleeding once or twice that was very small, occurred when BM's were forced, and easily remedied. I was also concerned about if the radiation failed and my PSA began to rise again that surgery was off the table. He agreed with that but the PSA increase if it did occur would be years down the road and would likely be at about the same rate it was before @.75 / yr and given when that would happen and my age at the time it just may not be worth doing much. He did also suggest that if it did occur, which was highly unlikely, that I could be treated with salvage radiation or hormone therapy. He said salvage radiation is vary rarely needed to be done. Hormone therapy BTW might be an issue with me as it might trigger bad things with a rare disease call Mastosystosis. So now I am being seduced by the promise of the same cure with no painful surgery, no catheter, no bag, and minimal continence issues. Any thoughts? I have heard that this forum leans toward the surgery. Right now if the second opinons mirror the first I am likely going to go with the External Beam radiation.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Comment on the above posts.... The radiologist did offer Brachytherapy. He said that it would be equally effective as compared to EB and prostatectomy. He said that it is particularly a good option for men who would find it difficult to be at the hospital 5 days a week for 8 weeks. He also said that, in his experience, there are a bit more side effects from the Brachy, during initial treatment, than with EB. Also the urologist and an prostate oncology expert (part of a prostate cancer seminar that I attended up here in portland that included Seattle and Vancouver BC) Said that brachytherapy was big in the 90's and early 2000's but was being done less now. So because of the added side effects and I prefer to go where most of the experience is these days.... I pulled Brachytherapy off the list. I also had a friend in the 1990's who did the brachy therapy. The cancer came back, metastasized and he eventually died. I am sure his cancer was much more advanced so its like comparing apples and oranges. And I know that all these treatments have improved since then. Not very logical, But it puts a stigma in my head. BTW they do IGBT for the EB. As for the ED. Because of the drugs that I have to take for this rare disease I have, called Mastocytosis, my erectile function is shot anyway and will stay that way. So that is one consideration that I do not have to deal with. I was relieved to hear that all the main treatments are almost equally good but with differing side effects. Right now I am like 60% for the IGBT and 40% for the da vinci surgery. I meet with the a full team (surgery, radiation, oncology) at OHSU on 7 OCT. If they not reveal anything new I will probably go with the IGBT that is at our hospital that is a mile away from our house. If they tell me something new... then it may be another decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "19/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Comment on the above posts.... The radiologist did offer Brachytherapy. He said that it would be equally effective as compared to EB and prostatectomy. He said that it is particularly a good option for men who would find it difficult to be at the hospital 5 days a week for 8 weeks. He also said that, in his experience, there are a bit more side effects from the Brachy, during initial treatment, than with EB. Also the urologist and an prostate oncology expert (part of a prostate cancer seminar that I attended up here in portland that included Seattle and Vancouver BC) Said that brachytherapy was big in the 90's and early 2000's but was being done less now. So because of the added side effects and I prefer to go where most of the experience is these days.... I pulled Brachytherapy off the list. I also had a friend in the 1990's who did the brachy therapy. The cancer came back, metastasized and he eventually died. I am sure his cancer was much more advanced so its like comparing apples and oranges. And I know that all these treatments have improved since then. Not very logical, But it puts a stigma in my head. BTW they do IGBT for the EB. As for the ED. Because of the drugs that I have to take for this rare disease I have, called Mastocytosis, my erectile function is shot anyway and will stay that way. So that is one consideration that I do not have to deal with. I was relieved to hear that all the main treatments are almost equally good but with differing side effects. Right now I am like 60% for the IGBT and 40% for the da vinci surgery. I meet with the a full team (surgery, radiation, oncology) at OHSU on 7 OCT. If they not reveal anything new I will probably go with the IGBT that is at our hospital that is a mile away from our house. If they tell me something new... then it may be another decision.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 24,
+      "PostDate": "19/09/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/40841-Decisions-Decisions-DaVinci-Prostatectomy-versus-External-Beam-Radiation?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Decisions Decisions DaVinci Prostatectomy versus External Beam Radiation????"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Not sure why they did this but I could look at my MyChart this Sunday and there was my biopsy results. I got to see them before i can talk to the doctor. Out of 12 samples one had gleason of 3+4 with 60% of the cells. i think it was left base. And one of 4 (of the 12) samples from the transition zone with gleason 3+4 at 5%. All 10 of the others were benign. My PSA has gone from about 2.8, 8 years ago to 5.75 a few months ago. The last few years it had gone up about .75/ yr. I had a 12 sample biopsy about 3 years ago but it was all benign. My prostate is small, smooth, and no irregularities. Except for having to pee at night once in a while I have no symptoms. I am 64. So..... Hopefully I can talk or see the urologist tomorrow. In the meantime..... 1. Does this sound like early stage? 2. Will the Doc likely want to run more tests? which ones? 3. what would be good questions for the first visit? 4. Any good books or other reading material that I should be reading? Thanks for any help.",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "it had gone up about  75 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 75
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 64 <Z> <Z> <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 64
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40688-Just-got-my-first-bad-biopsy-results-Thoughts-Suggestions?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Just got my first bad biopsy results. Thoughts? Suggestions?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Great advice, thanks. Buying dr Walsh's book now!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "dr",
+            "MainSubject": "dr",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "08/09/2014",
+      "ThreadURL": "https://www.cancerforums.net/threads/40688-Just-got-my-first-bad-biopsy-results-Thoughts-Suggestions?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Just got my first bad biopsy results. Thoughts? Suggestions?"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.. Two weeks done. 33 treatments to go. The only thing I notice different is that, for the first week, I would get home after treament and maybe have to go pee in an hour or so. Now I have to pee when I get home. Also I am usually a One BM in the morning kind of guy. The last few days I have to go again right after lunch right before the treatment. Neither of these things are an issue.... just something I noticed was different. Note that I have Mastocytosis which, when it is acting up, will result in more BMs and sometimes diarhea. So one thought is that the radiation might be exciting my mast cells in my lower intestines or colon? I will ask the doctor about it on Tuesday. BTW, Allen, I too am close to the hospital. Its about a 10min drive, now about 15min on the table and then 10min home. One thing that is funny. I have been retired for 3 years now. And weekends have lost all meaning to us except we know not to do gift shopping on weekends!. But now Weekends are significant in that I get a two day break from the hospital visits!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "07/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.... 4th week done. 19 treatments down and 24 to go. Will be done on 30 or 31 Dec depending on if the rad people try to take some short Day after Christmas days. Symptoms are still not that bad but peeing does hurt more. Its not all the time but it is most of the time. If I were to rank the pain on the famous 1 to 10 scale I would say at its worse its a 5. Mostly its a 3. And it hurts maybe a few minutes afterward but then is ok. Doctor says this is normal. Still having 2-4 BM's a day. Doc also says this is normal. But this is causing flare ups of my Mastocytosis. I am managing that with the max antihistamines and mast cell stabilizers that I can take. And I am keeping up with it. I also found out that backing away from lots of fibrous food and fiber pills is reducing the number of BM's. One thing that is good.... As I sit in the waiting room I see and talk to people getting treated for breast cancer, throat cancer, tongue cancer, and others..... and from what I can tell.... I should count my lucky stars that if I am going to have cancer that PC is the lesser of evil cancers to get.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "21/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I did not see anything like this on here while I was trying to figure out what therapy to use. So I decided to do this. i will a a short post each week to this thread on my progress. i am one week in to this. About two weeks ago they did a \"mapping\" of my prostate with xrays and a CT scan. Got some tatoos for initial line up. it took about 45 min. A week later, last week, they did the first treatment. It took about 30 minutes. It is now a week later. I am getting 43 treatments. They have it down now that i am in and out of there in about 15 minutes. They line me up with the tattoos. Then do a CT scan that gets my prostate to less than a mm of where it should be. Note i have to drink about 20 oz of water about 45 min. before the treatment. They do 9 different positions on the machine. One position every minute or so. So I am just about 1 week in now and no side affects yet. But... They said there is a 2 week \"honeymoon\" period where most people feel nothing. Hope it stays that way. i will post again next week.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I am getting 43 treatments <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 20,
+      "PostDate": "03/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I did not see anything like this on here while I was trying to figure out what therapy to use. So I decided to do this. i will a a short post each week to this thread on my progress. i am one week in to this. About two weeks ago they did a \"mapping\" of my prostate with xrays and a CT scan. Got some tatoos for initial line up. it took about 45 min. A week later, last week, they did the first treatment. It took about 30 minutes. It is now a week later. I am getting 43 treatments. They have it down now that i am in and out of there in about 15 minutes. They line me up with the tattoos. Then do a CT scan that gets my prostate to less than a mm of where it should be. Note i have to drink about 20 oz of water about 45 min. before the treatment. They do 9 different positions on the machine. One position every minute or so. So I am just about 1 week in now and no side affects yet. But... They said there is a 2 week \"honeymoon\" period where most people feel nothing. Hope it stays that way. i will post again next week.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I am getting 43 treatments <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 30,
+      "PostDate": "03/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.. Two weeks done. 33 treatments to go. The only thing I notice different is that, for the first week, I would get home after treament and maybe have to go pee in an hour or so. Now I have to pee when I get home. Also I am usually a One BM in the morning kind of guy. The last few days I have to go again right after lunch right before the treatment. Neither of these things are an issue.... just something I noticed was different. Note that I have Mastocytosis which, when it is acting up, will result in more BMs and sometimes diarhea. So one thought is that the radiation might be exciting my mast cells in my lower intestines or colon? I will ask the doctor about it on Tuesday. BTW, Allen, I too am close to the hospital. Its about a 10min drive, now about 15min on the table and then 10min home. One thing that is funny. I have been retired for 3 years now. And weekends have lost all meaning to us except we know not to do gift shopping on weekends!. But now Weekends are significant in that I get a two day break from the hospital visits!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 34,
+      "PostDate": "07/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.... 4th week done. 19 treatments down and 24 to go. Will be done on 30 or 31 Dec depending on if the rad people try to take some short Day after Christmas days. Symptoms are still not that bad but peeing does hurt more. Its not all the time but it is most of the time. If I were to rank the pain on the famous 1 to 10 scale I would say at its worse its a 5. Mostly its a 3. And it hurts maybe a few minutes afterward but then is ok. Doctor says this is normal. Still having 2-4 BM's a day. Doc also says this is normal. But this is causing flare ups of my Mastocytosis. I am managing that with the max antihistamines and mast cell stabilizers that I can take. And I am keeping up with it. I also found out that backing away from lots of fibrous food and fiber pills is reducing the number of BM's. One thing that is good.... As I sit in the waiting room I see and talk to people getting treated for breast cancer, throat cancer, tongue cancer, and others..... and from what I can tell.... I should count my lucky stars that if I am going to have cancer that PC is the lesser of evil cancers to get.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 37,
+      "PostDate": "21/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.... 4th week done. 19 treatments down and 24 to go. Will be done on 30 or 31 Dec depending on if the rad people try to take some short Day after Christmas days. Symptoms are still not that bad but peeing does hurt more. Its not all the time but it is most of the time. If I were to rank the pain on the famous 1 to 10 scale I would say at its worse its a 5. Mostly its a 3. And it hurts maybe a few minutes afterward but then is ok. Doctor says this is normal. Still having 2-4 BM's a day. Doc also says this is normal. But this is causing flare ups of my Mastocytosis. I am managing that with the max antihistamines and mast cell stabilizers that I can take. And I am keeping up with it. I also found out that backing away from lots of fibrous food and fiber pills is reducing the number of BM's. One thing that is good.... As I sit in the waiting room I see and talk to people getting treated for breast cancer, throat cancer, tongue cancer, and others..... and from what I can tell.... I should count my lucky stars that if I am going to have cancer that PC is the lesser of evil cancers to get.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 47,
+      "PostDate": "21/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.. Two weeks done. 33 treatments to go. The only thing I notice different is that, for the first week, I would get home after treament and maybe have to go pee in an hour or so. Now I have to pee when I get home. Also I am usually a One BM in the morning kind of guy. The last few days I have to go again right after lunch right before the treatment. Neither of these things are an issue.... just something I noticed was different. Note that I have Mastocytosis which, when it is acting up, will result in more BMs and sometimes diarhea. So one thought is that the radiation might be exciting my mast cells in my lower intestines or colon? I will ask the doctor about it on Tuesday. BTW, Allen, I too am close to the hospital. Its about a 10min drive, now about 15min on the table and then 10min home. One thing that is funny. I have been retired for 3 years now. And weekends have lost all meaning to us except we know not to do gift shopping on weekends!. But now Weekends are significant in that I get a two day break from the hospital visits!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 24,
+      "PostDate": "07/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "14 down 29 to go. With the holidays 6 weeks and a day to go. Side effects are frequent peeing. Normal for me is a few times a day now its about 6 times. And I notice for half a day after each treatment I have some burning while peeing. Not bad.... just there. The other thing I was not expecting is that I am a One morning BM per day kind of guy. Now its about 4 a day. No Diarhea. The doc said that its the radiation fooling the bowels that they need to evacuate. One problem that is not so great. Something about the radiation is making my special rare disease, Mastocytosis, flare up a bit. So I am on max. doses of antihistamines and mast cell stabilizers. And barely keeping up with it. If I can't control the flare it means really bad symptoms and will have to go to the hospital to stabilize me with IVs of antihistamines and prednisone. Note this is only because of this rare disease I have so it is not typical. I think its the increase bowel movements causeing the mastocytocis issues. And my hope is that the BM's stay at this level or improve. Because I can keep up with it now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 35,
+      "PostDate": "14/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.. Two weeks done. 33 treatments to go. The only thing I notice different is that, for the first week, I would get home after treament and maybe have to go pee in an hour or so. Now I have to pee when I get home. Also I am usually a One BM in the morning kind of guy. The last few days I have to go again right after lunch right before the treatment. Neither of these things are an issue.... just something I noticed was different. Note that I have Mastocytosis which, when it is acting up, will result in more BMs and sometimes diarhea. So one thought is that the radiation might be exciting my mast cells in my lower intestines or colon? I will ask the doctor about it on Tuesday. BTW, Allen, I too am close to the hospital. Its about a 10min drive, now about 15min on the table and then 10min home. One thing that is funny. I have been retired for 3 years now. And weekends have lost all meaning to us except we know not to do gift shopping on weekends!. But now Weekends are significant in that I get a two day break from the hospital visits!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 44,
+      "PostDate": "07/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.... 4th week done. 19 treatments down and 24 to go. Will be done on 30 or 31 Dec depending on if the rad people try to take some short Day after Christmas days. Symptoms are still not that bad but peeing does hurt more. Its not all the time but it is most of the time. If I were to rank the pain on the famous 1 to 10 scale I would say at its worse its a 5. Mostly its a 3. And it hurts maybe a few minutes afterward but then is ok. Doctor says this is normal. Still having 2-4 BM's a day. Doc also says this is normal. But this is causing flare ups of my Mastocytosis. I am managing that with the max antihistamines and mast cell stabilizers that I can take. And I am keeping up with it. I also found out that backing away from lots of fibrous food and fiber pills is reducing the number of BM's. One thing that is good.... As I sit in the waiting room I see and talk to people getting treated for breast cancer, throat cancer, tongue cancer, and others..... and from what I can tell.... I should count my lucky stars that if I am going to have cancer that PC is the lesser of evil cancers to get.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "21/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.. Two weeks done. 33 treatments to go. The only thing I notice different is that, for the first week, I would get home after treament and maybe have to go pee in an hour or so. Now I have to pee when I get home. Also I am usually a One BM in the morning kind of guy. The last few days I have to go again right after lunch right before the treatment. Neither of these things are an issue.... just something I noticed was different. Note that I have Mastocytosis which, when it is acting up, will result in more BMs and sometimes diarhea. So one thought is that the radiation might be exciting my mast cells in my lower intestines or colon? I will ask the doctor about it on Tuesday. BTW, Allen, I too am close to the hospital. Its about a 10min drive, now about 15min on the table and then 10min home. One thing that is funny. I have been retired for 3 years now. And weekends have lost all meaning to us except we know not to do gift shopping on weekends!. But now Weekends are significant in that I get a two day break from the hospital visits!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "07/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "14 down 29 to go. With the holidays 6 weeks and a day to go. Side effects are frequent peeing. Normal for me is a few times a day now its about 6 times. And I notice for half a day after each treatment I have some burning while peeing. Not bad.... just there. The other thing I was not expecting is that I am a One morning BM per day kind of guy. Now its about 4 a day. No Diarhea. The doc said that its the radiation fooling the bowels that they need to evacuate. One problem that is not so great. Something about the radiation is making my special rare disease, Mastocytosis, flare up a bit. So I am on max. doses of antihistamines and mast cell stabilizers. And barely keeping up with it. If I can't control the flare it means really bad symptoms and will have to go to the hospital to stabilize me with IVs of antihistamines and prednisone. Note this is only because of this rare disease I have so it is not typical. I think its the increase bowel movements causeing the mastocytocis issues. And my hope is that the BM's stay at this level or improve. Because I can keep up with it now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 25,
+      "PostDate": "14/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "14 down 29 to go. With the holidays 6 weeks and a day to go. Side effects are frequent peeing. Normal for me is a few times a day now its about 6 times. And I notice for half a day after each treatment I have some burning while peeing. Not bad.... just there. The other thing I was not expecting is that I am a One morning BM per day kind of guy. Now its about 4 a day. No Diarhea. The doc said that its the radiation fooling the bowels that they need to evacuate. One problem that is not so great. Something about the radiation is making my special rare disease, Mastocytosis, flare up a bit. So I am on max. doses of antihistamines and mast cell stabilizers. And barely keeping up with it. If I can't control the flare it means really bad symptoms and will have to go to the hospital to stabilize me with IVs of antihistamines and prednisone. Note this is only because of this rare disease I have so it is not typical. I think its the increase bowel movements causeing the mastocytocis issues. And my hope is that the BM's stay at this level or improve. Because I can keep up with it now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "14/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I did not see anything like this on here while I was trying to figure out what therapy to use. So I decided to do this. i will a a short post each week to this thread on my progress. i am one week in to this. About two weeks ago they did a \"mapping\" of my prostate with xrays and a CT scan. Got some tatoos for initial line up. it took about 45 min. A week later, last week, they did the first treatment. It took about 30 minutes. It is now a week later. I am getting 43 treatments. They have it down now that i am in and out of there in about 15 minutes. They line me up with the tattoos. Then do a CT scan that gets my prostate to less than a mm of where it should be. Note i have to drink about 20 oz of water about 45 min. before the treatment. They do 9 different positions on the machine. One position every minute or so. So I am just about 1 week in now and no side affects yet. But... They said there is a 2 week \"honeymoon\" period where most people feel nothing. Hope it stays that way. i will post again next week.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I am getting 43 treatments <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "03/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "14 down 29 to go. With the holidays 6 weeks and a day to go. Side effects are frequent peeing. Normal for me is a few times a day now its about 6 times. And I notice for half a day after each treatment I have some burning while peeing. Not bad.... just there. The other thing I was not expecting is that I am a One morning BM per day kind of guy. Now its about 4 a day. No Diarhea. The doc said that its the radiation fooling the bowels that they need to evacuate. One problem that is not so great. Something about the radiation is making my special rare disease, Mastocytosis, flare up a bit. So I am on max. doses of antihistamines and mast cell stabilizers. And barely keeping up with it. If I can't control the flare it means really bad symptoms and will have to go to the hospital to stabilize me with IVs of antihistamines and prednisone. Note this is only because of this rare disease I have so it is not typical. I think its the increase bowel movements causeing the mastocytocis issues. And my hope is that the BM's stay at this level or improve. Because I can keep up with it now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "14/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "OK.... 4th week done. 19 treatments down and 24 to go. Will be done on 30 or 31 Dec depending on if the rad people try to take some short Day after Christmas days. Symptoms are still not that bad but peeing does hurt more. Its not all the time but it is most of the time. If I were to rank the pain on the famous 1 to 10 scale I would say at its worse its a 5. Mostly its a 3. And it hurts maybe a few minutes afterward but then is ok. Doctor says this is normal. Still having 2-4 BM's a day. Doc also says this is normal. But this is causing flare ups of my Mastocytosis. I am managing that with the max antihistamines and mast cell stabilizers that I can take. And I am keeping up with it. I also found out that backing away from lots of fibrous food and fiber pills is reducing the number of BM's. One thing that is good.... As I sit in the waiting room I see and talk to people getting treated for breast cancer, throat cancer, tongue cancer, and others..... and from what I can tell.... I should count my lucky stars that if I am going to have cancer that PC is the lesser of evil cancers to get.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 27,
+      "PostDate": "21/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I did not see anything like this on here while I was trying to figure out what therapy to use. So I decided to do this. i will a a short post each week to this thread on my progress. i am one week in to this. About two weeks ago they did a \"mapping\" of my prostate with xrays and a CT scan. Got some tatoos for initial line up. it took about 45 min. A week later, last week, they did the first treatment. It took about 30 minutes. It is now a week later. I am getting 43 treatments. They have it down now that i am in and out of there in about 15 minutes. They line me up with the tattoos. Then do a CT scan that gets my prostate to less than a mm of where it should be. Note i have to drink about 20 oz of water about 45 min. before the treatment. They do 9 different positions on the machine. One position every minute or so. So I am just about 1 week in now and no side affects yet. But... They said there is a 2 week \"honeymoon\" period where most people feel nothing. Hope it stays that way. i will post again next week.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I am getting 43 treatments <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 40,
+      "PostDate": "03/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "14 down 29 to go. With the holidays 6 weeks and a day to go. Side effects are frequent peeing. Normal for me is a few times a day now its about 6 times. And I notice for half a day after each treatment I have some burning while peeing. Not bad.... just there. The other thing I was not expecting is that I am a One morning BM per day kind of guy. Now its about 4 a day. No Diarhea. The doc said that its the radiation fooling the bowels that they need to evacuate. One problem that is not so great. Something about the radiation is making my special rare disease, Mastocytosis, flare up a bit. So I am on max. doses of antihistamines and mast cell stabilizers. And barely keeping up with it. If I can't control the flare it means really bad symptoms and will have to go to the hospital to stabilize me with IVs of antihistamines and prednisone. Note this is only because of this rare disease I have so it is not typical. I think its the increase bowel movements causeing the mastocytocis issues. And my hope is that the BM's stay at this level or improve. Because I can keep up with it now.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 45,
+      "PostDate": "14/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    },
+    {
+      "AuthorID": "bobkeenan",
+      "AuthorURL": "https://www.cancerforums.net/members/112275-bobkeenan?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I did not see anything like this on here while I was trying to figure out what therapy to use. So I decided to do this. i will a a short post each week to this thread on my progress. i am one week in to this. About two weeks ago they did a \"mapping\" of my prostate with xrays and a CT scan. Got some tatoos for initial line up. it took about 45 min. A week later, last week, they did the first treatment. It took about 30 minutes. It is now a week later. I am getting 43 treatments. They have it down now that i am in and out of there in about 15 minutes. They line me up with the tattoos. Then do a CT scan that gets my prostate to less than a mm of where it should be. Note i have to drink about 20 oz of water about 45 min. before the treatment. They do 9 different positions on the machine. One position every minute or so. So I am just about 1 week in now and no side affects yet. But... They said there is a 2 week \"honeymoon\" period where most people feel nothing. Hope it stays that way. i will post again next week.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I am getting 43 treatments <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/11/2014",
+      "Signature": "Age in 2005 was 55 2005 PSA 2.8 2008 3.2 2011 4.65 DREs all normal 2011 Biopsy 12 samples all ok 2012 PSA 4.85 2014 PSA 5.45 DREs all normal 2014 PCA3 Test 90 Aug 2014 Biopsy adenocarcinoma in 3/20 cores (one 5% (3+4), one 30% (3+3) and one 5% (3+4) Staged as T1C 43 IGRT treatments Oct-Dec 2014 Mar 2015 PSA 1.31 Sept 2015 PSA 0.33 Jan 2018 PSA 0.21 Some restricted urinary flow - getting urinary dialations with catheter once per day for next 6 months.",
+      "ThreadURL": "https://www.cancerforums.net/threads/41526-Image-Guided-Radiation-Therapy-week-by-week?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Image Guided Radiation Therapy - week by week"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7333333333333333,
+      "Phrase": "<Z> <Z> I am getting 43 treatments <Z> <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 43
+    },
+    "Gender": {
+      "Confidence": 0.7350000143051147,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Bladder Irritation",
+      "Erectile dysfunction",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "bleeding",
+      "urgency",
+      "ED"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 1,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 1,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "BTW i am getting a second opinon on both the surgery and radiology in a few weeks. I did not like the radiation because it lacked the surety of knowing I am cancer free....So because of the added side effects and I prefer to go where most of the experience is these days.... I pulled Brachytherapy off the list....Also the urologist and an prostate oncology expert (part of a prostate cancer seminar that I attended up here in portland that included Seattle and Vancouver BC) Said that brachytherapy was big in the 90's and early 2000's but was being done less now. So because of the added side effects and I prefer to go where most of the experience is these days.......That comment put me over the top with my decision. I will post what my side affects are and effectiveness of the IGRT as the treatment continues....But with my Masto that \"radiation deserves strong consideration\". That comment put me over the top with my decision....I did not like the radiation because it lacked the surety of knowing I am cancer free. I also did not like some of the reports of urinary or rectal issues well after treatment....",
+      "Source": 0,
+      "Surgeon": 1,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "sure",
+        "great"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.5",
+        "SAD": "0",
+        "STRONG": "0.5"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "free",
+        "accepting",
+        "great",
+        "free",
+        "concerned",
+        "thoughtful",
+        "willing",
+        "free",
+        "bad",
+        "forced",
+        "pained",
+        "pained",
+        "free",
+        "accepting",
+        "great",
+        "free",
+        "concerned",
+        "thoughtful",
+        "willing",
+        "free",
+        "bad",
+        "forced",
+        "pained",
+        "pained",
+        "free",
+        "accepting",
+        "great",
+        "free",
+        "concerned",
+        "thoughtful",
+        "willing",
+        "free",
+        "bad",
+        "forced",
+        "pained",
+        "pained",
+        "free",
+        "accepting",
+        "great",
+        "free",
+        "concerned",
+        "thoughtful",
+        "willing",
+        "free",
+        "bad",
+        "forced",
+        "pained",
+        "pained",
+        "considerate",
+        "willing",
+        "sure",
+        "decisive",
+        "considerate",
+        "willing",
+        "sure",
+        "decisive",
+        "considerate",
+        "willing",
+        "sure",
+        "decisive",
+        "considerate",
+        "willing",
+        "sure",
+        "decisive",
+        "pleased",
+        "pleased",
+        "smart",
+        "bad",
+        "smart",
+        "bad",
+        "decisive",
+        "decisive"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0.286",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.429",
+        "GOOD": "0.143",
+        "HAPPY": "0.286",
+        "HELPLESS": "0.286",
+        "HURT": "0.286",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.571",
+        "LOVE": "0.286",
+        "OPEN": "0.571",
+        "POSITIVE": "0.714",
+        "SAD": "0.286",
+        "STRONG": "1"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [
+        "Bladder Irritation",
+        "Erectile dysfunction",
+        "Bleeding"
+      ],
+      "SideEffectTypeKeywords": [
+        "bleeding",
+        "urgency",
+        "ED"
+      ]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [
+        "easy",
+        "great",
+        "considerate",
+        "affected",
+        "willing",
+        "decisive",
+        "willing",
+        "affected",
+        "hopeful",
+        "willing",
+        "affected",
+        "hopeful",
+        "willing",
+        "affected",
+        "hopeful",
+        "willing",
+        "affected",
+        "hopeful",
+        "willing",
+        "affected",
+        "hopeful",
+        "willing",
+        "kind",
+        "ok",
+        "close",
+        "thoughtful",
+        "excited",
+        "willing",
+        "lost",
+        "kind",
+        "ok",
+        "close",
+        "thoughtful",
+        "excited",
+        "willing",
+        "lost",
+        "kind",
+        "ok",
+        "close",
+        "thoughtful",
+        "excited",
+        "willing",
+        "lost",
+        "kind",
+        "ok",
+        "close",
+        "thoughtful",
+        "excited",
+        "willing",
+        "lost",
+        "kind",
+        "ok",
+        "close",
+        "thoughtful",
+        "excited",
+        "willing",
+        "lost",
+        "kind",
+        "great",
+        "hopeful",
+        "willing",
+        "bad",
+        "kind",
+        "great",
+        "hopeful",
+        "willing",
+        "bad",
+        "kind",
+        "great",
+        "hopeful",
+        "willing",
+        "bad",
+        "kind",
+        "great",
+        "hopeful",
+        "willing",
+        "bad",
+        "kind",
+        "great",
+        "hopeful",
+        "willing",
+        "bad"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0.294",
+        "DEPRESSED": "0.294",
+        "GOOD": "0.294",
+        "HAPPY": "0.353",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.647",
+        "LOVE": "0.353",
+        "OPEN": "0.647",
+        "POSITIVE": "1.882",
+        "SAD": "0",
+        "STRONG": "0.059"
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": ["Bladder Irritation"],
+      "SideEffectTypeKeywords": ["burning"]
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [
+        "lucky",
+        "ok",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "hurtful",
+        "lucky",
+        "ok",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "hurtful",
+        "lucky",
+        "ok",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "hurtful",
+        "lucky",
+        "ok",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "hurtful",
+        "lucky",
+        "ok",
+        "willing",
+        "bad",
+        "pained",
+        "pained",
+        "hurtful"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "1",
+        "GOOD": "1",
+        "HAPPY": "1",
+        "HELPLESS": "0",
+        "HURT": "1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "2",
+        "STRONG": "0"
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "18/09/2014",
+    "TreatmentType": "Radiation",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": [
+      "igrt",
+      "davinci",
+      "da vinci",
+      "radiation",
+      "prostatectomy",
+      "brachytherapy",
+      "brachy",
+      "surgery"
+    ]
+  },
+  "WordCount": 8731
+}

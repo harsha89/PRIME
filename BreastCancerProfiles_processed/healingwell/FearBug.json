@@ -1,0 +1,1109 @@
+{
+  "AuthorID": "FearBug",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4081840&p=244526",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "sure",
+      "scared",
+      "obsess",
+      "supportive",
+      "caring",
+      "hopeful",
+      "willing",
+      "secure",
+      "upset",
+      "upset",
+      "scared",
+      "worried",
+      "caring",
+      "willing",
+      "hateful",
+      "terrible",
+      "hopeless",
+      "worried",
+      "pained",
+      "exhausted",
+      "pained",
+      "desperate",
+      "hurtful",
+      "free",
+      "free",
+      "thoughtful",
+      "willing",
+      "free",
+      "sure",
+      "nervous",
+      "worried",
+      "obsess",
+      "ok",
+      "supportive",
+      "caring",
+      "concerned",
+      "willing",
+      "miserable",
+      "scared",
+      "pained",
+      "pained",
+      "kind",
+      "loving",
+      "loved",
+      "caring",
+      "hopeful",
+      "willing",
+      "upset",
+      "hateful",
+      "bad",
+      "upset",
+      "hopeless",
+      "worried",
+      "pained",
+      "pained",
+      "understanding",
+      "wonderful",
+      "hopeful",
+      "willing",
+      "worried",
+      "reassured",
+      "worried",
+      "wonderful",
+      "thoughtful",
+      "sore",
+      "bad",
+      "scared",
+      "pained",
+      "pained",
+      "wonderful",
+      "reassured",
+      "sure",
+      "scared",
+      "worried",
+      "pained",
+      "pained",
+      "curious",
+      "embarrassed",
+      "nervous",
+      "obsess",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1.417",
+      "ALIVE": "0.333",
+      "ANGRY": "0.417",
+      "CONFUSED": "0.25",
+      "DEPRESSED": "0.333",
+      "GOOD": "0.25",
+      "HAPPY": "0",
+      "HELPLESS": "0.167",
+      "HURT": "0.583",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.667",
+      "OPEN": "0.25",
+      "POSITIVE": "0.75",
+      "SAD": "0.667",
+      "STRONG": "0.417"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 12,
+  "NPosts": 13,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4081840&p=244526",
+      "Content": " I am still having nipple discharge only when I squeeze out of right nipple. Now after squeezing many times (obsessively) out of my left nipple. It started out what appeared to be clear a few months ago, now a clear/yellow watery discharge and more of it depending on where on my nipple I squeeze. I went to OBGYN, no lump, had blood test done and prolactin levels are normal. I had mammo/ultrasound. Dr said all normal, and I had a cyst in right nipple. I went to Breast surgeon and she is having me get an MRI. I am 45 years old and my Mother was diagnosed with Breast Cancer last year at age 75, so this scares me. I am really scared about\n what I have been reading online about\n nipple discharge that is clear/yellow. I have been getting yearly mammograms since the age 30 because of paranoia over this disease. \nHas anyone had discharge like this upon squeezing that turned out to be nothing? I am on Zoloft, and pantaprazole for gastritis, not sure if that makes a difference. All of the cases I read online, it turned out to be an early stage of breast cancer. Any help I woudl really apprecaite!\n ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 45 years old and my Mother",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 45
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "Cancer last year at age 75  so this scares me <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 75
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "yearly mammograms since the age 30 because of paranoia over this",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 30
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/11/2018",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4081840",
+      "Title": "Nipple discharge with expression"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3944237&p=244526",
+      "Content": " Also, I am sorry for all of the typos. I use my phone and it auto corrects almost everything I type :/\nThanks again for letting me vent \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "20/11/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3944237",
+      "Title": "Mom age 76 breast cancer. I just found out! Living a nightmare"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3944237&p=244526",
+      "Content": " I just found out my mom had a mass on a mammogram discovered a year ago and she never followed up. A couple months ago on a routine mammogram they discovered the mass is bigger. She never told anyone because she didn\u2019t want anyone interfering with her caring for my 48 year old sister who batters stiff person syndrome and her two daughters whom my Mother has been taking care of for 10 years. My sister has never taken care of her responsibilities. To make matters worse, my mothers only source of income is social security and my sister collects welfare. My brother is homeless and I live with my boyfriend who is living with heart failure and our daughter. None of us can care for my sister and her kids, but we would take our mom in. My mom won\u2019t leave , my sister. \nI just found out last week that my mother had this, from\n my brother. He knew and so did my sister whom my Mother is taking care of. \nMy Mother is being very evasive about\n her diagnosis. She says she think she it\u2019s the last stage. She is having surgery Tuesday to have the lump removed. She has no car, and my sister she takes care off is a hoarder. \nTo top it all off my sister smokes in the apartment they live in, despite how many times I have begged her to stop. \nI am scared to death for my mom. She will not leave my sister. She walks to buy my sister beer and cigarettes. She is 76! and I am worried sick about\n her health. Especially during this awful time of her battling this. I am hoping it is not stage 4. Does anyone know how fast breast cancer grows in a years time? I am so angry at my sister and so upset my Mom did not follow up a year ago or tell anyone. To make matters worse, I live almost 3 hours away in another state.\nMy Mother has been takin care of my sister out Of guilt because we had a very abusive father growing up, and my Mother never divorced him.\nI wish there was a way I could take my mom out of that apartment Legally, or have my disabled sister removed from the apartment. I am scared sick for my Mother. I am going to try to move closer with my boyfriend and our daughter, but I\u2019m worried about\n her meanwhile. I worry about\n her continuing to take care of my sister going through chemo and battling this. This is a horrible situation. My sister is selfish, and has always put her needs first. I don\u2019t want to take care of her and her kids, but if I feel that would be the only way to relive my mother of this. My sister does nothing for herself and her kids. She uses the money the state gives her to by electronics and games. I don\u2019t even have the money to care for her or the time. I work full time to pay off my debt. I don\u2019t know what to do. I\u2019m so scared for my Mom. My Mother said to me one time tha wherever she lives, my sister will have to live with her. So one of us siblings would have to take care of my sister and her two kids in order to get my Mother out if this situation. \nI dont have the money, and I live with ,my boyfriend who supports me financially. I can\u2019t ask him to do that, especially when he and I are having relationship problems to begin with. And he is living with heart disease. \nI don\u2019t know what to do. This is stressing me out and making me sick. \nSorry about\n the long post. I just wanted to try and give a clear picture of the situation. I am feeling like I am headed for a breakdown over this ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> Mom age 76 breast cancer <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 76
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "with her caring for my 48 year old sister who batters",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 48
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> She is 76  and I am worried sick",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 76
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/11/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3944237",
+      "Title": "Mom age 76 breast cancer. I just found out! Living a nightmare"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3944237&p=244526",
+      "Content": " I am writing here because my whole story is here. It\u2019s just a terrible situation. My mom and sister wind up getting evicted. I told my sister she needs to tak care of her situation and stop making my mother do all of the trucking especially at her age fighting\u2019s cancer. My sister has never taken care of her own responsibilities even before she was diagnosed with stiff person syndrome. There was always an excuse why she could not raise her kids. She can do more for herself and her kids than she is letting on. \nLong story short, because of what I said, she won\u2019t allow my mother to call me. My Mother post phoned getting her tumor removed to take care of finding a place for my sister and her kids to live and so her tumor bled through. She had to be taken to the hospital whee she stayed for three weeks. No phone call from my Mother or sister to let me know. My niece confessed in so many words that my sister won\u2019t let my Mother call me because I have a perfect life. I was able to talk to my Mother twice after her surgery and she wouldn\u2019t tell me what stage cancer she\u2019s has. She tries to act confused like she doesn\u2019t know, or the doctors never told her. I ask her if I can visit and she\u2019s tells me now isn\u2019t a good time. That she is fine and feels really good. I ask her is she is on chemotherapy and she acts like she doesn\u2019t know what that is! I as her why she doesn\u2019t call me and she\u2019s just keeps telling me she has a lot going on but promised to call me once week. That was two months ago. I can\u2019t get a hold of her. I know they are living in a motel temporarily but my niece is not allowed to tell me where. My sister (her mother) won\u2019t allow her to tell me. She is doing this to punish me for what I said to her. My Mother is listening to her. I can\u2019t drive to see my Mom because I don\u2019t know where they are. I have no idea how much time my Mother has or how she is. My daughter talks to my niece via text, but my niece relays no information to her. I am so hurt by this it is unimagineable my Mother would cut me out of her life at the dictatorship of my sister who is apparently \u201cdisabled\u201d. I have asked my niece who is 13, time and time again to have Grandmom call me, and she either doesn\u2019t respond, or tells me I have to talk to my sister. I hate to have to ask a child but I am desperate. My Mother won\u2019t call me or answer because my sister has her cell phone. \nI am so exhausted with worry and hurt, my own health is suffering. I don\u2019t know where to go from here. I don\u2019t know if I will ever see my Mother again and I am so hurt she would choose to comply with my sister to make her happy when her time may be limited. \nThe fact that my Mothers tumor bled through, does that sound like stage 4? She never signed a hippa form so her doctors won\u2019t tell me. I am pulling at straws anymore. This is like one big nightmare. I am completely shocked about\n how my Mother is handling this. To make matters worse my brother is homeless, addicted to alcohol, and she won\u2019t talk to him either. Or my other sister. I have two sisters and a brother. All to make my oldest sister happy. I have given my mother everything I could\n Possibly give. To money I couldn\u2019t afford to give to clothes, to help clean out my sisters mess, and this is the ending result. \nSorry for the ramble. I feel like I can\u2019t try anymore and all of my efforts at trying to reach my mother are hopeless. I am so hurt she could cut me out of her life like this. And not even care about\n her health all to take care of my sister and her responsibilities when my sister has been taking advantage of her for years by throwing our abusive childhood at the hands of our father in my mother\u2019s face. Because my Mother did not leave him. So my mother feels responsible for her now. \nI know I need to get myself therapy to deal with this all, because I know I am in for a long road of pain ahead. \nThanks for letting me let it out. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "asked my niece who is 13  time and time again to",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 13
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "08/03/2018",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3944237",
+      "Title": "Mom age 76 breast cancer. I just found out! Living a nightmare"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4069484&p=244526",
+      "Content": " I have written in several forums. I know now I have extreme health anxiety. I just wanted to write in about\n a sort of new issue. When I do self breast exams, I squeeze my nipples to check for discharge as I have read that\u2019s is what you are supposed to do. Well I have noticed a clear watery type discharge coming from my right nipple only and it only happens when I squeeze. I have had it in the past and read that it is not a worry unless it is bloody so I never mentioned it to drs over the years. Now I am reading that clear discharge is worrisome. But it specifies it is worrisome if only coming from one breat, and if it happens spontaneously. Yet this IS one breast but it only happens when I squeeze. I have read about\n antidepressants causing a rise in prolactin and that could cause discharge and I have been on antidepressants for at least 9 years. I have my regular yearly exam in a couple months, so I am not sure if I should wait until them or if this is something I need to worry about\n and go in immediately. I feel like every 4-5 months I am running to the Gump over breast issues. I feel my anxiety is heightened since my mother was diagnosed with breast cancer over a year ago. I am 45 years old so that of course makes me more nervous. My mother was 76 when diagnosed. She was not forthcoming about\n the stage so I have no information. \nIs there anytime when clear discharge from a noodle is normal especially when it only happens when expressed? I am not looking for a diagnosis and I will tell my dr, but I thought I would ask around to see if anyone else had this and if it was normal. \nThanks for any help. I feel like I only have a few months out of the year of a health anxiety free life. I put myself through hell worrying about\n everything to the point where it is almost too stressful to give myself a breast exam because I feel things and obsess to the point of running off to the dr. I am in high debt and my medical bills are piling because of this and I am trying to save money to move out of this house I live in with my ex. UGH. SORRY just venting. \n ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> I am 45 years old so that of",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 45
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> My mother was 76 when diagnosed <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 76
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/09/2018",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4069484",
+      "Title": "Clear discharge"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3944237&p=244526",
+      "Content": " Thank you straydog. I drove to see my Mom today and when I got there they told me she rescheduled her surgery. \nI went to her house. She looks good under the circumstances and she says she feels good. I tried to get as much information from her as possible. She thinks they told her she has stage 3. She told me her surgery will be a mastectomy. She seemed more concerned for my sisters health than her own. \nMy sisters two girls are 12 and 13. My mother had pretty much helped raise them since they are infants. \nI offered for my Mom to live with me and my daughter and boyfriend, but she won't leave my sister. \nShe rescheduled he surgery because she has to face court with their landlord who wants to evict them for missing several months rent. \nIt is such a big unruly mess and I don't know how to help. \nOn one end of the spectrum I was planning on splitting with my boyfriend of 16 years and getting my own place and finally live a happy life for myself once I pay off my debt as he financially supports me. On the other hand he is willing to buy a place for us to live to be closer to my mom and help take care of her, and that means I feel stuck to be in this miserable relationship for the rest of my life. I am so torn. I don't have the means to care for two extra children along with h my child, and that is not what I had planned for my future. I would take my mom in no matter here I live, even if it's with my boyfriend until I get my own place. I know he would be ok with that. But I could not ask him to take care of my two nieces and possibly my sister. That's not fair to him especially since he has his own healthissues he is dealing with. \nI feel like I have to do something because my mother can't continue like this. She can't take care of herself if she is spending all of her energy caring for 3 people and court etc. \nMy sister and I told her we would help her in anyway we could. But we can't take care of my sister. We believe my sister needs to be in a nursing home or a hospital setting so she can get proper care. She is at the point where my mother cannot continue to care for her. My sister does not even take care of herself, as she smokes and barely eats so thy the pain medicine works better. I think she only gets out of bed to use the bathroom. \nI feel so helpless to help my Mom, yet it's making me sick to stand by knowing she has all of this she is dealing with. To top it all off, my brother is homeless and is an alcoholic. \nIt just doesn't end. There come a point where people have to help themselves. I am scared for my mom. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "21/11/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3944237",
+      "Title": "Mom age 76 breast cancer. I just found out! Living a nightmare"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3944237&p=244526",
+      "Content": " Thank you Straydog for your kind words and advice, it means more to me than you can imagine \nMy sister has a rare condition called stiff person syndrome where the muscles stiffen up progressively. They don\u2019t know a whole lot about\n it and it is not curable, but medicines slow the progression. It is hard for her to walk as muscle spasms cause a lot of pain, and she spends most of her time in bed. It has only been this bad for the last two years. My Mother has been taking care of my sister\u2019s daughters long before it got to this point. My sister always had a reason to not be there 100 percent for her kids, because she was either too depressed, or had insomnia and couldn\u2019t sleep at night so my mom would come over to her apartment and take care of the girls during the day so my sister could sleep. Then my sister started to get back pain and it got worse over the years, so my Mother decided to move in with her. \nI don\u2019t want to upset my Mom. I will not. It is so hard to stand by and see this. My Mother takes care of everything, and doesn\u2019t take care of. herself. She sleeps on a couch, and doesn\u2019t even have tv to watch because she can\u2019t afford it. But my sister bought herself and her two daughters cell phones, and video games etc. my Mother takes care if my sister Andy her kids before she take some care of herself. I worry about\n her constantly, because she Is killing herself taking care of my sister\u2019s problems. I have given my Mother money, and it all goes to stuff my sister wants. I tell my mom to save it, and the next thing I know, they are behind in their rent, and ask for more money to the point I don\u2019t have anymore to give. Now they are being taken to court because they are behind on their rent, and my Mom is dealing with all of this. \nMy sister does not do a thing, but dictate to my Mother. My Mother is 76, and now facing cancer. I feel I have to do something. This can\u2019t be how her life turns out. This is a living nightmare. \nI am sorry about\n another rant. I feel so helpless and hopeless. Tomorrow my Mother gets surgery to take I the lump out is what she told me. I am leaving to see her in the am. It\u2019s a 3 hour drive from where I live. The hospital will not tell me any information, and my Mother is impossible to get a hold of by phone, as no one answers their cell phones. I am so uptight about\n what I will find out. I also will hate to leave her tomorrow evening as I have to drive back home as I have to work the next day. \nI don\u2019t think I will see her for Thanksgiving. She does not have it where she lives, and she would never let me take her to my house and leave my sister. I also don\u2019t know if she will still be in the hospital. I struggle with that and trying to make Thanksgivig as normal and happy here at hone for my daughter. \nI love my Mother so much, this is killing me inside. \nI am sorry for such a long reply. It just feels a little better to vent and get it out. I am hoping tomorrow I get some more answers about\n her condition at the hospital, because it has been hard to get her to tell me everything. I would have never found out If my brother didn\u2019t tell my other sister who told me. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My Mother is 76  and now facing cancer <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 76
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "20/11/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3944237",
+      "Title": "Mom age 76 breast cancer. I just found out! Living a nightmare"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3944237&p=244526",
+      "Content": " Thank you straydog for taking the time to respond to my posts and for your understanding. You are so right in everything you said. I have a tendency to want to try and fix things or control things when everything Feels so so out of control. I have worried sick for my mom my whole life, from the age of five, as my dad was extremely abusive, and an alcoholic. I don\u2019t ever stop worrying about\n her. I know I can\u2019t fix this all, and I am just making myself sick trying to figure this all out, all along trying to recover from my own health issues. \nI am grateful that you have taken the time to listen to my rants and respond with your insight. It has really made me feel better hearing someone else\u2019s point of view, and gaining some perspective from it. Thank you so very much. I will keep you posted, and I will keep praying for things to work out for the better. \nI hope you have a wonderful Thanksgiving!!\nAnxiety/ newly diagnosed with gastritis and esophagitis ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "22/11/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3944237",
+      "Title": "Mom age 76 breast cancer. I just found out! Living a nightmare"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3880855&p=244526",
+      "Content": " Thank you straydog! Yes I have an appointment, and I apologise, I do not see response from you on June 25 under my post. Could be a glitch? I was just looking to see if anyone had anything similar, just for my own reassurance not to take place of a drs opinion. I am a worry wart by nature \n, so I'm always looking for opinions before hand.\nAnxiety/ newly diagnosed with gastritis and esophagitis ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "12/07/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3880855",
+      "Title": "Montgomery gland discharge!"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3796141&p=244526",
+      "Content": " Hello, I am new to this forum. I am 43 years old, no family history of breast cancer except my grandmothers half sister had a tumour. I am on Zoloft for anxiety and a beta blocker for heart palpitations. I have had left breast pain for two months now on and off. I had my mammo two months ago and it was fine. The breast looks fine, but all through the day on and off I get a burning pain and sometimes shooting pain. When I press deep in some areas of my left breast it feels very sore. My breast are generally lumpy, some moveable lumps all different sizes and have been that way for years. I read on the internet that breast pain doesn't usually accompany breast cancer, but I have seen some posts on here that says otherwise. I plan on going to the doctor just to get it checked but i am really scared of what the pain could mean. I feel like I am running to the doctors left and right this past year. I am havin bad stomach problems with acid reflux for the past month, as well as heart palpitations, both which I am seeing doctors for. I have spinal stenosis which lead to a pinched nerve three years ago so I have pain on and off in my arm, shoulder/neck. This breast pain also feels like it radiates under my left arm , not in the armpit, but the bone so I am wondering if it is possible for the breast pain to be associated with the pinched nerve? I feel somewhat soreness when I probe both breast, but the left one is worse. Just looking for any thoughts if anyone had had this. Thank you for any feedback. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 43 years old  no family history",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/02/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3796141",
+      "Title": "Breast Pain"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3796141&p=244526",
+      "Content": " Straydog, thank you for your thoughts and encouraging words. I do plan on getting this checked, especially if the pain does not go away. I have a way of letting my mind go straight to the worst of possibilities with everything in life. You are so right, stress & anxiety definitely take a toll on our bodies, it has for me. \nThanks again \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/02/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3796141",
+      "Title": "Breast Pain"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3880855&p=244526",
+      "Content": " Hi,\nI have a small amount of watery brown and sometimes a thick yellow small amount of discharge coming from one Montgomery gland only when I squeeze on one breast only. I am 43 yrs old, my last mammogram a few months ago was normal. I noticed a tiny black scab on my Montgomery gland a few weeks ago. I picked at it and squeezed and that's when I noticed the discharge. I have an appointment to see my obgyn in a couple weeks, but meanwhile I am scared out of my mind!!\nCould this possibly be normal or should I be worried. Just wondering if anyone might know anything about\n this. It only happens on my left breast. I do not feel pain or any lumps on my breast. Just this weird discharge whenever I squeeze. I keep squeezing it everyday to check if it is getting better or worse for my own reassurance. Not sure if I am making it worse by doing that. I am just scared. Any ideas would be greatly appreciated!! ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 43 yrs old  my last mammogram",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 43
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/07/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3880855",
+      "Title": "Montgomery gland discharge!"
+    },
+    {
+      "AuthorID": "FearBug",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3871600&p=244526",
+      "Content": " Hi,\nI had a little black spot on my aerola about\n half an inch away from my nipple. The black spot was so small, 10x smaller than a poppy seed. Anyway, I picked at it because i was curious of what it was. I picked it off and brown blood came from it. Now when I squeeze the area, a little brown blood comes from this microscopic (almost) cut. Does anyone know what this could be? I had a mammogram which was clear in December. I went for a breast exam a few months ago because I felt lumps and she said my exam was totally normal, and she didn't want to do another mammogram so soon especially when the first one was good, due to the radiation factor. \nI have heard of nipple discharge, but not on aerola. I do have hairs (just a few) growing from them, and in the shower I quickly run my razor on my aerola to shave them off. Could this be like a nick from the razor, but if so what when I pick it would the blood be brown? Just really nervous about\n the brown blood. Why wouldn't it be red?\nI appreciate any feed back. I really feel embarrassed running back to my obgynfor this if it is something simple. I don't want to appear obsessive even though I am ☺\nThere is no lumps in that area, and no pain. The brown blood appears only when I squeeze the cut\n Thank so much for any help\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/06/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3871600",
+      "Title": "Brown blood"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> Mom age 76 breast cancer <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 76
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Hernia",
+      "Bladder Irritation",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "bled",
+      "lump"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 1,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Sample": "My niece confessed in so many words that my sister wont let my Mother call me because I have a perfect life. I was able to talk to my Mother twice after her surgery and she wouldnt tell me what stage cancer shes has....I offered for my Mom to live with me and my daughter and boyfriend, but she won't leave my sister. She rescheduled he surgery because she has to face court with their landlord who wants to evict them for missing several months rent....She rescheduled he surgery because she has to face court with their landlord who wants to evict them for missing several months rent. It is such a big unruly mess and I don't know how to help....",
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 1
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [
+        "free",
+        "free",
+        "thoughtful",
+        "willing",
+        "free",
+        "sure",
+        "nervous",
+        "worried",
+        "obsess"
+      ],
+      "Emotions": {
+        "AFRAID": "3",
+        "ALIVE": "1",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1",
+        "LOVE": "0",
+        "OPEN": "1",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "2"
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [
+        "sure",
+        "scared",
+        "obsess"
+      ],
+      "Emotions": {
+        "AFRAID": "2",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "supportive",
+        "caring",
+        "hopeful",
+        "willing",
+        "secure",
+        "upset",
+        "upset",
+        "scared",
+        "worried",
+        "kind",
+        "loving",
+        "loved",
+        "caring",
+        "hopeful",
+        "willing",
+        "upset",
+        "hateful",
+        "bad",
+        "upset",
+        "hopeless",
+        "worried",
+        "pained",
+        "pained",
+        "ok",
+        "supportive",
+        "caring",
+        "concerned",
+        "willing",
+        "miserable",
+        "scared",
+        "pained",
+        "pained",
+        "understanding",
+        "wonderful",
+        "hopeful",
+        "willing",
+        "worried"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0.2",
+        "ANGRY": "0.6",
+        "CONFUSED": "0.4",
+        "DEPRESSED": "0.4",
+        "GOOD": "0.2",
+        "HAPPY": "0",
+        "HELPLESS": "0.2",
+        "HURT": "0.4",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.2",
+        "LOVE": "1.4",
+        "OPEN": "0.4",
+        "POSITIVE": "1.4",
+        "SAD": "0.4",
+        "STRONG": "0.2"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [
+        "caring",
+        "willing",
+        "hateful",
+        "terrible",
+        "hopeless",
+        "worried",
+        "pained",
+        "exhausted",
+        "pained",
+        "desperate",
+        "hurtful"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "1",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "1",
+        "HURT": "2",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "1",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "3",
+        "STRONG": "0"
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": ["Bleeding"],
+      "SideEffectTypeKeywords": ["bled"]
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "19/11/2017",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 4343
+}

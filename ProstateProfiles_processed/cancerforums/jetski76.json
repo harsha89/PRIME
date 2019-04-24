@@ -1,0 +1,540 @@
+{
+  "AuthorID": "jetski76",
+  "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "willing",
+      "alone",
+      "suspicious",
+      "pained",
+      "pained",
+      "caring",
+      "thoughtful",
+      "willing",
+      "aggressive",
+      "aggressive",
+      "alone",
+      "worried",
+      "pained",
+      "pained",
+      "worried",
+      "worried",
+      "caring",
+      "thoughtful",
+      "willing",
+      "aggressive",
+      "aggressive",
+      "alone",
+      "worried",
+      "pained",
+      "pained",
+      "certain",
+      "willing",
+      "certain",
+      "worried",
+      "certain",
+      "willing",
+      "certain",
+      "worried",
+      "willing",
+      "sure",
+      "willing",
+      "sure",
+      "willing",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "willing",
+      "sure",
+      "aggressive",
+      "aggressive"
+    ],
+    "Emotions": {
+      "AFRAID": "0.636",
+      "ALIVE": "0",
+      "ANGRY": "0.727",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.182",
+      "HAPPY": "0",
+      "HELPLESS": "0.273",
+      "HURT": "0.273",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.182",
+      "LOVE": "0.182",
+      "OPEN": "0",
+      "POSITIVE": "0.818",
+      "SAD": "0.273",
+      "STRONG": "0.545"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 11,
+  "NPosts": 14,
+  "PSAInfo": {
+    "max": 81,
+    "min": 0.5,
+    "scores": [
+      1,
+      0.5,
+      2,
+      81,
+      0.79,
+      11,
+      5.22,
+      0.522,
+      0.612,
+      11.22,
+      15
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello Again, If you don't mind, I am starting a new thread to ask some questions about my father's prostate biopsy report. Some background (as described in the old thread : https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA) 1) Father is 81 years old, lives alone in India, was diagnosed with Recurent Urehtral Stricture in 2001 and has been seeing the same Urologist all this time. 2) He had complaints of penis pain in December (a 3 on a scale of 10). Urine culture in December showed EColi infection. After antibiotics, the urine culture was clear in January. The ultrasound of his kidney and abdomen in January was normal. His pain switched between 1/10 and 2/10 between Januray and March and when the pain stayed at 2/10 for a few days and did not subside, the Urologist ordered another cystoscopy for March 19. 3) Urine and blood tests done on March 17 showed a PSA of 11.22. The urine test also showed bacteria, leucocytes , WBC pus cells: 10-15 (3-5), RBC - 2-4(0-1) and Epithehleal - 1-2 (2-3). 4) The last cystoscopy was done in Oct 2016 and PSA at that time was 0.522. All his previous PSA values were between 0.5 and 1.0. He is on antibiotics until March 30. 5) Last week, he also had a rectal ultrasound that was negative for cancer. His pelvis MRI(1.5 T, T2 + diffusion-weighted, array coil) showed suspicious area on his left hemigland of his prostate. A prostate biopsy was done on March 21. Following is the report and I have some questions after that: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Histopathology and Cytology Histopathology (Small Specimen) Specimen: Tissue Clinical Diagnosis: Firm Nodular Prostate, PSA: 11 ng/ml Nature of Specimen: Bottle #1: Right Lobe, Bottle #2: Left Lobe Gross Morphology Bottle labelled as Right: Received multiple, greyish white, linear tissue pieces aggregating to 0.3 cm (All Embed as A) Bottle labelled as Left: Received multiple, greyish white, linear tissue pieces aggregating to 0.3 cm (All Embed as B) Sections: All Embed (A and B) Fixation Time: 24 hours Microscopic Description Right and Left Lobes: Inflammatory Pathology with small foci of Low Grade PIN Impression IHC marker Cytokeratin 34 Beta E12 is recommended to rule out Malignancy [Gross samples (except All Embed) will be retained for 4 weeks. Blocks & Slides will be retained for 10 years] [Referral Pathology Consultation is an integral part of Quality Assurance] ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Questions: 1) The biopsy is recommending IHC marker Cytokeratin 34 Beta E12 to rule out cancer. Does my father need another biopsy for this test? 2) Given the descriptions in the biopsy report, is it possible to comment if the tissues collected from the prostate were comprehensive? I am asking this because if the biopsy has missed the suspicious areas as indicated in the pelvis MRI, we might have a high grade, undetected prostate cancer growing. Your comments? 3) How serious is a Firm Nodular Prostate? 4) With a biopsy report detecting Inflammatory Pathology with small foci of Low Grade PIN, what are the chances of finding prostate cancer in the IHC marker Cytokeratin 34 Beta E12 test? 5) Given that my father has had a biopsy in the last week and he is taking antibiotics for bacteria in his urine, how long should be the time period before which PSA can be re-tested? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "high PSA  1  Father is 81 years old  lives alone in",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 81
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "Father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "Father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54656-Question-about-Father-s-Biopsy-Report?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question about Father's Biopsy Report"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello ASAdvocate, Thanks again for your helpful reply! Its more clear now. I am sure you love that Sea-Doo",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "28/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54656-Question-about-Father-s-Biopsy-Report?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question about Father's Biopsy Report"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello ASAdvocate, Thanks a lot for your very helpful reply!! I will certainly ask the questions you described to the Pathologist and Urologist tomorrow. Is it possible to check for cancer in the biopsy samples by doing only histopathology and not doing any immunochemistry? Are such results reliable? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "28/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54656-Question-about-Father-s-Biopsy-Report?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question about Father's Biopsy Report"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, My father is 81 years old and lives alone in India. He was diagnosed with Recurrent Urethral Stricture in 2001 by his Urologist. He was on Tamsulosin and Darifenacin for a lot of years and was fine until Sept 2016, when he had pain in the entire penis shaft and part of his pelvis just above the penis. He rated the pain as 3/10. In Oct 2016, his PSA was 0.522 and the ultrasound of the kidney and abdomen was normal(with a normal prostate). His Urologist did a flexible cystoscopy and dilated his stricture and he had no pain until Dec 2017. In Dec 2017, he had a penis pain of 3/10 and EColi infection in his urine. After antibiotics and repeat urine cultures, the urine was clear. An ultrasound of the kidney and abdomen in Jan 2018 was normal(with a normal prostate).. For the last three months, his penis pain has been 1/10 or 2/10 and his Urologist prescribed him some creams, which helped.For the last two days, his pain stayed at 2/10 and so went to see the Urologist again. The Urologist is doing a flexible cystoscopy on Monday, March 19. Several blood tests were done today. The following values were abnormal and they worry me a lot: 1) Prostate Specific Antigen(PSA): 11.22 (0-6.5) 2) Prothrombin PTE: specimen blood citrate - clotting assay - 14.2 (9.5-12.5) 3) Urine ph - 7.5 (Acidic) Urine: \u0095Urine leucocytes: Present \u0095WBC pus cells: 10-15 (3-5) \u0095RBC - 2-4(0-1) \u0095Epithehleal - 1-2 (2-3) \u0095Remarks: Bacteria seen He has no other symptoms. No pelvic pain or issues with urination. The urine stream is fine, no burning sensation or dibbling, change in skin color or discharge. His primary care physician does a physical every six months. The last physical was done a week ago and the tests of Complete Blood Count, Urine, Lipid Profille, HBA1C were all normal. He is 5 ft 3 inches in height, weighs 125 lbs, with a waist size of 36 inches. He walks twice a day and uses his exercise bike once daily. He is physically and socially active and eats a healthy vegetarian diet. Questions: 1) In a span of 15 months, his PSA has jumped from 0.522 to 11.22? I am very worried as a 21 fold increase in his PSA over 15 months could be an aggressive form of prostate cancer? What are your thoughts? 2) What specific tests should be done to get further information? 3D MRI of prostate? DRE? Biopsy? 3) I will be talking to his Urologist on Monday after his cystoscopy. What questions should I ask him about his PSA of 11.22? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "PSA Hello  My father is 81 years old and lives alone",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 81
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "<Z> <Z> <Z> He is 5 ft 3 inches in height",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 5
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks a lot, Highlander for your reply!! 3 D MRI may not be available where he lives in India. In that case, besides the DRE, are there any other tests that can be done before a biopsy? If his PSA was 5.22 in Oct 2016, I am worried about my father having advanced prostate cancer now given that its doubled to 11.22 in March 2018? Regards, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "17/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thanks a lot, Highlander for your reply!! 3 D MRI may not be available where he lives in India. In that case, besides the DRE, are there any other tests that can be done before a biopsy? If his PSA was 5.22 in Oct 2016, I am worried about my father having advanced prostate cancer now given that its doubled to 11.22 in March 2018? Regards, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "17/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, My father is 81 years old and lives alone in India. He was diagnosed with Recurrent Urethral Stricture in 2001 by his Urologist. He was on Tamsulosin and Darifenacin for a lot of years and was fine until Sept 2016, when he had pain in the entire penis shaft and part of his pelvis just above the penis. He rated the pain as 3/10. In Oct 2016, his PSA was 0.522 and the ultrasound of the kidney and abdomen was normal(with a normal prostate). His Urologist did a flexible cystoscopy and dilated his stricture and he had no pain until Dec 2017. In Dec 2017, he had a penis pain of 3/10 and EColi infection in his urine. After antibiotics and repeat urine cultures, the urine was clear. An ultrasound of the kidney and abdomen in Jan 2018 was normal(with a normal prostate).. For the last three months, his penis pain has been 1/10 or 2/10 and his Urologist prescribed him some creams, which helped.For the last two days, his pain stayed at 2/10 and so went to see the Urologist again. The Urologist is doing a flexible cystoscopy on Monday, March 19. Several blood tests were done today. The following values were abnormal and they worry me a lot: 1) Prostate Specific Antigen(PSA): 11.22 (0-6.5) 2) Prothrombin PTE: specimen blood citrate - clotting assay - 14.2 (9.5-12.5) 3) Urine ph - 7.5 (Acidic) Urine: \u0095Urine leucocytes: Present \u0095WBC pus cells: 10-15 (3-5) \u0095RBC - 2-4(0-1) \u0095Epithehleal - 1-2 (2-3) \u0095Remarks: Bacteria seen He has no other symptoms. No pelvic pain or issues with urination. The urine stream is fine, no burning sensation or dibbling, change in skin color or discharge. His primary care physician does a physical every six months. The last physical was done a week ago and the tests of Complete Blood Count, Urine, Lipid Profille, HBA1C were all normal. He is 5 ft 3 inches in height, weighs 125 lbs, with a waist size of 36 inches. He walks twice a day and uses his exercise bike once daily. He is physically and socially active and eats a healthy vegetarian diet. Questions: 1) In a span of 15 months, his PSA has jumped from 0.522 to 11.22? I am very worried as a 21 fold increase in his PSA over 15 months could be an aggressive form of prostate cancer? What are your thoughts? 2) What specific tests should be done to get further information? 3D MRI of prostate? DRE? Biopsy? 3) I will be talking to his Urologist on Monday after his cystoscopy. What questions should I ask him about his PSA of 11.22? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> Hello  My father is 81 years old and lives alone",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 81
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "<Z> <Z> <Z> He is 5 ft 3 inches in height",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 5
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "17/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, If a prostate biopsy was negative in the pathology, had a positive staining for p 63 (Immunoreactive, score 4+ in all myoepithelial cells present in all glands), is it recommended to get a AMACR staining test to rule out prostate cancer? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "09/04/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54771-Question-about-AMACR-Staining-Test?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Question about AMACR Staining Test"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, Following are some more updates: 1) The MRI was negative for prostate cancer. A trans-rectal ultrasound was done this morning and it was negative for cancer as well. 2) The Urologist will measure PSA again tomorrow and will also perform a biopsy. He told my father that he needs to investigate why PSA is so high. Questions: 1) From the above results, can we conclude that my father does not have a Stage IV or Stage III prostate cancer, but could have a Stage I or Stage II prostate cancer that is restricted to the prostate given the high PSA? 2) Does my father need a biopsy if his PSA tomorrow is less than 11.22? I am certain it will be a trans-rectal ultrasound biospy and not the multi-parametric guided MRI biospy. Just worried about risks of infection, bleeding etc. 3) Does it not make sense to wait for 3 months and test for PSA again? If PSA has increased again, repeat MRI/biopsy? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "21/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello, Following are some more updates: 1) The MRI was negative for prostate cancer. A trans-rectal ultrasound was done this morning and it was negative for cancer as well. 2) The Urologist will measure PSA again tomorrow and will also perform a biopsy. He told my father that he needs to investigate why PSA is so high. Questions: 1) From the above results, can we conclude that my father does not have a Stage IV or Stage III prostate cancer, but could have a Stage I or Stage II prostate cancer that is restricted to the prostate given the high PSA? 2) Does my father need a biopsy if his PSA tomorrow is less than 11.22? I am certain it will be a trans-rectal ultrasound biospy and not the multi-parametric guided MRI biospy. Just worried about risks of infection, bleeding etc. 3) Does it not make sense to wait for 3 months and test for PSA again? If PSA has increased again, repeat MRI/biopsy? Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "21/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you, Highlander and Southsider for your replies!! I will check to make sure the PSA values are in fact from the same lab and whether it is 0.522 or 5.22. I will update soon. Regards, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "17/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Thank you, Highlander and Southsider for your replies!! I will check to make sure the PSA values are in fact from the same lab and whether it is 0.522 or 5.22. I will update soon. Regards, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "17/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello again, Here are some updates: The Urologist performed a cystoscopy today around noon and informed my father that his urethra was fine. For my father's high PSA value, the Urologist told him that it could be prostate cancer and ordered a MRI.This is a regular MRI and not the multi-paramater MRI or endorectal coil MRI that is much superior in spotting cancer (as per my amatuer reading). The Urologist told my father that if the MRI shows any cancer, a biopsy would be done. The MRI was completed and the results of the MRI have been sent to the Urologist, who will discuss it with my father tomorrow. There was a rectal examination done by the nurse before and after the cystoscopy. Not sure why the Urologist did not do it himself!! The PSA values described in the my first message are indeed what is shown on the lab reports. Following are some of his previous values of PSA (same lab in the hospital) and prostate volume for the period of 2012-2016: October 13, 2016: PSA (ng/ml) : 0.522 (0-6.5) Prostate Volume(ml) : 15 Dec 12, 2013: PSA (ng/ml) : 0.79 (0-6.5) April 1, 2013: Prostate Volume(ml) : 10 March 14, 2013: PSA (ng/ml) : 0.612 (0-4) October 1, 2012: Prostate Volume(ml) : 5 If you don't mind, I have the following questions for you: 1) How good is a regular MRI in detecting prostate cancer? As per my readings, a biopsy can miss the cancer as it is taken at 12 random spots and only examines less than 1% of the prostate? Can the same problem arise in a regular MRI? 2) My father's last ultrasound of abdomen and kidney was performed in Jan 6, 2018. The prostate volume was 23 ml. There was no sonographic abnormality found in the ultrasound. For the period of Oct 2012 through January 2018, his prostate volume has increased from 5 ml to 23 ml. With this background, can this be a case of an aggressive form of prostate cancer as his most recent PSA has shot up to 11.22 on 03/17/2018? 3) If MRI/biospy do not detect cancer, is the only option to wait for 3 months and test for PSA again? If PSA has increased again, repeat MRI/biopsy? I will update more tomorrow. Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "19/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    },
+    {
+      "AuthorID": "jetski76",
+      "AuthorURL": "https://www.cancerforums.net/members/127156-jetski76?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hello again, Here are some updates: The Urologist performed a cystoscopy today around noon and informed my father that his urethra was fine. For my father's high PSA value, the Urologist told him that it could be prostate cancer and ordered a MRI.This is a regular MRI and not the multi-paramater MRI or endorectal coil MRI that is much superior in spotting cancer (as per my amatuer reading). The Urologist told my father that if the MRI shows any cancer, a biopsy would be done. The MRI was completed and the results of the MRI have been sent to the Urologist, who will discuss it with my father tomorrow. There was a rectal examination done by the nurse before and after the cystoscopy. Not sure why the Urologist did not do it himself!! The PSA values described in the my first message are indeed what is shown on the lab reports. Following are some of his previous values of PSA (same lab in the hospital) and prostate volume for the period of 2012-2016: October 13, 2016: PSA (ng/ml) : 0.522 (0-6.5) Prostate Volume(ml) : 15 Dec 12, 2013: PSA (ng/ml) : 0.79 (0-6.5) April 1, 2013: Prostate Volume(ml) : 10 March 14, 2013: PSA (ng/ml) : 0.612 (0-4) October 1, 2012: Prostate Volume(ml) : 5 If you don't mind, I have the following questions for you: 1) How good is a regular MRI in detecting prostate cancer? As per my readings, a biopsy can miss the cancer as it is taken at 12 random spots and only examines less than 1% of the prostate? Can the same problem arise in a regular MRI? 2) My father's last ultrasound of abdomen and kidney was performed in Jan 6, 2018. The prostate volume was 23 ml. There was no sonographic abnormality found in the ultrasound. For the period of Oct 2012 through January 2018, his prostate volume has increased from 5 ml to 23 ml. With this background, can this be a case of an aggressive form of prostate cancer as his most recent PSA has shot up to 11.22 on 03/17/2018? 3) If MRI/biospy do not detect cancer, is the only option to wait for 3 months and test for PSA again? If PSA has increased again, repeat MRI/biopsy? I will update more tomorrow. Thank you, Zent",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": ["prostate"]
+          },
+          "NounBasedGender": {
+            "MainSubject": "father",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "father"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "19/03/2018",
+      "ThreadURL": "https://www.cancerforums.net/threads/54557-Questions-about-my-Father-s-very-high-PSA?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Questions about my Father's very high PSA"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "PSA Hello  My father is 81 years old and lives alone",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 81
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Infection",
+      "Bladder Irritation",
+      "Urethral strictures",
+      "Bladder neck contracture",
+      "Bleeding"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "infection",
+      "bleeding",
+      "stricture"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 3024
+}

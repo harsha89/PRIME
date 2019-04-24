@@ -1,0 +1,888 @@
+{
+  "AuthorID": "7Seas",
+  "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "free",
+      "important",
+      "free",
+      "at ease",
+      "willing",
+      "free",
+      "suspicious",
+      "pained",
+      "pained",
+      "scared",
+      "tearful",
+      "free",
+      "important",
+      "free",
+      "at ease",
+      "willing",
+      "free",
+      "suspicious",
+      "pained",
+      "pained",
+      "scared",
+      "tearful",
+      "understanding",
+      "easy",
+      "concerned",
+      "willing",
+      "sure",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.444",
+      "ALIVE": "0.222",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.222",
+      "HAPPY": "0.222",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.111",
+      "LOVE": "0",
+      "OPEN": "0.444",
+      "POSITIVE": "0.333",
+      "SAD": "0.556",
+      "STRONG": "0.333"
+    }
+  },
+  "GleasonInfo": {
+    "max": 9,
+    "min": 6,
+    "scores": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "NExperiencePosts": 9,
+  "NPosts": 10,
+  "PSAInfo": {
+    "max": 25,
+    "min": 0.5,
+    "scores": [
+      0.5,
+      0.6,
+      9,
+      10,
+      25,
+      6.5,
+      7,
+      9.4
+    ]
+  },
+  "Posts": [
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "I found this on the web. http://www.harvardprostateknowledge....g-incontinence",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "27/02/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47242-Radical-Prostatectomy-and-Incontinence?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Radical Prostatectomy and Incontinence"
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Evening guys, Thank you all for making me feel at ease and start focusing on the important issues. If the wife allowed me to drink I would by you all a beer right now. I am still trying to learn this social thread system so I will post the requested information below until i learn how to make it show at the bottom of my posts. I will be 41 next Thurday. Two days after my Urologyst formally maked the diagnosis. Happy Birthday to me!! I am active duty military stationed overseas and do not have the luxuary of traveling frequently to see my civilian Urologyst. I am seing Dr. Manaharan at the University of Miami. Here are my PSA labs: 25JAN15 PSA 7.0 PSA, Free 0.5 PSA, % Free 7 03APR15 PSA 6.5 PSA Free 0.6 PSA, % Free 9 02AUG15 PSA 9.4 PSA Free .9 PSA, % Free 10 08SEP15 MRI FINDINGS: Prostate Size: 4.3 x 3.3 x 4.3 cm. Volume: 31.82 cc There is evidence of a 1.3 cm cystic lesion within the mid prostate. CENTRAL GLAND: Enlarged, with nodular appearance (1). PERIPHERAL ZONE : Hypointense ill defined region (2) measuring 2.4 x 0.9 cm in the left mid lateral and left apical lateral peripheral zone. DWI images demonstrate unilateral asymmetric low ADC without focal lesion (3). Images post contrast demonstrate progresive enhancement with plateau (2). TOTAL SCORE (PERIPHERAL ZONE LESION #1): 7 PIRADS (PERIPHERAL ZONE LESION #1): 3 Seminal vesicles: Normal. Bladder: Concentric wall thickening with trabeculations suggestive of chronic bladder outlet obstruction. Lymphadenopathy: No significant lymphadenopathy by size criteria. Bones: No suspicious osseous lesions. . Impression: 1. There is an ill-defined, hypointense lesion located within the left peripheral zone with imaging characteristics suggestive of a PI-RADS score of 3. 2. 1.3 cm cystic lesion within the mid prostate likely represents a prostatic utricle cyst versus mullerian duct cyst. PI-RADS CLASSIFICATION 1 - Benign 2 - Probably benign 3 - Indeterminate 4 - Probably malignant 5 - Highly suspicious for malignancy I find all this so surreal since I went to a Urologyst because I had pain at the tip of the penis thinking I had HSV or something. Never expected to come out a year later with cancer. I guess i am asymtomatic since i do not have any of the usual symptoms or indicators.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I will be 41 next Thurday <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostatic",
+              "Prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "08/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46300-NEW-GUY-needs-help-with-lab-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "NEW GUY needs help with lab results."
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, I have been actively reading many of the threads on this forum trying to desifer my lab results with little luck. Ive decided to get you guy's imput and comile a list of questions for my appointment with the urologist on Tuesday. Any imput and advise would be greatly appreciated. Reported: 10/19/2015 10:18:04:033 A. LEFT BASE: Benign prostate tissue. B. LEFT MIDDLE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 40% of one (1) core. Total linear length of cancer is 2 mm. C. LEFT APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 10% of one (1) core. Total linear length of cancer is 1 mm. D. LEFT LATERAL BASE: PROSTATE TISSUE WITH SMALL FOCUS OF ATYPICAL GLANDS, SUSPICIOUS FOR CARCINOMA. E. LEFT LATERAL MIDDLE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 20% of one (1) core. Total linear length of canc er is 2 mm. F. LEFT LATERAL APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 40% of one (1) core. Total linear length of cancer is 4 mm. G. RIGHT BASE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), discontinuously involving 70% of one (1) core. Total linear length of cancer is 6 mm. H. RIGHT MIDDLE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 70% of one (1) core. Total linear length of cancer is 7 mm. I. RIGHT APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 70% of one (1) core. Total linear length of cancer is 8 mm. J. RIGHT LATERAL BASE: PROSTATE TISSUE WITH SMALL FOCUS OF ATYPICAL GLANDS, SUSPICIOUS FOR CARCINOMA. K. RIGHT LATERAL MIDDLE: Benign prostate tissue. L. RIGHT LATERAL APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 50% of one (1) core. Total linear length of cancer is 5 mm. M. LEFT MID LATERAL AND LEFT APICAL LATERAL PERIPHERAL ZONE 1.1: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 10% of one (1) core. Total linear length of cancer is 1 mm. N. LEFT MID LATERAL AND LEFT APICAL LATERAL PERIPHERAL ZONE 1.2: PROSTATE TISSUE WITH SMALL FOCUS OF ATYPICAL GLANDS, SUSPICIOUS FOR CARCINOMA. === Diagnosis Comment === The overall Gleason score for this case is based on the core with the highest Gleason score. Gleason scores can be grouped and range from Grading Group 1 (most favorable) to Grading Group 5 (least favorable). Gleason score less than or equal to 6: Grading Group 1 Gleason score 3+4=7: Grading Group 2 Gleason score 4+3=7: Grading Group 3 Gleason score 8: Grading Group 4 Gleason score 9-10: Grading Group 5",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "PROSTATIC",
+              "prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "07/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46300-NEW-GUY-needs-help-with-lab-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "NEW GUY needs help with lab results."
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "i am litteraly in tears right now. I can't stop reaserching the life expectacy of this desease and have scared myself to an extensive degree. your reasurance that I am not going to die in five years come not a moment to soon. Thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "07/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46300-NEW-GUY-needs-help-with-lab-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "NEW GUY needs help with lab results."
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Evening guys, Thank you all for making me feel at ease and start focusing on the important issues. If the wife allowed me to drink I would by you all a beer right now. I am still trying to learn this social thread system so I will post the requested information below until i learn how to make it show at the bottom of my posts. I will be 41 next Thurday. Two days after my Urologyst formally maked the diagnosis. Happy Birthday to me!! I am active duty military stationed overseas and do not have the luxuary of traveling frequently to see my civilian Urologyst. I am seing Dr. Manaharan at the University of Miami. Here are my PSA labs: 25JAN15 PSA 7.0 PSA, Free 0.5 PSA, % Free 7 03APR15 PSA 6.5 PSA Free 0.6 PSA, % Free 9 02AUG15 PSA 9.4 PSA Free .9 PSA, % Free 10 08SEP15 MRI FINDINGS: Prostate Size: 4.3 x 3.3 x 4.3 cm. Volume: 31.82 cc There is evidence of a 1.3 cm cystic lesion within the mid prostate. CENTRAL GLAND: Enlarged, with nodular appearance (1). PERIPHERAL ZONE : Hypointense ill defined region (2) measuring 2.4 x 0.9 cm in the left mid lateral and left apical lateral peripheral zone. DWI images demonstrate unilateral asymmetric low ADC without focal lesion (3). Images post contrast demonstrate progresive enhancement with plateau (2). TOTAL SCORE (PERIPHERAL ZONE LESION #1): 7 PIRADS (PERIPHERAL ZONE LESION #1): 3 Seminal vesicles: Normal. Bladder: Concentric wall thickening with trabeculations suggestive of chronic bladder outlet obstruction. Lymphadenopathy: No significant lymphadenopathy by size criteria. Bones: No suspicious osseous lesions. . Impression: 1. There is an ill-defined, hypointense lesion located within the left peripheral zone with imaging characteristics suggestive of a PI-RADS score of 3. 2. 1.3 cm cystic lesion within the mid prostate likely represents a prostatic utricle cyst versus mullerian duct cyst. PI-RADS CLASSIFICATION 1 - Benign 2 - Probably benign 3 - Indeterminate 4 - Probably malignant 5 - Highly suspicious for malignancy I find all this so surreal since I went to a Urologyst because I had pain at the tip of the penis thinking I had HSV or something. Never expected to come out a year later with cancer. I guess i am asymtomatic since i do not have any of the usual symptoms or indicators.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.7333333333333333,
+          "Phrase": "<Z> <Z> I will be 41 next Thurday <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 41
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "prostatic",
+              "Prostate",
+              "penis"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "08/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46300-NEW-GUY-needs-help-with-lab-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "NEW GUY needs help with lab results."
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi all, I have been actively reading many of the threads on this forum trying to desifer my lab results with little luck. Ive decided to get you guy's imput and comile a list of questions for my appointment with the urologist on Tuesday. Any imput and advise would be greatly appreciated. Reported: 10/19/2015 10:18:04:033 A. LEFT BASE: Benign prostate tissue. B. LEFT MIDDLE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 40% of one (1) core. Total linear length of cancer is 2 mm. C. LEFT APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 10% of one (1) core. Total linear length of cancer is 1 mm. D. LEFT LATERAL BASE: PROSTATE TISSUE WITH SMALL FOCUS OF ATYPICAL GLANDS, SUSPICIOUS FOR CARCINOMA. E. LEFT LATERAL MIDDLE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 20% of one (1) core. Total linear length of canc er is 2 mm. F. LEFT LATERAL APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 40% of one (1) core. Total linear length of cancer is 4 mm. G. RIGHT BASE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), discontinuously involving 70% of one (1) core. Total linear length of cancer is 6 mm. H. RIGHT MIDDLE: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 70% of one (1) core. Total linear length of cancer is 7 mm. I. RIGHT APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 70% of one (1) core. Total linear length of cancer is 8 mm. J. RIGHT LATERAL BASE: PROSTATE TISSUE WITH SMALL FOCUS OF ATYPICAL GLANDS, SUSPICIOUS FOR CARCINOMA. K. RIGHT LATERAL MIDDLE: Benign prostate tissue. L. RIGHT LATERAL APEX: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 50% of one (1) core. Total linear length of cancer is 5 mm. M. LEFT MID LATERAL AND LEFT APICAL LATERAL PERIPHERAL ZONE 1.1: PROSTATIC ADENOCARCINOMA, Gleason score 3 + 3 = 6 (Grading Group 1), involving 10% of one (1) core. Total linear length of cancer is 1 mm. N. LEFT MID LATERAL AND LEFT APICAL LATERAL PERIPHERAL ZONE 1.2: PROSTATE TISSUE WITH SMALL FOCUS OF ATYPICAL GLANDS, SUSPICIOUS FOR CARCINOMA. === Diagnosis Comment === The overall Gleason score for this case is based on the core with the highest Gleason score. Gleason scores can be grouped and range from Grading Group 1 (most favorable) to Grading Group 5 (least favorable). Gleason score less than or equal to 6: Grading Group 1 Gleason score 3+4=7: Grading Group 2 Gleason score 4+3=7: Grading Group 3 Gleason score 8: Grading Group 4 Gleason score 9-10: Grading Group 5",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": [
+              "PROSTATIC",
+              "prostate"
+            ]
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46300-NEW-GUY-needs-help-with-lab-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "NEW GUY needs help with lab results."
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "i am litteraly in tears right now. I can't stop reaserching the life expectacy of this desease and have scared myself to an extensive degree. your reasurance that I am not going to die in five years come not a moment to soon. Thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "07/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46300-NEW-GUY-needs-help-with-lab-results?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "NEW GUY needs help with lab results."
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Hi herbie, I had the fusion MRI byopsi in Oct and would recommend it to anyone. Not sure if the fusion byopsi takes more samples than the ultrasound but I had 15 samples. From what I understand is that if your urologist can target the are of concern relatively easy there is no need to have a focused/clear image of the are undergoing byopsi. If the doc thinks it's necessary it will get approved by Medicare. Best of luck 7seas",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "10/12/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46619-MRI-Fusion-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "MRI Fusion Biopsy"
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "CONGRATS on the good news. It's positive posts like yours that keeps us going. Thank you for sharing.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "14/11/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/46379-our-update?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "our update"
+    },
+    {
+      "AuthorID": "7Seas",
+      "AuthorURL": "https://www.cancerforums.net/members/117733-7Seas?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Content": "Has anyone developed this after surgery and catheter. Im currently 6 1/2 weeks post surgery and 4 1/2 weeks post catheter and have developed pains in the bladder, frequency of urination and a burning sensation during and after peeing. Just got results of urine culture and it's negative for infection. Antibiotics not working nor the pills that turn urine orange.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "08/03/2016",
+      "ThreadURL": "https://www.cancerforums.net/threads/47393-Interstitial-Cystitis-Painful-Bladder-Syndrome-after-catheter?s=89a03c807a8995ef0d3cb76194d4bc08",
+      "Title": "Interstitial Cystitis/Painful Bladder Syndrome after catheter?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.7333333333333333,
+      "Phrase": "<Z> <Z> I will be 41 next Thurday <Z> <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 41
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urinary incontinence",
+      "Infection",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "burning",
+      "infection",
+      "incontinence",
+      "cystitis"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": ["Urinary incontinence"],
+      "SideEffectTypeKeywords": ["incontinence"]
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [
+        "understanding",
+        "easy",
+        "concerned",
+        "willing",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1",
+        "LOVE": "0",
+        "OPEN": "2",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "pained",
+        "pained"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "1",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [
+        "Infection",
+        "Bladder Irritation"
+      ],
+      "SideEffectTypeKeywords": [
+        "burning",
+        "infection"
+      ]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "DateOfTreatment": "08/03/2016",
+    "TreatmentType": "Surgery",
+    "Verified": 1
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 2047
+}

@@ -1,0 +1,127 @@
+{
+  "AuthorID": "ColtsFan",
+  "AuthorURL": "https://www.cancerforums.net/members/17948-ColtsFan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "concerned",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "2",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "ColtsFan",
+    "AuthorURL": "https://www.cancerforums.net/members/17948-ColtsFan?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Hi all.... I'm new here and am hoping to find some information and peer prognosis. 25 years ago my mom was diagnosed with breast cancer and had a radical mastectomy done. She was clear for 14 years, then she wound up with cancer in the other breast and had another radical. Now fast forward to now, she had complained about a pain in her stomach and rib cage area for several months so her doctor decided to run some tests. The breast cancer had metastasized to the rib cage bones..... 7 weeks worth of testing later and they decided that it was cancer but now it had pretty much covered her entire skeletal system but her organs were clear. They started her on Femara for 8 weeks, then it was back for a CT Scan, MRI and bloodwork. She now had a spot on her liver but her lungs and kidneys were still clear. They switched her to Faslodex for 7 weeks then tested again, now she has a spot on her chest wall and the liver spot was slightly bigger but they say the major organs are still clear. She is now going to undergo two rounds of Xeloda Oral, 2 weeks on, 1 week off and another 2 weeks, then back yet again for tests. My mother is 86 years old and has Osteoporosis so her skeletal system is already compromised and at her age I'm very concerned with how she will react to the Xeloda and the horrible side effects. Has anyone here been through anything like this and if so how was the reaction and what are the odds of her surviving this. My heart says her odds are not so good but as long as she is willing to fight I'm going to fight with her. Any info, thoughts or stories would be very much appreciated.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> My mother is 86 years old and has Osteoporosis",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 86
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["Breast"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "mom",
+          "NarrationType": "second-person",
+          "PatientGender": "female",
+          "Relation": "mom"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "07/10/2009",
+    "ThreadURL": "https://www.cancerforums.net/threads/10680-Breast-cancer-metastisized-to-bone-now-stage-4?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Breast cancer metastisized to bone, now stage 4"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> My mother is 86 years old and has Osteoporosis",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 86
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 322
+}

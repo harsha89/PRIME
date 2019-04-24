@@ -1,0 +1,121 @@
+{
+  "AuthorID": "Kenny",
+  "AuthorURL": "https://www.cancerforums.net/members/1870-Kenny?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "pleased",
+      "nice",
+      "supportive",
+      "willing",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "2",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Kenny",
+    "AuthorURL": "https://www.cancerforums.net/members/1870-Kenny?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "My mother is now in stage IV of this cancer. I wanted to know do a person slowly loose their mind in this stage. Please I really want to talk to someone via phone who is going through this or know of someone that when through it. My mother not on any pain medications but eat very little. She take Gen Megace for hormonal therapy. My email address is [email protected]. The cancer was in the hip and the radiation allevated that pain. But now it seem like there is no will to live or perhaps the cancer is taking over. This is a very hard time for me and my family. 202-215-0283 Originally Posted by Muttsmom Was she estrogen or progesterine positive last time? Tamoxifen has been around 20 or 25 years, so where along those lines. There's a support group for Stage IV ladies and I know they could answer alot more questions then I can or anyone who's not been in your mom's shoes. If you want the link to that board and see what the ladies there have to say, e-mail me and I'll give it to you. They are very nice and very supportive and have been dealing with mets, some for many years and doing well",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": ["estrogen"],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 6,
+    "PostDate": "08/03/2006",
+    "ThreadURL": "https://www.cancerforums.net/threads/1478-My-mom-has-metastatic-breast-cancer?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "My mom has metastatic breast cancer..."
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 219
+}

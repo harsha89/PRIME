@@ -1,0 +1,152 @@
+{
+  "AuthorID": "Alexikins",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3034448&p=195269",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "ok",
+      "caring",
+      "concerned",
+      "scared",
+      "worried"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0.5",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.5",
+      "LOVE": "0.5",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "Alexikins",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3034448&p=195269",
+      "Content": " Hello\nI'm 23 years old and my first Fibroadenoma was at 18 and was fairly large. I got it removed and tested and everything was fine. I had another 2 smaller ones that I didn't have to get removed. In the last couple of months I felt another large mass 4.4 cm x 2.3 cm on my left breast and went to my doctor. She sent me to get another breast ultrasound. Radiologist told me I had another 2 new ones and that the other ones were stable. Told me not to worry that it is also Fibroadenoma. A couple of days later my doctor got the results and suggested I go back to the specialist to check it out. I went yesterday and he told me that it is most probably what I had the last time but sent me to get my breast ultrasound film so I can give it to the breast care center at my hospital to see if I should get them biopsied. \nI felt ok and did all my errands for that today when I saw my written results from the radiology center. It states that the 2 masses are solid hypoechoic irregular masses with angular margins. Width being larger than its height. Googling all this it scared me seeing that angular margins are one of the characteristics of a malignant mass. My doctor also told the breast center that he was concerned after he told me not worry and that this wasn't dangerous. All of this is freaking me out. I don't no if he just said that so they can be quicker with an appointment for me or if there is something he is not telling me. I just want to know if anyone has shared a similar experience and if I should worry. I now have to wait up to 2 weeks for them to call me after they watch the film and decide if I need a biopsy. I thank you in advance for any responses:) ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "Masses and Scared  Hello\nI'm 23 years old and my first",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 23
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/03/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3034448",
+      "Title": "23, Breast Masses and Scared"
+    },
+    {
+      "AuthorID": "Alexikins",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3034448&p=195269",
+      "Content": " and btw I have absolutely no breast cancer in my family even though now a days that doesn't make a difference. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "28/03/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3034448",
+      "Title": "23, Breast Masses and Scared"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 369
+}

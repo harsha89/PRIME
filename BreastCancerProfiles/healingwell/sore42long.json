@@ -1,0 +1,153 @@
+{
+  "AuthorID": "sore42long",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1982994&p=120496",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "lucky",
+      "touched",
+      "hopeful",
+      "sore",
+      "scared",
+      "hurtful",
+      "lucky",
+      "touched",
+      "hopeful",
+      "sore",
+      "scared",
+      "hurtful"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "1",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "1",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 2,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "sore42long",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1982994&p=120496",
+      "Content": " hi. as i am waiting for surgery for thoracic outlet syndrome ,which is so painfull ,tomorrow morning Iwill be going for mamogram ,for 3monthes my right breast has been sore swollen and the niple hurt ,Ithought it was side effects of lyrica meds ,but last night puss and clear fluid came out of nipple,Ican feel alump ,maybe a cyst?but when i touched the lump , fluid and white puss and blood came out !Iam hoping its just a cyst ,but still scared and confused ,lucky Ifound it ! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1982994",
+      "Title": "Breast Cancer Stage I"
+    },
+    {
+      "AuthorID": "sore42long",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1982994&p=120496",
+      "Content": " hi. as i am waiting for surgery for thoracic outlet syndrome ,which is so painfull ,tomorrow morning Iwill be going for mamogram ,for 3monthes my right breast has been sore swollen and the niple hurt ,Ithought it was side effects of lyrica meds ,but last night puss and clear fluid came out of nipple,Ican feel alump ,maybe a cyst?but when i touched the lump , fluid and white puss and blood came out !Iam hoping its just a cyst ,but still scared and confused ,lucky Ifound it ! ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 21,
+      "PostDate": "17/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1982994",
+      "Title": "Breast Cancer Stage I"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Surgery"],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": ["surgery"]
+  },
+  "WordCount": 176
+}

@@ -1,0 +1,133 @@
+{
+  "AuthorID": "TawnieCar",
+  "AuthorURL": "https://www.cancerforums.net/members/59237-TawnieCar?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "cautious",
+      "willing",
+      "uneasy",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "1",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "1",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "1",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "TawnieCar",
+    "AuthorURL": "https://www.cancerforums.net/members/59237-TawnieCar?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Content": "Here goes, I am a previous cervical cancer survivor (almost 4 years), but never had to go through chemo or radiation because the margins were clean and clear when I had my hysterectomy, but still have my ovaries. I am 30 years old, and a mother to three children, all of whom I've nursed. The youngest is 5. For the past maybe 6 months I've had new breast pain, mainly in my left breast, that I attributed to be cyclical ovulation related. However within the last 5-6 weeks, the pain has become more frequent and has gotten worse. My right breast is now enlarged, and bigger than the left, however both breasts are now experiencing sharp stabbing pain, as well as burning pain similar to 'let-down'. They are both feverish, and have a 'redness' to them that has gradually gotten worse over the last 2-3 days. I also have very itchy nipples accompanied with white flaky-type stuff on them. I have called my doctor and made an appointment, but can't get in for a few more days. I'm worried, afraid this may be serious, but also afraid that if it is, that it won't be taken seriously. Can anyone give me any insight to this? Any suggestions? Any direction? I want to be prepared, but also cautious; and if I need to try to get in to see someone else sooner I will.",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 1,
+        "Phrase": "<Z> <Z> <Z> I am 30 years old  and a mother",
+        "Relation": "unknown",
+        "Tense": "present",
+        "Value": 30
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "cervical cancer",
+            "hysterectomy",
+            "breast",
+            "breasts"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "18/10/2012",
+    "ThreadURL": "https://www.cancerforums.net/threads/26152-Uneasy-what-could-it-be?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+    "Title": "Uneasy...what could it be?"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 30 years old  and a mother",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 30
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Bladder Irritation"],
+    "SideEffectTypeKeywords": ["burning"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": ["Radiation"],
+    "TreatmentType": "Radiation",
+    "TreatmentTypeKeywords": ["radiation"]
+  },
+  "WordCount": 249
+}

@@ -1,0 +1,144 @@
+{
+  "AuthorID": "slightmiracle",
+  "AuthorURL": "https://www.cancerforums.net/members/103898-slightmiracle?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "animated",
+      "ok",
+      "hopeful",
+      "willing",
+      "decisive",
+      "annoyed"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "1",
+      "ANGRY": "1",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "2",
+      "SAD": "0",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {
+    "max": 7,
+    "min": 7,
+    "scores": [7]
+  },
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 2.5,
+    "min": 2.5,
+    "scores": [2.5]
+  },
+  "Posts": [{
+    "AuthorID": "slightmiracle",
+    "AuthorURL": "https://www.cancerforums.net/members/103898-slightmiracle?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "Hi all, Because it was my first visit since moving to a new town, my doctor asked me in December if everything was ok with my health. I told him about an ongoing urinary issue which has been annoying me for probably 10 years or more. He gave me its name - urgency incontinence. \"Have you had your prostate checked lately?\" he asked. \"Not for ten years.\" \"Up on the bed!\" \"That is not normal, you need a biopsy.\" Urologist: \"We do have to do something\" (explaining the Gleason score 4+3=7) \"I'm not supposed to give you advice but if it was me I'd go for the operation.\" He also prescribed Siterone Cyproterone (testosterone lowering). Because of my work with lifestyle medicine I decided to go on a strictly plant-based diet - no animal products. I then waited a month before deciding to try the drug (half the dose recommended). My PSA went down from 2.5 to .015 in 2 months. My weight also dropped 5 kgs (I'm already skinny). Urologist/Surgeon: \"Operation went smoothly. You definitely needed the op. Cancer all through the gland.\" Surgeon 4 days later: \"It appears we missed a few cells on one margin. We will follow up with PSA tests and if it rises we will consider 1 dose of radiation.\" Today: I'm incontinent and impotent. I'm waiting in hope since I'm assured that it can take several months to regain continence. They don't offer much hope for erections. I read two very good books before my operation (Patrick Walsh's \"Guide to Surviving Prostate Cancer\" and \"Invasion of the Prostate Snatchers\" - Blum/Scholz). Deciding for surgery was the toughest decision I've ever had to make.",
+    "Demographics": {
+      "AgeInfo": [],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": [
+            "Prostate",
+            "testosterone"
+          ]
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "20/05/2013",
+    "ThreadURL": "https://www.cancerforums.net/threads/31449-Prostate-operation-9-weeks-ago?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "Prostate operation 9 weeks ago"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "male",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [
+      "Urinary incontinence",
+      "Bladder Irritation"
+    ],
+    "SideEffectTypeKeywords": [
+      "incontinence",
+      "urgency"
+    ]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [
+      "Surgery",
+      "Radiation"
+    ],
+    "TreatmentType": "Surgery",
+    "TreatmentTypeKeywords": [
+      "radiation",
+      "surgery"
+    ]
+  },
+  "WordCount": 296
+}

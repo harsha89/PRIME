@@ -1,0 +1,125 @@
+{
+  "AuthorID": "gppr100rs",
+  "AuthorURL": "https://www.cancerforums.net/members/115256-gppr100rs?s=89a03c807a8995ef0d3cb76194d4bc08",
+  "EmotionInfo": {
+    "EmotionKeywords": [],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {
+    "max": 3,
+    "min": 3,
+    "scores": [3]
+  },
+  "Posts": [{
+    "AuthorID": "gppr100rs",
+    "AuthorURL": "https://www.cancerforums.net/members/115256-gppr100rs?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Content": "PSA 3 Aug, 2009, has risen consistently since to 17.8. DRE normal, 2 prior TRUS biopsies negative, 57 yr old, asymptomatic. Univ of Mich \"MI Prostate\" urine test positive for cancer (supposed 95% accuracy). Treating U of M urologist has suggested 24 (possibly more) core biopsy plus TURP. Seems like old-school, shot in the dark. Considering MP-MRI-US Fusion Targeted Biopsy at Cleveland Clinic by Dr. Andrew Stephenson. Literature seems to be indicating that, given my history and 2 prior neg TRUS biopsies, MP-MRI-US Fusion Targeted Biopsy has a better chance of finding. Any thoughts/experience?",
+    "Demographics": {
+      "AgeInfo": [{
+        "Confidence": 0.9,
+        "Phrase": "2 prior TRUS biopsies negative  57 yr old  asymptomatic <Z> <Z>",
+        "Relation": "unknown",
+        "Tense": "unknown",
+        "Value": 57
+      }],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [],
+          "MaleMedicalTerms": ["Prostate"]
+        },
+        "NounBasedGender": {
+          "HealthProfessional": "urologist",
+          "MainSubject": "urologist",
+          "NarrationType": "unknown",
+          "NarratorGender": "unknown",
+          "PatientGender": "unknown"
+        }
+      }
+    },
+    "MessageIndex": 0,
+    "PostDate": "23/03/2015",
+    "ThreadURL": "https://www.cancerforums.net/threads/43510-MP-MRI-US-Fusion-Targeted-Biopsy?s=89a03c807a8995ef0d3cb76194d4bc08",
+    "Title": "MP-MRI-US Fusion Targeted Biopsy"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0.9,
+      "Phrase": "2 prior TRUS biopsies negative  57 yr old  asymptomatic <Z> <Z>",
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": 57
+    },
+    "Gender": {
+      "Gender": "male",
+      "NarrationType": "unknown"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": [],
+    "SideEffectTypeKeywords": []
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 108
+}

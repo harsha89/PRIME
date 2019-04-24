@@ -1,0 +1,166 @@
+{
+  "AuthorID": "redsheep",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=832508&p=49348",
+  "EmotionInfo": {
+    "EmotionKeywords": ["worried"],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "0",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "redsheep",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=832508&p=49348",
+      "Content": " Thanks for all your prompt response. Both Alexandra Heerdt & Shedlon Feldman are not covered in my insurance. Do you gals happened to know how much does it cost for a biopsy? Or should I go to some other doctors for biopsy first and go back to Dr. Sheldon for consulation? \nThe breast surgeon that my insurance covered is Dr. Robert Reader (associated with NYU medical center). Anyone heard of him? Is he good? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "11/06/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=832508",
+      "Title": "NYC breast surgeon?"
+    },
+    {
+      "AuthorID": "redsheep",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=832508&p=49348",
+      "Content": " Thanks so much all of you!!! Guess I'll do the biopsy within my network first and consult Dr Feldman afterwards. Thanks to this forum, I am not feeling so scare and lonely anymore. I know it takes a lot of courage to fight against cancer since my mom had it too. The more support you gain, the stronger you are. U gals have my back and u're in my prayers =) ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "12/06/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=832508",
+      "Title": "NYC breast surgeon?"
+    },
+    {
+      "AuthorID": "redsheep",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=832508&p=49348",
+      "Content": " I'm a newbie here. My GP found a breast lump in each of my breast during my annual check up recently and referred me for mammogram. My BIRADS result is category 4 - Supicious abnormality that reqires a biopsy. Even though my mammogram result suggests there's 80% chance that my lumps are benign, I'm still worry b/c my mom has breast cancer. Did anyone know any good breast surgeon in NYC that I can go to? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/06/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=832508",
+      "Title": "NYC breast surgeon?"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 227
+}

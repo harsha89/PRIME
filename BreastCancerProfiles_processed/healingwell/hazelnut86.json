@@ -1,0 +1,174 @@
+{
+  "AuthorID": "hazelnut86",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3235417&p=88558",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "calm",
+      "certain",
+      "willing",
+      "sure",
+      "certain",
+      "worried",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0.5",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "1",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.5",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0.5",
+      "SAD": "0.5",
+      "STRONG": "1"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 2,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "hazelnut86",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3235417&p=88558",
+      "Content": " so i had a mammogram the other day and i had felt a lump a few days before. i do have fibrocystic breasts and i actually never do exams cause there are always lumps. but this one felt different. so i of course pointed it out to the tech. now they called me and want to do more testing. i have to wait a week. ugh! \nit moves around and is about\n the size of the end of my thumb. does cancer feel a certain way usually? two of my friends got it and said it felt like a pea that wouldn't move. i will be a worry wart for a week i'm sure. it doesn't run in my family so my mom doesn't think i have anything to worry about\n. yeah easier said than done. :P she doesn't even get them cause she read they are damaging. whatever. \nanyway, i'm trying to stay calm but kinda hard!! my doc's nurse is going to try to get me in earlier. i can't wait a week. they said they are so busy because of breast cancer awareness week. ughhhh ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/11/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3235417",
+      "Title": "worried about abnormal mammo"
+    },
+    {
+      "AuthorID": "hazelnut86",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3235417&p=88558",
+      "Content": " thank you so much sherbear. :) ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "06/11/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3235417",
+      "Title": "worried about abnormal mammo"
+    },
+    {
+      "AuthorID": "hazelnut86",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3235417&p=88558",
+      "Content": " was the biopsy painful? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "07/11/2014",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3235417",
+      "Title": "worried about abnormal mammo"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 209
+}

@@ -1,0 +1,180 @@
+{
+  "AuthorID": "WorryGirl",
+  "AuthorURL": "https://www.cancerforums.net/members/9630-WorryGirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "touched",
+      "fearful",
+      "worried",
+      "pained",
+      "pained",
+      "sensitive",
+      "thoughtful",
+      "willing"
+    ],
+    "Emotions": {
+      "AFRAID": "0.667",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "0.333",
+      "INDIFFERENT": "0",
+      "INTERESTED": "0.333",
+      "LOVE": "0.667",
+      "OPEN": "0",
+      "POSITIVE": "0.333",
+      "SAD": "0.333",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 3,
+  "NPosts": 3,
+  "PSAInfo": {},
+  "Posts": [
+    {
+      "AuthorID": "WorryGirl",
+      "AuthorURL": "https://www.cancerforums.net/members/9630-WorryGirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Hi, I have an appointment scheduled to see a doctor, but I'm trying to ease my fears in the meantime. I have a swollen lump with is painful to touch just under one breast and another one on the other side which I can't see, but I can feel it sometimes. I hear that in many cases if it's painful it's not cancerous but until I get the results of the tests I'm gonna be worried. Can anyone give me some enlightenment? Thank you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/09/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5344-Painful-swelling?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Painful swelling"
+    },
+    {
+      "AuthorID": "WorryGirl",
+      "AuthorURL": "https://www.cancerforums.net/members/9630-WorryGirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "I went to the doctors today about a sensitive swollen lump under my breast. Even though I've felt it many times, today of all days I could barely feel it. The doctor did a breast exam and said she felt nothing and said that was good. She recommended the ultrasound so that she could see. I'm mad that she couldn't find it though, she thought there might be nothing but I know somethings there. Should I be relieved at all?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doctor",
+            "MainSubject": "doctor",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/09/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5353-I-know-it-s-there-doctor-couldn-t-find-it!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "I know it's there, doctor couldn't find it!"
+    },
+    {
+      "AuthorID": "WorryGirl",
+      "AuthorURL": "https://www.cancerforums.net/members/9630-WorryGirl?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Content": "Just to add a few details, I'm 24 and I'll be getting an ultrasound, they said that they don't do mammograms at my age. Will they be able to tell me during the ultrasound what it might be or will I have to wait for results? The doctor who I'll be seing is just giving me a script to get the ultrasound, I intend to ask her, however, as much as I can about what she thinks it might be and hopefully I can take her word for it.",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "add a few details  I'm 24 and I'll be getting an",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 24
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "28/09/2007",
+      "ThreadURL": "https://www.cancerforums.net/threads/5344-Painful-swelling?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "Title": "Painful swelling"
+    }
+  ],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 0,
+      "Relation": "unknown",
+      "Tense": "unknown",
+      "Value": -1
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 277
+}

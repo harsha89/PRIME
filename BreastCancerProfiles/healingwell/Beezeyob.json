@@ -1,0 +1,138 @@
+{
+  "AuthorID": "Beezeyob",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=255834",
+  "EmotionInfo": {
+    "EmotionKeywords": [
+      "curious",
+      "pained",
+      "pained"
+    ],
+    "Emotions": {
+      "AFRAID": "0",
+      "ALIVE": "0",
+      "ANGRY": "0",
+      "CONFUSED": "0",
+      "DEPRESSED": "0",
+      "GOOD": "0",
+      "HAPPY": "0",
+      "HELPLESS": "0",
+      "HURT": "1",
+      "INDIFFERENT": "0",
+      "INTERESTED": "1",
+      "LOVE": "0",
+      "OPEN": "0",
+      "POSITIVE": "0",
+      "SAD": "1",
+      "STRONG": "0"
+    }
+  },
+  "GleasonInfo": {},
+  "NExperiencePosts": 1,
+  "NPosts": 1,
+  "PSAInfo": {},
+  "Posts": [{
+    "AuthorID": "Beezeyob",
+    "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2382137&p=255834",
+    "Content": " Hi, I'm new to this forum...\nJust had a mammogram in February, that was all clear. This am I woke up with a painful left breast; did a check and found a lump. When my husband woke up, I had him check, too. Yep, he could feel it, also. I had a benign cyst when I was 22; they removed it to biopsy (late 70's) but it's been all clear since. A couple years ago, they found calcium deposits in the right; biopsied, but no issues found. \nI am 62, post menopausal about\n 4-5 years, and do not take, nor ever took, hormone replacement. I do take Armour thyroid, omeprezole, metformin, and otc Vit D3 and K2 (intermittently), but otherwise, I've been doing quite well.\nJust curious how this lump could come up SO fast...unless they missed it during the mammogram... ",
+    "Demographics": {
+      "AgeInfo": [
+        {
+          "Confidence": 1,
+          "Phrase": "benign cyst when I was 22  they removed it to biopsy",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 22
+        },
+        {
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 62  post menopausal about\n 4 5",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 62
+        }
+      ],
+      "GenderInfo": {
+        "MedicalTermBasedGender": {
+          "FemaleMedicalTerms": [
+            "mammogram",
+            "menopausal",
+            "breast"
+          ],
+          "MaleMedicalTerms": []
+        },
+        "NounBasedGender": {
+          "MainSubject": "I",
+          "NarrationType": "first-person",
+          "NarratorGender": "female",
+          "PatientGender": "female"
+        }
+      }
+    },
+    "MessageIndex": 28,
+    "PostDate": "14/05/2017",
+    "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2382137",
+    "Title": "Post-menopausal cysts"
+  }],
+  "ProfileDemographics": {
+    "Age": {
+      "Confidence": 1,
+      "Phrase": "<Z> <Z> <Z> I am 62  post menopausal about\n 4 5",
+      "Relation": "unknown",
+      "Tense": "present",
+      "Value": 62
+    },
+    "Gender": {
+      "Confidence": 1,
+      "Gender": "female",
+      "NarrationType": "first-person"
+    }
+  },
+  "SideEffectTypeInfo": {
+    "SideEffectType": ["Hernia"],
+    "SideEffectTypeKeywords": ["lump"]
+  },
+  "TreatmentDecision": {
+    "DoctorRecommended": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    },
+    "PatientDecided": {
+      "Age": 0,
+      "Best Cancer Control": 0,
+      "Bowel Symptoms": 0,
+      "Doctor Skill": 0,
+      "Erectile dysfunction": 0,
+      "Financial": 0,
+      "GP Mentioned": 0,
+      "Less Invasive": 0,
+      "Medical Indication": 0,
+      "Nerve": 0,
+      "Radiologist": 0,
+      "Recovery Time": 0,
+      "Source": 0,
+      "Surgeon": 0,
+      "Urinary incontinence": 0,
+      "Value": 0
+    }
+  },
+  "TreatmentTypeInfo": {
+    "TreatmentMentions": [],
+    "TreatmentType": "",
+    "TreatmentTypeKeywords": []
+  },
+  "WordCount": 147
+}
