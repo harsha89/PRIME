@@ -25,9 +25,6 @@
       "caring",
       "hopeful",
       "hateful",
-      "wonderful",
-      "hopeful",
-      "overwhelmed",
       "understanding",
       "important",
       "spirited",
@@ -37,6 +34,9 @@
       "willing",
       "certain",
       "lost",
+      "wonderful",
+      "hopeful",
+      "overwhelmed",
       "lucky",
       "important",
       "animated",
@@ -46,12 +46,6 @@
       "tearful",
       "grieved",
       "uplifting",
-      "pleased",
-      "anxious",
-      "willing",
-      "fearful",
-      "anxious",
-      "frightened",
       "free",
       "free",
       "cool",
@@ -60,9 +54,26 @@
       "hopeful",
       "free",
       "threatened",
+      "pleased",
+      "anxious",
+      "willing",
+      "fearful",
+      "anxious",
+      "frightened",
+      "understanding",
+      "loving",
+      "close",
+      "loved",
       "hopeful",
-      "bad",
-      "alienated",
+      "willing",
+      "sure",
+      "defeated",
+      "pained",
+      "pained",
+      "glad",
+      "fatigued",
+      "fatigued",
+      "weepy",
       "kind",
       "great",
       "loving",
@@ -76,6 +87,17 @@
       "cramped",
       "pained",
       "crying",
+      "free",
+      "free",
+      "wonderful",
+      "cool",
+      "loving",
+      "loved",
+      "caring",
+      "hopeful",
+      "free",
+      "hateful",
+      "cold",
       "kind",
       "loving",
       "loved",
@@ -110,16 +132,9 @@
       "teary",
       "lonely",
       "crying",
-      "understanding",
-      "loving",
-      "close",
-      "loved",
       "hopeful",
-      "willing",
-      "sure",
-      "defeated",
-      "pained",
-      "pained",
+      "bad",
+      "alienated",
       "loving",
       "loved",
       "caring",
@@ -129,29 +144,8 @@
       "aggressive",
       "glad",
       "scared",
-      "free",
-      "free",
-      "wonderful",
-      "cool",
-      "loving",
-      "loved",
-      "caring",
-      "hopeful",
-      "free",
-      "hateful",
-      "cold",
-      "glad",
-      "fatigued",
-      "fatigued",
-      "weepy",
       "interested",
       "willing",
-      "affected",
-      "thoughtful",
-      "bad",
-      "cold",
-      "pained",
-      "pained",
       "understanding",
       "accepting",
       "great",
@@ -182,6 +176,12 @@
       "aching",
       "ached",
       "weepy",
+      "affected",
+      "thoughtful",
+      "bad",
+      "cold",
+      "pained",
+      "pained",
       "okay",
       "understanding",
       "lucky",
@@ -220,134 +220,6 @@
   "NExperiencePosts": 39,
   "NPosts": 44,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 19,
-      "NTotal": 20,
-      "PAdvice": 0.05,
-      "PExperience": 0.95
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 5,
-      "NTotal": 5,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 3,
-      "NTotal": 4,
-      "PAdvice": 0.25,
-      "PExperience": 0.75
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 3,
-      "NExperience": 3,
-      "NTotal": 6,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "Donna A",
@@ -467,30 +339,6 @@
     },
     {
       "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=458088&p=20416",
-      "Content": " Hi Bernadette, I don't know about\n Arimadex but I do know that a lot of the stuff I took had side effects that weren't mentioned because I had to take the drug regardless. It sucks! I think it's a good idea to take care of yourself and when you need to have a slow day then take one. \nAren't we goofy about\n work -- I sometimes laugh at myself - I'm in the generation that takes all of the responsibility stuff seriously...I hate to put anyone out in my office. \nI have worked with younger people who take off when they have a headache. Don't know which is worse.\nMy latest is a serious infection from a tattooing on to finish off my reconstruction - been on IVs and taking more meds than a junky. See the dr today hopefully I'll be able to save my implant.\nI'll check in with you on Monday but please let me know what's going on after you see your dr.\nHope you can have something to do to help take your mind off of all this for the weekend - maybe a movie or a walk -- is it spring where you are? It's going to be nice in Denver!\nL&H\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "07/04/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=458088",
-      "Title": "CT results not good"
-    },
-    {
-      "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=474780&p=20416",
       "Content": " Hi Pam, good to hear that you're home and on the way to recovery! What's the next step for you? Did you have reconstruction and are you doing chemo or rads or both?\n \n \n \n \n ",
       "Demographics": {
@@ -513,31 +361,8 @@
     },
     {
       "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=424171&p=20416",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "17/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=424171",
-      "Title": "My 6 year anniversary was on February 14th...but....."
-    },
-    {
-      "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=467182&p=20416",
-      "Content": " Hooray! I'm so happy to hear the news Bernadette! I don't know about\n you but I think having to do another round of chemo, surgery, rads etc seems overwhelming, and though you still have some medical issues I believe this is really wonderful news.\nSpring signals a new beginning - I'm hoping that you'll feel better soon and enjoy all that it has to offer.\nL&H,\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=458088&p=20416",
+      "Content": " Hi Bernadette, I don't know about\n Arimadex but I do know that a lot of the stuff I took had side effects that weren't mentioned because I had to take the drug regardless. It sucks! I think it's a good idea to take care of yourself and when you need to have a slow day then take one. \nAren't we goofy about\n work -- I sometimes laugh at myself - I'm in the generation that takes all of the responsibility stuff seriously...I hate to put anyone out in my office. \nI have worked with younger people who take off when they have a headache. Don't know which is worse.\nMy latest is a serious infection from a tattooing on to finish off my reconstruction - been on IVs and taking more meds than a junky. See the dr today hopefully I'll be able to save my implant.\nI'll check in with you on Monday but please let me know what's going on after you see your dr.\nHope you can have something to do to help take your mind off of all this for the weekend - maybe a movie or a walk -- is it spring where you are? It's going to be nice in Denver!\nL&H\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -553,10 +378,10 @@
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "14/04/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=467182",
-      "Title": "Great News"
+      "MessageIndex": 11,
+      "PostDate": "07/04/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=458088",
+      "Title": "CT results not good"
     },
     {
       "AuthorID": "Donna A",
@@ -584,6 +409,30 @@
     },
     {
       "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=467182&p=20416",
+      "Content": " Hooray! I'm so happy to hear the news Bernadette! I don't know about\n you but I think having to do another round of chemo, surgery, rads etc seems overwhelming, and though you still have some medical issues I believe this is really wonderful news.\nSpring signals a new beginning - I'm hoping that you'll feel better soon and enjoy all that it has to offer.\nL&H,\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "14/04/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=467182",
+      "Title": "Great News"
+    },
+    {
+      "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416889&p=20416",
       "Content": " Hi Everyone -- as usual the message you all send move me. I, like you Chantry, am feeling a deep sadness about\n loosing my breast. Strangely I didn't think much about\n having them before but now I miss the beauty and feel guilty about\n fussing about\n not having a left breast. I try and tell myself that I'm lucky to be alive and that looks aren't that important but it is shocking to see my poor lopsided reflection in the mirror.\nHaving an implant wasn't that bad until the radiation damaged that side and now I've got one side higher and harder than the natural side. Maybe the sadness is just part of the grieving process and because I was so busy having treatments and surgeries I hadn't experienced the grieving. For whatever reason I find myself tearing up at the weirdest times. \nBernedette your burns will get better I promise, hang in there. Mine healed up within a few weeks after my last treatment and the itching went away almost as soon as the treatments ended. A little tip I received that helped was to sleep with a small pillow (I used a stuffed animal) under my arm so that my arm didn't rub against my chest, besides being able to keep my arm level with my chest to avoid the pulling that I had. It really helps!\nHave a good weekend everyone.\nHugs from Denver - Donna ",
       "Demographics": {
@@ -605,6 +454,29 @@
       "PostDate": "03/03/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416889",
       "Title": "Start rads tomarrow"
+    },
+    {
+      "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=424171&p=20416",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "17/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=424171",
+      "Title": "My 6 year anniversary was on February 14th...but....."
     },
     {
       "AuthorID": "Donna A",
@@ -678,30 +550,6 @@
     },
     {
       "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
-      "Content": " Hi Skysnana, sounds like you've had a couple of recurrences. I'm anxious to hear about\n yours and would like to know how you're doing. And, how you've learned to deal with the fear of the \"what if's\".\nI'm just finished with my second round of chemo and will start radiation in about\n 3 weeks. I have had a hard time with the shock of getting it again after not even a year.\nMy doctor did say that he would recommend a pet scan every 6 months for two years. Frankly even though I know it will be stressful I'm willing to do it because I'm so frightened about\n it coming back in a place that isn't noticeable. My others were under my arm and on the scar from my mastectomy.\nPlease write when you can. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "08/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
-      "Title": "Hair loss"
-    },
-    {
-      "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=377966&p=20416",
       "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
@@ -749,6 +597,30 @@
     },
     {
       "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
+      "Content": " Hi Skysnana, sounds like you've had a couple of recurrences. I'm anxious to hear about\n yours and would like to know how you're doing. And, how you've learned to deal with the fear of the \"what if's\".\nI'm just finished with my second round of chemo and will start radiation in about\n 3 weeks. I have had a hard time with the shock of getting it again after not even a year.\nMy doctor did say that he would recommend a pet scan every 6 months for two years. Frankly even though I know it will be stressful I'm willing to do it because I'm so frightened about\n it coming back in a place that isn't noticeable. My others were under my arm and on the scar from my mastectomy.\nPlease write when you can. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "08/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
+      "Title": "Hair loss"
+    },
+    {
+      "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362211&p=20416",
       "Content": " \n \n \n \n ",
       "Demographics": {
@@ -773,7 +645,31 @@
     {
       "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
-      "Content": " Hi Kattbird, yes my wig is human hair. By the way my insurance company paid for it and that was a relief because it was very expensive ($1200). I couldn't have paid that much on my own. \nIt is really natural looking and as I said I get lots of compliments. After visiting several wig shops in the malls I cried and felt like I was going to look like a sick alien forever, then found this site. And as it turns out I've had to wear it for almost a full year -- what with having a recurrence in June -- I'm hoping for hair around December but at first I'll still need to wear the wig.\nI finally made sense of the cost by telling myself that losing my hair was bad enough without having to deal with a wig I didn't like. Don't know if you still need a wig but here's the web site for the company I dealt with and they're world wide. www.iwanthair.com/\nlocations/mem_CO_hairunlimted.htp - the contact email is carlacci@gmail.com it's for Hair Unlimited but I think the parent company is Transistions.\nI know what you mean about\n meds. Wow, I've never been so consumed by what I'm taking and when I'm taking it. It's weird to have to take so much and to have to pay the co-pays. Ick. I just keep telling myself that this is only temporary.\nI agree with Bernadette - NO VOMITING! It shouldn't have to be that hard these days -- after all it is 2005 right!\nSorry about\n your tooth! \nThinking of you!\nP.S. Hope you're better Bernadette - bronchitis makes it difficult to sleep as I recall. ",
+      "Content": " Hi Kattbird, I understand how you feel I cried (and still do somedays) about\n losing my hair, having scars and feeling sickly. Some of this stuff feels very defeating and I think having your hair fall out makes things seem worse! To me it's a stark reminder of what our bodies are going through.\nI think I mentioned before that I experience horrible PMS like symtoms which of course made everything worse. Don't know if every chemo does that but both AC and Taxol did for me.\nInsurance companies can be a pain! Do you have a case manager?? My insurance assigned one to my case and it really helped. She acts as an advocate for me and she also reviews my treatments to make sure they are appropriate.\nHopefully the new place will have a wig that fits and that is close to your color.\nI'll be thinking about\n you - hope it gets better soon.\nLove and hugs from Denver,\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["PMS"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 60,
+      "PostDate": "30/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
+      "Title": "Hair loss"
+    },
+    {
+      "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362211&p=20416",
+      "Content": " Wow 5 more to go. How often are you getting your treatment? I had 4 treatments - one every other week and 35 days of radiation. I'm glad that your other side effects are minimal - the fatigue thing is hard and unfortunately since the radiation followed so soon after the chemo I don't think I had a chance to get built up in between.\nI think the fatigue also played a huge part in depression for me. I would have days when I was very weepy. How about\n you. ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -789,8 +685,56 @@
           }
         }
       },
-      "MessageIndex": 38,
-      "PostDate": "13/09/2005",
+      "MessageIndex": 7,
+      "PostDate": "16/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=362211",
+      "Title": "Couldn't let the day go by without a single post...."
+    },
+    {
+      "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
+      "Content": " Hi Bernadette, I had Neulasta too and you are so right it's very painful. The only thing that kept me doing it was that I had chemo every other week and my white count would be too low to get it if I didn't take the Neulasta. It kept me in constant leg cramps. \nHad my 3 radiation treatment yesterday and going again today, only 6 weeks to go. I was so frightened on my first day that I broke down and cried. Let me tell you that made for a great first impression! My rad onco said I will get some burning because I've had a mastectomy, an implant and a recurrence. Plus my second tumor was in my chest wall so I'll get both a top skin and bottom chest treatment. I'm certainly not looking forward to getting burned but maybe it won't be as bad as I'm projecting. \nI've been making myself laugh --- as the machine starts up I mutter (to myself) go get 'um eat all of those crummy (insert a stronger word here) cancer cells! Sounds crazy but it seems to be helping, at least I'm not crying during the treatments.\nWhat kind of work do you do? I know what you mean about\n staying home. It's not what it's cracked up to be when you can't do anything but sleep! But on the other hand you must need it. Chemo takes a toll on our bodies.\nHope your cough gets better soon.\nLove and hugs from Denver,\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 74,
+      "PostDate": "30/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
+      "Title": "Hair loss"
+    },
+    {
+      "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
+      "Content": " Hi Bernadette, wow, we're so much alike! I have never been sick either. Not even colds! I've had the flu once in 58 years. I know what you mean it's so weird to be sick. I hate it...\nI wonder if there is some connection between people who aren't normally sick and those who get cancer?!?\nI don't know about\n Neupogen -- is that for red blood cells?\nSpeaking of the Race --- I was sitting next to a women who had lymphodema and looked like she wasn't feeling too well. When the 5 - 10 year survivors came into the area she said her wish was to be cancer free for 5 years so she could see her daughter graduate. Then the people who were 50 year survivors came in and we both looked at each other and said \"That's what we want -- 50 years! Can you imagine! \nI have to remind myself that people do make it and not get to down about\n all of this health stuff.\nTake care and hope you're feeling better today. \nlove from Denver on a cloudy cool day.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 77,
+      "PostDate": "04/10/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
       "Title": "Hair loss"
     },
@@ -814,30 +758,6 @@
       },
       "MessageIndex": 20,
       "PostDate": "08/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
-      "Title": "Hair loss"
-    },
-    {
-      "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
-      "Content": " Hi Bernadette, I had Neulasta too and you are so right it's very painful. The only thing that kept me doing it was that I had chemo every other week and my white count would be too low to get it if I didn't take the Neulasta. It kept me in constant leg cramps. \nHad my 3 radiation treatment yesterday and going again today, only 6 weeks to go. I was so frightened on my first day that I broke down and cried. Let me tell you that made for a great first impression! My rad onco said I will get some burning because I've had a mastectomy, an implant and a recurrence. Plus my second tumor was in my chest wall so I'll get both a top skin and bottom chest treatment. I'm certainly not looking forward to getting burned but maybe it won't be as bad as I'm projecting. \nI've been making myself laugh --- as the machine starts up I mutter (to myself) go get 'um eat all of those crummy (insert a stronger word here) cancer cells! Sounds crazy but it seems to be helping, at least I'm not crying during the treatments.\nWhat kind of work do you do? I know what you mean about\n staying home. It's not what it's cracked up to be when you can't do anything but sleep! But on the other hand you must need it. Chemo takes a toll on our bodies.\nHope your cough gets better soon.\nLove and hugs from Denver,\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 74,
-      "PostDate": "30/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
       "Title": "Hair loss"
     },
@@ -989,12 +909,12 @@
     {
       "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
-      "Content": " Hi Kattbird, I understand how you feel I cried (and still do somedays) about\n losing my hair, having scars and feeling sickly. Some of this stuff feels very defeating and I think having your hair fall out makes things seem worse! To me it's a stark reminder of what our bodies are going through.\nI think I mentioned before that I experience horrible PMS like symtoms which of course made everything worse. Don't know if every chemo does that but both AC and Taxol did for me.\nInsurance companies can be a pain! Do you have a case manager?? My insurance assigned one to my case and it really helped. She acts as an advocate for me and she also reviews my treatments to make sure they are appropriate.\nHopefully the new place will have a wig that fits and that is close to your color.\nI'll be thinking about\n you - hope it gets better soon.\nLove and hugs from Denver,\nDonna ",
+      "Content": " Hi Kattbird, yes my wig is human hair. By the way my insurance company paid for it and that was a relief because it was very expensive ($1200). I couldn't have paid that much on my own. \nIt is really natural looking and as I said I get lots of compliments. After visiting several wig shops in the malls I cried and felt like I was going to look like a sick alien forever, then found this site. And as it turns out I've had to wear it for almost a full year -- what with having a recurrence in June -- I'm hoping for hair around December but at first I'll still need to wear the wig.\nI finally made sense of the cost by telling myself that losing my hair was bad enough without having to deal with a wig I didn't like. Don't know if you still need a wig but here's the web site for the company I dealt with and they're world wide. www.iwanthair.com/\nlocations/mem_CO_hairunlimted.htp - the contact email is carlacci@gmail.com it's for Hair Unlimited but I think the parent company is Transistions.\nI know what you mean about\n meds. Wow, I've never been so consumed by what I'm taking and when I'm taking it. It's weird to have to take so much and to have to pay the co-pays. Ick. I just keep telling myself that this is only temporary.\nI agree with Bernadette - NO VOMITING! It shouldn't have to be that hard these days -- after all it is 2005 right!\nSorry about\n your tooth! \nThinking of you!\nP.S. Hope you're better Bernadette - bronchitis makes it difficult to sleep as I recall. ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["PMS"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -1005,8 +925,8 @@
           }
         }
       },
-      "MessageIndex": 60,
-      "PostDate": "30/09/2005",
+      "MessageIndex": 38,
+      "PostDate": "13/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
       "Title": "Hair loss"
     },
@@ -1082,78 +1002,6 @@
     },
     {
       "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=20416",
-      "Content": " Hi Bernadette, wow, we're so much alike! I have never been sick either. Not even colds! I've had the flu once in 58 years. I know what you mean it's so weird to be sick. I hate it...\nI wonder if there is some connection between people who aren't normally sick and those who get cancer?!?\nI don't know about\n Neupogen -- is that for red blood cells?\nSpeaking of the Race --- I was sitting next to a women who had lymphodema and looked like she wasn't feeling too well. When the 5 - 10 year survivors came into the area she said her wish was to be cancer free for 5 years so she could see her daughter graduate. Then the people who were 50 year survivors came in and we both looked at each other and said \"That's what we want -- 50 years! Can you imagine! \nI have to remind myself that people do make it and not get to down about\n all of this health stuff.\nTake care and hope you're feeling better today. \nlove from Denver on a cloudy cool day.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 77,
-      "PostDate": "04/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
-      "Title": "Hair loss"
-    },
-    {
-      "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362211&p=20416",
-      "Content": " Wow 5 more to go. How often are you getting your treatment? I had 4 treatments - one every other week and 35 days of radiation. I'm glad that your other side effects are minimal - the fatigue thing is hard and unfortunately since the radiation followed so soon after the chemo I don't think I had a chance to get built up in between.\nI think the fatigue also played a huge part in depression for me. I would have days when I was very weepy. How about\n you. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "16/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=362211",
-      "Title": "Couldn't let the day go by without a single post...."
-    },
-    {
-      "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=20416",
-      "Content": " Hi everyone, I'm interested in hearing about\n experiences with radiation therapy. I will begin Sept. 26 for four weeks of radiation on the left side of my chest and I'm a little unsettled about\n it.\n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "14/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
-      "Title": "Radiation"
-    },
-    {
-      "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=314245&p=20416",
       "Content": " \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
@@ -1202,7 +1050,7 @@
     {
       "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=20416",
-      "Content": " Thanks JUJU, I'll ask about\n the Glucan. Good to hear you had no fatique, that was a big one for me.\nhugs and good wishes,\nDonna ",
+      "Content": " Hi everyone, I'm interested in hearing about\n experiences with radiation therapy. I will begin Sept. 26 for four weeks of radiation on the left side of my chest and I'm a little unsettled about\n it.\n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1218,31 +1066,7 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "14/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
-      "Title": "Radiation"
-    },
-    {
-      "AuthorID": "Donna A",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=20416",
-      "Content": " Wow, did they give you anything for the pain? Was it like you get with a bad cold and infection??\nI guess I hadn't thought about\n the esophagas, but stands to reason that it would be affected doesn't it.\nWell, good information to have.\nThanks.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
+      "MessageIndex": 0,
       "PostDate": "14/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
       "Title": "Radiation"
@@ -1302,6 +1126,30 @@
     {
       "AuthorID": "Donna A",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=20416",
+      "Content": " Wow, did they give you anything for the pain? Was it like you get with a bad cold and infection??\nI guess I hadn't thought about\n the esophagas, but stands to reason that it would be affected doesn't it.\nWell, good information to have.\nThanks.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "14/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
+      "Title": "Radiation"
+    },
+    {
+      "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=20416",
       "Content": " Okay, thanks!\nDonna ",
       "Demographics": {
         "AgeInfo": [],
@@ -1342,6 +1190,30 @@
       },
       "MessageIndex": 15,
       "PostDate": "19/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
+      "Title": "Radiation"
+    },
+    {
+      "AuthorID": "Donna A",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=20416",
+      "Content": " Thanks JUJU, I'll ask about\n the Glucan. Good to hear you had no fatique, that was a big one for me.\nhugs and good wishes,\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "14/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
       "Title": "Radiation"
     },
@@ -1423,6 +1295,11 @@
       "infection",
       "fatigue"
     ]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -1822,6 +1699,16 @@
     },
     "2nd Month Emotions": {
       "EmotionKeywords": [
+        "understanding",
+        "loving",
+        "close",
+        "loved",
+        "hopeful",
+        "willing",
+        "sure",
+        "defeated",
+        "pained",
+        "pained",
         "kind",
         "great",
         "loving",
@@ -1835,16 +1722,6 @@
         "cramped",
         "pained",
         "crying",
-        "understanding",
-        "loving",
-        "close",
-        "loved",
-        "hopeful",
-        "willing",
-        "sure",
-        "defeated",
-        "pained",
-        "pained",
         "free",
         "free",
         "wonderful",
@@ -1890,12 +1767,12 @@
     },
     "3rd Month Emotions": {
       "EmotionKeywords": [
-        "loving",
-        "loved",
         "glad",
         "fatigued",
         "fatigued",
         "weepy",
+        "loving",
+        "loved",
         "understanding",
         "lucky",
         "encouraged",

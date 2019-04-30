@@ -3,6 +3,10 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1071476&p=55265",
   "EmotionInfo": {
     "EmotionKeywords": [
+      "great",
+      "pained",
+      "pained",
+      "nervous",
       "sure",
       "alone",
       "sore",
@@ -10,33 +14,15 @@
       "pained",
       "alone",
       "great",
-      "hopeful",
-      "sure",
-      "great",
-      "ok",
-      "hopeful",
-      "willing",
-      "dread",
-      "crying",
-      "hurtful",
-      "great",
-      "hopeful",
-      "bad",
-      "worried",
-      "pained",
-      "pained",
-      "great",
       "thoughtful",
       "bad",
       "hurtful",
+      "thoughtful",
       "kind",
       "great",
       "hopeful",
       "willing",
       "sore",
-      "understanding",
-      "scared",
-      "crying",
       "easy",
       "glad",
       "comfortable",
@@ -46,25 +32,25 @@
       "willing",
       "sure",
       "bad",
-      "great",
-      "pained",
-      "pained",
-      "nervous",
-      "hopeful",
-      "nervous",
       "ok",
       "worried",
       "numb",
+      "great",
+      "hopeful",
+      "bad",
+      "worried",
+      "pained",
+      "pained",
+      "hopeful",
+      "nervous",
+      "sure",
+      "great",
+      "hopeful",
+      "sure",
       "important",
       "glad",
       "disappointed",
       "scared",
-      "sure",
-      "thoughtful",
-      "ok",
-      "willing",
-      "sure",
-      "bad",
       "glad",
       "ok",
       "loving",
@@ -73,8 +59,22 @@
       "pained",
       "pained",
       "hurtful",
+      "great",
+      "ok",
+      "hopeful",
+      "willing",
+      "dread",
+      "crying",
+      "hurtful",
+      "ok",
+      "willing",
+      "sure",
+      "bad",
       "aching",
       "ached",
+      "understanding",
+      "scared",
+      "crying",
       "dread"
     ],
     "Emotions": {
@@ -100,135 +100,30 @@
   "NExperiencePosts": 27,
   "NPosts": 28,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 8,
-      "NTotal": 8,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 11,
-      "NTotal": 12,
-      "PAdvice": 0.08333333333333333,
-      "PExperience": 0.9166666666666666
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1071476&p=55265",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "17/03/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1071476",
+      "Title": "? about radiation"
+    },
     {
       "AuthorID": "Phillsgirl",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1071476&p=55265",
@@ -252,320 +147,6 @@
       "PostDate": "18/03/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1071476",
       "Title": "? about radiation"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1138409&p=55265",
-      "Content": " I started Tamoxifen before my rads. Didn't bother me while doiing it. It did cause hot flashes but I,m not sure that is from the menapause alone or a combination of both. Other than that all went well. Good luck to you. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["hot flashes"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "01/06/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1138409",
-      "Title": "when to start tomaxafen"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1186208&p=55265",
-      "Content": " \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "18/07/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1186208",
-      "Title": "arimidex"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=952397&p=55265",
-      "Content": " Hi everyone, I'm 44 and just had a lumpectomy with lymph nodes taken out. Still in a lot of pain in the arm. Is this a normal thing? Can't wait to feel normal again, if you can call having cancer normal but I know everyone must feel this way. How long does it take? Any help? ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "this normal  Hi everyone  I'm 44 and just had a lumpectomy",
-          "Relation": "unknown",
-          "Tense": "present",
-          "Value": 44
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "27/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=952397",
-      "Title": "Two weeks after lumpectomy, still very sore is this normal"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1186208&p=55265",
-      "Content": " Thanks Ladies,\n Just never read about\n anyone else with the same problems. Going to call the oncologist tomorrow to see if I can get off it,\nCarol from rochester ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "20/07/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1186208",
-      "Title": "arimidex"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=952397&p=55265",
-      "Content": " Thanks for the info, and THANKS for just replying I feel so alone sometimes\ndiagnose 9/07\nlumpectomy 10/10/07\n1 node positve\nmargins clear\nstage IIA\nchemo and rad to follow ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "28/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=952397",
-      "Title": "Two weeks after lumpectomy, still very sore is this normal"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=993309&p=55265",
-      "Content": " Thanks Lori,\n I have heard that it's basically the same but wasn't sure. I was nauseous day three and four but really didn't have too many other symptoms. And the meds worked pretty good with the nausea. Hope it works the same with Christmas and all. I get it on the 18th. Thanks again and have a great holiday\nCarol ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "14/12/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=993309",
-      "Title": "Are chemo symptoms the same every time?"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=972422&p=55265",
-      "Content": " Ang, Just read about\n your trouble with the port. I too have a port. It was just put in 8 days ago. Everything went ok with that but yesterday I had my first session with chemo. It took 3 peope to try and get the needle in. All that poking and probing. I was crying like a baby. They said it shouldn't hurt like that, but what else could they say. I dread going back but I have to. As for scars, I had back surgery 7 years ago and they cut me 7 inches on my stomach and my back. The back scar is great but my stomach scar is an inch wide and 7 inches long. Now I have a large scar on my left breast and under my are from a lumpectomy. not to mention the scar on my right chest from the port. I look like I was hit by a truck. As long as I can live until my children and grandchild grows up it will all be worth it. I am only 44 years old and I have alot of living to do. My youngest is 15 years old. I hope everything goes better for you. Just keep on fighting someday you will be able to put this all behind you. Lots of hugs.\n Carol from Rochester, NY ",
-      "Demographics": {
-        "AgeInfo": [
-          {
-            "Confidence": 1,
-            "Phrase": "<Z> <Z> I am only 44 years old and I have",
-            "Relation": "unknown",
-            "Tense": "present",
-            "Value": 44
-          },
-          {
-            "Confidence": 0.9,
-            "Phrase": "<Z> <Z> My youngest is 15 years old <Z> <Z> <Z>",
-            "Relation": "unknown",
-            "Tense": "present",
-            "Value": 15
-          }
-        ],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "27/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=972422",
-      "Title": "Does anyone here have an implanted Port??"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=985388&p=55265",
-      "Content": " Hi,\nI started my chemo on Nov. 26th. Had no idea what was going to be like. Heard all these horror stories. And I'm sorry if some women go through it but I went thru it fairly good. I did get nauseous on days 3 and 4 but the meds helped alot. No throwing up. Days 5 and 6 started with dizziness and head pain. Went to the docs, they said it was stress, no kidding!!! My mom got in a real bad car accident on that day and I was worried sick. She's 83 and had 4 broken ribs, broken wrist, small bleed in her head and possible both her feet are fractured or something, they still don't know because they want her to stand on them to get better x-rays. She can't, too painful. I guess that was enough stress to handle on top of the chemo. I am taking ativan for that and I feel great now. Back to my old self again. Hope you get thru This as I did. Let us know. My prayers are with you.\nCarol from Rochester, NY ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> <Z> <Z> She's 83 and had 4 broken ribs",
-          "Relation": "unknown",
-          "Tense": "unknown",
-          "Value": 83
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "08/12/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=985388",
-      "Title": "Red Devil Chemo"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=986658&p=55265",
-      "Content": " Thanks Lori,\nYesterday I went to the docs because my head hurt so bad and I was so off balance so they drew blood. from the port. Didn't feel a thing so the next session of chemo should be a breeze. They put me on atttivan an anti axiety drug. I thought I was handling it pretty good but guess not. It really helps and lets me sleep which I never do. Now I think my body can fight this if I can rest. All my blood counts were great so far. If it's the same every time I CAN get through this like a trooper. More relieved now Thanks Carol ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "06/12/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=986658",
-      "Title": "First Chemo"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=986658&p=55265",
-      "Content": " Ellen, \n I know exactly how that thrush is. I got it 7 years ago when I had major back surgery and everytime I get an antibiotic I get it so watch out. I have the mouth sores now but I got a prescript\nion for some swish and swallow stuff and it helps. Same thing they gave me for thrush years ago. Today was a great day. No symptoms of any kind. Feel like my old self. Went Christmas shopping. Just when I feel good I'll have to get another treatment. Sucks. But, it will all be over January 28th. Counting down the days. Will still have to do 6 weeks of radiation but that I think I can handle. Well I have no choice. Hope you have a great holiday.\nCarol from Rochester NY ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "07/12/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=986658",
-      "Title": "First Chemo"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953182&p=55265",
-      "Content": " I have known for about\n a month that I have or should I say HAD breast cancer, had a lumpectomy 2 1/2 weeks ago. All I do is think about\n cancer and try to read and understand everything about\n it. Sometimes it takes over and I find that it all I've done all day. I'm sooo scared and cry alot. I sread the treatments and getting sick and losing my hair and everything. Family and friends just can't understand. Thanks for all you who can understand ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "28/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=953182",
-      "Title": "I just can't think of anything but Cancer"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=981069&p=55265",
-      "Content": " Hi everyone,\nI started chemo on Monday, They had a hard time getting in the port but once they did everything went well. I have been feeling pretty good up until this morning. Pretty sick to my stomach. Today even my coffee tastes really bad and I do love my coffee. I feel for all of you who have gone through this. The hair lose is something that I'm looking forward to. I always had long hair and I got it cut last week short. Love it I probably will never go back to long. Short hair is so easy to manage. No hair will probably be even easier (LOL) I find it very comforting to read the comments that you all have for anyone with a problem. I try to do the same but am quite new at this, so I don't have alot of experience with all the procedures yet, I'm sure someday I will. Not an accomplishment I ever wanted but someday if I can help someone else, I will be glad I can. Thanks to all of you.\nCarol from Rochester NY\nDiagnosed 10/3/07\nInvasive ductal carsinoma\nLumpectomy and node removal 10/10/07\nstage II\n1 node positive\nport 11/19/07\n1st chemo 11/26/07 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "28/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=981069",
-      "Title": "Started Chemo"
     },
     {
       "AuthorID": "Phillsgirl",
@@ -623,31 +204,8 @@
     },
     {
       "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1071476&p=55265",
-      "Content": " \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "17/03/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1071476",
-      "Title": "? about radiation"
-    },
-    {
-      "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1071476&p=55265",
-      "Content": " Hi ladies,\n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1186208&p=55265",
+      "Content": " \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -663,14 +221,189 @@
         }
       },
       "MessageIndex": 0,
-      "PostDate": "16/03/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1071476",
-      "Title": "? about radiation"
+      "PostDate": "18/07/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1186208",
+      "Title": "arimidex"
     },
     {
       "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=993309&p=55265",
-      "Content": " Hi ladies,\nI'm about\n to get my second treatment and I am hoping the symptoms for me are the same as they were last time. Can anyone let me know. I'm getting all nervous again. I'd appreciate any input. Thanks\nCarol from NY ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1186208&p=55265",
+      "Content": " Thanks Ladies,\n Just never read about\n anyone else with the same problems. Going to call the oncologist tomorrow to see if I can get off it,\nCarol from rochester ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "20/07/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1186208",
+      "Title": "arimidex"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1138409&p=55265",
+      "Content": " I started Tamoxifen before my rads. Didn't bother me while doiing it. It did cause hot flashes but I,m not sure that is from the menapause alone or a combination of both. Other than that all went well. Good luck to you. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "01/06/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1138409",
+      "Title": "when to start tomaxafen"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=952397&p=55265",
+      "Content": " Hi everyone, I'm 44 and just had a lumpectomy with lymph nodes taken out. Still in a lot of pain in the arm. Is this a normal thing? Can't wait to feel normal again, if you can call having cancer normal but I know everyone must feel this way. How long does it take? Any help? ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "this normal  Hi everyone  I'm 44 and just had a lumpectomy",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 44
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "27/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=952397",
+      "Title": "Two weeks after lumpectomy, still very sore is this normal"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=952397&p=55265",
+      "Content": " Thanks for the info, and THANKS for just replying I feel so alone sometimes\ndiagnose 9/07\nlumpectomy 10/10/07\n1 node positve\nmargins clear\nstage IIA\nchemo and rad to follow ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "28/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=952397",
+      "Title": "Two weeks after lumpectomy, still very sore is this normal"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=986658&p=55265",
+      "Content": " Thanks Lori,\nYesterday I went to the docs because my head hurt so bad and I was so off balance so they drew blood. from the port. Didn't feel a thing so the next session of chemo should be a breeze. They put me on atttivan an anti axiety drug. I thought I was handling it pretty good but guess not. It really helps and lets me sleep which I never do. Now I think my body can fight this if I can rest. All my blood counts were great so far. If it's the same every time I CAN get through this like a trooper. More relieved now Thanks Carol ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "06/12/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=986658",
+      "Title": "First Chemo"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=952397&p=55265",
+      "Content": " Thanks for the info. I am exercising but the underside of my arm burns like the worst sunburn you could get. Everything else seems to be healing amazingly well. By the way my surgeon made my lumpectomy breast look twenty years younger than my old breast. Who would of thought. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "29/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=952397",
+      "Title": "Two weeks after lumpectomy, still very sore is this normal"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=986658&p=55265",
+      "Content": " Ellen, \n I know exactly how that thrush is. I got it 7 years ago when I had major back surgery and everytime I get an antibiotic I get it so watch out. I have the mouth sores now but I got a prescript\nion for some swish and swallow stuff and it helps. Same thing they gave me for thrush years ago. Today was a great day. No symptoms of any kind. Feel like my old self. Went Christmas shopping. Just when I feel good I'll have to get another treatment. Sucks. But, it will all be over January 28th. Counting down the days. Will still have to do 6 weeks of radiation but that I think I can handle. Well I have no choice. Hope you have a great holiday.\nCarol from Rochester NY ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "07/12/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=986658",
+      "Title": "First Chemo"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=981069&p=55265",
+      "Content": " Hi everyone,\nI started chemo on Monday, They had a hard time getting in the port but once they did everything went well. I have been feeling pretty good up until this morning. Pretty sick to my stomach. Today even my coffee tastes really bad and I do love my coffee. I feel for all of you who have gone through this. The hair lose is something that I'm looking forward to. I always had long hair and I got it cut last week short. Love it I probably will never go back to long. Short hair is so easy to manage. No hair will probably be even easier (LOL) I find it very comforting to read the comments that you all have for anyone with a problem. I try to do the same but am quite new at this, so I don't have alot of experience with all the procedures yet, I'm sure someday I will. Not an accomplishment I ever wanted but someday if I can help someone else, I will be glad I can. Thanks to all of you.\nCarol from Rochester NY\nDiagnosed 10/3/07\nInvasive ductal carsinoma\nLumpectomy and node removal 10/10/07\nstage II\n1 node positive\nport 11/19/07\n1st chemo 11/26/07 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -687,9 +420,9 @@
         }
       },
       "MessageIndex": 0,
-      "PostDate": "14/12/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=993309",
-      "Title": "Are chemo symptoms the same every time?"
+      "PostDate": "28/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=981069",
+      "Title": "Started Chemo"
     },
     {
       "AuthorID": "Phillsgirl",
@@ -739,8 +472,38 @@
     },
     {
       "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953194&p=55265",
-      "Content": " I don't know if this is normal, but I can't stop thinking that I have cancer. I had a lumpectomy 2 1/2 weeks ago and the doc says right now the cancer is out but I am soo afraid it is somewhere else. I'm afraid to think it is gone so as to not be disappointed if it isn't. I still have all the treatments to do and that scares the hell out of me. I try to joke about\n being bald and drawing on my eyebrows but, inside it is killing me. I know that sounds vane but I don't go to the corner store without makeup and now I am facing no hair, eyebrows, or eyelashes. I know I am glad that there are good treatments to make me survive and I guess this is showing me what is really important in life, but I am still so scared. Family and friends just don't get it. I'm so glad I can sound off when I feel this way. Just being able to share with others who know makes such a difference. ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=985388&p=55265",
+      "Content": " Hi,\nI started my chemo on Nov. 26th. Had no idea what was going to be like. Heard all these horror stories. And I'm sorry if some women go through it but I went thru it fairly good. I did get nauseous on days 3 and 4 but the meds helped alot. No throwing up. Days 5 and 6 started with dizziness and head pain. Went to the docs, they said it was stress, no kidding!!! My mom got in a real bad car accident on that day and I was worried sick. She's 83 and had 4 broken ribs, broken wrist, small bleed in her head and possible both her feet are fractured or something, they still don't know because they want her to stand on them to get better x-rays. She can't, too painful. I guess that was enough stress to handle on top of the chemo. I am taking ativan for that and I feel great now. Back to my old self again. Hope you get thru This as I did. Let us know. My prayers are with you.\nCarol from Rochester, NY ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> She's 83 and had 4 broken ribs",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 83
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "08/12/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=985388",
+      "Title": "Red Devil Chemo"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=993309&p=55265",
+      "Content": " Hi ladies,\nI'm about\n to get my second treatment and I am hoping the symptoms for me are the same as they were last time. Can anyone let me know. I'm getting all nervous again. I'd appreciate any input. Thanks\nCarol from NY ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -757,9 +520,9 @@
         }
       },
       "MessageIndex": 0,
-      "PostDate": "28/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=953194",
-      "Title": "First thing when i wake up is think about CANCER"
+      "PostDate": "14/12/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=993309",
+      "Title": "Are chemo symptoms the same every time?"
     },
     {
       "AuthorID": "Phillsgirl",
@@ -787,28 +550,114 @@
     },
     {
       "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=952397&p=55265",
-      "Content": " Thanks for the info. I am exercising but the underside of my arm burns like the worst sunburn you could get. Everything else seems to be healing amazingly well. By the way my surgeon made my lumpectomy breast look twenty years younger than my old breast. Who would of thought. ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=993309&p=55265",
+      "Content": " Thanks Lori,\n I have heard that it's basically the same but wasn't sure. I was nauseous day three and four but really didn't have too many other symptoms. And the meds worked pretty good with the nausea. Hope it works the same with Christmas and all. I get it on the 18th. Thanks again and have a great holiday\nCarol ",
       "Demographics": {
         "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "14/12/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=993309",
+      "Title": "Are chemo symptoms the same every time?"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953194&p=55265",
+      "Content": " I don't know if this is normal, but I can't stop thinking that I have cancer. I had a lumpectomy 2 1/2 weeks ago and the doc says right now the cancer is out but I am soo afraid it is somewhere else. I'm afraid to think it is gone so as to not be disappointed if it isn't. I still have all the treatments to do and that scares the hell out of me. I try to joke about\n being bald and drawing on my eyebrows but, inside it is killing me. I know that sounds vane but I don't go to the corner store without makeup and now I am facing no hair, eyebrows, or eyelashes. I know I am glad that there are good treatments to make me survive and I guess this is showing me what is really important in life, but I am still so scared. Family and friends just don't get it. I'm so glad I can sound off when I feel this way. Just being able to share with others who know makes such a difference. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=953194",
+      "Title": "First thing when i wake up is think about CANCER"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=972422&p=55265",
+      "Content": " Ang, \nI'm glad they took it out but I'm sorry you went through so much pain. I love the way they say it shouldn't hurt. Unless they have had it, they just don't know. Scars heal and you should be ok. When you are healed good try some mederma on it to make it look better. It takes time but I hear it really works. I started using on my new scars. good luck and keep in touch.\nCarol ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "28/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=972422",
+      "Title": "Does anyone here have an implanted Port??"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=972422&p=55265",
+      "Content": " Ang, Just read about\n your trouble with the port. I too have a port. It was just put in 8 days ago. Everything went ok with that but yesterday I had my first session with chemo. It took 3 peope to try and get the needle in. All that poking and probing. I was crying like a baby. They said it shouldn't hurt like that, but what else could they say. I dread going back but I have to. As for scars, I had back surgery 7 years ago and they cut me 7 inches on my stomach and my back. The back scar is great but my stomach scar is an inch wide and 7 inches long. Now I have a large scar on my left breast and under my are from a lumpectomy. not to mention the scar on my right chest from the port. I look like I was hit by a truck. As long as I can live until my children and grandchild grows up it will all be worth it. I am only 44 years old and I have alot of living to do. My youngest is 15 years old. I hope everything goes better for you. Just keep on fighting someday you will be able to put this all behind you. Lots of hugs.\n Carol from Rochester, NY ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> I am only 44 years old and I have",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 44
+          },
+          {
+            "Confidence": 0.9,
+            "Phrase": "<Z> <Z> My youngest is 15 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 15
+          }
+        ],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": ["breast"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "HealthProfessional": "surgeon",
-            "MainSubject": "surgeon",
-            "NarrationType": "unknown",
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "29/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=952397",
-      "Title": "Two weeks after lumpectomy, still very sore is this normal"
+      "MessageIndex": 5,
+      "PostDate": "27/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=972422",
+      "Title": "Does anyone here have an implanted Port??"
     },
     {
       "AuthorID": "Phillsgirl",
@@ -842,30 +691,6 @@
     },
     {
       "AuthorID": "Phillsgirl",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=972422&p=55265",
-      "Content": " Ang, \nI'm glad they took it out but I'm sorry you went through so much pain. I love the way they say it shouldn't hurt. Unless they have had it, they just don't know. Scars heal and you should be ok. When you are healed good try some mederma on it to make it look better. It takes time but I hear it really works. I started using on my new scars. good luck and keep in touch.\nCarol ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "28/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=972422",
-      "Title": "Does anyone here have an implanted Port??"
-    },
-    {
-      "AuthorID": "Phillsgirl",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953194&p=55265",
       "Content": " Thanks so much. Sometimes a hug is all I need. \n ",
       "Demographics": {
@@ -890,6 +715,29 @@
     },
     {
       "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1071476&p=55265",
+      "Content": " Hi ladies,\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/03/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1071476",
+      "Title": "? about radiation"
+    },
+    {
+      "AuthorID": "Phillsgirl",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=986658&p=55265",
       "Content": " Well, the first chemo was pretty scary. Did't know what to expect. Went well though. Got nauseous a couple days later but it was bearable. I had some strange head aches and dizziness, like I was going to faint. Went to the docs. They put me on attivan for stress. It seams to be working. Any suggestions how to get through the stress of it all? Carol from NY ",
       "Demographics": {
@@ -911,6 +759,30 @@
       "PostDate": "05/12/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=986658",
       "Title": "First Chemo"
+    },
+    {
+      "AuthorID": "Phillsgirl",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953182&p=55265",
+      "Content": " I have known for about\n a month that I have or should I say HAD breast cancer, had a lumpectomy 2 1/2 weeks ago. All I do is think about\n cancer and try to read and understand everything about\n it. Sometimes it takes over and I find that it all I've done all day. I'm sooo scared and cry alot. I sread the treatments and getting sick and losing my hair and everything. Family and friends just can't understand. Thanks for all you who can understand ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "28/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=953182",
+      "Title": "I just can't think of anything but Cancer"
     },
     {
       "AuthorID": "Phillsgirl",
@@ -955,6 +827,11 @@
     "SideEffectType": ["Bleeding"],
     "SideEffectTypeKeywords": ["bleed"]
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -995,39 +872,24 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "alone",
-        "understanding",
-        "scared",
-        "crying",
-        "important",
-        "glad",
-        "disappointed",
-        "scared",
-        "thoughtful",
-        "great",
-        "pained",
-        "pained",
-        "nervous",
-        "sure"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0.375",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0.125",
-        "GOOD": "0",
-        "HAPPY": "0.375",
-        "HELPLESS": "0.125",
-        "HURT": "0.125",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.125",
-        "LOVE": "0",
-        "OPEN": "0.125",
-        "POSITIVE": "0",
-        "SAD": "0.25",
-        "STRONG": "0.125"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
@@ -1035,28 +897,24 @@
       "SideEffectTypeKeywords": []
     },
     "-2 Month Emotions": {
-      "EmotionKeywords": [
-        "pained",
-        "pained",
-        "dread"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0.5",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0.5",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0.5",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-2 Month SideEffects": {
@@ -1215,6 +1073,79 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
+        "pained",
+        "pained",
+        "dread",
+        "alone",
+        "important",
+        "glad",
+        "disappointed",
+        "scared",
+        "understanding",
+        "scared",
+        "crying",
+        "thoughtful",
+        "great",
+        "pained",
+        "pained",
+        "nervous",
+        "sure"
+      ],
+      "Emotions": {
+        "AFRAID": "0.4",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.1",
+        "GOOD": "0",
+        "HAPPY": "0.3",
+        "HELPLESS": "0.1",
+        "HURT": "0.2",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.1",
+        "LOVE": "0",
+        "OPEN": "0.1",
+        "POSITIVE": "0",
+        "SAD": "0.3",
+        "STRONG": "0.1"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [
+        "great",
+        "loving",
+        "loved",
+        "concerned",
+        "willing",
         "great",
         "ok",
         "hopeful",
@@ -1222,11 +1153,6 @@
         "dread",
         "crying",
         "hurtful",
-        "great",
-        "loving",
-        "loved",
-        "concerned",
-        "willing",
         "easy",
         "glad",
         "comfortable",
@@ -1268,11 +1194,11 @@
         "worried",
         "pained",
         "pained",
+        "hopeful",
+        "nervous",
         "great",
         "hopeful",
-        "sure",
-        "hopeful",
-        "nervous"
+        "sure"
       ],
       "Emotions": {
         "AFRAID": "0.333",
@@ -1293,59 +1219,9 @@
         "STRONG": "0.25"
       }
     },
-    "1st Month SideEffects": {
+    "2nd Month SideEffects": {
       "SideEffectType": ["Bleeding"],
       "SideEffectTypeKeywords": ["bleed"]
-    },
-    "24th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "24th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "2nd Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "2nd Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
     },
     "3rd Month Emotions": {
       "EmotionKeywords": [],
@@ -1375,31 +1251,6 @@
     "4th Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "4th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "5th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
         "AFRAID": 0,
         "ALIVE": 0,
         "ANGRY": 0,
@@ -1416,6 +1267,31 @@
         "POSITIVE": 0,
         "SAD": 0,
         "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
       }
     },
     "5th Month SideEffects": {
@@ -1448,6 +1324,31 @@
       "SideEffectTypeKeywords": []
     },
     "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
       "EmotionKeywords": [
         "sure",
         "alone"
@@ -1471,11 +1372,11 @@
         "STRONG": "1"
       }
     },
-    "7th Month SideEffects": {
+    "8th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "8th Month Emotions": {
+    "9th Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
         "AFRAID": "0",
@@ -1494,31 +1395,6 @@
         "POSITIVE": "0",
         "SAD": "0",
         "STRONG": "0"
-      }
-    },
-    "8th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "9th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
       }
     },
     "9th Month SideEffects": {

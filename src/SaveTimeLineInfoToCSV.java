@@ -239,7 +239,7 @@ public class SaveTimeLineInfoToCSV {
                     values.add("NA");
                 }
             }
-            if (info.has("Verified") && info.getInt("Verified") == 1) {
+            if (info != null) {
                 String emotionsName = timelineKey + " Emotions";
                 // surgery
                 if(timelineType.equalsIgnoreCase("surgery") && doc.has("SurgeryTimeLineInfo")){

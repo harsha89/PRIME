@@ -10,16 +10,16 @@
       "supportive",
       "thoughtful",
       "scared",
+      "hopeful",
+      "upset",
+      "upset",
+      "pained",
+      "pained",
+      "nervous",
       "glad",
       "supportive",
       "hopeful",
-      "alone",
-      "hopeful",
-      "upset",
-      "upset",
-      "pained",
-      "pained",
-      "nervous"
+      "alone"
     ],
     "Emotions": {
       "AFRAID": "0.4",
@@ -44,134 +44,6 @@
   "NExperiencePosts": 5,
   "NPosts": 6,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 5,
-      "NTotal": 6,
-      "PAdvice": 0.16666666666666666,
-      "PExperience": 0.8333333333333334
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "lenie",
@@ -229,52 +101,6 @@
     },
     {
       "AuthorID": "lenie",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1243899&p=59117",
-      "Content": " Thanks for the support and positive thoughts. Just knowing that there's someone out there that has gone through this and knows how you feel, makes one feel better. Thanks so much. Arlene\nMeds:  Asacol 2 tablets 3x a day\n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "18/09/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1243899",
-      "Title": "New here & scared"
-    },
-    {
-      "AuthorID": "lenie",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1243899&p=59117",
-      "Content": " Good New!!!! I just got results of biopsies. NO CANCER. Thank you so much for your support and prayers. \nprof- I see we take alot of the same medicines. How are you doing with the Crohn's disease. I've been on so many meds trying to get this under control. The Imuran alone didn't do it. So the doctor, just last week, suggested going on the one entocort a day. So far so good. I'm glad you're finished with radiation. I went through that and was so happy when it was over. Hope you're having good days.\nMeds:  Asacol 2 tablets 3x a day\n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "23/09/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1243899",
-      "Title": "New here & scared"
-    },
-    {
-      "AuthorID": "lenie",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1254178&p=59117",
       "Content": " Doc didn't think it was shingles because there is no rash. The pain is severe. I was taking darvocet and he switched me to percocet. Has me feeling real loopy and fuzzy. Don't like this feeling. I really think that when they did the biopsies they hit a nerve. Hope this doesn't take too long to heal. The med is making me want to vomit. Has my stomach upset.\nMeds:  Asacol 2 tablets 3x a day\n \n \n \n \n \n \n ",
       "Demographics": {
@@ -320,6 +146,52 @@
       "PostDate": "18/09/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1243899",
       "Title": "New here & scared"
+    },
+    {
+      "AuthorID": "lenie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1243899&p=59117",
+      "Content": " Thanks for the support and positive thoughts. Just knowing that there's someone out there that has gone through this and knows how you feel, makes one feel better. Thanks so much. Arlene\nMeds:  Asacol 2 tablets 3x a day\n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1243899",
+      "Title": "New here & scared"
+    },
+    {
+      "AuthorID": "lenie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1243899&p=59117",
+      "Content": " Good New!!!! I just got results of biopsies. NO CANCER. Thank you so much for your support and prayers. \nprof- I see we take alot of the same medicines. How are you doing with the Crohn's disease. I've been on so many meds trying to get this under control. The Imuran alone didn't do it. So the doctor, just last week, suggested going on the one entocort a day. So far so good. I'm glad you're finished with radiation. I went through that and was so happy when it was over. Hope you're having good days.\nMeds:  Asacol 2 tablets 3x a day\n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "23/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1243899",
+      "Title": "New here & scared"
     }
   ],
   "ProfileDemographics": {
@@ -338,6 +210,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -584,9 +461,9 @@
         "supportive",
         "thoughtful",
         "scared",
+        "nervous",
         "supportive",
         "thoughtful",
-        "nervous",
         "glad",
         "supportive",
         "hopeful",

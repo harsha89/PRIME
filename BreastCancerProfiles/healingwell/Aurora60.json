@@ -13,13 +13,13 @@
       "pained",
       "wonderful",
       "lost",
+      "kind",
+      "fortunate",
+      "terrible",
       "peaceful",
       "hopeful",
       "willing",
       "hurtful",
-      "kind",
-      "fortunate",
-      "terrible",
       "hopeful"
     ],
     "Emotions": {
@@ -45,134 +45,6 @@
   "NExperiencePosts": 9,
   "NPosts": 10,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 2,
-      "NTotal": 3,
-      "PAdvice": 0.3333333333333333,
-      "PExperience": 0.6666666666666666
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "Aurora60",
@@ -315,6 +187,33 @@
     },
     {
       "AuthorID": "Aurora60",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=820505&p=34742",
+      "Content": " I was diagnosed 12/05 with breast cancer - tumor was snall and nothng in the lymphnodes. I know I am very fortunate.  I had two surgeries because the first one did not get all the cells at the margin.  I had 33 radiation treatments and my breast shrunk from the radiation so I am kind of lopsided.  Has this happened to anyone else?  Also, I am on a drug called Arimidex and I have to take it for 5 years - have taken it 2 years already.  The only side effect I have from it is that I get terrible hot flashes.  I don't want to stop taking it because it cuts my risk of recurrence so low.  Anyone take this medication and if so do you get hot flashes?  My oncologist said to take Vitamin E.  Also some people take black cohosh which I tried and it did work but then I heard on the news it can cause liver damage so I stopped it.  Would appreciate any suggestions. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hot flashes",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "27/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=820505",
+      "Title": "Radiation therapy following lumpectomy"
+    },
+    {
+      "AuthorID": "Aurora60",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=840533&p=34742",
       "Content": " Not being a Dr. I can't say what the lump is but cancerous lumps usually do not hurt.  They are hard and don't move around.  It could be a cyst that moves and hurts her.  This happened to me in 1997. I went to the Dr. and it turned out to be nothing.  I was diagnosed with breast cancer in 2005 from a routine mammogram.  I had a biopsy which showed is was invasive ductile carcinoma and I had surgery and radiation, two sentinel lymph nodes removed but not cancerous.  I am on an anti cancer drug for five years.  The worst thing to do is not see a Dr. as you never know what it could be.  I hope your friend will make the appt. and have some peace of mind. It is better to be safe and go for tests than let something go and have it become a big problem.  I hope I have helped some.  By the way,  my Oncologist says I am curable so early detection is the best. ",
       "Demographics": {
@@ -365,33 +264,6 @@
     },
     {
       "AuthorID": "Aurora60",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=820505&p=34742",
-      "Content": " I was diagnosed 12/05 with breast cancer - tumor was snall and nothng in the lymphnodes. I know I am very fortunate.  I had two surgeries because the first one did not get all the cells at the margin.  I had 33 radiation treatments and my breast shrunk from the radiation so I am kind of lopsided.  Has this happened to anyone else?  Also, I am on a drug called Arimidex and I have to take it for 5 years - have taken it 2 years already.  The only side effect I have from it is that I get terrible hot flashes.  I don't want to stop taking it because it cuts my risk of recurrence so low.  Anyone take this medication and if so do you get hot flashes?  My oncologist said to take Vitamin E.  Also some people take black cohosh which I tried and it did work but then I heard on the news it can cause liver damage so I stopped it.  Would appreciate any suggestions. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "hot flashes",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "27/05/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=820505",
-      "Title": "Radiation therapy following lumpectomy"
-    },
-    {
-      "AuthorID": "Aurora60",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=860281&p=34742",
       "Content": " Hi,  I have been on Armidex for 2 1/2 years and have not had any weight gain.  This was not mentioned in all my literature that I received before taking the drug as a side effect.  In fact the worst symtom I have is hot flashes because the Armidex blocks all estrogen to your body.  After being out of menopause for at least six years it was hard to be put back into the hot flashes.  I take remeron which helps control them somewhat but not completely.  I sleep with 2 fans and a window air conditioner as well as central air.  But knowing I am cutting my recurrence rate in half makes it worth taking the drug.  I have to take it for 5 yrs.  I think you should talk to your Dr. about\n the weight gain as a possible side effect. I hope this info helps you. ",
       "Demographics": {
@@ -435,6 +307,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

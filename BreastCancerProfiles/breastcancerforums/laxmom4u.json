@@ -1,13 +1,13 @@
 {
   "AuthorID": "laxmom4u",
-  "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=1ec90e7f6033e3217d9b5cc701390411",
   "EmotionInfo": {
     "EmotionKeywords": [
+      "pleased",
+      "sure",
       "wonderful",
       "ok",
-      "worried",
-      "pleased",
-      "sure"
+      "worried"
     ],
     "Emotions": {
       "AFRAID": "0.5",
@@ -32,138 +32,40 @@
   "NExperiencePosts": 2,
   "NPosts": 3,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 2,
-      "NTotal": 3,
-      "PAdvice": 0.3333333333333333,
-      "PExperience": 0.6666666666666666
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "laxmom4u",
-      "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Just got my biopsy results back, positive for breast cancer. I see my surgeon on Monday. Not sure how far it has gone or any details but they wanted me in today asap, I said I needed the weekend to process. I feel like I am living in a dream or actually a nightmare. I know I need to be strong but I just keep feeling an array of emotions. Keep thinking what I could of done to cause this. It only in my right breast with cancer but my left breast has the cyst, leaking and adh my right one did 4 years ago. So if one goes I think they both should go because it is always a problem when I go for a mammo, dense breast cyst ect ect. I am only 47, please if anyone out there has a some insight please enlighten me. Thanks",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> I am only 47  please if anyone out there",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 47
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "07/02/2015",
+      "ThreadURL": "https://www.cancerforums.net/threads/42739-Another-stereotactic-biopsy-on-Feb-3?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Another stereotactic biopsy on Feb. 3"
+    },
+    {
+      "AuthorID": "laxmom4u",
+      "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Thanks, I will find out soon. The waiting is the worst because you have no idea what your in for.: I have no experience with Breast Cancer, but also wanted you to know that people do read and respond to posts. Kermica's post says it all. Hope all turns out for the best. You seem to be on top of things. The waiting is always the worst. So, hang in there and follow up with the forum. Let folks know what you find out. d[/QUOTE]",
       "Demographics": {
         "AgeInfo": [],
@@ -180,12 +82,12 @@
       },
       "MessageIndex": 3,
       "PostDate": "04/02/2015",
-      "ThreadURL": "https://www.cancerforums.net/threads/42739-Another-stereotactic-biopsy-on-Feb-3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/42739-Another-stereotactic-biopsy-on-Feb-3?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Another stereotactic biopsy on Feb. 3"
     },
     {
       "AuthorID": "laxmom4u",
-      "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Ok had my first breast surgery at 16 it was a fibroidandenoma. No biggie and I was ok until 4 years ago , when my wonderful dense breast showed micro calcifications in the same breast, well that was a ductal hyperplasia , another surgery but again no biggie. Just had to go for 6month mammo check ups. Well my recent mammo showed much more microcalcifications. Now going for biopsy on Wed. I'm 47, 5 3 and 115 lbs never smoked, have 4 children I breast fed and had between the ages of 25-33 and my mother and her sister have no issues. The only family history I have is my dad's sister had it at 50 and my grandmothers sister died from it at 48. I am very worried this time. This time calcifications are clustered in two different spots. I'm trying not to think about it but the waiting game is killing me. Anyone have a similar experience ?",
       "Demographics": {
         "AgeInfo": [
@@ -226,37 +128,7 @@
       },
       "MessageIndex": 0,
       "PostDate": "30/01/2015",
-      "ThreadURL": "https://www.cancerforums.net/threads/42739-Another-stereotactic-biopsy-on-Feb-3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Another stereotactic biopsy on Feb. 3"
-    },
-    {
-      "AuthorID": "laxmom4u",
-      "AuthorURL": "https://www.cancerforums.net/members/114497-laxmom4u?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Just got my biopsy results back, positive for breast cancer. I see my surgeon on Monday. Not sure how far it has gone or any details but they wanted me in today asap, I said I needed the weekend to process. I feel like I am living in a dream or actually a nightmare. I know I need to be strong but I just keep feeling an array of emotions. Keep thinking what I could of done to cause this. It only in my right breast with cancer but my left breast has the cyst, leaking and adh my right one did 4 years ago. So if one goes I think they both should go because it is always a problem when I go for a mammo, dense breast cyst ect ect. I am only 47, please if anyone out there has a some insight please enlighten me. Thanks",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> I am only 47  please if anyone out there",
-          "Relation": "unknown",
-          "Tense": "present",
-          "Value": 47
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "07/02/2015",
-      "ThreadURL": "https://www.cancerforums.net/threads/42739-Another-stereotactic-biopsy-on-Feb-3?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/42739-Another-stereotactic-biopsy-on-Feb-3?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Another stereotactic biopsy on Feb. 3"
     }
   ],
@@ -277,6 +149,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

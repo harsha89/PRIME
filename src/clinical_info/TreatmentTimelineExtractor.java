@@ -196,14 +196,16 @@ public class TreatmentTimelineExtractor {
         }
 
         // get timeline emotions and side effects
-        if(post != null) {
-            String dateOfTreatment = treatmentTimelineInfo.getString("DateOfTreatment");
-            Map<String,List<JSONObject>> timelineBinnedPosts = TimelineInfo.getTimeLineBinnedPosts(posts,dateOfTreatment);
-            for(Map.Entry<String,List<JSONObject>> entry: timelineBinnedPosts.entrySet()){
-                    addTimelineSurgeryEmotionInfo(entry.getValue(),entry.getKey(), treatmentTimelineInfo);
-                    addTimelineSurgerySideEffectsInfo(profile,  entry.getValue(),entry.getKey(), treatmentTimelineInfo);
-                          }
-            profile.put("TreatmentTimelineInfo", treatmentTimelineInfo);
+        if(posts != null) {
+            if (sortedPosts.size() > 0) {
+                String dateOfTreatment = sortedPosts.get(0).get("PostDate").toString();
+                Map<String, List<JSONObject>> timelineBinnedPosts = TimelineInfo.getTimeLineBinnedPosts(posts, dateOfTreatment);
+                for (Map.Entry<String, List<JSONObject>> entry : timelineBinnedPosts.entrySet()) {
+                    addTimelineSurgeryEmotionInfo(entry.getValue(), entry.getKey(), treatmentTimelineInfo);
+                    addTimelineSurgerySideEffectsInfo(profile, entry.getValue(), entry.getKey(), treatmentTimelineInfo);
+                }
+                profile.put("TreatmentTimelineInfo", treatmentTimelineInfo);
+            }
         }
     }
 

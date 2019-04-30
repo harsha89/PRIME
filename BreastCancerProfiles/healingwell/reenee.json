@@ -14,11 +14,6 @@
       "hurtful",
       "great",
       "great news",
-      "kind",
-      "loving",
-      "loved",
-      "concerned",
-      "decisive",
       "hopeful",
       "willing",
       "important",
@@ -31,6 +26,11 @@
       "bad",
       "tearful",
       "crying",
+      "kind",
+      "loving",
+      "loved",
+      "concerned",
+      "decisive",
       "accepting",
       "kind",
       "at ease",
@@ -72,134 +72,6 @@
   "NExperiencePosts": 10,
   "NPosts": 10,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 6,
-      "NTotal": 6,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    }
-  },
   "Posts": [
     {
       "AuthorID": "reenee",
@@ -252,30 +124,6 @@
     {
       "AuthorID": "reenee",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=370833&p=19593",
-      "Content": " Thanks for all the kind replies. Would it be possible radiologist was able to tell, and then say sometimes lymph nodes enlarge and there is no problem. He spent a very long time looking for other signs and symptoms? \nIs there a blood test to tell if a person has cancer?\nCan they biopsy a node?\nI really am tossing idea of just getting breast off, no simple decision. \nI have had one mastectomy, know what it involves. Regretting not having it done when I had last surgery. I know I do not have the type of cancer that mirrors itself in other breast. \nOne of the dr.s mentioned a P E T SCAN However that was never mentioned again. \nDoes the surgeon or the oncologist usually call the shots with treatment. \nThanks all for your suggestions love and concern\nreenee ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "01/12/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=370833",
-      "Title": "Emotions-Another lump?-Dr's Reaction"
-    },
-    {
-      "AuthorID": "reenee",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=370833&p=19593",
       "Content": " Yes I am going to seek another opinion, I have an opinion with our Dr. on Monday. They are faxing all paperwork to him. We are going to have him look at all reports and follow his instructions, or advice. Hoping it will be news that will bring some relief. I know the mammogram done the previouos year showed slight enlargement in node from previous reading. \nBe Well \nReenee ",
       "Demographics": {
         "AgeInfo": [],
@@ -318,6 +166,30 @@
       },
       "MessageIndex": 7,
       "PostDate": "03/12/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=370833",
+      "Title": "Emotions-Another lump?-Dr's Reaction"
+    },
+    {
+      "AuthorID": "reenee",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=370833&p=19593",
+      "Content": " Thanks for all the kind replies. Would it be possible radiologist was able to tell, and then say sometimes lymph nodes enlarge and there is no problem. He spent a very long time looking for other signs and symptoms? \nIs there a blood test to tell if a person has cancer?\nCan they biopsy a node?\nI really am tossing idea of just getting breast off, no simple decision. \nI have had one mastectomy, know what it involves. Regretting not having it done when I had last surgery. I know I do not have the type of cancer that mirrors itself in other breast. \nOne of the dr.s mentioned a P E T SCAN However that was never mentioned again. \nDoes the surgeon or the oncologist usually call the shots with treatment. \nThanks all for your suggestions love and concern\nreenee ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "01/12/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=370833",
       "Title": "Emotions-Another lump?-Dr's Reaction"
     },
@@ -458,6 +330,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

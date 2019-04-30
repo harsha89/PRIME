@@ -10,12 +10,12 @@
       "worried",
       "pained",
       "pained",
+      "hopeful",
       "kind",
       "lucky",
       "concerned",
       "hopeful",
       "terrible",
-      "hopeful",
       "kind",
       "lucky",
       "thoughtful",
@@ -58,134 +58,6 @@
   "NExperiencePosts": 10,
   "NPosts": 17,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 3,
-      "NTotal": 7,
-      "PAdvice": 0.5714285714285714,
-      "PExperience": 0.42857142857142855
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 2,
-      "NTotal": 4,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 3,
-      "NTotal": 4,
-      "PAdvice": 0.25,
-      "PExperience": 0.75
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "harrington49",
@@ -208,28 +80,6 @@
       "PostDate": "17/07/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1851785",
       "Title": "Needle biopsy"
-    },
-    {
-      "AuthorID": "harrington49",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1779874&p=101628",
-      "Content": " Hi Bev\nCongrats on your 30 years of wedded bliss! Pleased to hear your hubby is doing well and you are both celebrating.\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "01/06/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1779874",
-      "Title": "A bit of clutter..."
     },
     {
       "AuthorID": "harrington49",
@@ -258,12 +108,12 @@
     {
       "AuthorID": "harrington49",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1861765&p=101628",
-      "Content": " Hi Jo\nSorry, when I read my post again, I meant to say left mastectomy, just put it down to old age I guess. lol.\n \n ",
+      "Content": " Hi Jo\nI am also in Australia. In 2000 I had a lump, had the biopsy and it was cancerous, I had a left mammogram but did not need to have radiation or chemo because they had got all of the residual cancer and also took the lymph nodes under the arm. The surgeon told me the lump had been there for 6 years but luckily for me it had not travelled. I have not had any further problems and have just reached my 10 year anniversay.\nI wish your mother all the best and I agree with her not to make her mind up yet and don't be bullied into it. Take the advice of the surgeon and be guided by what he says.\nI hope your mother has a speedy recovery.\n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": ["mammogram"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -274,15 +124,15 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "02/08/2010",
+      "MessageIndex": 5,
+      "PostDate": "31/07/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1861765",
       "Title": "Loop incision surgery and radiation therapy"
     },
     {
       "AuthorID": "harrington49",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1862265&p=101628",
-      "Content": " Dear GMA\nMy deepest sympathy to you and Carolyn's family. \nMay God bless you.\n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1828761&p=101628",
+      "Content": " Hi Lori\nI too am sorry for both you and your mother, how your lives have been turned upside down again by this insidious disease. I agree with Bev and of course you do as well that you should do whatever your mother wants, cook whatever she feels like and yes give her the treats she craves. I think quality of life is far more important.\nI think you are a wonderful daughter for caring so much about\n your mother and I am sure she appreciates it every day even if she doesn't show it or tell you. Good luck to both of you and you are both in my prayers. \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -296,34 +146,32 @@
           }
         }
       },
-      "MessageIndex": 5,
-      "PostDate": "31/07/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1862265",
-      "Title": "My daughter Carolyn"
+      "MessageIndex": 4,
+      "PostDate": "20/06/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1828761",
+      "Title": "Stage IV Breast Cancer"
     },
     {
       "AuthorID": "harrington49",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1805914&p=101628",
-      "Content": " Hi Alcie\nI am sorry you had to go through the radiation, I can only imagine how terrible it must have been. Good on you for being fanatical (although I don't think you are), where your health is concerned, if you're not fanatical about\n it then no-one else is either.\nPersonally, I was one of the lucky ones who did not need radiation or chemo afterwards as my cancer had not travelled but the lump had been in my breast for 6 years so I was told, however they did take my lymph nodes under the arm but like I said I am one of the more lucky ones and I thank God everyday for that. On Thursday this week, I am going for my 10 year examination - I can hardly believe it has been that long as I still remember the day the doctor found it.\nI hope you stay well Alcie and keep being fanatical.\nKind regards\nJocelyn\n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1779874&p=101628",
+      "Content": " Hi Bev\nCongrats on your 30 years of wedded bliss! Pleased to hear your hubby is doing well and you are both celebrating.\n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
       "MessageIndex": 3,
-      "PostDate": "22/05/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1805914",
-      "Title": "CNN: No radiation after surgery OK for some patients."
+      "PostDate": "01/06/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1779874",
+      "Title": "A bit of clutter..."
     },
     {
       "AuthorID": "harrington49",
@@ -349,13 +197,13 @@
     },
     {
       "AuthorID": "harrington49",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1861765&p=101628",
-      "Content": " Hi Jo\nI am also in Australia. In 2000 I had a lump, had the biopsy and it was cancerous, I had a left mammogram but did not need to have radiation or chemo because they had got all of the residual cancer and also took the lymph nodes under the arm. The surgeon told me the lump had been there for 6 years but luckily for me it had not travelled. I have not had any further problems and have just reached my 10 year anniversay.\nI wish your mother all the best and I agree with her not to make her mind up yet and don't be bullied into it. Take the advice of the surgeon and be guided by what he says.\nI hope your mother has a speedy recovery.\n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1805914&p=101628",
+      "Content": " Hi Alcie\nI am sorry you had to go through the radiation, I can only imagine how terrible it must have been. Good on you for being fanatical (although I don't think you are), where your health is concerned, if you're not fanatical about\n it then no-one else is either.\nPersonally, I was one of the lucky ones who did not need radiation or chemo afterwards as my cancer had not travelled but the lump had been in my breast for 6 years so I was told, however they did take my lymph nodes under the arm but like I said I am one of the more lucky ones and I thank God everyday for that. On Thursday this week, I am going for my 10 year examination - I can hardly believe it has been that long as I still remember the day the doctor found it.\nI hope you stay well Alcie and keep being fanatical.\nKind regards\nJocelyn\n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
+            "FemaleMedicalTerms": ["breast"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -366,10 +214,10 @@
           }
         }
       },
-      "MessageIndex": 5,
-      "PostDate": "31/07/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1861765",
-      "Title": "Loop incision surgery and radiation therapy"
+      "MessageIndex": 3,
+      "PostDate": "22/05/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1805914",
+      "Title": "CNN: No radiation after surgery OK for some patients."
     },
     {
       "AuthorID": "harrington49",
@@ -445,6 +293,30 @@
     },
     {
       "AuthorID": "harrington49",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1861765&p=101628",
+      "Content": " Hi Jo\nSorry, when I read my post again, I meant to say left mastectomy, just put it down to old age I guess. lol.\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "02/08/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1861765",
+      "Title": "Loop incision surgery and radiation therapy"
+    },
+    {
+      "AuthorID": "harrington49",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1824303&p=101628",
       "Content": " Hi Roobles\nI think it is probably the mammogram that has made your breast sore as that sometimes happens to me also. I know it is very concerning and worrying to be sent to the surgeon but it doesn't mean the worst. He will explain what they have found in laymans terms so you understand, and ask him as many questions as you can. It is a good idea to write down some questions before you go because when you get in there, if you are anything like me you will forget everything that was in your head.\nTry not to worry too much, my thoughts and prayers are with you. After the surgeon's visit make sure you post to let us know how you got on. I'll be thinking of you. \n ",
       "Demographics": {
@@ -470,6 +342,28 @@
     },
     {
       "AuthorID": "harrington49",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1862265&p=101628",
+      "Content": " Dear GMA\nMy deepest sympathy to you and Carolyn's family. \nMay God bless you.\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "31/07/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1862265",
+      "Title": "My daughter Carolyn"
+    },
+    {
+      "AuthorID": "harrington49",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1806948&p=101628",
       "Content": " Hi Warmheart\nHow did you go with the call back? I hope it wasn't bad news.\nThis is a great site for support so please keep posting and let us know how you are going?\n ",
       "Demographics": {
@@ -489,28 +383,6 @@
       "PostDate": "24/05/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1806948",
       "Title": "Call Back for 2nd mamogram"
-    },
-    {
-      "AuthorID": "harrington49",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1828761&p=101628",
-      "Content": " Hi Lori\nI too am sorry for both you and your mother, how your lives have been turned upside down again by this insidious disease. I agree with Bev and of course you do as well that you should do whatever your mother wants, cook whatever she feels like and yes give her the treats she craves. I think quality of life is far more important.\nI think you are a wonderful daughter for caring so much about\n your mother and I am sure she appreciates it every day even if she doesn't show it or tell you. Good luck to both of you and you are both in my prayers. \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "20/06/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1828761",
-      "Title": "Stage IV Breast Cancer"
     },
     {
       "AuthorID": "harrington49",
@@ -610,6 +482,11 @@
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -651,31 +528,24 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "tortured",
-        "kind",
-        "lucky",
-        "loving",
-        "loved",
-        "lost"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0.5",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0.5",
-        "HELPLESS": "0",
-        "HURT": "0.5",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "1",
-        "OPEN": "0.5",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
@@ -859,6 +729,12 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
+        "tortured",
+        "kind",
+        "lucky",
+        "loving",
+        "loved",
+        "lost",
         "kind",
         "lucky",
         "concerned",
@@ -876,36 +752,25 @@
         "wonderful",
         "blessed",
         "affected",
-        "excited",
-        "understanding",
-        "concerned",
-        "thoughtful",
-        "willing",
-        "sure",
-        "sore",
-        "worried",
-        "important",
-        "wonderful",
-        "caring",
-        "sure"
+        "excited"
       ],
       "Emotions": {
-        "AFRAID": "0.143",
-        "ALIVE": "0.286",
-        "ANGRY": "0.143",
-        "CONFUSED": "0",
+        "AFRAID": "0",
+        "ALIVE": "0.143",
+        "ANGRY": "0",
+        "CONFUSED": "0.143",
         "DEPRESSED": "0.286",
         "GOOD": "0.429",
         "HAPPY": "0.714",
         "HELPLESS": "0",
-        "HURT": "0",
+        "HURT": "0.143",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.571",
-        "LOVE": "0.286",
+        "INTERESTED": "0.286",
+        "LOVE": "0.429",
         "OPEN": "0.286",
-        "POSITIVE": "0.714",
+        "POSITIVE": "0.571",
         "SAD": "0",
-        "STRONG": "0.286"
+        "STRONG": "0"
       }
     },
     "1st Month SideEffects": {
@@ -939,9 +804,46 @@
     },
     "2nd Month Emotions": {
       "EmotionKeywords": [
+        "understanding",
+        "concerned",
+        "thoughtful",
+        "willing",
+        "sure",
+        "sore",
+        "worried",
+        "important",
+        "wonderful",
+        "caring",
+        "sure",
         "pleased",
         "hopeful",
-        "worried",
+        "worried"
+      ],
+      "Emotions": {
+        "AFRAID": "0.667",
+        "ALIVE": "0.333",
+        "ANGRY": "0.333",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.333",
+        "HAPPY": "0.333",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.667",
+        "LOVE": "0.333",
+        "OPEN": "0.333",
+        "POSITIVE": "0.667",
+        "SAD": "0",
+        "STRONG": "0.667"
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [
         "blessed",
         "concerned",
         "hopeful",
@@ -957,55 +859,29 @@
         "pained",
         "kind",
         "lucky",
-        "thoughtful"
-      ],
-      "Emotions": {
-        "AFRAID": "1",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0.25",
-        "GOOD": "0.5",
-        "HAPPY": "0.25",
-        "HELPLESS": "0",
-        "HURT": "0.5",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.75",
-        "LOVE": "0",
-        "OPEN": "0.25",
-        "POSITIVE": "1",
-        "SAD": "0.25",
-        "STRONG": "0"
-      }
-    },
-    "2nd Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "3rd Month Emotions": {
-      "EmotionKeywords": [
-        "blessed",
-        "sympathy",
+        "thoughtful",
         "hopeful",
         "kind",
-        "willing"
+        "willing",
+        "blessed",
+        "sympathy"
       ],
       "Emotions": {
-        "AFRAID": "0",
+        "AFRAID": "0.429",
         "ALIVE": "0",
         "ANGRY": "0",
         "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0.25",
-        "HAPPY": "0",
+        "DEPRESSED": "0.143",
+        "GOOD": "0.286",
+        "HAPPY": "0.143",
         "HELPLESS": "0",
-        "HURT": "0",
+        "HURT": "0.286",
         "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0.25",
-        "OPEN": "0.25",
-        "POSITIVE": "0.5",
-        "SAD": "0",
+        "INTERESTED": "0.429",
+        "LOVE": "0.143",
+        "OPEN": "0.286",
+        "POSITIVE": "0.714",
+        "SAD": "0.143",
         "STRONG": "0"
       }
     },

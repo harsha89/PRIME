@@ -76,7 +76,13 @@ public class Utils {
 
         while ((sLine = reader.readLine()) != null) sb.append(sLine);
         reader.close();
-        return new JSONObject(sb.toString());
+        try {
+            return new JSONObject(sb.toString());
+        } catch (JSONException e) {
+            System.out.println(file.getName());
+            e.printStackTrace();
+        }
+        return new JSONObject("{}");
     }
 
     public static List<String> getExperiencePostContent(JSONObject profile) throws JSONException {

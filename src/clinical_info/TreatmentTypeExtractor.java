@@ -46,6 +46,9 @@ public class TreatmentTypeExtractor {
     }
 
     public static boolean hasTreatmentTypeMentions(String key, String post) {
+            if (StringUtils.isEmpty(post) || treatmentTypes.get(key) == null) {
+                return false;
+            }
             List<String> surgeryTypeKeywordList = getTreatmentTypeKeywords(treatmentTypes.get(key), post);
             if (!surgeryTypeKeywordList.isEmpty()) {
                 return true;

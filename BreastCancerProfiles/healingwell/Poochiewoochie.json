@@ -5,6 +5,7 @@
     "EmotionKeywords": [
       "kind",
       "peaceful",
+      "worried",
       "free",
       "free",
       "nice",
@@ -18,11 +19,10 @@
       "annoyed",
       "pained",
       "pained",
-      "worried",
-      "caring",
-      "willing",
       "wonderful",
       "close",
+      "caring",
+      "willing",
       "understanding",
       "peaceful",
       "caring",
@@ -36,19 +36,19 @@
       "sensitive",
       "insistent",
       "willing",
-      "thoughtful",
-      "worried",
-      "wronged",
-      "caring",
-      "thoughtful",
-      "willing",
       "free",
       "free",
       "wonderful",
       "okay",
       "touched",
       "willing",
-      "free"
+      "free",
+      "caring",
+      "thoughtful",
+      "willing",
+      "thoughtful",
+      "worried",
+      "wronged"
     ],
     "Emotions": {
       "AFRAID": "0.231",
@@ -73,134 +73,6 @@
   "NExperiencePosts": 13,
   "NPosts": 14,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 10,
-      "NTotal": 11,
-      "PAdvice": 0.09090909090909091,
-      "PExperience": 0.9090909090909091
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "Poochiewoochie",
@@ -262,6 +134,33 @@
     {
       "AuthorID": "Poochiewoochie",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120333",
+      "Content": " They don't know I suspect. I go to the Community Health Center like Gina and we can't get second opinions so we are basically stuck. I have a discounted state medical program but regular doctors don't take it. \nI've been feeling my breasts to see if I can feel the other lump that she says is there but I can't . Besides if I DID feel it before going I wouldn't have gone since it WAS in the other breast\nIn my case I have VERY dense breasts which makes it hard for mammos to pick up any growth. \nOh, she thinks it's breast tissue and she isn't worried but she wants me to keep an eye on it. Go figure. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "18/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079309",
+      "Title": "hard, unmoveable, pea size lump"
+    },
+    {
+      "AuthorID": "Poochiewoochie",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120333",
       "Content": " Wow-you're state sucks. Mine pays for surgeries(I had 3 last year) plus any other visits you have to make when you're sick. I only have to pay $15 for surgeries. The radiology places they send us to are so nice-I've never had a rude tech. The lady that did my Mammo was even apologizing for keeping me waiting. Even when I had my surgeries I couldn't have asked for nice people-they actually make the experiences more pleasant IMO.\nThe CHC has some people working for them that I've found to be indifferent though. I had to change one doctor because she wasn't following up on the meds she prescribed and kept telling me I had high arches when in fact it was arthritis. I had 2 surgeries last year to have bone spurs removed. I also have a co-pay cap of $120 so if I go over it all my healthcare is free for the rest of the year(I reached that last year)\nI'm calling tomorrow for sure. I was still a little in doubt tonight so I did a BSE lying down with a pillow under me. I could really feel the lump and it's bigger than I thought. And REALLY hard.\nI don't have a job since I am a caregiver so I can't afford to go somewhere else. \nI'll be praying for you too. ",
       "Demographics": {
         "AgeInfo": [],
@@ -313,14 +212,14 @@
     {
       "AuthorID": "Poochiewoochie",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120333",
-      "Content": " They don't know I suspect. I go to the Community Health Center like Gina and we can't get second opinions so we are basically stuck. I have a discounted state medical program but regular doctors don't take it. \nI've been feeling my breasts to see if I can feel the other lump that she says is there but I can't . Besides if I DID feel it before going I wouldn't have gone since it WAS in the other breast\nIn my case I have VERY dense breasts which makes it hard for mammos to pick up any growth. \nOh, she thinks it's breast tissue and she isn't worried but she wants me to keep an eye on it. Go figure. ",
+      "Content": " Hi Gina-thanks. I got my Mammogram films today-my breast are dense from the nipple to the back of them The only part that isn't is the area close to the surface.\nYou have a wonderful day tomorrow! ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [
-              "breast",
-              "breasts"
+              "Mammogram",
+              "breast"
             ],
             "MaleMedicalTerms": []
           },
@@ -332,8 +231,8 @@
           }
         }
       },
-      "MessageIndex": 16,
-      "PostDate": "18/04/2011",
+      "MessageIndex": 14,
+      "PostDate": "13/04/2011",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079309",
       "Title": "hard, unmoveable, pea size lump"
     },
@@ -361,33 +260,6 @@
       },
       "MessageIndex": 9,
       "PostDate": "10/04/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079309",
-      "Title": "hard, unmoveable, pea size lump"
-    },
-    {
-      "AuthorID": "Poochiewoochie",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120333",
-      "Content": " Hi Gina-thanks. I got my Mammogram films today-my breast are dense from the nipple to the back of them The only part that isn't is the area close to the surface.\nYou have a wonderful day tomorrow! ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "Mammogram",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 14,
-      "PostDate": "13/04/2011",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079309",
       "Title": "hard, unmoveable, pea size lump"
     },
@@ -469,10 +341,32 @@
     },
     {
       "AuthorID": "Poochiewoochie",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120333",
-      "Content": " \nJanice is right. If your gut is telling you something is wrong push for a resolution and don''t just take what they say at face value and go away. Too many providers act like the think they know it when they don't. Mine declared the other day that she wasn't worried because she THOUGHT it was breast tissue by the way it kept sinking back into the tissue behind it. She \"THOUGHT\". She also claimed that she felt one in the other breast but I can't feel it. She was comparing my breasts to hers. \nWell she might not be worried because of what she thinks it is but it doesn't stop me from worrying since I have dense breasts and it's hard to tell what is what in them. So I went to someone else that has the same program and she told me to call them and tell them you want a voucher to see a BS. She said that I have to advocate for my health and not let them shoo me off. \nAfter all it is YOUR life involved, not theirs. ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079162&p=120333",
+      "Content": " Okay, here's the deal. I'm 49 and will be 50 in August I started my period before I was 12, have had no children and was on BCP until 2 years ago this November. \nYesterday I discovered a small lump in one of my breasts. It's about\n 2 o'clock in the right breast outside the areola. I just had my annual breast exam and since I don't have insurance I go to the local Community Health Center. They have a program where I live that if they find breast cancer and you're on the state's indigent program they will qualify you for Medicaid. Well, the people who do the exams are NP and IMO they are not very thorough when they examine you. She didn't even refer me for a mammo and told me if I wanted one it would probably cost me $150. It's up to the provider's discretion to refer you and if she did it would have been free. She did tell me that I could wait till August when I turn 50 and then it would be free. Regardless I checked and since I am on the lowest level for the co-pay it only cost me $7. She briefly examined my breast and then gave me something that had a simulation of what a cancer feels like in the breast. Well, that's what mine feels like. It hard, fixated, painless and doesn't move. The NP lightly touched me when examining me so there's no way she could have felt it because it's a little deep and you have to use a firmer touch.\nI had the mammo on Thursday and was wondering if I should wait till I get the results before I call my doctor. They say lumps happen sometimes when you get your period but since I had an endometrial ablation last May I haven't had one so I have no clue when it's my period. If the mammo comes back normal and the lump is still there I do plan on making an appointment with the doctor who did my ablation since sometimes lumps don't show up on mammos from what I read.\nSo should I wait or call the office tomorrow and talk to the nurse and see what she suggests?\n ",
       "Demographics": {
-        "AgeInfo": [],
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> I'm 49 and will be 50 in",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 49
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "my period before I was 12  have had no children and",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 12
+          },
+          {
+            "Confidence": 0.7,
+            "Phrase": "till August when I turn 50 and then it would be",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 50
+          }
+        ],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [
@@ -489,10 +383,10 @@
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "20/04/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2087926",
-      "Title": "need help in making desicion please"
+      "MessageIndex": 0,
+      "PostDate": "10/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079162",
+      "Title": "Small lump in breast"
     },
     {
       "AuthorID": "Poochiewoochie",
@@ -542,32 +436,10 @@
     },
     {
       "AuthorID": "Poochiewoochie",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079162&p=120333",
-      "Content": " Okay, here's the deal. I'm 49 and will be 50 in August I started my period before I was 12, have had no children and was on BCP until 2 years ago this November. \nYesterday I discovered a small lump in one of my breasts. It's about\n 2 o'clock in the right breast outside the areola. I just had my annual breast exam and since I don't have insurance I go to the local Community Health Center. They have a program where I live that if they find breast cancer and you're on the state's indigent program they will qualify you for Medicaid. Well, the people who do the exams are NP and IMO they are not very thorough when they examine you. She didn't even refer me for a mammo and told me if I wanted one it would probably cost me $150. It's up to the provider's discretion to refer you and if she did it would have been free. She did tell me that I could wait till August when I turn 50 and then it would be free. Regardless I checked and since I am on the lowest level for the co-pay it only cost me $7. She briefly examined my breast and then gave me something that had a simulation of what a cancer feels like in the breast. Well, that's what mine feels like. It hard, fixated, painless and doesn't move. The NP lightly touched me when examining me so there's no way she could have felt it because it's a little deep and you have to use a firmer touch.\nI had the mammo on Thursday and was wondering if I should wait till I get the results before I call my doctor. They say lumps happen sometimes when you get your period but since I had an endometrial ablation last May I haven't had one so I have no clue when it's my period. If the mammo comes back normal and the lump is still there I do plan on making an appointment with the doctor who did my ablation since sometimes lumps don't show up on mammos from what I read.\nSo should I wait or call the office tomorrow and talk to the nurse and see what she suggests?\n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2087926&p=120333",
+      "Content": " \nJanice is right. If your gut is telling you something is wrong push for a resolution and don''t just take what they say at face value and go away. Too many providers act like the think they know it when they don't. Mine declared the other day that she wasn't worried because she THOUGHT it was breast tissue by the way it kept sinking back into the tissue behind it. She \"THOUGHT\". She also claimed that she felt one in the other breast but I can't feel it. She was comparing my breasts to hers. \nWell she might not be worried because of what she thinks it is but it doesn't stop me from worrying since I have dense breasts and it's hard to tell what is what in them. So I went to someone else that has the same program and she told me to call them and tell them you want a voucher to see a BS. She said that I have to advocate for my health and not let them shoo me off. \nAfter all it is YOUR life involved, not theirs. ",
       "Demographics": {
-        "AgeInfo": [
-          {
-            "Confidence": 1,
-            "Phrase": "<Z> <Z> <Z> <Z> I'm 49 and will be 50 in",
-            "Relation": "unknown",
-            "Tense": "present",
-            "Value": 49
-          },
-          {
-            "Confidence": 1,
-            "Phrase": "my period before I was 12  have had no children and",
-            "Relation": "unknown",
-            "Tense": "past",
-            "Value": 12
-          },
-          {
-            "Confidence": 0.7,
-            "Phrase": "till August when I turn 50 and then it would be",
-            "Relation": "unknown",
-            "Tense": "unknown",
-            "Value": 50
-          }
-        ],
+        "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [
@@ -584,10 +456,10 @@
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "10/04/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079162",
-      "Title": "Small lump in breast"
+      "MessageIndex": 4,
+      "PostDate": "20/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2087926",
+      "Title": "need help in making desicion please"
     }
   ],
   "ProfileDemographics": {
@@ -607,6 +479,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -649,41 +526,29 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "kind",
-        "peaceful",
-        "caring",
-        "willing",
-        "free",
-        "free",
-        "wonderful",
-        "okay",
-        "touched",
-        "willing",
-        "free"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0.667",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0.667",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0.667",
-        "OPEN": "0.667",
-        "POSITIVE": "0.667",
-        "SAD": "0",
-        "STRONG": "0.333"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
-      "SideEffectType": ["Hernia"],
-      "SideEffectTypeKeywords": ["lump"]
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
     },
     "-2 Month Emotions": {
       "EmotionKeywords": [],
@@ -862,6 +727,17 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
+        "kind",
+        "peaceful",
+        "caring",
+        "willing",
+        "free",
+        "free",
+        "wonderful",
+        "okay",
+        "touched",
+        "willing",
+        "free",
         "free",
         "free",
         "nice",
@@ -899,22 +775,22 @@
         "willing"
       ],
       "Emotions": {
-        "AFRAID": "0.273",
-        "ALIVE": "0.182",
-        "ANGRY": "0.273",
-        "CONFUSED": "0.182",
-        "DEPRESSED": "0.091",
-        "GOOD": "0.182",
-        "HAPPY": "0.182",
+        "AFRAID": "0.214",
+        "ALIVE": "0.286",
+        "ANGRY": "0.214",
+        "CONFUSED": "0.143",
+        "DEPRESSED": "0.071",
+        "GOOD": "0.286",
+        "HAPPY": "0.143",
         "HELPLESS": "0",
-        "HURT": "0.273",
+        "HURT": "0.214",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.273",
-        "LOVE": "0.455",
-        "OPEN": "0.182",
-        "POSITIVE": "0.273",
-        "SAD": "0.182",
-        "STRONG": "0.182"
+        "INTERESTED": "0.214",
+        "LOVE": "0.5",
+        "OPEN": "0.286",
+        "POSITIVE": "0.357",
+        "SAD": "0.143",
+        "STRONG": "0.214"
       }
     },
     "1st Month SideEffects": {

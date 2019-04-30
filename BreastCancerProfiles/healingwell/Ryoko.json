@@ -13,12 +13,6 @@
       "hateful",
       "bad",
       "distressed",
-      "reliable",
-      "okay",
-      "hopeful",
-      "wronged",
-      "great",
-      "worried",
       "great",
       "okay",
       "loving",
@@ -27,6 +21,10 @@
       "thoughtful",
       "willing",
       "sore",
+      "reliable",
+      "okay",
+      "hopeful",
+      "wronged",
       "thoughtful",
       "bad",
       "lost",
@@ -38,13 +36,8 @@
       "willing",
       "panic",
       "scared",
-      "glad",
-      "wonderful",
-      "lost",
-      "willing",
-      "understanding",
-      "willing",
-      "bad",
+      "great",
+      "worried",
       "free",
       "great",
       "glad",
@@ -56,6 +49,9 @@
       "hateful",
       "scared",
       "deprived",
+      "understanding",
+      "willing",
+      "bad",
       "great",
       "loving",
       "loved",
@@ -73,7 +69,11 @@
       "loved",
       "thoughtful",
       "willing",
-      "scared"
+      "scared",
+      "glad",
+      "wonderful",
+      "lost",
+      "willing"
     ],
     "Emotions": {
       "AFRAID": "0.6",
@@ -129,98 +129,6 @@
     },
     {
       "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=402659&p=14735",
-      "Content": " I have a question. I went for my mammogram and sonogram today. The technician came in and said he couldn't see any abnormalities, but I am to still get the biopsy done. Here's my question: Do I need to do that if he didn't find anything wrong? They are pretty reliable aren't they? Are sunken depressions and lumps normal? Okay that's more than one but they didn't have time to answer my questions and I was hoping you might have some insight. Thank-you for being here.\nMelissa ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "19/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=402659",
-      "Title": "One Appt Down!"
-    },
-    {
-      "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=406376&p=14735",
-      "Content": " Thank-you all so much for your support. I really do appreciate your kind words and encouragement. I am not panicking anymore, I will let you all know how it goes. I hope you all have a great evening!\nMelissa ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "24/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
-      "Title": "Biopsy reset!?"
-    },
-    {
-      "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=406376&p=14735",
-      "Content": " Thank you too Steph! Yeah I am quite the impatient person. I am planning to get out and have a little fun this weekend, celebrate my B-day and leave my worries at the door. Have a great weekend!\nMelissa ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "26/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
-      "Title": "Biopsy reset!?"
-    },
-    {
-      "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416488&p=14735",
-      "Content": " Thank you so much ladies! God bless you all! ((((Big hugs!))))\nLove,\nMelissa ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "08/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416488",
-      "Title": "Results!"
-    },
-    {
-      "AuthorID": "Ryoko",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=413153&p=14735",
       "Content": " OOOhh Thank=you for your thoughts and prayers! I managed okay, I am sore through the shoulder and underarms now though. They told me I should know b Tuesday. They took 5 core samples, my DH didn't pass out! I am so proud of him. \n I have purchased some chocolate covered pretzels and Tylenol and I am going to lounge in front of the t.v. tonight. Thank you for being so supportive, I will let you know how it turns out! Have a great weekend!\nLove,\nMelissa ",
       "Demographics": {
@@ -242,6 +150,30 @@
       "PostDate": "03/02/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=413153",
       "Title": "Ack!! Biopsy tomorrow!"
+    },
+    {
+      "AuthorID": "Ryoko",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=402659&p=14735",
+      "Content": " I have a question. I went for my mammogram and sonogram today. The technician came in and said he couldn't see any abnormalities, but I am to still get the biopsy done. Here's my question: Do I need to do that if he didn't find anything wrong? They are pretty reliable aren't they? Are sunken depressions and lumps normal? Okay that's more than one but they didn't have time to answer my questions and I was hoping you might have some insight. Thank-you for being here.\nMelissa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=402659",
+      "Title": "One Appt Down!"
     },
     {
       "AuthorID": "Ryoko",
@@ -332,8 +264,8 @@
     },
     {
       "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=400098&p=14735",
-      "Content": " Hello,\n I have my mommogram and ultrasound set for this Thursday the 19th and then the following Tuesday they are doing a needle biopsy. That was fast! I am glad I won't have to sweat it out for another 2 weeks. I do have a question my husband mentioned and when my doctor mentioned made me wonder. I have lost over 13 pounds in the last month. Not by choice, I have been so sick to my stomach. I can't seem to keep things down much lately and when I do manage to I end up with diarrea. The other thing I was wondering about\n was hairloss. Handfuls everytime I wash or brush my hair. Can cancer cause that? I feel silly for even asking but it has been on my mind lately.\nMelissa ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=406376&p=14735",
+      "Content": " Thank-you all so much for your support. I really do appreciate your kind words and encouragement. I am not panicking anymore, I will let you all know how it goes. I hope you all have a great evening!\nMelissa ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -342,22 +274,42 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "16/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=400098",
-      "Title": "Appointment set!"
+      "MessageIndex": 2,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
+      "Title": "Biopsy reset!?"
     },
     {
       "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=400098&p=14735",
-      "Content": " I appreciate you all and I will let you know what they find after the biopsy. Thanks for being here!\nMelissa ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416488&p=14735",
+      "Content": " Thank you so much ladies! God bless you all! ((((Big hugs!))))\nLove,\nMelissa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "08/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416488",
+      "Title": "Results!"
+    },
+    {
+      "AuthorID": "Ryoko",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=406376&p=14735",
+      "Content": " Thank you too Steph! Yeah I am quite the impatient person. I am planning to get out and have a little fun this weekend, celebrate my B-day and leave my worries at the door. Have a great weekend!\nMelissa ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -374,9 +326,36 @@
         }
       },
       "MessageIndex": 6,
-      "PostDate": "17/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=400098",
-      "Title": "Appointment set!"
+      "PostDate": "26/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
+      "Title": "Biopsy reset!?"
+    },
+    {
+      "AuthorID": "Ryoko",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=406376&p=14735",
+      "Content": " Okay, what a day I have had! I didn't have a great to begin with. Sleep deprived and a headache to boot, I know I couldn't have aspirin or tylenol so I refrained. I went to appt and was 15 minutes early and had all my paperwork. I was sent to my room fifteen minutes after my appt was supposed to start. I got the paper top and put it on. My hubby came with me for support and we sat down to wait in our room.\nAfter 45 minutes went by I was beginning to think they had forgotten about\n me so I popped my head out and saw no one around, after another 15 minutes my hubby had to leave to go back home to get our son from school. I flagged down a nurse and asked how much longer and she said any minute. Finally she came in and asked what was going on. She said the mammo and sonogram were fine. I showed her the sunken spot and the lump. She had me raise my arms and lower them and put them out to the sides and front and then she did a breast examination of both breasts and said: \"Oooh here it is. There is a lump here for sure.\" She said there was a large lump and my lymph nodes were slightly swollen. She wanted to do an ultrasound to get some pictures. She marked the spot and did the ultrasound and took 2 pictures of the lump. It looked huge to me when it was on the screen, surely they magnify the images don't they?\nLong story short she said since I took aspirin 2 days ago I had to wait another week aspirin free and come back for a biopsy. She said because of it's size she was going to make an incision instead of a fine needle aspiration. Now I am panicking. I am glad she found the lump because I hate feeling like I am crazy, but scared because it is there. I go in on the 3rd of February.\nMelissa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
+      "Title": "Biopsy reset!?"
     },
     {
       "AuthorID": "Ryoko",
@@ -423,33 +402,6 @@
       },
       "MessageIndex": 3,
       "PostDate": "25/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
-      "Title": "Biopsy reset!?"
-    },
-    {
-      "AuthorID": "Ryoko",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=406376&p=14735",
-      "Content": " Okay, what a day I have had! I didn't have a great to begin with. Sleep deprived and a headache to boot, I know I couldn't have aspirin or tylenol so I refrained. I went to appt and was 15 minutes early and had all my paperwork. I was sent to my room fifteen minutes after my appt was supposed to start. I got the paper top and put it on. My hubby came with me for support and we sat down to wait in our room.\nAfter 45 minutes went by I was beginning to think they had forgotten about\n me so I popped my head out and saw no one around, after another 15 minutes my hubby had to leave to go back home to get our son from school. I flagged down a nurse and asked how much longer and she said any minute. Finally she came in and asked what was going on. She said the mammo and sonogram were fine. I showed her the sunken spot and the lump. She had me raise my arms and lower them and put them out to the sides and front and then she did a breast examination of both breasts and said: \"Oooh here it is. There is a lump here for sure.\" She said there was a large lump and my lymph nodes were slightly swollen. She wanted to do an ultrasound to get some pictures. She marked the spot and did the ultrasound and took 2 pictures of the lump. It looked huge to me when it was on the screen, surely they magnify the images don't they?\nLong story short she said since I took aspirin 2 days ago I had to wait another week aspirin free and come back for a biopsy. She said because of it's size she was going to make an incision instead of a fine needle aspiration. Now I am panicking. I am glad she found the lump because I hate feeling like I am crazy, but scared because it is there. I go in on the 3rd of February.\nMelissa ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "breast",
-              "breasts"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "24/01/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=406376",
       "Title": "Biopsy reset!?"
     },
@@ -524,6 +476,54 @@
       "PostDate": "06/02/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=413153",
       "Title": "Ack!! Biopsy tomorrow!"
+    },
+    {
+      "AuthorID": "Ryoko",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=400098&p=14735",
+      "Content": " Hello,\n I have my mommogram and ultrasound set for this Thursday the 19th and then the following Tuesday they are doing a needle biopsy. That was fast! I am glad I won't have to sweat it out for another 2 weeks. I do have a question my husband mentioned and when my doctor mentioned made me wonder. I have lost over 13 pounds in the last month. Not by choice, I have been so sick to my stomach. I can't seem to keep things down much lately and when I do manage to I end up with diarrea. The other thing I was wondering about\n was hairloss. Handfuls everytime I wash or brush my hair. Can cancer cause that? I feel silly for even asking but it has been on my mind lately.\nMelissa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "16/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=400098",
+      "Title": "Appointment set!"
+    },
+    {
+      "AuthorID": "Ryoko",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=400098&p=14735",
+      "Content": " I appreciate you all and I will let you know what they find after the biopsy. Thanks for being here!\nMelissa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "17/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=400098",
+      "Title": "Appointment set!"
     }
   ],
   "ProfileDemographics": {
@@ -543,6 +543,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -581,6 +586,540 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "thoughtful",
+        "bad",
+        "lost",
+        "panic",
+        "scared",
+        "kind",
+        "okay",
+        "concerned",
+        "willing",
+        "panic",
+        "scared",
+        "glad",
+        "wonderful",
+        "lost",
+        "willing",
+        "understanding",
+        "okay",
+        "loving",
+        "loved",
+        "caring",
+        "thoughtful",
+        "willing",
+        "hateful",
+        "bad",
+        "distressed",
+        "reliable",
+        "okay",
+        "hopeful",
+        "wronged",
+        "kind",
+        "great",
+        "encouraged",
+        "supportive",
+        "hopeful",
+        "willing",
+        "free",
+        "great",
+        "glad",
+        "free",
+        "okay",
+        "supportive",
+        "free",
+        "sure",
+        "hateful",
+        "scared",
+        "deprived",
+        "understanding",
+        "willing",
+        "bad",
+        "great",
+        "worried",
+        "caring",
+        "willing",
+        "sore",
+        "useless",
+        "nervous",
+        "worried",
+        "great",
+        "okay",
+        "loving",
+        "loved",
+        "supportive",
+        "thoughtful",
+        "willing",
+        "sore",
+        "loving",
+        "loved",
+        "thoughtful",
+        "willing",
+        "scared",
+        "great",
+        "loving",
+        "loved",
+        "supportive",
+        "caring",
+        "hopeful",
+        "willing",
+        "blessed",
+        "loving",
+        "loved"
+      ],
+      "Emotions": {
+        "AFRAID": "0.529",
+        "ALIVE": "0.118",
+        "ANGRY": "0.235",
+        "CONFUSED": "0.118",
+        "DEPRESSED": "0.176",
+        "GOOD": "0.412",
+        "HAPPY": "0.412",
+        "HELPLESS": "0.118",
+        "HURT": "0.118",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.294",
+        "LOVE": "1",
+        "OPEN": "0.353",
+        "POSITIVE": "0.706",
+        "SAD": "0",
+        "STRONG": "0.118"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

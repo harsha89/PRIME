@@ -1,8 +1,16 @@
 {
   "AuthorID": "mymaria",
-  "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
   "EmotionInfo": {
     "EmotionKeywords": [
+      "willing",
+      "willing",
+      "certain",
+      "supportive",
+      "concerned",
+      "hopeful",
+      "willing",
+      "certain",
       "lucky",
       "encouraged",
       "loving",
@@ -11,57 +19,31 @@
       "hopeful",
       "willing",
       "worried",
-      "willing",
+      "approachable",
+      "great",
+      "pleased",
+      "hopeful",
+      "lucky",
+      "encouraged",
+      "loving",
+      "loved",
       "caring",
-      "affected",
-      "thoughtful",
+      "hopeful",
       "willing",
-      "willing",
+      "worried",
       "wonderful",
       "comfortable",
       "comforted",
       "willing",
       "bad",
-      "lucky",
-      "encouraged",
-      "loving",
-      "loved",
       "caring",
-      "hopeful",
+      "affected",
+      "thoughtful",
       "willing",
-      "worried",
-      "certain",
-      "supportive",
-      "concerned",
-      "hopeful",
-      "willing",
-      "certain",
       "loving",
       "loved",
       "supportive",
       "willing",
-      "wonderful",
-      "certain",
-      "caring",
-      "concerned",
-      "certain",
-      "approachable",
-      "great",
-      "pleased",
-      "hopeful",
-      "amazed",
-      "comfortable",
-      "loving",
-      "loved",
-      "comforted",
-      "supportive",
-      "willing",
-      "alone",
-      "dread",
-      "mournful",
-      "crying",
-      "certain",
-      "certain",
       "certain",
       "caring",
       "curious",
@@ -69,7 +51,22 @@
       "proactive",
       "willing",
       "certain",
+      "certain",
+      "certain",
+      "wonderful",
+      "certain",
+      "caring",
+      "concerned",
+      "certain",
+      "interested",
+      "blessed",
+      "caring",
+      "sure",
+      "aggressive",
+      "aggressive",
+      "useless",
       "hopeful",
+      "distressed",
       "free",
       "accepting",
       "great",
@@ -88,23 +85,6 @@
       "decisive",
       "alone",
       "ignorant",
-      "confident",
-      "certain",
-      "confident",
-      "certain",
-      "doubtful",
-      "doubtful",
-      "wronged",
-      "certain",
-      "considerate",
-      "willing",
-      "certain",
-      "lost",
-      "hopeful",
-      "hopeful",
-      "distressed",
-      "pleased",
-      "willing",
       "supportive",
       "daring",
       "hopeful",
@@ -112,21 +92,46 @@
       "disappointed",
       "lost",
       "useless",
-      "interested",
-      "blessed",
-      "caring",
-      "sure",
-      "aggressive",
-      "aggressive",
-      "useless",
-      "sure",
-      "rude",
-      "exhausted",
+      "confident",
+      "certain",
+      "confident",
+      "certain",
+      "doubtful",
+      "doubtful",
+      "wronged",
+      "amazed",
+      "comfortable",
+      "loving",
+      "loved",
+      "comforted",
+      "supportive",
+      "willing",
+      "alone",
+      "dread",
+      "mournful",
+      "crying",
+      "certain",
+      "considerate",
+      "willing",
+      "certain",
+      "lost",
+      "certain",
+      "considerate",
+      "willing",
+      "certain",
+      "lost",
+      "hopeful",
       "hopeful",
       "sure",
       "rude",
       "exhausted",
       "willing",
+      "pleased",
+      "willing",
+      "free",
+      "accepting",
+      "free",
+      "free",
       "confident",
       "free",
       "interested",
@@ -139,16 +144,11 @@
       "pained",
       "pained",
       "hopeful",
-      "free",
-      "accepting",
-      "free",
-      "free",
-      "certain",
-      "considerate",
       "willing",
-      "certain",
-      "lost",
-      "willing"
+      "hopeful",
+      "sure",
+      "rude",
+      "exhausted"
     ],
     "Emotions": {
       "AFRAID": "0.125",
@@ -173,138 +173,264 @@
   "NExperiencePosts": 32,
   "NPosts": 48,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 1,
-      "NTotal": 3,
-      "PAdvice": 0.6666666666666666,
-      "PExperience": 0.3333333333333333
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 6,
-      "NExperience": 12,
-      "NTotal": 18,
-      "PAdvice": 0.3333333333333333,
-      "PExperience": 0.6666666666666666
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 6,
-      "NTotal": 7,
-      "PAdvice": 0.14285714285714285,
-      "PExperience": 0.8571428571428571
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 9,
-      "NTotal": 13,
-      "PAdvice": 0.3076923076923077,
-      "PExperience": 0.6923076923076923
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 2,
-      "NTotal": 4,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 0,
-      "NTotal": 1,
-      "PAdvice": 1,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Regi, I am deeply hurt by your diagnosis. But \"terminal\" is not a given! You need to do the best that you can to make certain that you have active support around you to help you research, question, prod about the treatment that you are getting. Ask about options, options, options. Look into finding clinical trials around the country if answers seem to stop coming. If you are depressed, and it sounds like that you may be, get help for that so that you are as much yourself to continue fighting this. My wife was diagnosed with metastatic breast cancer back in early December. It had spread to her brain, spine, liver, lymph nodes, bone in cranium, ribs, spinal column, AND she was pregnant! Drs. gave her a very poor prognosis. Didn't have much confidence that she would even make it through pregnancy. But three months later, we have a new daughter, the major cancer masses have disappeared and there is no sign of spread. I have been a tireless and defiant advocate for my wife. Trying to find out EVERYTHING about anything that would/could help her. We were fortunate to have fantastically compassionate and knowledgeable oncologists working with her. Of course her battle is far from over. It will never be over, but she is going to continue with her life as best she can. I know it! She going to be able to see her son and new daughter graduate, get married, have children, etc. For us, there is no other consideration right now. I wish I could be with you now to share/help in whatever way I can. It is clear that you have no intentions of packing it in, so don't. God will do his part. Be comforted by that. I don't know exactly what his role will be, but you need to use whatever strength you have to do your part. Believe me, I thank God for what he has done thus far, but my anger towards him in the beginning was palpable. But I am convinced that he has allowed me to do what I can for myself, my family and, of course, my wife. Be proactive, pray and you keep fighting this. The LOVE of your family, friends is a POWERFUL motivator. Use it. I will pray for you and your recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnancy",
+              "pregnant",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 29,
+      "PostDate": "01/03/2008",
+      "ThreadURL": "https://www.cancerforums.net/threads/6340-Breast-Cancer-that-speads?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Breast Cancer that speads"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Ann, Laughter is good. I pray that your days are filled with laughter much more than the other \"stuff.\" My wife will be resuming chemo in an out-patient status and will need to begin administering Neupogen injections. I am very positive that I will be the one doing it, but not looking forward to the next few months while she is on chemo, etc. I'm praying for you. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "03/04/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/1298-Severe-pain-with-taxol-and-neupogen?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Severe pain with taxol and neupogen"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Ann, Laughter is good. I pray that your days are filled with laughter much more than the other \"stuff.\" My wife will be resuming chemo in an out-patient status and will need to begin administering Neupogen injections. I am very positive that I will be the one doing it, but not looking forward to the next few months while she is on chemo, etc. I'm praying for you. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "03/04/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/1298-Severe-pain-with-taxol-and-neupogen?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Severe pain with taxol and neupogen"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Chrystel, I believe a C1 is code for exactly what was told to you- inadequate sample. Meaning the sample taken was not enough to determine state of the tissues taken. Will they do another after the infection has subsided? The hardness of the lump alone is not enough to indicate whether is is malignant or not. My wife had a hard lump and it had metastasized. As you well know that determination will be made as soon as they get a workable sample of the tissue in question. I pray that you are okay. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6410-help-please-inadequate-biopsies-and-hard-areas?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "help please inadequate biopsies and hard areas......."
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Regi, I am deeply hurt by your diagnosis. But \"terminal\" is not a given! You need to do the best that you can to make certain that you have active support around you to help you research, question, prod about the treatment that you are getting. Ask about options, options, options. Look into finding clinical trials around the country if answers seem to stop coming. If you are depressed, and it sounds like that you may be, get help for that so that you are as much yourself to continue fighting this. My wife was diagnosed with metastatic breast cancer back in early December. It had spread to her brain, spine, liver, lymph nodes, bone in cranium, ribs, spinal column, AND she was pregnant! Drs. gave her a very poor prognosis. Didn't have much confidence that she would even make it through pregnancy. But three months later, we have a new daughter, the major cancer masses have disappeared and there is no sign of spread. I have been a tireless and defiant advocate for my wife. Trying to find out EVERYTHING about anything that would/could help her. We were fortunate to have fantastically compassionate and knowledgeable oncologists working with her. Of course her battle is far from over. It will never be over, but she is going to continue with her life as best she can. I know it! She going to be able to see her son and new daughter graduate, get married, have children, etc. For us, there is no other consideration right now. I wish I could be with you now to share/help in whatever way I can. It is clear that you have no intentions of packing it in, so don't. God will do his part. Be comforted by that. I don't know exactly what his role will be, but you need to use whatever strength you have to do your part. Believe me, I thank God for what he has done thus far, but my anger towards him in the beginning was palpable. But I am convinced that he has allowed me to do what I can for myself, my family and, of course, my wife. Be proactive, pray and you keep fighting this. The LOVE of your family, friends is a POWERFUL motivator. Use it. I will pray for you and your recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnancy",
+              "pregnant",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "01/03/2008",
+      "ThreadURL": "https://www.cancerforums.net/threads/6340-Breast-Cancer-that-speads?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Breast Cancer that speads"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Chrystel, Hope all is well with your recent test(s). I'm not certain why they can't do tests using the mass removed during the lumpectomy. Are they planning any other tests/scans? As for isolation, just know that we are here at least. Continue sharing your feelings/concerns and the good people here will try to help you through this as best possible. The sense of isolation is absolutely natural. I've been trying to be a strong advocate for my wife and the feeling of isolation is a common feeling for me. But I try my best to have positive and supportive people around me. I hope you do too. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "15/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6410-help-please-inadequate-biopsies-and-hard-areas?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "help please inadequate biopsies and hard areas......."
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "John, I am praying for you, your family and your mother's family. I am sorry to hear the loss.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "25/07/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/5340-Stage-IV-with-mets-to-lungs?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Stage IV with mets to lungs"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Regi, I am deeply hurt by your diagnosis. But \"terminal\" is not a given! You need to do the best that you can to make certain that you have active support around you to help you research, question, prod about the treatment that you are getting. Ask about options, options, options. Look into finding clinical trials around the country if answers seem to stop coming. If you are depressed, and it sounds like that you may be, get help for that so that you are as much yourself to continue fighting this. My wife was diagnosed with metastatic breast cancer back in early December. It had spread to her brain, spine, liver, lymph nodes, bone in cranium, ribs, spinal column, AND she was pregnant! Drs. gave her a very poor prognosis. Didn't have much confidence that she would even make it through pregnancy. But three months later, we have a new daughter, the major cancer masses have disappeared and there is no sign of spread. I have been a tireless and defiant advocate for my wife. Trying to find out EVERYTHING about anything that would/could help her. We were fortunate to have fantastically compassionate and knowledgeable oncologists working with her. Of course her battle is far from over. It will never be over, but she is going to continue with her life as best she can. I know it! She going to be able to see her son and new daughter graduate, get married, have children, etc. For us, there is no other consideration right now. I wish I could be with you now to share/help in whatever way I can. It is clear that you have no intentions of packing it in, so don't. God will do his part. Be comforted by that. I don't know exactly what his role will be, but you need to use whatever strength you have to do your part. Believe me, I thank God for what he has done thus far, but my anger towards him in the beginning was palpable. But I am convinced that he has allowed me to do what I can for myself, my family and, of course, my wife. Be proactive, pray and you keep fighting this. The LOVE of your family, friends is a POWERFUL motivator. Use it. I will pray for you and your recovery. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnancy",
+              "pregnant",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "01/03/2008",
+      "ThreadURL": "https://www.cancerforums.net/threads/6340-Breast-Cancer-that-speads?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Breast Cancer that speads"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "annerules, My wife was diagnosed with STAGE IV metastatic breast cancer in early December. She had lesions/tumors in her brain, skull, spinal lining, spinal column, liver, lymph nodes, and left breast. Though the prognosis was initially grim, no one EVER used the words terminal, palliative... In fact, the primary oncologist responsible for my wife's treatment reminded me that there are no guarantees, but then proceeded to talk about all the advancements and new treatments that have shown promise. He spoke to me about patients who should not have, but are living long after their initial diagnoses. Our oncologist was all about hope, hope and more hope. To top it all off, my wife was also pregnant. She is now transitioning to enter rehab to go home. The battle is not over, but she is where she is because of God and the medical professionals who go beyond the routine to care for their patients. Just a couple of days ago, after 4-rounds of chemo, 12-straight days of radiation, her PET scan showed no new tumors, in fact, no obvious signs of active soft-tissue cancer at all. She will be taking a 1-2 month break from chemo to strengthen before resuming chemo. Meanwhile, she is taking arimidex daily and infusion of aredia (for bone lesions) once per month. I will say this again and again, if there is hope, however small or unlikely, then never give up! Tell your mother that! Love your mother and be an advocate as much as possible. Be an educated one, though. Do research on her disease, treatments, etc. Ask your mother if you can have access to medical information so that you can be a better advocate. If the doctors at the hospital seem uninterested in investigating or trying other options, then I would suggest thinking about getting another opinion elsewhere. Some doctors are slower to the new treatments then others. We were lucky to have one who was always in the forefront of cancer treatment evolution/options. I am sorry for your mother's diagnosis. But unless your mother has given in, there is hope. Be with her and encourage her. Let her know that you want to be an integral part of her struggles/worries. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnant",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "01/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/5843-Advanced-Breast-Cancer-good-treatments?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Advanced Breast Cancer/good treatments"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Have to definitely disagree with the doctor's 50% assessment. He doesn't know w/ any certainty. My wife was diagnosed with Stage IV and given almost no chance of survival. She is currently in remission and recovering. Had great doctors, nurses, and a lot of friends praying for her (us). She is approaching 1-year w/o recurrence. Please do not succumb to statistics. Be realistic, be prepared, be informed, and be around family, friends and medical personnel that give you hope and stability in perspective. Stay strong. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "31/01/2009",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/8338-New-to-sight-survivor-stories-and-lobulars?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "New to sight...survivor stories and lobulars"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "annerules, My wife was diagnosed with STAGE IV metastatic breast cancer in early December. She had lesions/tumors in her brain, skull, spinal lining, spinal column, liver, lymph nodes, and left breast. Though the prognosis was initially grim, no one EVER used the words terminal, palliative... In fact, the primary oncologist responsible for my wife's treatment reminded me that there are no guarantees, but then proceeded to talk about all the advancements and new treatments that have shown promise. He spoke to me about patients who should not have, but are living long after their initial diagnoses. Our oncologist was all about hope, hope and more hope. To top it all off, my wife was also pregnant. She is now transitioning to enter rehab to go home. The battle is not over, but she is where she is because of God and the medical professionals who go beyond the routine to care for their patients. Just a couple of days ago, after 4-rounds of chemo, 12-straight days of radiation, her PET scan showed no new tumors, in fact, no obvious signs of active soft-tissue cancer at all. She will be taking a 1-2 month break from chemo to strengthen before resuming chemo. Meanwhile, she is taking arimidex daily and infusion of aredia (for bone lesions) once per month. I will say this again and again, if there is hope, however small or unlikely, then never give up! Tell your mother that! Love your mother and be an advocate as much as possible. Be an educated one, though. Do research on her disease, treatments, etc. Ask your mother if you can have access to medical information so that you can be a better advocate. If the doctors at the hospital seem uninterested in investigating or trying other options, then I would suggest thinking about getting another opinion elsewhere. Some doctors are slower to the new treatments then others. We were lucky to have one who was always in the forefront of cancer treatment evolution/options. I am sorry for your mother's diagnosis. But unless your mother has given in, there is hope. Be with her and encourage her. Let her know that you want to be an integral part of her struggles/worries. Richard",
       "Demographics": {
         "AgeInfo": [],
@@ -328,22 +454,18 @@
       "MessageIndex": 19,
       "PostDate": "01/03/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/5843-Advanced-Breast-Cancer-good-treatments?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/5843-Advanced-Breast-Cancer-good-treatments?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Advanced Breast Cancer/good treatments"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Regi, I am deeply hurt by your diagnosis. But \"terminal\" is not a given! You need to do the best that you can to make certain that you have active support around you to help you research, question, prod about the treatment that you are getting. Ask about options, options, options. Look into finding clinical trials around the country if answers seem to stop coming. If you are depressed, and it sounds like that you may be, get help for that so that you are as much yourself to continue fighting this. My wife was diagnosed with metastatic breast cancer back in early December. It had spread to her brain, spine, liver, lymph nodes, bone in cranium, ribs, spinal column, AND she was pregnant! Drs. gave her a very poor prognosis. Didn't have much confidence that she would even make it through pregnancy. But three months later, we have a new daughter, the major cancer masses have disappeared and there is no sign of spread. I have been a tireless and defiant advocate for my wife. Trying to find out EVERYTHING about anything that would/could help her. We were fortunate to have fantastically compassionate and knowledgeable oncologists working with her. Of course her battle is far from over. It will never be over, but she is going to continue with her life as best she can. I know it! She going to be able to see her son and new daughter graduate, get married, have children, etc. For us, there is no other consideration right now. I wish I could be with you now to share/help in whatever way I can. It is clear that you have no intentions of packing it in, so don't. God will do his part. Be comforted by that. I don't know exactly what his role will be, but you need to use whatever strength you have to do your part. Believe me, I thank God for what he has done thus far, but my anger towards him in the beginning was palpable. But I am convinced that he has allowed me to do what I can for myself, my family and, of course, my wife. Be proactive, pray and you keep fighting this. The LOVE of your family, friends is a POWERFUL motivator. Use it. I will pray for you and your recovery. Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Ann, Praying for you! The sooner the better! Just curious, why not a FAC (fluorouracil, adriamycin, cytoxan[Cyclophosphamide]) cocktail of chemo? I've read a good deal of research showing the efficacy of this combination for breast cancer and my wife who has been diagnosed with Stage IV received it and has responded wonderfully to it. All of your soft-tissue tumors have disappeared as per PET/CT scans seem to indicate. Her tumor in her breast literally disappeared within 4-weeks of chemo. Good luck! Actually no luck involved here...keep yourself well hydrated, energized with healthy diet as much as you can. There will be side-effects, but you'll deal with them as they come. Different people react differently. My wife lost her hair, neutropenia (low wbc), , fatigue, and slight discoloration in her hands, but that's about it. Could have been worse. May I suggest that you get a print-out of the chemo that you are given that details possible side-effects. This will help you to be educated about what may or may not happen as you are on these drugs. Richard",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "pregnancy",
-              "pregnant",
-              "breast"
-            ],
+            "FemaleMedicalTerms": ["breast"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -352,15 +474,16 @@
           }
         }
       },
-      "MessageIndex": 19,
-      "PostDate": "01/03/2008",
-      "ThreadURL": "https://www.cancerforums.net/threads/6340-Breast-Cancer-that-speads?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Breast Cancer that speads"
+      "MessageIndex": 1,
+      "PostDate": "06/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6394-Update-on-my-breast-cancer-tests?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Update on my breast cancer tests"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Ann, Laughter is good. I pray that your days are filled with laughter much more than the other \"stuff.\" My wife will be resuming chemo in an out-patient status and will need to begin administering Neupogen injections. I am very positive that I will be the one doing it, but not looking forward to the next few months while she is on chemo, etc. I'm praying for you. Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "rosemarie, i'm happy that you are feeling more comfortable. this thread is timely. my wife has been recently given the bad news that her cancer has returned after 1 year in remission. in suti and no sign of metastsis, but cancer never the less... we (she) will be conferring with a surgeon in the days to come and i was wondering what she should expect from pre-op to post-op. how long is the hospital stay, discomfort after discharge, etc. thank you...",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -369,74 +492,23 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
             "NarratorGender": "male",
-            "PatientGender": "male"
+            "PatientGender": "female",
+            "Relation": "wife"
           }
         }
       },
-      "MessageIndex": 19,
-      "PostDate": "03/04/2008",
+      "MessageIndex": 4,
+      "PostDate": "13/04/2009",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/1298-Severe-pain-with-taxol-and-neupogen?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Severe pain with taxol and neupogen"
+      "ThreadURL": "https://www.cancerforums.net/threads/8593-New-here-and-about-to-have-a-mastectomy-advice-anyone?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "New here and about to have a mastectomy - advice anyone?"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Regi, I am deeply hurt by your diagnosis. But \"terminal\" is not a given! You need to do the best that you can to make certain that you have active support around you to help you research, question, prod about the treatment that you are getting. Ask about options, options, options. Look into finding clinical trials around the country if answers seem to stop coming. If you are depressed, and it sounds like that you may be, get help for that so that you are as much yourself to continue fighting this. My wife was diagnosed with metastatic breast cancer back in early December. It had spread to her brain, spine, liver, lymph nodes, bone in cranium, ribs, spinal column, AND she was pregnant! Drs. gave her a very poor prognosis. Didn't have much confidence that she would even make it through pregnancy. But three months later, we have a new daughter, the major cancer masses have disappeared and there is no sign of spread. I have been a tireless and defiant advocate for my wife. Trying to find out EVERYTHING about anything that would/could help her. We were fortunate to have fantastically compassionate and knowledgeable oncologists working with her. Of course her battle is far from over. It will never be over, but she is going to continue with her life as best she can. I know it! She going to be able to see her son and new daughter graduate, get married, have children, etc. For us, there is no other consideration right now. I wish I could be with you now to share/help in whatever way I can. It is clear that you have no intentions of packing it in, so don't. God will do his part. Be comforted by that. I don't know exactly what his role will be, but you need to use whatever strength you have to do your part. Believe me, I thank God for what he has done thus far, but my anger towards him in the beginning was palpable. But I am convinced that he has allowed me to do what I can for myself, my family and, of course, my wife. Be proactive, pray and you keep fighting this. The LOVE of your family, friends is a POWERFUL motivator. Use it. I will pray for you and your recovery. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "pregnancy",
-              "pregnant",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "01/03/2008",
-      "ThreadURL": "https://www.cancerforums.net/threads/6340-Breast-Cancer-that-speads?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Breast Cancer that speads"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Regi, I am deeply hurt by your diagnosis. But \"terminal\" is not a given! You need to do the best that you can to make certain that you have active support around you to help you research, question, prod about the treatment that you are getting. Ask about options, options, options. Look into finding clinical trials around the country if answers seem to stop coming. If you are depressed, and it sounds like that you may be, get help for that so that you are as much yourself to continue fighting this. My wife was diagnosed with metastatic breast cancer back in early December. It had spread to her brain, spine, liver, lymph nodes, bone in cranium, ribs, spinal column, AND she was pregnant! Drs. gave her a very poor prognosis. Didn't have much confidence that she would even make it through pregnancy. But three months later, we have a new daughter, the major cancer masses have disappeared and there is no sign of spread. I have been a tireless and defiant advocate for my wife. Trying to find out EVERYTHING about anything that would/could help her. We were fortunate to have fantastically compassionate and knowledgeable oncologists working with her. Of course her battle is far from over. It will never be over, but she is going to continue with her life as best she can. I know it! She going to be able to see her son and new daughter graduate, get married, have children, etc. For us, there is no other consideration right now. I wish I could be with you now to share/help in whatever way I can. It is clear that you have no intentions of packing it in, so don't. God will do his part. Be comforted by that. I don't know exactly what his role will be, but you need to use whatever strength you have to do your part. Believe me, I thank God for what he has done thus far, but my anger towards him in the beginning was palpable. But I am convinced that he has allowed me to do what I can for myself, my family and, of course, my wife. Be proactive, pray and you keep fighting this. The LOVE of your family, friends is a POWERFUL motivator. Use it. I will pray for you and your recovery. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "pregnancy",
-              "pregnant",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 29,
-      "PostDate": "01/03/2008",
-      "ThreadURL": "https://www.cancerforums.net/threads/6340-Breast-Cancer-that-speads?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Breast Cancer that speads"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "hi all, my wife's cancer has returned. let me explain: 1. recently found 2- 3mm size masses in lymph nodes. nodes removed. 2. left breast where carcinoma in situ seen, removed, reconstruction in process the oncologist originally thought chemo for 4 rounds, now says will continue with original strategy (PETs, MRIs, blood, mammogram every couple of months, etc.) no sign of any other spread. is this typical procedure after discovering cancer in lymphs? oncologist thought it better not to put her through affects of chemo for now. have been very happy with care thus far, but nagging question about why not chemo now? will speak with oncologist monday.",
       "Demographics": {
         "AgeInfo": [],
@@ -460,186 +532,12 @@
       "MessageIndex": 0,
       "PostDate": "04/07/2009",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/9631-Return-of-wife-s-cancer-No-chemo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/9631-Return-of-wife-s-cancer-No-chemo?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Return of wife's cancer: No chemo.....???"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Ann, Laughter is good. I pray that your days are filled with laughter much more than the other \"stuff.\" My wife will be resuming chemo in an out-patient status and will need to begin administering Neupogen injections. I am very positive that I will be the one doing it, but not looking forward to the next few months while she is on chemo, etc. I'm praying for you. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "male",
-            "PatientGender": "male"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "03/04/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/1298-Severe-pain-with-taxol-and-neupogen?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Severe pain with taxol and neupogen"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "John, I am praying for you, your family and your mother's family. I am sorry to hear the loss.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "25/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/5340-Stage-IV-with-mets-to-lungs?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Stage IV with mets to lungs"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Hang in there Ellen! Your attitude towards this is healthy and normal. Healthy because you've seen that living in perpetual fear that prevents you from enjoying life as you would have prior to this just doesn't help. Listen, why worry about what you cannot predict or ultimately control? God will do HIS part and you and your medical care will do the rest. Live on as God would want you to. As your would like to and like your family expects you to... Be positive. God Bless you on the mammogram. It's not about fear, but vigilance. It sounds like you're doing what you can. Live on!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "30/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7350-still-have-numbness-and-tenterness?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "still have numbness and tenterness"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "rosemarie, i'm happy that you are feeling more comfortable. this thread is timely. my wife has been recently given the bad news that her cancer has returned after 1 year in remission. in suti and no sign of metastsis, but cancer never the less... we (she) will be conferring with a surgeon in the days to come and i was wondering what she should expect from pre-op to post-op. how long is the hospital stay, discomfort after discharge, etc. thank you...",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "13/04/2009",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/8593-New-here-and-about-to-have-a-mastectomy-advice-anyone?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "New here and about to have a mastectomy - advice anyone?"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Chrystel, I believe a C1 is code for exactly what was told to you- inadequate sample. Meaning the sample taken was not enough to determine state of the tissues taken. Will they do another after the infection has subsided? The hardness of the lump alone is not enough to indicate whether is is malignant or not. My wife had a hard lump and it had metastasized. As you well know that determination will be made as soon as they get a workable sample of the tissue in question. I pray that you are okay. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "08/03/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6410-help-please-inadequate-biopsies-and-hard-areas?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "help please inadequate biopsies and hard areas......."
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "annerules, My wife was diagnosed with STAGE IV metastatic breast cancer in early December. She had lesions/tumors in her brain, skull, spinal lining, spinal column, liver, lymph nodes, and left breast. Though the prognosis was initially grim, no one EVER used the words terminal, palliative... In fact, the primary oncologist responsible for my wife's treatment reminded me that there are no guarantees, but then proceeded to talk about all the advancements and new treatments that have shown promise. He spoke to me about patients who should not have, but are living long after their initial diagnoses. Our oncologist was all about hope, hope and more hope. To top it all off, my wife was also pregnant. She is now transitioning to enter rehab to go home. The battle is not over, but she is where she is because of God and the medical professionals who go beyond the routine to care for their patients. Just a couple of days ago, after 4-rounds of chemo, 12-straight days of radiation, her PET scan showed no new tumors, in fact, no obvious signs of active soft-tissue cancer at all. She will be taking a 1-2 month break from chemo to strengthen before resuming chemo. Meanwhile, she is taking arimidex daily and infusion of aredia (for bone lesions) once per month. I will say this again and again, if there is hope, however small or unlikely, then never give up! Tell your mother that! Love your mother and be an advocate as much as possible. Be an educated one, though. Do research on her disease, treatments, etc. Ask your mother if you can have access to medical information so that you can be a better advocate. If the doctors at the hospital seem uninterested in investigating or trying other options, then I would suggest thinking about getting another opinion elsewhere. Some doctors are slower to the new treatments then others. We were lucky to have one who was always in the forefront of cancer treatment evolution/options. I am sorry for your mother's diagnosis. But unless your mother has given in, there is hope. Be with her and encourage her. Let her know that you want to be an integral part of her struggles/worries. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "pregnant",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "01/03/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/5843-Advanced-Breast-Cancer-good-treatments?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Advanced Breast Cancer/good treatments"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Chrystel, Hope all is well with your recent test(s). I'm not certain why they can't do tests using the mass removed during the lumpectomy. Are they planning any other tests/scans? As for isolation, just know that we are here at least. Continue sharing your feelings/concerns and the good people here will try to help you through this as best possible. The sense of isolation is absolutely natural. I've been trying to be a strong advocate for my wife and the feeling of isolation is a common feeling for me. But I try my best to have positive and supportive people around me. I hope you do too. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "male",
-            "PatientGender": "male"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "15/03/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6410-help-please-inadequate-biopsies-and-hard-areas?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "help please inadequate biopsies and hard areas......."
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "christinagale, I don't know how old you are, but let us know what is going on. Other than that, love your aunt and do what she needs from you. Be supportive, love her, be an advocate for her and try to find out as much as you can about her disease, treatments, so that you are better educated to what is or will be happening. Just be there for her. My prayers go out to your aunt and family. Be strong...",
       "Demographics": {
         "AgeInfo": [],
@@ -659,18 +557,18 @@
       "MessageIndex": 4,
       "PostDate": "25/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7206-Help-me?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/7206-Help-me?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Help me"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Ann, Praying for you! The sooner the better! Just curious, why not a FAC (fluorouracil, adriamycin, cytoxan[Cyclophosphamide]) cocktail of chemo? I've read a good deal of research showing the efficacy of this combination for breast cancer and my wife who has been diagnosed with Stage IV received it and has responded wonderfully to it. All of your soft-tissue tumors have disappeared as per PET/CT scans seem to indicate. Her tumor in her breast literally disappeared within 4-weeks of chemo. Good luck! Actually no luck involved here...keep yourself well hydrated, energized with healthy diet as much as you can. There will be side-effects, but you'll deal with them as they come. Different people react differently. My wife lost her hair, neutropenia (low wbc), , fatigue, and slight discoloration in her hands, but that's about it. Could have been worse. May I suggest that you get a print-out of the chemo that you are given that details possible side-effects. This will help you to be educated about what may or may not happen as you are on these drugs. Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Hang in there Ellen! Your attitude towards this is healthy and normal. Healthy because you've seen that living in perpetual fear that prevents you from enjoying life as you would have prior to this just doesn't help. Listen, why worry about what you cannot predict or ultimately control? God will do HIS part and you and your medical care will do the rest. Live on as God would want you to. As your would like to and like your family expects you to... Be positive. God Bless you on the mammogram. It's not about fear, but vigilance. It sounds like you're doing what you can. Live on!",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": ["mammogram"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -680,121 +578,14 @@
         }
       },
       "MessageIndex": 1,
-      "PostDate": "06/03/2008",
+      "PostDate": "30/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6394-Update-on-my-breast-cancer-tests?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Update on my breast cancer tests"
+      "ThreadURL": "https://www.cancerforums.net/threads/7350-still-have-numbness-and-tenterness?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "still have numbness and tenterness"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "My thoughts and prayers are with you and your wife. . Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 18,
-      "PostDate": "02/02/2009",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/5503-I-must-not-have-looked-far-enough?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "I must not have looked far enough..."
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Thanks Vee. My wife was 39 when she was diagnosed with stage iv and medical records of past OBGYN indicates (and she remembers) that she had expressed concern about a lump in her breast 2-years prior to that. That's another story... I think it criminal that as women are getting breast cancer younger than even 40 (and my wife's oncologist says that he is seeing younger and younger women diagnosed, not necessarily more) that there isn't even something as simple as a yearly mammogram recommended for preventative measures. I pray that this lobby group gets something in terms of reasonable and sensible preventative care/mammograms. I wonder if there is a group here that is doing the same? Imagine how much the insurance company would have \"saved\" if my wife was in the midst of routine, covered mammograms? No guarantee, but I am certain that something would have been detected long before her diagnosis. Thank you.",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> My wife was 39 when she was diagnosed with",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 39
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "mammogram",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "26/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7318-Cancer-Survivors-How-often-do-you-visit-your-oncologist?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Cancer Survivors: How often do you visit your oncologist?"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Have to definitely disagree with the doctor's 50% assessment. He doesn't know w/ any certainty. My wife was diagnosed with Stage IV and given almost no chance of survival. She is currently in remission and recovering. Had great doctors, nurses, and a lot of friends praying for her (us). She is approaching 1-year w/o recurrence. Please do not succumb to statistics. Be realistic, be prepared, be informed, and be around family, friends and medical personnel that give you hope and stability in perspective. Stay strong. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "31/01/2009",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/8338-New-to-sight-survivor-stories-and-lobulars?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "New to sight...survivor stories and lobulars"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Eleanor, I am deeply sorry for your loss. I do hope and pray that you are able to grieve with loved ones for support at this time. I would be there with you if I could. In addition to making it a day of independence, have you thought about it being a day to give back to causes/activities that are in the forefront of cancer research and battle? It would be a wonderful way to remember you mother by and help make her passing not an end to her and her memories, rather a continuation of hope for those who continue to and will battle this terrible disease. Just a thought. And I do hope that I have not been intrusive or presumptuous in suggesting this. God bless you and I do pray for you and your family.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "25/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7204-FINAL-DAY-ARE-OVER?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "FINAL DAY ARE OVER............"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "As Vee has suggested- get tested. Richard",
       "Demographics": {
         "AgeInfo": [],
@@ -813,13 +604,13 @@
       "MessageIndex": 2,
       "PostDate": "02/03/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6249-Am-I-worrying-too-much-about-lack-of-family-history?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/6249-Am-I-worrying-too-much-about-lack-of-family-history?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Am I worrying too much about lack of family history?"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "carolbell, First of all, I am sorry to hear about your diagnosis and the crud that goes along with having this crappy disease! I am not certain if all of the details, but with what you have written, he doesn't know, wouldn't know, etc. w/o doing some kind of test/scan, etc. Make it simple, ask him \"HOW\" he knows that you are cancer free! Ask him to show scans, tests that show this, if not, go elsewhere to find out. I pray to God that he is correct, but you need something more than his word. Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Eleanor, I am deeply sorry for your loss. I do hope and pray that you are able to grieve with loved ones for support at this time. I would be there with you if I could. In addition to making it a day of independence, have you thought about it being a day to give back to causes/activities that are in the forefront of cancer research and battle? It would be a wonderful way to remember you mother by and help make her passing not an end to her and her memories, rather a continuation of hope for those who continue to and will battle this terrible disease. Just a thought. And I do hope that I have not been intrusive or presumptuous in suggesting this. God bless you and I do pray for you and your family.",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -833,21 +624,21 @@
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "14/08/2008",
+      "MessageIndex": 5,
+      "PostDate": "25/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7461-New-here-need-advice?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "New here need advice"
+      "ThreadURL": "https://www.cancerforums.net/threads/7204-FINAL-DAY-ARE-OVER?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "FINAL DAY ARE OVER............"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Sue, You are not alone and your feelings are very normal, common and reflective of what I am going through now. My wife has been diagnosed with Stage IV breast cancer and has made some amazing strides in the past 4-months. But I am haunted by what I have had to observe in her struggle to beat this insidious disease. I am deeply sorry for your loss. But being the \"rock\" or the \"foundation\" of the family does not preclude allowing you to mourn, cry or just have a little melt-down at times. The fact of the matter is, as I have concluded, your ability to cry only further reinforces your strength, your love, your commitment to your family. Don't bottle it in. Remember, even Jesus wept. Not a sign of weakness, but of a love for someone that transcends this world. I have cried a lot these past 4-months and I continue to weep whenever images of my wife's struggling face of the not too distant past haunts me. I will never be able to cleanse myself of the images no matter what happens. I have a 2-year son and a new 1-month baby. There is the dreaded possibility that I may have to raise them alone (GOD forbid!), but it is my love for my family that keeps me from falling completely apart. Find good family AND friend support to help you feel comfortable about crying...being human. Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I am curious to know just how often survivors continue visiting their oncologists. It seems to me that the absence of cancer should not be regarded as \"cured\" and that regular visits should be the mainstay of any cancer survivors post-cancer regimen. God knows that recurrence is a possible fact of life and that careful and preemptive vigilance should be a part of making certain that this insidious disease does not take hold again or is contained as much as possible. I have and hope that my wife's regimen will involve monthly blood tests (CA2729) at least. And scans every quarter at least. I pray that our insurance company is more proactive and better suited to preventative measures in this regard. Thank you.",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -858,15 +649,15 @@
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "28/03/2008",
+      "MessageIndex": 0,
+      "PostDate": "25/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6523-I-don-t-know-how-to-deal-with-this?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "I don't know how to deal with this,."
+      "ThreadURL": "https://www.cancerforums.net/threads/7318-Cancer-Survivors-How-often-do-you-visit-your-oncologist?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Cancer Survivors: How often do you visit your oncologist?"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Vee, I apologize, but I just want to make certain I understood your response. So, one visits every 3 months during the 1st year and every 6 months during the next 4 years? Do any of these visits involve MRI, PET scans? CA2729 checks? Also, in the UK, mammograms are from age 45-65? Is that the recommendation of the British health officials? In the USA, mammograms are recommended beginning at age 40. Thank you.",
       "Demographics": {
         "AgeInfo": [
@@ -908,37 +699,47 @@
       "MessageIndex": 2,
       "PostDate": "26/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7318-Cancer-Survivors-How-often-do-you-visit-your-oncologist?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/7318-Cancer-Survivors-How-often-do-you-visit-your-oncologist?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Cancer Survivors: How often do you visit your oncologist?"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I am curious to know just how often survivors continue visiting their oncologists. It seems to me that the absence of cancer should not be regarded as \"cured\" and that regular visits should be the mainstay of any cancer survivors post-cancer regimen. God knows that recurrence is a possible fact of life and that careful and preemptive vigilance should be a part of making certain that this insidious disease does not take hold again or is contained as much as possible. I have and hope that my wife's regimen will involve monthly blood tests (CA2729) at least. And scans every quarter at least. I pray that our insurance company is more proactive and better suited to preventative measures in this regard. Thank you.",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Thanks Vee. My wife was 39 when she was diagnosed with stage iv and medical records of past OBGYN indicates (and she remembers) that she had expressed concern about a lump in her breast 2-years prior to that. That's another story... I think it criminal that as women are getting breast cancer younger than even 40 (and my wife's oncologist says that he is seeing younger and younger women diagnosed, not necessarily more) that there isn't even something as simple as a yearly mammogram recommended for preventative measures. I pray that this lobby group gets something in terms of reasonable and sensible preventative care/mammograms. I wonder if there is a group here that is doing the same? Imagine how much the insurance company would have \"saved\" if my wife was in the midst of routine, covered mammograms? No guarantee, but I am certain that something would have been detected long before her diagnosis. Thank you.",
       "Demographics": {
-        "AgeInfo": [],
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> My wife was 39 when she was diagnosed with",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 39
+        }],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
             "NarratorGender": "male",
-            "PatientGender": "male"
+            "PatientGender": "female",
+            "Relation": "wife"
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "25/07/2008",
+      "MessageIndex": 4,
+      "PostDate": "26/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7318-Cancer-Survivors-How-often-do-you-visit-your-oncologist?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/7318-Cancer-Survivors-How-often-do-you-visit-your-oncologist?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Cancer Survivors: How often do you visit your oncologist?"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "My thoughts and prayers are with you and your wife. . Richard",
       "Demographics": {
         "AgeInfo": [],
@@ -953,117 +754,15 @@
           }
         }
       },
-      "MessageIndex": 8,
+      "MessageIndex": 18,
       "PostDate": "02/02/2009",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/5503-I-must-not-have-looked-far-enough?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/5503-I-must-not-have-looked-far-enough?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "I must not have looked far enough..."
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "nameniels, I completely understand the issue of metastasis. I am not suggesting that \"just\" removing the sternum will be the answer to removing all of the cancer, rather, if it is the only area that the cancer is detected and it seems to be more stubborn to treatment after all this time, I am uncertain as to why it is not removed so that \"it\" does not create additional problems. After re-reading your post it seems that the treatment has prevented spread, but not reduced cancer in sternum. You said that a surgeon had suggested removal and reconstruction. Is your wife's oncologist the final word? Can you get approval from another physician (oncologist)? It seems to me that US doctors are more aggressive about cancer, but that's not always a good thing. And like many other places, not all US hospitals or doctors are are knowledgeable or \"aggressive\" in their treatment plans. But in your case, if you cannot find anyone there, why not search in nearby countries? UK? Or is it easier just to go to the US? What about insurance? Will you be able to pay for a procedure abroad? Things to consider... There are plenty of high quality cancer centers/hospitals that would likely do it. But make certain that you have a means to pay for it. I would contact the American Embassy or hospitals themselves. In fact, why not contact your health ministry and find how to go about seeking international health assistance/facilities. I keep your wife, yourself and family in my prayers.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "29/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7338-Cancer-cells-in-Sternum?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Cancer cells in Sternum"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "My wife has been on supplemental Potassium and that could be the issue. I hope it's as simple as that....",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 18,
-      "PostDate": "17/04/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "spiritlead, 1. My wife was recently diagnosed with stage iv breast cancer which had spread to brain among other places! 2. pregnant, option of abortion introduced, but never encouraged by physicians, oncologists. in fact, plan of action seemed always to be to help baby to a certain point AND treat mother. we are firmly in the belief that GOD was responsible for bringing the medical/social professionals and team together that helped my wife. PERIOD. Another curious thing is that the ONLY people that I thought questioned our decision to keep the baby were the most religious among us... 3. GOD IS GREAT! But if you think that all this knowledge is to be ignored or dismissed, then you fail to see one of the many ways that GOD helps us to help ourselves 4. All your faith in GOD alone, why the diet change and herbs? Both indications that you are using the knowledge and resources that GOD has provided us. 5. And you and I, and many others know that our faith alone does not guarantee that everyone will be spared. I am still trying to cope with this fact. There are some who do not share our faith and rely on the medicines and technology and advice given to them. As people of faith, our duty is to offer hope that is most meaningful \"in this world.\" God will take care of the rest. 6. Your tumor is slow growing. So, it is not shrinking? You pray that it will disappear on its own. God willing, not your willing. I pray that it will. But please do not presume to think that you know what GOD's will is for you or anybody else. 7. My wife is cancer free! My new born daughter is healthy! I thank GOD, the compassionate physicians and nurses and the compassionate people who continue to make hope a reality for people of and those w/o faith. I apologize if I sound a little harsh. One of many things I learned from this chapter in my life is that the most religious among us sometimes provide some of the most myopic advice and words of encouragement. God didn't bring us into this world to accept the inevitability of death dismissively. God provides us with many tools to help deal with this natural world. We need to do a better job utilizing them and HIM as we struggle to maintain hope, health... As per emphasis: I believe in the power of GOD and believe that diet has an enormous impact in how and what our bodies respond to. But I also believe that all this knowledge that we have gained to help fight diseases is also a gift from GOD!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "pregnant",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "male",
-            "PatientGender": "male"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "26/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7323-Tried-Essiac?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Tried Essiac?"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I'm not certain how the whole EU relationship works when it comes to citizens seeking medical health in other EU countries, but I would certainly try countries like Germany (as Vee suggested), or France. I have no doubt that Denmark has \"one of the best...\", but that certainly does not mean that it has the specialists that one needs. About health insurance...that is the ever-perpetuation debate in our country. Universal health coverage or no. Many more Americans and beginning to see that universal health insurance should at least be seriously debated and with over 40-50+ million \"working\" Americans w/o health insurance at all, it should be debated. It comes down to cost in my opinion. It's insane how our country fails to ask the primary question as to why health insurance is so precarious in our country- COST. Why does everything cost so much? When you get charged $12 for a single aspirin in a hospital, there is something seriously wrong! In the end, the USA has \"the best medical expertise as a whole in the world.\" Not always something to be proud of considering we get clobbered by the costs that it brings with it... Anyway, i don't want to digress from your needs. Have you spoken seriously with the surgeon? How does she/he feel about such a procedure? Confident? Has a plan? Any experience with such surgery? Otherwise, definitely seek outside expertise if you choose to.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "29/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7338-Cancer-cells-in-Sternum?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Cancer cells in Sternum"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "acyunne, I am sorry to hear about your fiance. I must agree that there is no certain or better way to determine if the tumors are benign or malignant than by biopsy. That should be done as soon as possible. If the doctor (is he or she an oncologist?) says that the only way to cure is by surgery, then that should be a short-term event. Not 3-months from now, not in a year after you get married, etc. The very idea that a doctor (radiologist) suggested that you start a family and that would improve her breast, etc. and that there is NOTHING to worry about is just WRONG! The facts are that your fiance has tumors. No biopsy has been done to verify virulence of cells. No surgery has been scheduled (right?) to remove tumors IN BOTH BREASTS. She is complaining of pain...acyunne, these are all indications and symptoms of things that are just not right. Without knowing the nature of the tumor cells, pregnancy may become a tremendous catalyst for the rapid growth of these cells! If the cells are hormone receptor positive, pregnancy will undoubtedly FEED the cancer! I know. The cancer cells in my wife were hormone receptor positive, she was pregnant, and the increased expression of hormones during her pregnancy almost certainly contributed to the rapid growth and spread of the cancer throughout her body. Please do everything possible to get the following done: 1. biopsy of the tumors 2. surgical removal and/or timely treatment based upon biopsy (surgery, radiation, etc.) 3. Get an MRI and/or PET scan. It is true that the breast of women under the age of 40 are more dense and mammograms are not as efficient, but there are other tests/scans. 4. One study suggest that approx. 6% of women (in the USA) below the age of 40 are diagnosed with breast cancer. That's \"diagnosed.\" There is no definitive study that sheds light on just how many women diagnosed after 40 didn't already have cancer formation \"prior\" to the age of 40. My wife, unfortunately, fell into the 6% category. I'm not trying to place additional fear into your heart, but this is not a matter to dismiss without making EVERY effort to make certain that your future wife's concerns (AND YOURS!) are addressed thoroughly. I don't know how the medical system works there, or if you can get varying opinions on your fiance's situation, but delay is not an option. I'm sorry, but I have been through too much and have watched my wife go through too much to put this lightly in any context. I pray for your fiance and you! Be a strong and support advocate for her... Richard",
       "Demographics": {
         "AgeInfo": [
@@ -1108,140 +807,12 @@
       "MessageIndex": 4,
       "PostDate": "09/09/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7568-Need-Help!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/7568-Need-Help!?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Need Help!"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Hello folks! I wasn't certain where to place this post. Just wanted to let you know of my wife's status/progress. My wife has been transferred to a local REHAB center that is located within a hospital. After all that she has been through, it was imperative that the rehab was located within a hospital. As has been the case, nothing ever goes smoothly it seems. The first 3-days she vomited continuously and after recent surgery, that has subsided considerably. DARN nausea! And this is 5-weeks since her last chemo and 3-weeks since giving birth. Despite progress in the cancer area, chemo and other trauma endured during the 3-months in ICU has done some ugly things to her other bodily systems, notably the GI. She continues to struggle to maintain her strength to continue with rehab and has lost 25% of her weight since this all began. But she continues to FIGHT. She's on Arimidex for now. After rehab and some recuperation, she will resume her last 4-rounds of chemo and begin Aredia. Most importantly, she will be home!!! Hopefully this will be a reality in about 2-weeks. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "13/03/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "My wife has been on supplemental Potassium and that could be the issue. I hope it's as simple as that....",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "17/04/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Vee, That's good news, right? Thank God for the findings. I am praying and thinking of you! I know how distressing just waiting for the scan results can be. Taxol: http://www.chemocare.com/bio/taxol.asp Avastin: http://www.chemocare.com/bio/avastin.asp Xeloda (capicitibine): http://www.chemocare.com/bio/xeloda.asp I hope this helps, if you haven't already read-up on them. The site above provides information in manageable dosage, I think. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "14/03/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6436-Scan-results-tomorrow?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Scan results tomorrow"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "G696, I am sorry to hear of the discovery. Please speak with an oncologist. He/She is best qualified to coordinate best course of action. See an oncologist and he/she will coordinate with surgeons and radiation oncologists to your treatment. It is also possible that the primary oncologist may also perform surgery and or radiation, but these areas are typically very specialized. I believe that the TE-2 is a somatic mutation found in some cancer cells. It sounds like they used its existence as a way to confirm cancer cell line in your particular case. My prayers are with you! Hang in there and find a good oncologist. Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "HealthProfessional": "oncologist",
-            "MainSubject": "oncologist",
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "19/08/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7498-I-have-just-been-diagnosed-with-DCIS-and-need-guidance?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "I have just been diagnosed with DCIS and need guidance"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "spiritlead, everyone else, I do apologize for my tone. My reaction to the original post only re-reminded me of the most disappointing and, frankly, \"useless\" elements of our support-system during the darkest days of my wife's battle. Having NEVER lost hope (i dare not allow myself to), the most \"religious\" around me proved to be the most unsupportive and only negligibly pro-active. I do pray that your tumor is tamed by God's power and that you will never face the grim prospects that my wife once had to face. To this day as I watch my wife recover, I am haunted by what I had to consider, see. I am sorry...",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "male",
-            "PatientGender": "male"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "26/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7323-Tried-Essiac?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Tried Essiac?"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Nameniels, I'm praying for your wife's full recovery and your continued advocacy. My wife was diagnosed with stage iv in December with mets in spine, skull, ribs and hip, among other places. She is making a miraculous recovery! As per her bone issues, chemo, CAF and radiation seems to have been enough. It's interesting that the cancer in sternum is not or has not been responding. Also, has it improved or is it getting worse, same? Frankly, I would get second/third opinion from another oncologist on this. If these cells prove to be more resistance/aggressive, and it's the only place that the scans have detected them, I sure as heck would seriously ask my oncologist what harm would there be to remove the sternum and go through reconstructive surgery. Also, hearing your oncologist say that once it's spread surgery is useless when the scans reveal active cells in the sternum only and after repeated treatment bothers me. Take care of your wife and be the type of advocate that takes your wife's health as priority one. In other words, don't take the oncologist's dismissal as the final word. God bless...",
       "Demographics": {
         "AgeInfo": [],
@@ -1262,13 +833,112 @@
       "MessageIndex": 1,
       "PostDate": "29/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7338-Cancer-cells-in-Sternum?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/7338-Cancer-cells-in-Sternum?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Cancer cells in Sternum"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Vee, The doctors have yet to let us down. I have a background in AML cancer and pathogenic research (now teaching computer science in a high school ) and I have always been in the forefront of my wife's treatment. I have exhaustively asked countless questions and remain in the center of all treatment options, etc. Doctors are convinced that her nausea/vomiting is from a pre-existing (prior to rehab) reflux condition. Treatment options have been considered and discussed and I am happy to go with them for a few days. I am ALWAYS considering, researching and inquiring about complementary/alternative treatment options. I have been very happy allowing the doctors to be the experts in this. There is one thing I am completely convinced of, if one has an educated/informed and persistent (not rude or with a sense of entitlement), that everyone is kept on their toes. Thank you. BTW, regardless of one's background, one cannot be ready for the emotional turmoil that accompanies being in the role of the primary and sole advocate. Years of science education and research and I felt helpless most of the time. BUT it sure makes the process easier as one tries to put things together... Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "nameniels, I completely understand the issue of metastasis. I am not suggesting that \"just\" removing the sternum will be the answer to removing all of the cancer, rather, if it is the only area that the cancer is detected and it seems to be more stubborn to treatment after all this time, I am uncertain as to why it is not removed so that \"it\" does not create additional problems. After re-reading your post it seems that the treatment has prevented spread, but not reduced cancer in sternum. You said that a surgeon had suggested removal and reconstruction. Is your wife's oncologist the final word? Can you get approval from another physician (oncologist)? It seems to me that US doctors are more aggressive about cancer, but that's not always a good thing. And like many other places, not all US hospitals or doctors are are knowledgeable or \"aggressive\" in their treatment plans. But in your case, if you cannot find anyone there, why not search in nearby countries? UK? Or is it easier just to go to the US? What about insurance? Will you be able to pay for a procedure abroad? Things to consider... There are plenty of high quality cancer centers/hospitals that would likely do it. But make certain that you have a means to pay for it. I would contact the American Embassy or hospitals themselves. In fact, why not contact your health ministry and find how to go about seeking international health assistance/facilities. I keep your wife, yourself and family in my prayers.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "29/07/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7338-Cancer-cells-in-Sternum?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Cancer cells in Sternum"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "My thoughts and prayers are with you and your wife. . Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "02/02/2009",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/5503-I-must-not-have-looked-far-enough?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "I must not have looked far enough..."
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Vee, That's good news, right? Thank God for the findings. I am praying and thinking of you! I know how distressing just waiting for the scan results can be. Taxol: http://www.chemocare.com/bio/taxol.asp Avastin: http://www.chemocare.com/bio/avastin.asp Xeloda (capicitibine): http://www.chemocare.com/bio/xeloda.asp I hope this helps, if you haven't already read-up on them. The site above provides information in manageable dosage, I think. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "14/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6436-Scan-results-tomorrow?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Scan results tomorrow"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "spiritlead, 1. My wife was recently diagnosed with stage iv breast cancer which had spread to brain among other places! 2. pregnant, option of abortion introduced, but never encouraged by physicians, oncologists. in fact, plan of action seemed always to be to help baby to a certain point AND treat mother. we are firmly in the belief that GOD was responsible for bringing the medical/social professionals and team together that helped my wife. PERIOD. Another curious thing is that the ONLY people that I thought questioned our decision to keep the baby were the most religious among us... 3. GOD IS GREAT! But if you think that all this knowledge is to be ignored or dismissed, then you fail to see one of the many ways that GOD helps us to help ourselves 4. All your faith in GOD alone, why the diet change and herbs? Both indications that you are using the knowledge and resources that GOD has provided us. 5. And you and I, and many others know that our faith alone does not guarantee that everyone will be spared. I am still trying to cope with this fact. There are some who do not share our faith and rely on the medicines and technology and advice given to them. As people of faith, our duty is to offer hope that is most meaningful \"in this world.\" God will take care of the rest. 6. Your tumor is slow growing. So, it is not shrinking? You pray that it will disappear on its own. God willing, not your willing. I pray that it will. But please do not presume to think that you know what GOD's will is for you or anybody else. 7. My wife is cancer free! My new born daughter is healthy! I thank GOD, the compassionate physicians and nurses and the compassionate people who continue to make hope a reality for people of and those w/o faith. I apologize if I sound a little harsh. One of many things I learned from this chapter in my life is that the most religious among us sometimes provide some of the most myopic advice and words of encouragement. God didn't bring us into this world to accept the inevitability of death dismissively. God provides us with many tools to help deal with this natural world. We need to do a better job utilizing them and HIM as we struggle to maintain hope, health... As per emphasis: I believe in the power of GOD and believe that diet has an enormous impact in how and what our bodies respond to. But I also believe that all this knowledge that we have gained to help fight diseases is also a gift from GOD!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "pregnant",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "26/07/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7323-Tried-Essiac?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Tried Essiac?"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "spiritlead, everyone else, I do apologize for my tone. My reaction to the original post only re-reminded me of the most disappointing and, frankly, \"useless\" elements of our support-system during the darkest days of my wife's battle. Having NEVER lost hope (i dare not allow myself to), the most \"religious\" around me proved to be the most unsupportive and only negligibly pro-active. I do pray that your tumor is tamed by God's power and that you will never face the grim prospects that my wife once had to face. To this day as I watch my wife recover, I am haunted by what I had to consider, see. I am sorry...",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1284,16 +954,16 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "13/03/2008",
+      "MessageIndex": 4,
+      "PostDate": "26/07/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
+      "ThreadURL": "https://www.cancerforums.net/threads/7323-Tried-Essiac?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Tried Essiac?"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Just when things were looking up... My wife has had a set-back. She is now bleeding within her GI and doctors are hoping to ID the source of bleed. She vomited coffee-ground consistency blood all afternoon and evening. She is being given a new round of drugs to help with clotting, but because she has been on coumadin, the bleeding has been an issue. AAAAAAAAAAAAAAAAAAAAAAAARGH!",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I'm not certain how the whole EU relationship works when it comes to citizens seeking medical health in other EU countries, but I would certainly try countries like Germany (as Vee suggested), or France. I have no doubt that Denmark has \"one of the best...\", but that certainly does not mean that it has the specialists that one needs. About health insurance...that is the ever-perpetuation debate in our country. Universal health coverage or no. Many more Americans and beginning to see that universal health insurance should at least be seriously debated and with over 40-50+ million \"working\" Americans w/o health insurance at all, it should be debated. It comes down to cost in my opinion. It's insane how our country fails to ask the primary question as to why health insurance is so precarious in our country- COST. Why does everything cost so much? When you get charged $12 for a single aspirin in a hospital, there is something seriously wrong! In the end, the USA has \"the best medical expertise as a whole in the world.\" Not always something to be proud of considering we get clobbered by the costs that it brings with it... Anyway, i don't want to digress from your needs. Have you spoken seriously with the surgeon? How does she/he feel about such a procedure? Confident? Has a plan? Any experience with such surgery? Otherwise, definitely seek outside expertise if you choose to.",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1302,29 +972,51 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "29/07/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7338-Cancer-cells-in-Sternum?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Cancer cells in Sternum"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "carolbell, First of all, I am sorry to hear about your diagnosis and the crud that goes along with having this crappy disease! I am not certain if all of the details, but with what you have written, he doesn't know, wouldn't know, etc. w/o doing some kind of test/scan, etc. Make it simple, ask him \"HOW\" he knows that you are cancer free! Ask him to show scans, tests that show this, if not, go elsewhere to find out. I pray to God that he is correct, but you need something more than his word. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
       "MessageIndex": 3,
-      "PostDate": "25/03/2008",
+      "PostDate": "14/08/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
+      "ThreadURL": "https://www.cancerforums.net/threads/7461-New-here-need-advice?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "New here need advice"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Vee, The doctors have yet to let us down. I have a background in AML cancer and pathogenic research (now teaching computer science in a high school ) and I have always been in the forefront of my wife's treatment. I have exhaustively asked countless questions and remain in the center of all treatment options, etc. Doctors are convinced that her nausea/vomiting is from a pre-existing (prior to rehab) reflux condition. Treatment options have been considered and discussed and I am happy to go with them for a few days. I am ALWAYS considering, researching and inquiring about complementary/alternative treatment options. I have been very happy allowing the doctors to be the experts in this. There is one thing I am completely convinced of, if one has an educated/informed and persistent (not rude or with a sense of entitlement), that everyone is kept on their toes. Thank you. BTW, regardless of one's background, one cannot be ready for the emotional turmoil that accompanies being in the role of the primary and sole advocate. Years of science education and research and I felt helpless most of the time. BUT it sure makes the process easier as one tries to put things together... Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Sue, You are not alone and your feelings are very normal, common and reflective of what I am going through now. My wife has been diagnosed with Stage IV breast cancer and has made some amazing strides in the past 4-months. But I am haunted by what I have had to observe in her struggle to beat this insidious disease. I am deeply sorry for your loss. But being the \"rock\" or the \"foundation\" of the family does not preclude allowing you to mourn, cry or just have a little melt-down at times. The fact of the matter is, as I have concluded, your ability to cry only further reinforces your strength, your love, your commitment to your family. Don't bottle it in. Remember, even Jesus wept. Not a sign of weakness, but of a love for someone that transcends this world. I have cried a lot these past 4-months and I continue to weep whenever images of my wife's struggling face of the not too distant past haunts me. I will never be able to cleanse myself of the images no matter what happens. I have a 2-year son and a new 1-month baby. There is the dreaded possibility that I may have to raise them alone (GOD forbid!), but it is my love for my family that keeps me from falling completely apart. Find good family AND friend support to help you feel comfortable about crying...being human. Richard",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": ["breast"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -1335,42 +1027,16 @@
           }
         }
       },
-      "MessageIndex": 12,
-      "PostDate": "13/03/2008",
+      "MessageIndex": 4,
+      "PostDate": "28/03/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
+      "ThreadURL": "https://www.cancerforums.net/threads/6523-I-don-t-know-how-to-deal-with-this?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "I don't know how to deal with this,."
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "After about 4-weeks of no vomiting, my wife's vomiting has returned with a vengeance It seems to be related to her stomach discomfort (burning sensation, indigestion), but no idea where and why it is occurring. Zofran doesn't seem to be working as well as it had. My wife will be beginning infusions of Aredia in about 2-weeks. Anyone experience this drug? Richard",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "16/04/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Dealing with issues other than chemo, but making progress!"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Just to update you all, MyMaria, my wife, is cancer free! THANK GOD! Recent PET, MRI indicates that there is no sign of active cancer. CA2729 had been dropping since chemo back in March. My wife continues to increase her stamina and strength, but it continues to be difficult for her. Still has some bouts of nausea and continues to take a number of medications to help cope with issues that resulted from cancer. The cancer didn't leave w/o doing some damage to her vertebra. One of her thoracic vertebra collapsed and recent surgery has helped to reestablish it's functionality so that back pain has mostly disappeared. She continues to take Aredia every four weeks, hormone therapy daily, and visits her oncologist every 4-weeks to get CA2729 checked. The interesting thing is that her oncologist will not use the word remission. And I frankly appreciate that. He has been phenomenal throughout her recovery and has been a confident and reassuring beacon of compassion and competence. We are aware that our journey and vigilance has just begun and life will never be the same again. But this is the chance that GOD has given us to reassess and use our experience to help others with this disease. Thank GOD! Thank you all for your support!",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Hello folks! I wasn't certain where to place this post. Just wanted to let you know of my wife's status/progress. My wife has been transferred to a local REHAB center that is located within a hospital. After all that she has been through, it was imperative that the rehab was located within a hospital. As has been the case, nothing ever goes smoothly it seems. The first 3-days she vomited continuously and after recent surgery, that has subsided considerably. DARN nausea! And this is 5-weeks since her last chemo and 3-weeks since giving birth. Despite progress in the cancer area, chemo and other trauma endured during the 3-months in ICU has done some ugly things to her other bodily systems, notably the GI. She continues to struggle to maintain her strength to continue with rehab and has lost 25% of her weight since this all began. But she continues to FIGHT. She's on Arimidex for now. After rehab and some recuperation, she will resume her last 4-rounds of chemo and begin Aredia. Most importantly, she will be home!!! Hopefully this will be a reality in about 2-weeks. Richard",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1388,88 +1054,14 @@
         }
       },
       "MessageIndex": 0,
-      "PostDate": "25/07/2008",
+      "PostDate": "13/03/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7316-MyMaria-is-cancer-free!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "MyMaria is cancer free!"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "THANK YOU!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "27/07/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7316-MyMaria-is-cancer-free!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "MyMaria is cancer free!"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Just when things were looking up... My wife has had a set-back. She is now bleeding within her GI and doctors are hoping to ID the source of bleed. She vomited coffee-ground consistency blood all afternoon and evening. She is being given a new round of drugs to help with clotting, but because she has been on coumadin, the bleeding has been an issue. AAAAAAAAAAAAAAAAAAAAAAAARGH!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "wife",
-            "NarrationType": "second-person",
-            "NarratorGender": "male",
-            "PatientGender": "female",
-            "Relation": "wife"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "25/03/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Dealing with issues other than chemo, but making progress!"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "carolbell, This is the most peculiar thing I have ever heard. Well, if the statistics are in your favor, that does not mean that you are free from the cancer! Statistics? I can't believe that was the explanation he gave. That, sorry to say, should not be acceptable. Let him know that you want a scan that is a much more reasonable indicator of the absence/presence of cancer than just statistics. In this medical case, I believe doing a scan that may be construed as unnecessary is worth doing anyway. He cannot guarantee w/o such a test/scan that all of the cells have been eradicated. Also, the cells were estrogen+. What is to stop the cells from becoming active again w/o hormone inhibition?",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["estrogen"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "15/08/2008",
-      "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/7460-New-Here-Need-Advice-Please?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "New Here, Need Advice Please"
-    },
-    {
-      "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Hello folks! I wasn't certain where to place this post. Just wanted to let you know of my wife's status/progress. My wife has been transferred to a local REHAB center that is located within a hospital. After all that she has been through, it was imperative that the rehab was located within a hospital. As has been the case, nothing ever goes smoothly it seems. The first 3-days she vomited continuously and after recent surgery, that has subsided considerably. DARN nausea! And this is 5-weeks since her last chemo and 3-weeks since giving birth. Despite progress in the cancer area, chemo and other trauma endured during the 3-months in ICU has done some ugly things to her other bodily systems, notably the GI. She continues to struggle to maintain her strength to continue with rehab and has lost 25% of her weight since this all began. But she continues to FIGHT. She's on Arimidex for now. After rehab and some recuperation, she will resume her last 4-rounds of chemo and begin Aredia. Most importantly, she will be home!!! Hopefully this will be a reality in about 2-weeks. Richard",
       "Demographics": {
         "AgeInfo": [],
@@ -1490,12 +1082,12 @@
       "MessageIndex": 10,
       "PostDate": "13/03/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Dealing with issues other than chemo, but making progress!"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Penny, I am sorry for your diagnosis. Please read this reply to know where I am coming from: http://cancerforums.net/viewtopic.php?t=8807&start=15 I noticed that your chemo involved cytoxan, adriamycin, but not fluorouracil (5FU). Any reasons why? The three drug cocktail has been shown to be effective (relatively speaking) in fighting breast cancer. Do you know the histological profile of the cancer cells? I am confident that the oncologists discussed the nature of the cells with you. This makes a considerable difference in determining the best approach. It sounds like you need to make a change. Any resignation of hope when you are clearly determined to beat this is not acceptable by a doctor! I'm sorry, but don't know anything about the Cancer Treatment Centers of America. I'll do some research. Just a word of warning: If it sounds too good to be true, it very well could be. I would be wary of claims of CURES and focus on what they can offer you. If there is a process for them to review your charts, etc. w/o expense or little expense to you and then they come back and provide a course of action, that would be the way to go. Make certain that that course of action is very different from what you have already or are receiving. Get a second/third opinion if you can. One thing is for certain, it's a private facility (it won't be cheap) and offer other holistic/alternative approaches to treatment. Again, do your research on these \"alternative\" approaches. Make certain that your insurance will cover the treatments described. I'm always nervous about any medical facility with a \"franchise\" mentality. http://www.cancercenter.com/about-us/our-hospitals.cfm Just make certain that you find out about as much as you can about these facilities. Speak with nurses, social services, friends, etc. Richard",
       "Demographics": {
         "AgeInfo": [],
@@ -1513,12 +1105,264 @@
       "MessageIndex": 2,
       "PostDate": "02/03/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6266-Looking-for-information-on-a-treatment-facility?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/6266-Looking-for-information-on-a-treatment-facility?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Looking for information on a treatment facility."
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Just when things were looking up... My wife has had a set-back. She is now bleeding within her GI and doctors are hoping to ID the source of bleed. She vomited coffee-ground consistency blood all afternoon and evening. She is being given a new round of drugs to help with clotting, but because she has been on coumadin, the bleeding has been an issue. AAAAAAAAAAAAAAAAAAAAAAAARGH!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "25/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "My wife has been on supplemental Potassium and that could be the issue. I hope it's as simple as that....",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "17/04/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "VLC, I am so sorry to hear of the spread.... Yes, it may be so that there isn't much DIRECT evidence to suggest that so-called cancer diets/foods help with cancer, but there is far too much that suggests that it makes sense to change one's diet to help your body best help itself by eating what it needs in a health manner. In fact, there are plenty of nutritionists, medical professionals, cancer survivors, some well-known cancer centers that believe that diet can and does help. > Low or NO FAT (not necessarily need to eliminate all meat, but definitely decrease it and if you can, eliminate it. Get protein from beans, soy, nuts) > Eat Fish What you are doing can only help your own immune system participate in the battle more efficiently. My prayers are with you. You may want to check out this book from amazon: The Strang Cancer Prevention Center Cookbook Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "22/04/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6597-Breast-Cancer-Metastases?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Breast Cancer Metastases"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Vee, The doctors have yet to let us down. I have a background in AML cancer and pathogenic research (now teaching computer science in a high school ) and I have always been in the forefront of my wife's treatment. I have exhaustively asked countless questions and remain in the center of all treatment options, etc. Doctors are convinced that her nausea/vomiting is from a pre-existing (prior to rehab) reflux condition. Treatment options have been considered and discussed and I am happy to go with them for a few days. I am ALWAYS considering, researching and inquiring about complementary/alternative treatment options. I have been very happy allowing the doctors to be the experts in this. There is one thing I am completely convinced of, if one has an educated/informed and persistent (not rude or with a sense of entitlement), that everyone is kept on their toes. Thank you. BTW, regardless of one's background, one cannot be ready for the emotional turmoil that accompanies being in the role of the primary and sole advocate. Years of science education and research and I felt helpless most of the time. BUT it sure makes the process easier as one tries to put things together... Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "13/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "After about 4-weeks of no vomiting, my wife's vomiting has returned with a vengeance It seems to be related to her stomach discomfort (burning sensation, indigestion), but no idea where and why it is occurring. Zofran doesn't seem to be working as well as it had. My wife will be beginning infusions of Aredia in about 2-weeks. Anyone experience this drug? Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "16/04/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "G696, I am sorry to hear of the discovery. Please speak with an oncologist. He/She is best qualified to coordinate best course of action. See an oncologist and he/she will coordinate with surgeons and radiation oncologists to your treatment. It is also possible that the primary oncologist may also perform surgery and or radiation, but these areas are typically very specialized. I believe that the TE-2 is a somatic mutation found in some cancer cells. It sounds like they used its existence as a way to confirm cancer cell line in your particular case. My prayers are with you! Hang in there and find a good oncologist. Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "oncologist",
+            "MainSubject": "oncologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/08/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7498-I-have-just-been-diagnosed-with-DCIS-and-need-guidance?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "I have just been diagnosed with DCIS and need guidance"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "carolbell, This is the most peculiar thing I have ever heard. Well, if the statistics are in your favor, that does not mean that you are free from the cancer! Statistics? I can't believe that was the explanation he gave. That, sorry to say, should not be acceptable. Let him know that you want a scan that is a much more reasonable indicator of the absence/presence of cancer than just statistics. In this medical case, I believe doing a scan that may be construed as unnecessary is worth doing anyway. He cannot guarantee w/o such a test/scan that all of the cells have been eradicated. Also, the cells were estrogen+. What is to stop the cells from becoming active again w/o hormone inhibition?",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["estrogen"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "15/08/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7460-New-Here-Need-Advice-Please?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "New Here, Need Advice Please"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Just to update you all, MyMaria, my wife, is cancer free! THANK GOD! Recent PET, MRI indicates that there is no sign of active cancer. CA2729 had been dropping since chemo back in March. My wife continues to increase her stamina and strength, but it continues to be difficult for her. Still has some bouts of nausea and continues to take a number of medications to help cope with issues that resulted from cancer. The cancer didn't leave w/o doing some damage to her vertebra. One of her thoracic vertebra collapsed and recent surgery has helped to reestablish it's functionality so that back pain has mostly disappeared. She continues to take Aredia every four weeks, hormone therapy daily, and visits her oncologist every 4-weeks to get CA2729 checked. The interesting thing is that her oncologist will not use the word remission. And I frankly appreciate that. He has been phenomenal throughout her recovery and has been a confident and reassuring beacon of compassion and competence. We are aware that our journey and vigilance has just begun and life will never be the same again. But this is the chance that GOD has given us to reassess and use our experience to help others with this disease. Thank GOD! Thank you all for your support!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/07/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7316-MyMaria-is-cancer-free!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "MyMaria is cancer free!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "THANK YOU!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "27/07/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/7316-MyMaria-is-cancer-free!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "MyMaria is cancer free!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Just when things were looking up... My wife has had a set-back. She is now bleeding within her GI and doctors are hoping to ID the source of bleed. She vomited coffee-ground consistency blood all afternoon and evening. She is being given a new round of drugs to help with clotting, but because she has been on coumadin, the bleeding has been an issue. AAAAAAAAAAAAAAAAAAAAAAAARGH!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "25/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "After about 4-weeks of no vomiting, my wife's vomiting has returned with a vengeance It seems to be related to her stomach discomfort (burning sensation, indigestion), but no idea where and why it is occurring. Zofran doesn't seem to be working as well as it had. My wife will be beginning infusions of Aredia in about 2-weeks. Anyone experience this drug? Richard",
       "Demographics": {
         "AgeInfo": [],
@@ -1539,13 +1383,13 @@
       "MessageIndex": 16,
       "PostDate": "16/04/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Dealing with issues other than chemo, but making progress!"
     },
     {
       "AuthorID": "mymaria",
-      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "VLC, I am so sorry to hear of the spread.... Yes, it may be so that there isn't much DIRECT evidence to suggest that so-called cancer diets/foods help with cancer, but there is far too much that suggests that it makes sense to change one's diet to help your body best help itself by eating what it needs in a health manner. In fact, there are plenty of nutritionists, medical professionals, cancer survivors, some well-known cancer centers that believe that diet can and does help. > Low or NO FAT (not necessarily need to eliminate all meat, but definitely decrease it and if you can, eliminate it. Get protein from beans, soy, nuts) > Eat Fish What you are doing can only help your own immune system participate in the battle more efficiently. My prayers are with you. You may want to check out this book from amazon: The Strang Cancer Prevention Center Cookbook Richard",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "My wife has been on supplemental Potassium and that could be the issue. I hope it's as simple as that....",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1554,16 +1398,44 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "MainSubject": "wife",
+            "NarrationType": "second-person",
+            "NarratorGender": "male",
+            "PatientGender": "female",
+            "Relation": "wife"
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "22/04/2008",
+      "MessageIndex": 18,
+      "PostDate": "17/04/2008",
       "Signature": "Dallas, TX",
-      "ThreadURL": "https://www.cancerforums.net/threads/6597-Breast-Cancer-Metastases?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Breast Cancer Metastases"
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
+    },
+    {
+      "AuthorID": "mymaria",
+      "AuthorURL": "https://www.cancerforums.net/members/11293-mymaria?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Vee, The doctors have yet to let us down. I have a background in AML cancer and pathogenic research (now teaching computer science in a high school ) and I have always been in the forefront of my wife's treatment. I have exhaustively asked countless questions and remain in the center of all treatment options, etc. Doctors are convinced that her nausea/vomiting is from a pre-existing (prior to rehab) reflux condition. Treatment options have been considered and discussed and I am happy to go with them for a few days. I am ALWAYS considering, researching and inquiring about complementary/alternative treatment options. I have been very happy allowing the doctors to be the experts in this. There is one thing I am completely convinced of, if one has an educated/informed and persistent (not rude or with a sense of entitlement), that everyone is kept on their toes. Thank you. BTW, regardless of one's background, one cannot be ready for the emotional turmoil that accompanies being in the role of the primary and sole advocate. Years of science education and research and I felt helpless most of the time. BUT it sure makes the process easier as one tries to put things together... Richard",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "male",
+            "PatientGender": "male"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "13/03/2008",
+      "Signature": "Dallas, TX",
+      "ThreadURL": "https://www.cancerforums.net/threads/6442-Dealing-with-issues-other-than-chemo-but-making-progress!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Dealing with issues other than chemo, but making progress!"
     }
   ],
   "ProfileDemographics": {
@@ -1592,6 +1464,11 @@
       "bleed",
       "lump"
     ]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -1842,6 +1719,54 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
+        "confident",
+        "fortunate",
+        "comfortable",
+        "certain",
+        "loving",
+        "considerate",
+        "loved",
+        "comforted",
+        "compassionate",
+        "supportive",
+        "intent",
+        "confident",
+        "proactive",
+        "willing",
+        "certain",
+        "hurtful",
+        "confident",
+        "fortunate",
+        "comfortable",
+        "certain",
+        "loving",
+        "considerate",
+        "loved",
+        "comforted",
+        "compassionate",
+        "supportive",
+        "intent",
+        "confident",
+        "proactive",
+        "willing",
+        "certain",
+        "hurtful",
+        "confident",
+        "fortunate",
+        "comfortable",
+        "certain",
+        "loving",
+        "considerate",
+        "loved",
+        "comforted",
+        "compassionate",
+        "supportive",
+        "intent",
+        "confident",
+        "proactive",
+        "willing",
+        "certain",
+        "hurtful",
         "lucky",
         "encouraged",
         "loving",
@@ -1850,54 +1775,6 @@
         "hopeful",
         "willing",
         "worried",
-        "confident",
-        "fortunate",
-        "comfortable",
-        "certain",
-        "loving",
-        "considerate",
-        "loved",
-        "comforted",
-        "compassionate",
-        "supportive",
-        "intent",
-        "confident",
-        "proactive",
-        "willing",
-        "certain",
-        "hurtful",
-        "confident",
-        "fortunate",
-        "comfortable",
-        "certain",
-        "loving",
-        "considerate",
-        "loved",
-        "comforted",
-        "compassionate",
-        "supportive",
-        "intent",
-        "confident",
-        "proactive",
-        "willing",
-        "certain",
-        "hurtful",
-        "confident",
-        "fortunate",
-        "comfortable",
-        "certain",
-        "loving",
-        "considerate",
-        "loved",
-        "comforted",
-        "compassionate",
-        "supportive",
-        "intent",
-        "confident",
-        "proactive",
-        "willing",
-        "certain",
-        "hurtful",
         "lucky",
         "encouraged",
         "loving",
@@ -1934,17 +1811,17 @@
         "willing",
         "certain",
         "lost",
-        "sure",
-        "rude",
-        "exhausted",
-        "sure",
-        "rude",
-        "exhausted",
         "certain",
         "considerate",
         "willing",
         "certain",
         "lost",
+        "sure",
+        "rude",
+        "exhausted",
+        "sure",
+        "rude",
+        "exhausted",
         "hopeful",
         "distressed",
         "certain",
@@ -2143,12 +2020,12 @@
         "free",
         "pained",
         "pained",
+        "certain",
+        "certain",
         "wonderful",
         "certain",
         "caring",
         "concerned",
-        "certain",
-        "certain",
         "certain",
         "free",
         "accepting",
@@ -2175,6 +2052,13 @@
         "disappointed",
         "lost",
         "useless",
+        "interested",
+        "blessed",
+        "caring",
+        "sure",
+        "aggressive",
+        "aggressive",
+        "useless",
         "understanding",
         "certain",
         "willing",
@@ -2188,14 +2072,7 @@
         "certain",
         "doubtful",
         "doubtful",
-        "wronged",
-        "interested",
-        "blessed",
-        "caring",
-        "sure",
-        "aggressive",
-        "aggressive",
-        "useless"
+        "wronged"
       ],
       "Emotions": {
         "AFRAID": "0.077",

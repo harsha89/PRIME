@@ -15,6 +15,14 @@
       "pained",
       "pained",
       "crying",
+      "courageous",
+      "loving",
+      "touched",
+      "loved",
+      "willing",
+      "sure",
+      "pained",
+      "pained",
       "kind",
       "loving",
       "loved",
@@ -28,15 +36,15 @@
       "blessed",
       "willing",
       "tired",
-      "easy",
-      "courageous",
-      "loving",
-      "touched",
-      "loved",
+      "wonderful",
+      "peaceful",
+      "blessed",
+      "thoughtful",
       "willing",
-      "sure",
-      "pained",
-      "pained",
+      "decisive",
+      "pleased",
+      "willing",
+      "lost",
       "kind",
       "caring",
       "excited",
@@ -49,47 +57,76 @@
       "willing",
       "willing",
       "caring",
-      "hopeful",
-      "willing",
-      "pained",
-      "pained",
-      "wonderful",
-      "wonderful",
-      "peaceful",
-      "blessed",
-      "thoughtful",
-      "willing",
-      "decisive",
-      "pleased",
-      "willing",
       "lost",
       "thoughtful",
       "willing",
-      "pained",
-      "pained",
+      "crying",
+      "willing",
+      "easy",
+      "wonderful",
       "thoughtful",
       "willing",
-      "crying",
+      "pained",
+      "pained",
+      "wonderful",
+      "blessed",
+      "tired",
+      "fearful",
+      "wronged",
+      "wonderful",
+      "hopeful",
+      "bad",
+      "cramped",
+      "hurtful",
+      "willing",
+      "easy",
+      "willing",
+      "wonderful",
+      "blessed",
+      "glad",
+      "wonderful",
+      "caring",
+      "bad",
+      "cold",
+      "hopeful",
+      "willing",
+      "willing",
       "caring",
       "willing",
       "bad",
-      "hopeful",
-      "willing",
       "nice",
       "loving",
       "loved",
       "willing",
       "hateful",
       "crying",
+      "caring",
+      "hopeful",
+      "sure",
+      "lost",
+      "empty",
+      "pleased",
+      "thoughtful",
+      "caring",
+      "hopeful",
+      "willing",
+      "pained",
+      "pained",
       "wonderful",
       "blessed",
+      "caring",
+      "hopeful",
       "willing",
-      "willing",
-      "wonderful",
-      "blessed",
       "tired",
-      "fearful",
-      "wronged",
+      "pained",
+      "pained",
+      "wonderful",
+      "hopeful",
+      "willing",
+      "tired",
+      "hurtful",
+      "willing",
+      "hurtful",
       "great",
       "caring",
       "willing",
@@ -97,17 +134,21 @@
       "pained",
       "pained",
       "hurtful",
-      "calm",
-      "caring",
-      "hopeful",
-      "sure",
-      "pained",
-      "pained",
-      "glad",
-      "calm",
+      "comfortable",
+      "comforted",
       "willing",
       "pained",
       "pained",
+      "caring",
+      "thoughtful",
+      "hopeful",
+      "willing",
+      "hateful",
+      "tired",
+      "cold",
+      "caring",
+      "hopeful",
+      "worried",
       "wonderful",
       "comfortable",
       "nice",
@@ -124,31 +165,8 @@
       "pained",
       "pained",
       "hurtful",
-      "caring",
-      "lost",
       "glad",
-      "wonderful",
-      "caring",
-      "bad",
-      "cold",
-      "thoughtful",
-      "hopeful",
-      "caring",
-      "hopeful",
-      "worried",
-      "caring",
-      "hopeful",
-      "sure",
-      "lost",
-      "empty",
-      "wonderful",
-      "blessed",
-      "caring",
-      "hopeful",
-      "willing",
-      "tired",
-      "pained",
-      "pained",
+      "calm",
       "willing",
       "pained",
       "pained",
@@ -157,39 +175,16 @@
       "bad",
       "pained",
       "pained",
-      "comfortable",
-      "comforted",
-      "caring",
-      "thoughtful",
-      "hopeful",
-      "willing",
-      "hateful",
-      "tired",
-      "cold",
-      "easy",
-      "willing",
-      "wonderful",
-      "hopeful",
-      "bad",
-      "cramped",
-      "hurtful",
-      "willing",
-      "important",
-      "cool",
-      "hopeful",
-      "hopeful",
-      "hopeful",
-      "willing",
-      "pained",
-      "numb",
-      "pained",
       "willing",
       "sure",
-      "pleased",
-      "thoughtful",
+      "calm",
       "caring",
-      "lost",
-      "wonderful",
+      "hopeful",
+      "sure",
+      "pained",
+      "pained",
+      "thoughtful",
+      "hopeful",
       "willing",
       "sure",
       "nice",
@@ -203,30 +198,37 @@
       "aching",
       "ached",
       "pained",
+      "caring",
+      "lost",
+      "important",
+      "cool",
+      "hopeful",
       "wonderful",
+      "hopeful",
+      "wonderful",
+      "sure",
+      "willing",
+      "sure",
+      "bad",
+      "hurtful",
+      "sure",
+      "scared",
       "glad",
       "caring",
       "hopeful",
       "willing",
       "sure",
       "bad",
-      "wonderful",
-      "hopeful",
-      "willing",
-      "tired",
-      "hurtful",
-      "willing",
-      "hurtful",
       "pained",
       "pained",
       "hurtful",
+      "hopeful",
       "willing",
-      "sure",
-      "bad",
-      "hurtful",
+      "pained",
+      "numb",
+      "pained",
       "wonderful",
       "hopeful",
-      "sure",
       "wonderful",
       "thoughtful",
       "hopeful",
@@ -234,9 +236,19 @@
       "affected",
       "hopeful",
       "willing",
-      "sure",
+      "wonderful",
+      "wonderful",
+      "touched",
+      "willing",
       "scared",
       "wonderful",
+      "hopeful",
+      "bad",
+      "crying",
+      "understanding",
+      "wonderful",
+      "caring",
+      "willing",
       "understanding",
       "wonderful",
       "willing",
@@ -258,21 +270,9 @@
       "kind",
       "wonderful",
       "sure",
-      "wonderful",
-      "touched",
-      "willing",
-      "scared",
-      "willing",
-      "wonderful",
-      "hopeful",
-      "bad",
-      "crying",
-      "understanding",
-      "wonderful",
-      "caring",
-      "willing",
       "glad",
       "wonderful",
+      "willing",
       "anxious",
       "hopeful",
       "sure",
@@ -285,8 +285,6 @@
       "glad",
       "wonderful",
       "sure",
-      "willing",
-      "sure",
       "blessed",
       "nice",
       "loving",
@@ -294,8 +292,15 @@
       "caring",
       "thoughtful",
       "willing",
+      "willing",
+      "sure",
       "concerned",
       "willing",
+      "hopeful",
+      "bad",
+      "pained",
+      "pained",
+      "hurtful",
       "pleased",
       "close",
       "willing",
@@ -307,11 +312,6 @@
       "sore",
       "pained",
       "pained",
-      "hopeful",
-      "bad",
-      "pained",
-      "pained",
-      "hurtful",
       "spirited",
       "thoughtful",
       "willing",
@@ -344,134 +344,6 @@
   "NExperiencePosts": 91,
   "NPosts": 112,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 4,
-      "NTotal": 4,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 4,
-      "NTotal": 6,
-      "PAdvice": 0.3333333333333333,
-      "PExperience": 0.6666666666666666
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 1,
-      "NTotal": 2,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 0,
-      "NTotal": 1,
-      "PAdvice": 1,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "grammy",
@@ -536,7 +408,7 @@
         }
       },
       "MessageIndex": 5,
-      "PostDate": "06/11/2017",
+      "PostDate": "23/04/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1739410",
       "Title": "Aromasin - I'm stopping my last resort."
     },
@@ -582,7 +454,7 @@
         }
       },
       "MessageIndex": 4,
-      "PostDate": "06/10/2017",
+      "PostDate": "22/04/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1739410",
       "Title": "Aromasin - I'm stopping my last resort."
     },
@@ -726,6 +598,52 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=427064&p=6580",
+      "Content": " Judy,\nThank you for your kind words. I have been having a hard time since surgery I have been crying a lot. I guess I'm just a little down. I head back to work tomorrow that should help. You don't relize how often you brush your breast in a day until it hurts like heck and gets your attention. Healing more everyday. \nHope you are doing well. How far out from your dx are you?\nThink I will head to bed, long day tomorrow.\nStay well!\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=427064",
+      "Title": "Judy"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=427064&p=6580",
+      "Content": " Judy,\nThank you so much. I had a very good day, I am back to work and I love my job and am in less pain today. I also went to sign up to be an angel at our cancer center. I think helping someone else is just what I need right now.You are sure right about\n this disease wreaking havoc on us and it always is when we least expect it.\n \nI was afraid that I would chicken out so I just jumped in and I'm sure in a month I will be happy that I did it. \n \nHow did I do I fluffed up my hair and touched up my makeup and had a much better day. \nYou have a lot of courage yourself and thanks for the pep talk. \nThanks have a good night and stay well\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "22/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=427064",
+      "Title": "Judy"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=423444&p=6580",
       "Content": " Judy,\nThank you so much for your kind thoughts. Its just for some reason I have been crying a lot maybe I need to give myself time it will just be a week tomorrow. Trying to stop taking the pain meds but I am still getting sharp pain in the nipple. I will be going back to work Tuesday so I will stay busy and should start feeling better. I am meeting with a new friend to celebrate both of our birthdays she is now 49 and I hit the big 50 but thanking God every day for being here to celebrate. Loving everyday with my grandkids.\nWhen were you dx? Are you doing well? I try to keep everyones stories straight but its hard.\nNeed to go. Take care and stay well.\nDonna ",
       "Demographics": {
@@ -780,30 +698,8 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=427064&p=6580",
-      "Content": " Judy,\nThank you for your kind words. I have been having a hard time since surgery I have been crying a lot. I guess I'm just a little down. I head back to work tomorrow that should help. You don't relize how often you brush your breast in a day until it hurts like heck and gets your attention. Healing more everyday. \nHope you are doing well. How far out from your dx are you?\nThink I will head to bed, long day tomorrow.\nStay well!\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "20/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=427064",
-      "Title": "Judy"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=366630&p=6580",
-      "Content": " Vicky,\nA Muga scan is very easy the hard part is sitting around for a hour after the injection. I am having my 3rd muga scan tomorrow. \nstay well\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=386280&p=6580",
+      "Content": " Ellen,\nDon't ever feel like you need to say your sorry for a choice you had to make. All of us need to make decisions that we can live with and know in our hearts we did what each of us needed to do for our own peace of mind. I am so sorry that you ever had to make such a choice. I pray that 2006 will bring some peace of mind. I know how you are feeling worring about\n a reacurrance I am having a really hard time getting past this and I feel like it will always be in the for front of my life. But I get up every day and do what I need to do and try very hard not to let my family see this. Its not my every waking thought but it seems to be there way to often. I will keep you in my prayers and wish you a very wonderful New Year and many new blessings.\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -819,15 +715,15 @@
           }
         }
       },
-      "MessageIndex": 6,
-      "PostDate": "21/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=366630",
-      "Title": "Who Has Done A Muga Scan?"
+      "MessageIndex": 7,
+      "PostDate": "01/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=386280",
+      "Title": "this past year"
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=427064&p=6580",
-      "Content": " Judy,\nThank you so much. I had a very good day, I am back to work and I love my job and am in less pain today. I also went to sign up to be an angel at our cancer center. I think helping someone else is just what I need right now.You are sure right about\n this disease wreaking havoc on us and it always is when we least expect it.\n \nI was afraid that I would chicken out so I just jumped in and I'm sure in a month I will be happy that I did it. \n \nHow did I do I fluffed up my hair and touched up my makeup and had a much better day. \nYou have a lot of courage yourself and thanks for the pep talk. \nThanks have a good night and stay well\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362647&p=6580",
+      "Content": " Judy,\nPlease don't say your sorry we all have feeling and its hard even when we know that there is someone worse off we still can't help how we feel. This is hard as we all know. When I lost mine I just did not wear mascara so they would not fall out as fast. But in the end they all fell out and so I used a grey color shadow just above on my lid and it did help some. I pray this time will fly by for you.\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -843,10 +739,10 @@
           }
         }
       },
-      "MessageIndex": 1,
-      "PostDate": "22/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=427064",
-      "Title": "Judy"
+      "MessageIndex": 20,
+      "PostDate": "17/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=362647",
+      "Title": "Losing eyelashes again"
     },
     {
       "AuthorID": "grammy",
@@ -944,6 +840,487 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=366787&p=6580",
+      "Content": " Grace,\nWhat a blessing you just received and in time for the holidays. Now take a deep breath and relax and have a wonderful holiday.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "21/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=366787",
+      "Title": "biopsy report given today"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362647&p=6580",
+      "Content": " As careful as I was it was not enough I lost all of my brows and my lashes. My eye lashes never fell out until after my 7th Taxol treatment. I just did not think that was fair. My eyes just don't look good until the mascara goes on so that was very hard for me. No one would even know all that had happened if they didn't know me. \nTake care \nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "17/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=362647",
+      "Title": "Losing eyelashes again"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=360815&p=6580",
+      "Content": " Karilyn,\nWhen I was waiting to hear I would just start crying and thought I would never stop, but I did. It felt like I was losing my grip but I didn't and you won't either. I will keep you in my prayers.\nHugs\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "12/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=360815",
+      "Title": "2 cm palpable hard, irregular lump - waiting 2nd mammogram"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=355859&p=6580",
+      "Content": " Gail,\nYour Jacob will be in my prayers. I know what you mean about\n a shining light I also have a grandson named Jacob who is 10 for a few more weeks. They are so precious. Let me know how he is doing. There is nothing harder then watching our grandchildren struggle. He is better off where he is for now and he will be home with you before you know it.\nI will say a prayer for him.\nStay well\nHugs\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "grandson",
+            "NarrationType": "second-person",
+            "PatientGender": "male",
+            "Relation": "grandson"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "03/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=355859",
+      "Title": "Prayers please!!!"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=366630&p=6580",
+      "Content": " Vicky,\nA Muga scan is very easy the hard part is sitting around for a hour after the injection. I am having my 3rd muga scan tomorrow. \nstay well\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "21/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=366630",
+      "Title": "Who Has Done A Muga Scan?"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=351750&p=6580",
+      "Content": " judy,\nThat is wonderful news.\nstay well\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "01/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=351750",
+      "Title": "Mammo Today"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=369290&p=6580",
+      "Content": " Chantry,\nCongrats the hard part is over. I did the Taxol the pain sucked but I still thought it was better then A/C. Your half way there now. I pray the rest of this flys by for you. The rotten part for me was my eyebrows and lashes falling out after my 7th treatment. To look back now I was without they less time that way. \nI will keep you in my prayers. Each day will get better now.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "27/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=369290",
+      "Title": "No More Red Devil!!"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=341257&p=6580",
+      "Content": " Carol,\nI'm so sorry that you had to find your way here to this board. You couldn't be in better hands here. \nI had myself so worked up about\n chemo and I found out it was very doable. I never once got sick from the chemo. Found myself very tired but never got sick. Don't get me wrong I didn't feel wonderful but was not what I had feared.\nI also have crohns, I was dx with the crohns in Feb. of 04 and the b/c in May of 04. So we were all so happy when 2004 came to an end. If there is any thing I can do to help, just let me know.\nGod Bless \nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "11/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=341257",
+      "Title": "Newbie to BC, and this board"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=6580",
+      "Content": " Hope everyone is doing well. \nI am doing Herceptin every three weeks and I do not know if this has anything to do with it but I have been getting awful cramping in the calves of my legs. They hurt so bad they wake me up. I was just wondering if could have anything to do with the Herceptin.\nMy best to you all.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "26/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
+      "Title": "leg cramps"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=369804&p=6580",
+      "Content": " Hello Susan, so sorry that you have a need to be here but the women are wonderful here. You can find an answer to just about\n any question you could ask. Sorry things have been so rough for you.\nTake care\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "28/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=369804",
+      "Title": "Hi Susan (stayinalive)"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=360963&p=6580",
+      "Content": " Deb,\nI am so sorry that you are having trouble. I will keep you in my prayers. Rest . All will be well.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "11/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=360963",
+      "Title": "Prayers Needed"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=368487&p=6580",
+      "Content": " Julie,\nI will say a prayer for you. Everything will be fine. I had mine when I was 32. Remember to take it easy and you will be fine.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "had mine when I was 32 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 32
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "27/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=368487",
+      "Title": "Total Hysterectomy on Monday"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=367428&p=6580",
+      "Content": " I wish everyone a very blessed Thanksgiving! I have so many wonderful things to be thankful for but none as special as my family and friends. Enjoy your families and friends.\nBless you all\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=367428",
+      "Title": "Thanksgiving!"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
+      "Content": " Bernadette,\nI know it stinks having go every 3 months but I am really glad I do. It helps me from getting hyper over everything. \nMy cold is refusing to go away, I still can't talk very well and I am still coughing but the cough has changed and it feels like I need to cough something up but it just won't happen. I am starting to get a little cranky. \nI'm sorry I sometimes forget as I brag on about\n my wonderful grankids that thier are people out there longing to have some. \nIts good that you can go to bed early if you need to. Rest as much as you can. Soak in a hot tub, I was doing that all the time. It always felt so good. In fact its not sounding to bad right now.\nI think I am going to go get ready for bed the days feel like they are so long right now at work with this cold.\nRest and take care of yourself.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "07/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
+      "Title": "Plastic surgeon"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
+      "Content": " Happy Halloween!\nHope everyone is doing as well as they can. \nI will be seeing a plastic surgeon on Wed. to see about\n having my good breast reduced to match the other side. Is there anything that I should be asking.\nWill they biopsy the tissue that they remove from the breast? I had a core biopsy done on this breast the day I had the lumpectomy done and all was fine. \nThank you \nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
+      "Title": "Plastic surgeon"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=364715&p=6580",
+      "Content": " Grace,\nI will pray you hear only good news. \nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "18/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=364715",
+      "Title": "HAD THE BIOPSY TODAY AND WAITING"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=357051&p=6580",
+      "Content": " Carol,\nSorry you are having such a hard time. I wish I could say something to help. Do you have two more treatments to go?\n I was in the hospital when most of my hair fell out and I felt so bad I didn't care. I feel like it was yesterday sometimes but it has been 18 months since I was dx. I think I was just focused on getting through, that it was over before I knew it. You can do this. Take one day at a time. Rest and drink a lot of water. \nI have also found that it is much harder on my family then on me. I think its because I had a job to do and I did it. \nThat is a really good blood count. I had one go as low as .4 boy was I dragging. \nRest \nYou will be in my prayers\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "08/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=357051",
+      "Title": "Carol, are you out there?"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354766&p=6580",
+      "Content": " stefanie,\nI am so happy you got such good news. I love hearing good news. I was also a stage II, 1 of 4 nodes, er+/pr-, her2neu+++. I had blood work today and will get results tomorrow. It is always so hard waiting and I cry every time I get the results. I really hate the wait. \nTreat yourself to something nice tonight. I will keep you in my prayers that you get many more good reports like this one.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "01/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354766",
+      "Title": "CA27.29 tumor markers are within normal range!"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=346128&p=6580",
+      "Content": " Carol,\n I'm sorry your not feeling to well today. What day did you have your treatment? I never got sick from the chemo, I was just sick those two times that I went in the hospital. I lost 16 pounds during the a/c but was hungry on the taxol. A dear friend told me to make sure the first few days to never let my stomach get empty. I would nibble on crackers and bread or snowflake rolls they were so good. This really did work. My husband always made me mashed potatoes and they always helped. I just never let my stomach get empty. I hope this passes quickly for you. Get lots of rest. Sometimes just laying down felt good even if I did not sleep.\nWhat crohns meds are you on? I take colazal, Bentyl and protonix. \nTake care and rest.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "22/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=346128",
+      "Title": "FIRST CHEMO TREATMENT/PORT"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=334427&p=6580",
+      "Content": " Laure'\nGetting a little confused, what do you take just for the calcium or is it all of that? Please tell me its not all of it. With the crohn's and other things I take 22 pills a day and the thought of taking more gags me. I have been having a really hard time getting them all down latley. So I have to confess I take nothing for the old bones. So if you have a very small pill let me know. \nThanks\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "30/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=334427",
+      "Title": "Omega3 gel caps from salmon for leg cramps"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=346128&p=6580",
       "Content": " harley26,\nI am so glad it was not as bad as you were expecting. I am glad that the port is working for you. I did not have a port and even now doing the Herceptin we are just going to keep trying until we can't do any more. I still have 13 treatments to go. Before you know it you will be done. \nHow are things with your crohns, is that under control? \nRest and take care of your self\nMy best to you.\nDonna ",
       "Demographics": {
@@ -990,197 +1367,8 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=351750&p=6580",
-      "Content": " judy,\nThat is wonderful news.\nstay well\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "01/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=351750",
-      "Title": "Mammo Today"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=386280&p=6580",
-      "Content": " Ellen,\nDon't ever feel like you need to say your sorry for a choice you had to make. All of us need to make decisions that we can live with and know in our hearts we did what each of us needed to do for our own peace of mind. I am so sorry that you ever had to make such a choice. I pray that 2006 will bring some peace of mind. I know how you are feeling worring about\n a reacurrance I am having a really hard time getting past this and I feel like it will always be in the for front of my life. But I get up every day and do what I need to do and try very hard not to let my family see this. Its not my every waking thought but it seems to be there way to often. I will keep you in my prayers and wish you a very wonderful New Year and many new blessings.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "01/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=386280",
-      "Title": "this past year"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362647&p=6580",
-      "Content": " Judy,\nPlease don't say your sorry we all have feeling and its hard even when we know that there is someone worse off we still can't help how we feel. This is hard as we all know. When I lost mine I just did not wear mascara so they would not fall out as fast. But in the end they all fell out and so I used a grey color shadow just above on my lid and it did help some. I pray this time will fly by for you.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 20,
-      "PostDate": "17/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=362647",
-      "Title": "Losing eyelashes again"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=369290&p=6580",
-      "Content": " Chantry,\nCongrats the hard part is over. I did the Taxol the pain sucked but I still thought it was better then A/C. Your half way there now. I pray the rest of this flys by for you. The rotten part for me was my eyebrows and lashes falling out after my 7th treatment. To look back now I was without they less time that way. \nI will keep you in my prayers. Each day will get better now.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "27/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=369290",
-      "Title": "No More Red Devil!!"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=360815&p=6580",
-      "Content": " Karilyn,\nWhen I was waiting to hear I would just start crying and thought I would never stop, but I did. It felt like I was losing my grip but I didn't and you won't either. I will keep you in my prayers.\nHugs\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 18,
-      "PostDate": "12/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=360815",
-      "Title": "2 cm palpable hard, irregular lump - waiting 2nd mammogram"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=366787&p=6580",
-      "Content": " Grace,\nWhat a blessing you just received and in time for the holidays. Now take a deep breath and relax and have a wonderful holiday.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "21/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=366787",
-      "Title": "biopsy report given today"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=357051&p=6580",
-      "Content": " Carol,\nSorry you are having such a hard time. I wish I could say something to help. Do you have two more treatments to go?\n I was in the hospital when most of my hair fell out and I felt so bad I didn't care. I feel like it was yesterday sometimes but it has been 18 months since I was dx. I think I was just focused on getting through, that it was over before I knew it. You can do this. Take one day at a time. Rest and drink a lot of water. \nI have also found that it is much harder on my family then on me. I think its because I had a job to do and I did it. \nThat is a really good blood count. I had one go as low as .4 boy was I dragging. \nRest \nYou will be in my prayers\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "08/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=357051",
-      "Title": "Carol, are you out there?"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
-      "Content": " Happy Halloween!\nHope everyone is doing as well as they can. \nI will be seeing a plastic surgeon on Wed. to see about\n having my good breast reduced to match the other side. Is there anything that I should be asking.\nWill they biopsy the tissue that they remove from the breast? I had a core biopsy done on this breast the day I had the lumpectomy done and all was fine. \nThank you \nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "31/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
-      "Title": "Plastic surgeon"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354766&p=6580",
-      "Content": " stefanie,\nI am so happy you got such good news. I love hearing good news. I was also a stage II, 1 of 4 nodes, er+/pr-, her2neu+++. I had blood work today and will get results tomorrow. It is always so hard waiting and I cry every time I get the results. I really hate the wait. \nTreat yourself to something nice tonight. I will keep you in my prayers that you get many more good reports like this one.\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=353048&p=6580",
+      "Content": " Carol,\nI found the Taxol to be so much easier than a/c. I won't lie I did have a lot of pain but hot baths and pain meds helped but I was less tired and just felt so much better. You can do it. It soon will be over. I think of you every day and pray you feel better. If a person can tell from a letter, you sound better then a few days ago. I hope you feel better every day.\nI don't know if I asked you or not ( I think I did but the mind does not work like it use to ) what do you take for your crohns? Do you go in to remission? sorry all the questions. Just wondering. \nTake care and God bless\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1198,13 +1386,13 @@
       },
       "MessageIndex": 4,
       "PostDate": "01/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354766",
-      "Title": "CA27.29 tumor markers are within normal range!"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=353048",
+      "Title": "Mouth sores, nausea, and YUK!!!!!!! again"
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=367428&p=6580",
-      "Content": " I wish everyone a very blessed Thanksgiving! I have so many wonderful things to be thankful for but none as special as my family and friends. Enjoy your families and friends.\nBless you all\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
+      "Content": " Carol, \nThank you for your prayers. I will let you know how it goes. I hope you are feeling better. \nstay well\nDonna\nhappy\nThank you for the info. I was hoping they check but you just never know. Are you all finished with reconstruction?\nstay well\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1213,89 +1401,63 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "22/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=367428",
-      "Title": "Thanksgiving!"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=355859&p=6580",
-      "Content": " Gail,\nYour Jacob will be in my prayers. I know what you mean about\n a shining light I also have a grandson named Jacob who is 10 for a few more weeks. They are so precious. Let me know how he is doing. There is nothing harder then watching our grandchildren struggle. He is better off where he is for now and he will be home with you before you know it.\nI will say a prayer for him.\nStay well\nHugs\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "grandson",
-            "NarrationType": "second-person",
-            "PatientGender": "male",
-            "Relation": "grandson"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "03/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=355859",
-      "Title": "Prayers please!!!"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=364715&p=6580",
-      "Content": " Grace,\nI will pray you hear only good news. \nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "18/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=364715",
-      "Title": "HAD THE BIOPSY TODAY AND WAITING"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=341257&p=6580",
-      "Content": " Carol,\nI'm so sorry that you had to find your way here to this board. You couldn't be in better hands here. \nI had myself so worked up about\n chemo and I found out it was very doable. I never once got sick from the chemo. Found myself very tired but never got sick. Don't get me wrong I didn't feel wonderful but was not what I had feared.\nI also have crohns, I was dx with the crohns in Feb. of 04 and the b/c in May of 04. So we were all so happy when 2004 came to an end. If there is any thing I can do to help, just let me know.\nGod Bless \nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
       "MessageIndex": 3,
-      "PostDate": "11/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=341257",
-      "Title": "Newbie to BC, and this board"
+      "PostDate": "01/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
+      "Title": "Plastic surgeon"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=6580",
+      "Content": " Deb,\nThank you for the help. I guess if that is the worst I get from the Herceptin I can handle it. It not A/C. I was wondering what brought it on because it was waking me up and boy do they hurt.\nI would like the name of what the Dr. gave you to take the edge off. How often did you have Muga scans on the Herceptin. I think he will do another one after my next treatment. He said every three months.\nI hope you are doing well and that things are going better with your daughter. I will keep you and your family in my prayers. I have been meaning to e-mail you to see how you were doing but I have been coming home from work so tired. I have an appt. with the plastic surgeon on Nov. 3 to see about\n having my good breast reduced so I hopefully will match up. I spoke with the ins. company again and the story this time was that they would pay. So I guess i'll have the Dr. send something to the Ins. company. Thanks\nMy best to you.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "26/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
+      "Title": "leg cramps"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=6580",
+      "Content": " bj and skeeter1, \nThank yoiu both for the info. I will be going for my next Herceptin in about\n a week and half and I will talk to him about\n all of this then. Until then I will give the soap a try I guess that can't hurt anything. \nSkeeter good luck to you going back to work. What do you do? I know I have read it here some where but I don't remember where. I keep saying its chemo brain but my husband says its been to long, but I'm sticking with that.\nThanks again \nMy best to you\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "30/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
+      "Title": "leg cramps"
     },
     {
       "AuthorID": "grammy",
@@ -1323,52 +1485,6 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=369804&p=6580",
-      "Content": " Hello Susan, so sorry that you have a need to be here but the women are wonderful here. You can find an answer to just about\n any question you could ask. Sorry things have been so rough for you.\nTake care\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "28/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=369804",
-      "Title": "Hi Susan (stayinalive)"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=346128&p=6580",
-      "Content": " Carol,\nHope this finds you doing well. I am so sorry you are having trouble with your crohns. They say that chemo helps crohns because of the decadron. I had a lot of trouble during chemo. I spent a week in the hospital in between my first and second treatment. Then my seventh treatment was canceled because I had a drainage in my vaginal area. In fact my gyn took care of my crohns during chemo because my gastro was being a pain and did not believe all of the issues that put me in the hospital were due to the chemo. He did not want to see me when both my gyn and my onc spoke to him. So later my gastro and I had a talk and he now listens or knows he is hitting the road. I don't really care if I see him or not, waiting until something better comes along. They say that it is unusal for the crohns not to calm down with the chemo because of the steroids but I always have to do things the hard way. \nAs far as the port goes I did not get one at the start of chemo and it did cause a problem being in the hospital and they were using up my veins but then I finished and all was well until I started to do the Herceptin now we are just trying to get through without a port. I started doing the Herceptin 11 mos. after chemo and with the treatments being every three weeks I just want to forget all of it as best I can in between treatments. \nAs far as the swelling of your face I do not know for sure but I think it is the steroids I did not have trouble with my face but a friend of mine had trouble the whole time she did chemo.\nI hope you do well with further treatments and if I can help in any way just let me know.\nStay well\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["vaginal"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 16,
-      "PostDate": "21/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=346128",
-      "Title": "FIRST CHEMO TREATMENT/PORT"
-    },
-    {
-      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=325814&p=6580",
       "Content": " Thank you all for the info, I am calling my ins. company back and asking this question again. I will let you know what they say. \nBest of health to you all.\nDonna ",
       "Demographics": {
@@ -1391,30 +1507,8 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=357051&p=6580",
-      "Content": " Carol,\nI hope this finds you feeling better. Check in if your up to it. Did you ever find the Mrs. Grass soup? I still eat that soup all the time.\nI pray you are feeling so much better.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "04/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=357051",
-      "Title": "Carol, are you out there?"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=357051&p=6580",
-      "Content": " Carol,\nI'm glad you are doing well. I also did the neupogen shots it would start on day 3 and I would get them every day for 8 days. The neupogen shot cause pain to the long bones and the Taxol gets the joints. I took the pain meds and it did help. I had my crohns under control until I started my chemo and then I had a couple stays in the hospital and one treatment delayed for a week. But the time really did go fast doing the dose dedense. The first part flew by because I was in the hospital the weeks in between the 1st ans 2nd treatment and only got out in time to do another treatment. Then when I went on taxol I could fuction better. I never missed work from chemo only the day of. The weeks in between were not from the chemo. It is all doable and before you know it you will be done and able to move on. I pray things calm down and your body adjust and the rest of your chemo flies by.\nI will keep you in my prayers. ( sorry I did not mean to go on. )\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=325814&p=6580",
+      "Content": " Jo-Ann,\nThank you for your quick reply, I had a lumpectomy so I guess that must make a difference. How much time passed before you had this done, I'm about\n 15 months from when I had my lumpectomy. \nI would really be more comfortable having this done but I guess I'll have to see how this plays out.\nThanks\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1431,9 +1525,81 @@
         }
       },
       "MessageIndex": 1,
-      "PostDate": "05/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=357051",
-      "Title": "Carol, are you out there?"
+      "PostDate": "17/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=325814",
+      "Title": "reducing the good breast"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349012&p=6580",
+      "Content": " Carol,\nI'm sorry you still feel so rotten. I found the Taxol to be so much easier. Joint pain but I felt so much better that I could deal with the pain. I did a lot of soaking in a very hot tub. I pray it will be easier for you. Tell your onc. how you are feeling they will be able to find something that can help. I'm sorry that you are having to deal with your crohns as if the bc isn't enough on your plate. I wish I could say something that would help. \nI almost forgot the Mrs. Grass soup is in a blue box, there are two hooked together and you break them apart and cook just one. All that is in it is noodles and broth. \nTry and get rest when you can.\nKeeping you in my prayers\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "27/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=349012",
+      "Title": "Insomnia again...ARGGGG!!!!!!!!!"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
+      "Content": " Thank you every one for all your good thoughts.\n I saw Plastic surgeon today and it went very well. She said that with all she saw she does not see a problem with my insurance company. It will take 4 to 6 weeks to hear back from the ins. co. and then we can set a date then. I did get to see some pictures I don't want things perfect just more the same size. Hard to but bras with one side to big and the other to small.I just don't want to get my hope up and then have them shot down. So I guess I wait again.\nI have not heard back about\n my blood work hopeing in the morning, I hate this waiting and waiting. I get so sick to my stomach. I have a rotten cold that I have been trying for two weeks to get rid of. So I am just a little cranky. \nI forgot to ask the dr. if there is any problem doing this while on Herceptin. Does any one know. \nI am so tired I am going to bed will pop in tomorrow to see if everyone is doing well.\nTake care and thank you all.\nStay well\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "02/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
+      "Title": "Plastic surgeon"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=361108&p=6580",
+      "Content": " Ellen,\nI have been having this problem ,I was told to take vitamin E in the past and it worked like a charm. Give it a try the thing I like about\n trying this again is that its over the counter and I don;'t need to worry about\n my other meds. Hope this helps.They say bananas do help but I think I was told you can't eat enough of them if its because of your potassium.\nTake care.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "11/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=361108",
+      "Title": "didn't someone have limb cramps...OW!"
     },
     {
       "AuthorID": "grammy",
@@ -1515,56 +1681,8 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=362647&p=6580",
-      "Content": " As careful as I was it was not enough I lost all of my brows and my lashes. My eye lashes never fell out until after my 7th Taxol treatment. I just did not think that was fair. My eyes just don't look good until the mascara goes on so that was very hard for me. No one would even know all that had happened if they didn't know me. \nTake care \nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "17/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=362647",
-      "Title": "Losing eyelashes again"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
-      "Content": " Bernadette,\nI know it stinks having go every 3 months but I am really glad I do. It helps me from getting hyper over everything. \nMy cold is refusing to go away, I still can't talk very well and I am still coughing but the cough has changed and it feels like I need to cough something up but it just won't happen. I am starting to get a little cranky. \nI'm sorry I sometimes forget as I brag on about\n my wonderful grankids that thier are people out there longing to have some. \nIts good that you can go to bed early if you need to. Rest as much as you can. Soak in a hot tub, I was doing that all the time. It always felt so good. In fact its not sounding to bad right now.\nI think I am going to go get ready for bed the days feel like they are so long right now at work with this cold.\nRest and take care of yourself.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 14,
-      "PostDate": "07/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
-      "Title": "Plastic surgeon"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=360815&p=6580",
-      "Content": " Karilyn,\nSo sorry you find a need to be here but you couldn't be in better hands. Some very wonderful women here.\nI will say a prayer for a b9 result.\nHugs\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=357051&p=6580",
+      "Content": " Carol,\nI hope this finds you feeling better. Check in if your up to it. Did you ever find the Mrs. Grass soup? I still eat that soup all the time.\nI pray you are feeling so much better.\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1578,15 +1696,15 @@
           }
         }
       },
-      "MessageIndex": 16,
-      "PostDate": "11/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=360815",
-      "Title": "2 cm palpable hard, irregular lump - waiting 2nd mammogram"
+      "MessageIndex": 0,
+      "PostDate": "04/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=357051",
+      "Title": "Carol, are you out there?"
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=344491&p=6580",
-      "Content": " Kathy,\nI had a lot of trouble when I was doing chemo. I never thought much of it until I relized that I did not have any nasal hair left and so my nose ran all the time. Down the back of my throat and out my nose. Since my hair has grown back in the prblem has just about\n gone.\nHope you feel better real soon.\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=357051&p=6580",
+      "Content": " Carol,\nI'm glad you are doing well. I also did the neupogen shots it would start on day 3 and I would get them every day for 8 days. The neupogen shot cause pain to the long bones and the Taxol gets the joints. I took the pain meds and it did help. I had my crohns under control until I started my chemo and then I had a couple stays in the hospital and one treatment delayed for a week. But the time really did go fast doing the dose dedense. The first part flew by because I was in the hospital the weeks in between the 1st ans 2nd treatment and only got out in time to do another treatment. Then when I went on taxol I could fuction better. I never missed work from chemo only the day of. The weeks in between were not from the chemo. It is all doable and before you know it you will be done and able to move on. I pray things calm down and your body adjust and the rest of your chemo flies by.\nI will keep you in my prayers. ( sorry I did not mean to go on. )\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1602,58 +1720,10 @@
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "19/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=344491",
-      "Title": "What is this?"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=361108&p=6580",
-      "Content": " Ellen,\nI have been having this problem ,I was told to take vitamin E in the past and it worked like a charm. Give it a try the thing I like about\n trying this again is that its over the counter and I don;'t need to worry about\n my other meds. Hope this helps.They say bananas do help but I think I was told you can't eat enough of them if its because of your potassium.\nTake care.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "11/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=361108",
-      "Title": "didn't someone have limb cramps...OW!"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=346128&p=6580",
-      "Content": " Carol,\n I'm sorry your not feeling to well today. What day did you have your treatment? I never got sick from the chemo, I was just sick those two times that I went in the hospital. I lost 16 pounds during the a/c but was hungry on the taxol. A dear friend told me to make sure the first few days to never let my stomach get empty. I would nibble on crackers and bread or snowflake rolls they were so good. This really did work. My husband always made me mashed potatoes and they always helped. I just never let my stomach get empty. I hope this passes quickly for you. Get lots of rest. Sometimes just laying down felt good even if I did not sleep.\nWhat crohns meds are you on? I take colazal, Bentyl and protonix. \nTake care and rest.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "22/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=346128",
-      "Title": "FIRST CHEMO TREATMENT/PORT"
+      "MessageIndex": 1,
+      "PostDate": "05/11/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=357051",
+      "Title": "Carol, are you out there?"
     },
     {
       "AuthorID": "grammy",
@@ -1676,54 +1746,6 @@
       "PostDate": "03/11/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=355638",
       "Title": "prayers please........"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=353048&p=6580",
-      "Content": " Carol,\nI found the Taxol to be so much easier than a/c. I won't lie I did have a lot of pain but hot baths and pain meds helped but I was less tired and just felt so much better. You can do it. It soon will be over. I think of you every day and pray you feel better. If a person can tell from a letter, you sound better then a few days ago. I hope you feel better every day.\nI don't know if I asked you or not ( I think I did but the mind does not work like it use to ) what do you take for your crohns? Do you go in to remission? sorry all the questions. Just wondering. \nTake care and God bless\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "01/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=353048",
-      "Title": "Mouth sores, nausea, and YUK!!!!!!! again"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=349012&p=6580",
-      "Content": " Carol,\nI'm sorry you still feel so rotten. I found the Taxol to be so much easier. Joint pain but I felt so much better that I could deal with the pain. I did a lot of soaking in a very hot tub. I pray it will be easier for you. Tell your onc. how you are feeling they will be able to find something that can help. I'm sorry that you are having to deal with your crohns as if the bc isn't enough on your plate. I wish I could say something that would help. \nI almost forgot the Mrs. Grass soup is in a blue box, there are two hooked together and you break them apart and cook just one. All that is in it is noodles and broth. \nTry and get rest when you can.\nKeeping you in my prayers\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "27/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=349012",
-      "Title": "Insomnia again...ARGGGG!!!!!!!!!"
     },
     {
       "AuthorID": "grammy",
@@ -1751,8 +1773,80 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
-      "Content": " Carol, \nThank you for your prayers. I will let you know how it goes. I hope you are feeling better. \nstay well\nDonna\nhappy\nThank you for the info. I was hoping they check but you just never know. Are you all finished with reconstruction?\nstay well\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=335810&p=6580",
+      "Content": " Bernadette,\nI'm not really sure if you know who I am but I wanted to tell you that I will keep you in my prayers. Stay strong.\nprayers to you\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "03/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=335810",
+      "Title": "Need some extra prayers from my breast buddies"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=346128&p=6580",
+      "Content": " Carol,\nHope this finds you doing well. I am so sorry you are having trouble with your crohns. They say that chemo helps crohns because of the decadron. I had a lot of trouble during chemo. I spent a week in the hospital in between my first and second treatment. Then my seventh treatment was canceled because I had a drainage in my vaginal area. In fact my gyn took care of my crohns during chemo because my gastro was being a pain and did not believe all of the issues that put me in the hospital were due to the chemo. He did not want to see me when both my gyn and my onc spoke to him. So later my gastro and I had a talk and he now listens or knows he is hitting the road. I don't really care if I see him or not, waiting until something better comes along. They say that it is unusal for the crohns not to calm down with the chemo because of the steroids but I always have to do things the hard way. \nAs far as the port goes I did not get one at the start of chemo and it did cause a problem being in the hospital and they were using up my veins but then I finished and all was well until I started to do the Herceptin now we are just trying to get through without a port. I started doing the Herceptin 11 mos. after chemo and with the treatments being every three weeks I just want to forget all of it as best I can in between treatments. \nAs far as the swelling of your face I do not know for sure but I think it is the steroids I did not have trouble with my face but a friend of mine had trouble the whole time she did chemo.\nI hope you do well with further treatments and if I can help in any way just let me know.\nStay well\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["vaginal"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "21/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=346128",
+      "Title": "FIRST CHEMO TREATMENT/PORT"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=344491&p=6580",
+      "Content": " Kathy,\nI had a lot of trouble when I was doing chemo. I never thought much of it until I relized that I did not have any nasal hair left and so my nose ran all the time. Down the back of my throat and out my nose. Since my hair has grown back in the prblem has just about\n gone.\nHope you feel better real soon.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "19/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=344491",
+      "Title": "What is this?"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=360815&p=6580",
+      "Content": " Karilyn,\nSo sorry you find a need to be here but you couldn't be in better hands. Some very wonderful women here.\nI will say a prayer for a b9 result.\nHugs\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1766,183 +1860,10 @@
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "01/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
-      "Title": "Plastic surgeon"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=325814&p=6580",
-      "Content": " Jo-Ann,\nThank you for your quick reply, I had a lumpectomy so I guess that must make a difference. How much time passed before you had this done, I'm about\n 15 months from when I had my lumpectomy. \nI would really be more comfortable having this done but I guess I'll have to see how this plays out.\nThanks\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "17/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=325814",
-      "Title": "reducing the good breast"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=354200&p=6580",
-      "Content": " Thank you every one for all your good thoughts.\n I saw Plastic surgeon today and it went very well. She said that with all she saw she does not see a problem with my insurance company. It will take 4 to 6 weeks to hear back from the ins. co. and then we can set a date then. I did get to see some pictures I don't want things perfect just more the same size. Hard to but bras with one side to big and the other to small.I just don't want to get my hope up and then have them shot down. So I guess I wait again.\nI have not heard back about\n my blood work hopeing in the morning, I hate this waiting and waiting. I get so sick to my stomach. I have a rotten cold that I have been trying for two weeks to get rid of. So I am just a little cranky. \nI forgot to ask the dr. if there is any problem doing this while on Herceptin. Does any one know. \nI am so tired I am going to bed will pop in tomorrow to see if everyone is doing well.\nTake care and thank you all.\nStay well\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "02/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=354200",
-      "Title": "Plastic surgeon"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=368487&p=6580",
-      "Content": " Julie,\nI will say a prayer for you. Everything will be fine. I had mine when I was 32. Remember to take it easy and you will be fine.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "had mine when I was 32 <Z> <Z> <Z> <Z> <Z>",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 32
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 18,
-      "PostDate": "27/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=368487",
-      "Title": "Total Hysterectomy on Monday"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=6580",
-      "Content": " Hope everyone is doing well. \nI am doing Herceptin every three weeks and I do not know if this has anything to do with it but I have been getting awful cramping in the calves of my legs. They hurt so bad they wake me up. I was just wondering if could have anything to do with the Herceptin.\nMy best to you all.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "26/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
-      "Title": "leg cramps"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=360963&p=6580",
-      "Content": " Deb,\nI am so sorry that you are having trouble. I will keep you in my prayers. Rest . All will be well.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
+      "MessageIndex": 16,
       "PostDate": "11/11/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=360963",
-      "Title": "Prayers Needed"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=6580",
-      "Content": " DonnaA\nHope your feeling well. When I did my rads they had me use a powder called soothe & cool( has cornstarch in it ) I just went in to the bathroom as often as I could and spinkled some all over the breast. they said it was important to keep the breast dry and that was what the powder was for. It worked very well and I only used lotion at the very end when I got the dry feeling like you get after you have had a sunburn, even though I did not burn. My best to you. Its almost over. \nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "19/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
-      "Title": "Radiation"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324359&p=6580",
-      "Content": " Hope everyone is doing well.\n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "15/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324359",
-      "Title": "Effexor"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=360815",
+      "Title": "2 cm palpable hard, irregular lump - waiting 2nd mammogram"
     },
     {
       "AuthorID": "grammy",
@@ -1989,170 +1910,6 @@
       "PostDate": "16/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=322944",
       "Title": "Pink Ribbon Time!"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=335985&p=6580",
-      "Content": " Vicky,\nSaying a prayer that you only hear good news.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "03/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=335985",
-      "Title": "CT Results Today"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=297003&p=6580",
-      "Content": " Tammy,\nIt has been almost a year since I had my last chemo. I still get the numbness and the pain in my fingers and toes but am noticing that the space between times when it acts up is getting longer. So I hope the end of that will be soon. I hope you will soon see it letting up. My best to you.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "04/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=297003",
-      "Title": "numbness in fingers and toes"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=335810&p=6580",
-      "Content": " Bernadette,\nI'm not really sure if you know who I am but I wanted to tell you that I will keep you in my prayers. Stay strong.\nprayers to you\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 15,
-      "PostDate": "03/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=335810",
-      "Title": "Need some extra prayers from my breast buddies"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=334427&p=6580",
-      "Content": " Laure'\nGetting a little confused, what do you take just for the calcium or is it all of that? Please tell me its not all of it. With the crohn's and other things I take 22 pills a day and the thought of taking more gags me. I have been having a really hard time getting them all down latley. So I have to confess I take nothing for the old bones. So if you have a very small pill let me know. \nThanks\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "30/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=334427",
-      "Title": "Omega3 gel caps from salmon for leg cramps"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=6580",
-      "Content": " Have any of you on Arimadex noticed weight gain. I have put on all the weight that I lost during chemo. I have not had any problems with the Arimadex other then that. \nDoes any one know about\n the Effexor can you take it if you were er+, the hot flashes are driving me crazy. \nTake care\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["hot flashes"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "15/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=315416",
-      "Title": "I start tamoxifan tomorrow"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=325814&p=6580",
-      "Content": " I was wondering if anyone has had thier good breast reduced so it would be more equal with the B/C breast and did you have any trouble with your insurance. My insurance company said there has to be a medical reason for it. My good breast is double the size of the other and it bothers me. I wear sports bras and squish the good breast but some days that is very uncomfortable. \nThanks\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "17/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=325814",
-      "Title": "reducing the good breast"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324734&p=6580",
-      "Content": " Deb,\nSorry things are not any better with your daughter. It sounds like you have your hands full. I don't know about\n you but I think it was easier with kids when I was younger. Now I'm ready for bed long before the kids. I will keep you in my prayers. Drop me a line if you just need to talk.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "16/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324734",
-      "Title": "Prayers Needed...Update"
     },
     {
       "AuthorID": "grammy",
@@ -2204,6 +1961,54 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=6580",
+      "Content": " Have any of you on Arimadex noticed weight gain. I have put on all the weight that I lost during chemo. I have not had any problems with the Arimadex other then that. \nDoes any one know about\n the Effexor can you take it if you were er+, the hot flashes are driving me crazy. \nTake care\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "15/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=315416",
+      "Title": "I start tamoxifan tomorrow"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=323485&p=6580",
+      "Content": " DonnaA\nHope your feeling well. When I did my rads they had me use a powder called soothe & cool( has cornstarch in it ) I just went in to the bathroom as often as I could and spinkled some all over the breast. they said it was important to keep the breast dry and that was what the powder was for. It worked very well and I only used lotion at the very end when I got the dry feeling like you get after you have had a sunburn, even though I did not burn. My best to you. Its almost over. \nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "19/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=323485",
+      "Title": "Radiation"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=311945&p=6580",
       "Content": " Michelle,\nThat is wonderful news. I used powder, made with cornstarch through out the day. I would just go in the bathroom sprinkle some on the breast and I never had a problem. It kept everything dry and that was what they siad they wanted. \nMy best to you.\nDonna ",
       "Demographics": {
@@ -2228,38 +2033,53 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=296397&p=6580",
-      "Content": " Deb,\nThank you for the info, my onc. talked with my ins. co. and it should not be a problem. Hope they know what they are talking about\n. There is also a program where the drug company is helping out when insurance will not pay. I am glad to hear that the side effects are not to bad. I will be able to get 2 treatments in before I go back to work in Sept. I will be having a Muga scan on Mon. and my first treatment on Tues. I spoke with a girl yesterday who is doing once a week, she finished her chemo at the end of Dec. so she also had a pause like I did. She also spoke with another onc. who felt that doing the Herceptin even though she has been fininshed with chemo for a while was a very good idea. I am for doing every thing that I can to make sure this does not return. This girl I spoke with is only 34 when she was dx. I read that the risk of heart issues is greater if you are doing Herceptin when you also do A/C. So hopefully that will not be an issue for me. \n The road seems like such a long one sometimes but we do what we need to do. I also have crohns and am hoping that the herceptin and the crohns get along. I'm not seeing a problem though. \nI hope all is going well for you. Take care and thank you very much for your help.\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324359&p=6580",
+      "Content": " Hope everyone is doing well.\n \n \n \n \n ",
       "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.8,
-          "Phrase": "I spoke with is only 34 when she was dx <Z>",
-          "Relation": "unknown",
-          "Tense": "present",
-          "Value": 34
-        }],
+        "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "04/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=296397",
-      "Title": "need some help"
+      "MessageIndex": 0,
+      "PostDate": "15/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324359",
+      "Title": "Effexor"
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=6580",
-      "Content": " Deb,\nThank you for the help. I guess if that is the worst I get from the Herceptin I can handle it. It not A/C. I was wondering what brought it on because it was waking me up and boy do they hurt.\nI would like the name of what the Dr. gave you to take the edge off. How often did you have Muga scans on the Herceptin. I think he will do another one after my next treatment. He said every three months.\nI hope you are doing well and that things are going better with your daughter. I will keep you and your family in my prayers. I have been meaning to e-mail you to see how you were doing but I have been coming home from work so tired. I have an appt. with the plastic surgeon on Nov. 3 to see about\n having my good breast reduced so I hopefully will match up. I spoke with the ins. company again and the story this time was that they would pay. So I guess i'll have the Dr. send something to the Ins. company. Thanks\nMy best to you.\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=335985&p=6580",
+      "Content": " Vicky,\nSaying a prayer that you only hear good news.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "03/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=335985",
+      "Title": "CT Results Today"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=325814&p=6580",
+      "Content": " I was wondering if anyone has had thier good breast reduced so it would be more equal with the B/C breast and did you have any trouble with your insurance. My insurance company said there has to be a medical reason for it. My good breast is double the size of the other and it bothers me. I wear sports bras and squish the good breast but some days that is very uncomfortable. \nThanks\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2275,15 +2095,15 @@
           }
         }
       },
-      "MessageIndex": 1,
-      "PostDate": "26/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
-      "Title": "leg cramps"
+      "MessageIndex": 0,
+      "PostDate": "17/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=325814",
+      "Title": "reducing the good breast"
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=6580",
-      "Content": " bj and skeeter1, \nThank yoiu both for the info. I will be going for my next Herceptin in about\n a week and half and I will talk to him about\n all of this then. Until then I will give the soap a try I guess that can't hurt anything. \nSkeeter good luck to you going back to work. What do you do? I know I have read it here some where but I don't remember where. I keep saying its chemo brain but my husband says its been to long, but I'm sticking with that.\nThanks again \nMy best to you\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324734&p=6580",
+      "Content": " Deb,\nSorry things are not any better with your daughter. It sounds like you have your hands full. I don't know about\n you but I think it was easier with kids when I was younger. Now I'm ready for bed long before the kids. I will keep you in my prayers. Drop me a line if you just need to talk.\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2292,27 +2112,25 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 12,
-      "PostDate": "30/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
-      "Title": "leg cramps"
+      "MessageIndex": 1,
+      "PostDate": "16/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324734",
+      "Title": "Prayers Needed...Update"
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312371&p=6580",
-      "Content": " Debbi,\nThis poem says it all. It is perfect. Thank you for sharing. \nI have a question for you about\n the herceptin, I think you were one of the ones doing this drug. I had my first treatment with Herceptin about\n 2 1/2 weeks ago. It went well although I had a hard time getting back in that chair. I had alot of pain, I felt like I hurt all over like the flu or something. Is this a side effect to the Herceptin?I am due for my next one this Tuesday. \nThanks again the poem was so very beautiful.\nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324359&p=6580",
+      "Content": " Debr,\nThanks for the info, I keep seeing some of the girls talk about\n it but was not sure if er+ could use it.\nDonna\nPostal2, \nThank you, I know what you mean about\n the sweating I am the same way. So is this Effexor an antidepressant?\nHow would that help with hot flashes? I take Zoloft, have for almost a year now. Guess we have to use what gets us through the day. \nStay well\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": ["hot flashes"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -2323,10 +2141,10 @@
           }
         }
       },
-      "MessageIndex": 7,
-      "PostDate": "27/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312371",
-      "Title": "A Gift"
+      "MessageIndex": 4,
+      "PostDate": "16/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324359",
+      "Title": "Effexor"
     },
     {
       "AuthorID": "grammy",
@@ -2349,6 +2167,28 @@
       "PostDate": "19/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=326798",
       "Title": "Microcalcifications - Update"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=298680&p=6580",
+      "Content": " Chantry,\nFirst, Congrats on your new baby girl.\n So very sorry that you have to be here. You should be able to get an answer to just about\n any question you ask.\nYou have found a great group of women here. \nI will say a prayer for only good news. Sorry that you have had so much to go through.\nTake care\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "05/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=298680",
+      "Title": "new to breast cancer"
     },
     {
       "AuthorID": "grammy",
@@ -2382,6 +2222,108 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=297817&p=6580",
+      "Content": " Heidi,\nI agree with Julie. I was told in Dec. (2004)that my ultra sound was negative to be told in May (2004) that I had breast cancer. You should ask for a biopsy so that everyone can be 100% sure. I am not trying to scare you but \nits better to be sure.\nI pray all turns out well and that in the end it is B9.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "04/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=297817",
+      "Title": "Test Results."
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=296397&p=6580",
+      "Content": " Deb,\nThank you for the info, my onc. talked with my ins. co. and it should not be a problem. Hope they know what they are talking about\n. There is also a program where the drug company is helping out when insurance will not pay. I am glad to hear that the side effects are not to bad. I will be able to get 2 treatments in before I go back to work in Sept. I will be having a Muga scan on Mon. and my first treatment on Tues. I spoke with a girl yesterday who is doing once a week, she finished her chemo at the end of Dec. so she also had a pause like I did. She also spoke with another onc. who felt that doing the Herceptin even though she has been fininshed with chemo for a while was a very good idea. I am for doing every thing that I can to make sure this does not return. This girl I spoke with is only 34 when she was dx. I read that the risk of heart issues is greater if you are doing Herceptin when you also do A/C. So hopefully that will not be an issue for me. \n The road seems like such a long one sometimes but we do what we need to do. I also have crohns and am hoping that the herceptin and the crohns get along. I'm not seeing a problem though. \nI hope all is going well for you. Take care and thank you very much for your help.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.8,
+          "Phrase": "I spoke with is only 34 when she was dx <Z>",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 34
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "04/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=296397",
+      "Title": "need some help"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312371&p=6580",
+      "Content": " Debbi,\nThis poem says it all. It is perfect. Thank you for sharing. \nI have a question for you about\n the herceptin, I think you were one of the ones doing this drug. I had my first treatment with Herceptin about\n 2 1/2 weeks ago. It went well although I had a hard time getting back in that chair. I had alot of pain, I felt like I hurt all over like the flu or something. Is this a side effect to the Herceptin?I am due for my next one this Tuesday. \nThanks again the poem was so very beautiful.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "27/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312371",
+      "Title": "A Gift"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=297003&p=6580",
+      "Content": " Tammy,\nIt has been almost a year since I had my last chemo. I still get the numbness and the pain in my fingers and toes but am noticing that the space between times when it acts up is getting longer. So I hope the end of that will be soon. I hope you will soon see it letting up. My best to you.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "04/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=297003",
+      "Title": "numbness in fingers and toes"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=290375&p=6580",
       "Content": " Hello to all, I hope this finds everyone doing well. I have a question, if you have chemo first and then surgery and they remove nodes and they are negative. Were they negative before or did the chemo clean them up? If you don't know if they were or not before surgery how does that put you at less of a risk? I keep reading and I see they are doing more of that now but it does not make sense to me. I was just wondering. \nI read everyday and would like to say hello to all of the new girls. You have found a good place to be.\nThanks Donna ",
       "Demographics": {
@@ -2403,52 +2345,6 @@
       "PostDate": "23/07/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=290375",
       "Title": "nodes"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=298680&p=6580",
-      "Content": " Chantry,\nFirst, Congrats on your new baby girl.\n So very sorry that you have to be here. You should be able to get an answer to just about\n any question you ask.\nYou have found a great group of women here. \nI will say a prayer for only good news. Sorry that you have had so much to go through.\nTake care\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "05/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=298680",
-      "Title": "new to breast cancer"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324359&p=6580",
-      "Content": " Debr,\nThanks for the info, I keep seeing some of the girls talk about\n it but was not sure if er+ could use it.\nDonna\nPostal2, \nThank you, I know what you mean about\n the sweating I am the same way. So is this Effexor an antidepressant?\nHow would that help with hot flashes? I take Zoloft, have for almost a year now. Guess we have to use what gets us through the day. \nStay well\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["hot flashes"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "16/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324359",
-      "Title": "Effexor"
     },
     {
       "AuthorID": "grammy",
@@ -2476,6 +2372,28 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=290375&p=6580",
+      "Content": " Good morning,\nThank you all for your input. I was just wondering as I keep reading here everyday questions pop up and it bugs me until I find out. So thank you all for the help.\nA great Sunday to you all.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "24/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=290375",
+      "Title": "nodes"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=255688&p=6580",
       "Content": " Janis,\nYou will be done with rads before you know it. I have been taking Armidex for 8 months now and I really have not noticed any side affects. I also have crohns and take a lot of meds for that and it is sometimes hard mixing all these drugs but the only thing I had trouble with was nausea and I started taking it at night before bed and that took care of that problem. I wish you well with your rads and hope all goes well for you on the Armidex.\nDonna ",
       "Demographics": {
@@ -2500,52 +2418,6 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=297817&p=6580",
-      "Content": " Heidi,\nI agree with Julie. I was told in Dec. (2004)that my ultra sound was negative to be told in May (2004) that I had breast cancer. You should ask for a biopsy so that everyone can be 100% sure. I am not trying to scare you but \nits better to be sure.\nI pray all turns out well and that in the end it is B9.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "04/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=297817",
-      "Title": "Test Results."
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=290375&p=6580",
-      "Content": " Good morning,\nThank you all for your input. I was just wondering as I keep reading here everyday questions pop up and it bugs me until I find out. So thank you all for the help.\nA great Sunday to you all.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "24/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=290375",
-      "Title": "nodes"
-    },
-    {
-      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=251194&p=6580",
       "Content": " Lauri,\nWonderful news, praying for many, many more all clears.\ngrammy ",
       "Demographics": {
@@ -2566,6 +2438,78 @@
       "PostDate": "14/05/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=251194",
       "Title": "Mammogram all clear"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253072&p=6580",
+      "Content": " Candy,\nThank you for sharing your sisters story it was very moving, myself and my daughters and two of my grandkids will be doing one this Sunday. It is so sad that breast cancer had to touch my life before I opened my eyes and see how very many lives this disease has touched. This past year was very hard, but some very wonderful people have touched my life and will never be forgotten. It will be a year tomorrow since my dx. I am happy and scared, it still is so strange to think that I am a cancer survivor. \nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "18/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253072",
+      "Title": "Race for the Cure - Cols. OH May 14, 2005"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=248071&p=6580",
+      "Content": " Lori and Deb,\nThank you so much for the pep talk, my husband and I have been having a really hard time. In the beginning I told my husband that he couldn't cry with me, because I would not have been able to hold it together if he cryed in front of me. So he kept it together and I could not have done it without him. The poor guy on the off week from chemo I was in the hospital because of my crohns and would come out in time to have my next treatment. So we are trying to talk about all of this now. I do take zoloft and it does help but I never started taking it until I finished with rads. My kick butt mode was over and I started to fall a part. I have good days and bad days. I have four wonderful grandbabies, they melt my heart with just a smile. \nI am going to hop up to the top and see if I can get to know the two of you. I hope and pray you all are doing well.\ngrammy ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "14/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=248071",
+      "Title": "herceptin"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253852&p=6580",
+      "Content": " Candy and Lori,\nThank you so much for thinking of me today. I was so very busy at work today that I really did not have a chance to think about\n it until now. My family cares and understands but I think you need to have traveled the journey to really understand. I will celerate them one by one and smile by smile. Having HAD bc has brought so many very wonderful people into my life.\nThank you again\ndonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253852",
+      "Title": "Congratulations Grammy"
     },
     {
       "AuthorID": "grammy",
@@ -2623,6 +2567,28 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253852&p=6580",
+      "Content": " MK and Deb,\nThank you so much for thinking of me. \nMy daughters and mother-in-law and two of my granchildren and my self went to a walk-run ( of couse we did the walk )today for bc. It was so nice to be ther with part of my family. They were all such a big part of my support team, could not have done it without them. I hope this finds you all doing well and enjoying the rest of your day.\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "22/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253852",
+      "Title": "Congratulations Grammy"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=248071&p=6580",
       "Content": " Thank you all for the advice, how do I ever stop the worring my husband is getting upset with me and I know I need to move on but how. Any ideas? \nMichelle,\n I did dose dense AC and Taxol and then rads. I hope you are doing well with your treatment. I pray it goes easy for you. I would not have had such a bad time but was in the hospital twice and had 1 taxol treatment delayed because of my crohns.\nLori and Deb,\nI know in my head that you are both right about not looking back but , sorry I always seem to throw the but in there. My husband says to get on with life and I thought thats what I had been doing. I worked through my chemo. My rads Dr. always tells me to know that I did all that I could do to see that it would not come back. Now I really want to add but what if. But I won't. My Onc. said the same about how often he would see me, I wonder if it was the same for everyone. He also said I could stay at 3 months if that made me more comfortable. \nI have been making breast cancer bracelets, and I really find it helps I have sold almost 40 of them and everyone just loves them. I find some peace from it and have donated some of the money to help with breast cancer. I have given some as gifts to a few ladies that I know that just finished their treatments. One of the girls is my sister-in-law who found out right after I finished my rads. She is doing well and hers was found very early and that was a blessing. Thank you all for listening and for the good advice. I'm keeping the faith, every now and then I flip out and I guess this was that time. \nThank you all\ngrammy ",
       "Demographics": {
@@ -2671,13 +2637,13 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253072&p=6580",
-      "Content": " Candy,\nThank you for sharing your sisters story it was very moving, myself and my daughters and two of my grandkids will be doing one this Sunday. It is so sad that breast cancer had to touch my life before I opened my eyes and see how very many lives this disease has touched. This past year was very hard, but some very wonderful people have touched my life and will never be forgotten. It will be a year tomorrow since my dx. I am happy and scared, it still is so strange to think that I am a cancer survivor. \nDonna ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253646&p=6580",
+      "Content": " Mia,\nI am so glad for you. It feels good when it is over. When I was finishing up chemo I kept saying I felt like a kid at Christmas, so the day I finished my family gave my Christmas gifts, my oldest daughter even found Christmas paper to wrap my gift in. I have a very wonderful family. Wishing you only the very best of health.\nDonna ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -2688,10 +2654,10 @@
           }
         }
       },
-      "MessageIndex": 4,
+      "MessageIndex": 5,
       "PostDate": "18/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253072",
-      "Title": "Race for the Cure - Cols. OH May 14, 2005"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253646",
+      "Title": "I'm a GRADUATE, got my diploma in the mail!"
     },
     {
       "AuthorID": "grammy",
@@ -2716,100 +2682,6 @@
       "PostDate": "22/05/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=254889",
       "Title": "Found a New Node, CT Scheduled"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=248071&p=6580",
-      "Content": " Lori and Deb,\nThank you so much for the pep talk, my husband and I have been having a really hard time. In the beginning I told my husband that he couldn't cry with me, because I would not have been able to hold it together if he cryed in front of me. So he kept it together and I could not have done it without him. The poor guy on the off week from chemo I was in the hospital because of my crohns and would come out in time to have my next treatment. So we are trying to talk about all of this now. I do take zoloft and it does help but I never started taking it until I finished with rads. My kick butt mode was over and I started to fall a part. I have good days and bad days. I have four wonderful grandbabies, they melt my heart with just a smile. \nI am going to hop up to the top and see if I can get to know the two of you. I hope and pray you all are doing well.\ngrammy ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "14/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=248071",
-      "Title": "herceptin"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253852&p=6580",
-      "Content": " Candy and Lori,\nThank you so much for thinking of me today. I was so very busy at work today that I really did not have a chance to think about\n it until now. My family cares and understands but I think you need to have traveled the journey to really understand. I will celerate them one by one and smile by smile. Having HAD bc has brought so many very wonderful people into my life.\nThank you again\ndonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "19/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253852",
-      "Title": "Congratulations Grammy"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253852&p=6580",
-      "Content": " MK and Deb,\nThank you so much for thinking of me. \nMy daughters and mother-in-law and two of my granchildren and my self went to a walk-run ( of couse we did the walk )today for bc. It was so nice to be ther with part of my family. They were all such a big part of my support team, could not have done it without them. I hope this finds you all doing well and enjoying the rest of your day.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "22/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253852",
-      "Title": "Congratulations Grammy"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253646&p=6580",
-      "Content": " Mia,\nI am so glad for you. It feels good when it is over. When I was finishing up chemo I kept saying I felt like a kid at Christmas, so the day I finished my family gave my Christmas gifts, my oldest daughter even found Christmas paper to wrap my gift in. I have a very wonderful family. Wishing you only the very best of health.\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "18/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253646",
-      "Title": "I'm a GRADUATE, got my diploma in the mail!"
     },
     {
       "AuthorID": "grammy",
@@ -2933,30 +2805,6 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=239144&p=6580",
-      "Content": " Thanks for trying to help. I am not sure if I'm making more out of this then I need to because of what I have gone through. I feel that they have not ruled it out , I will keep checking to see if Joyce has any info to offer. Thank you both for trying to help.\ngrammy ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "24/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=239144",
-      "Title": "Need some help!"
-    },
-    {
-      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=225827&p=6580",
       "Content": " MK,\nYou said your mammo was a more compressed picture, I asume you have already had it done. I pray all went well. We will be taking my mother on the 15th for another mammo and ultra sound, at a clinic that only does this. My oldest daughter has been to this clinic and said it was very nice. The Dr. said that this is only 1 to 2 % of breast cancers. That is a scarey thought. I have to get going, I have to work tommorrow and 5:30 comes early. Oh I almost forgot I saw my rads Dr. today and she says that all is well everything that I am feeling is normal, you have to love that word. God bless and take care.\nmy best \ngrammy ",
       "Demographics": {
@@ -2981,8 +2829,8 @@
     },
     {
       "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=213819&p=6580",
-      "Content": " Deb,\nI want to just run to the onc but I know I can't do that all the time. Some days are better then others.\nMy mother wants to wait, I Guess I need to let her run the show, she is an adult like I just told my mother-in-law about myself. So for now I'll wait.\nWe have four grandbabies but we have three boys and one girl. Jacob is 10, Kyle is 7, Hannah is 5 and Nicholas is 22mos. These babies are what helped me to get through the past 10 months. \nThanks for the hugs\nBest of health to you\nGrammy ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=239144&p=6580",
+      "Content": " Thanks for trying to help. I am not sure if I'm making more out of this then I need to because of what I have gone through. I feel that they have not ruled it out , I will keep checking to see if Joyce has any info to offer. Thank you both for trying to help.\ngrammy ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2999,9 +2847,9 @@
         }
       },
       "MessageIndex": 4,
-      "PostDate": "26/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=213819",
-      "Title": "need some help,please"
+      "PostDate": "24/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=239144",
+      "Title": "Need some help!"
     },
     {
       "AuthorID": "grammy",
@@ -3029,6 +2877,30 @@
     },
     {
       "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=208447&p=6580",
+      "Content": " Vicky,\nI hope you don't mind my butting in, I don't post very often but read everyday. I also took Neupogen shots every two weeks for 4 months. The pain is pretty uncomfortable. I would hurt so bad that my poor husband could not lay a hand on me at night. A hot soak in the tub helped some and I did take pain meds. As with everything else related to chemo this to passed. I'm still having quite a bit of pain, which my onc says is from the Taxol. I pray this passes quickly for you and that it is not to bad. \nMy best to you\nDonna ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "09/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=208447",
+      "Title": "Neupogen Pain"
+    },
+    {
+      "AuthorID": "grammy",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=213819&p=6580",
       "Content": " I don't post often but read almost every day. I am just 10 months out from my DX. I had a lumpectomy and did A/C and Taxol and then rads. My mother just had a mamo and u/s on this past Monday. Her left breast has been leaking and recently she noticed a red area. The mamo report showed nothing, but the u/c report says that there is a dilated duct and that it displays internal echoes. Also says that it is not readily classifiable as benign or malignant. Says it is most suggestive of infection/ mastitis, but the possibility of inflammatory carcinoma cannot be excluded. Extremely close clinical followup is strongly recommended. The Doctor put her on an antibiotic for a week and if the redness goes away they will do a repeat of the u/s and if the duct is no longer dilated it was an infection but if there is still something showing there would be futher testing. My head is spinning with all of this I feel like I have barely gotten back on my feet. I was d/x with crohns a year ago Feb. and then the bc in May. I feel like everything keeps crashing in on me. Does this sound like this is something to worry about or not? My Mom said that some of the redness is better since taking the antibiotic. I'm sorry to go on but, I feel like my head and heart have had a work out this past year. \nThanks for listening\ngrammy ",
       "Demographics": {
@@ -3048,6 +2920,30 @@
       },
       "MessageIndex": 0,
       "PostDate": "17/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=213819",
+      "Title": "need some help,please"
+    },
+    {
+      "AuthorID": "grammy",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=213819&p=6580",
+      "Content": " Deb,\nI want to just run to the onc but I know I can't do that all the time. Some days are better then others.\nMy mother wants to wait, I Guess I need to let her run the show, she is an adult like I just told my mother-in-law about myself. So for now I'll wait.\nWe have four grandbabies but we have three boys and one girl. Jacob is 10, Kyle is 7, Hannah is 5 and Nicholas is 22mos. These babies are what helped me to get through the past 10 months. \nThanks for the hugs\nBest of health to you\nGrammy ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "26/03/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=213819",
       "Title": "need some help,please"
     },
@@ -3089,30 +2985,6 @@
       "PostDate": "24/03/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=213819",
       "Title": "need some help,please"
-    },
-    {
-      "AuthorID": "grammy",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=208447&p=6580",
-      "Content": " Vicky,\nI hope you don't mind my butting in, I don't post very often but read everyday. I also took Neupogen shots every two weeks for 4 months. The pain is pretty uncomfortable. I would hurt so bad that my poor husband could not lay a hand on me at night. A hot soak in the tub helped some and I did take pain meds. As with everything else related to chemo this to passed. I'm still having quite a bit of pain, which my onc says is from the Taxol. I pray this passes quickly for you and that it is not to bad. \nMy best to you\nDonna ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "09/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=208447",
-      "Title": "Neupogen Pain"
     },
     {
       "AuthorID": "grammy",
@@ -3187,6 +3059,11 @@
       "lump"
     ]
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -3227,50 +3104,24 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "glad",
-        "blessed",
-        "willing",
-        "kind",
-        "blessed",
-        "willing",
-        "tired",
-        "easy",
-        "blessed",
-        "loving",
-        "loved",
-        "thoughtful",
-        "willing",
-        "pained",
-        "pained",
-        "crying",
-        "kind",
-        "loving",
-        "loved",
-        "caring",
-        "thoughtful",
-        "willing",
-        "pained",
-        "pained",
-        "crying"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0.75",
-        "HAPPY": "0.25",
-        "HELPLESS": "0.25",
-        "HURT": "0.5",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.5",
-        "LOVE": "1.25",
-        "OPEN": "0.75",
-        "POSITIVE": "1",
-        "SAD": "1",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
@@ -3278,31 +3129,24 @@
       "SideEffectTypeKeywords": []
     },
     "-2 Month Emotions": {
-      "EmotionKeywords": [
-        "wonderful",
-        "peaceful",
-        "blessed",
-        "thoughtful",
-        "willing",
-        "decisive"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "1",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "2",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "1",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "1",
-        "SAD": "0",
-        "STRONG": "1"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-2 Month SideEffects": {
@@ -3310,44 +3154,24 @@
       "SideEffectTypeKeywords": []
     },
     "-3 Month Emotions": {
-      "EmotionKeywords": [
-        "wonderful",
-        "blessed",
-        "blessed",
-        "thoughtful",
-        "willing",
-        "pained",
-        "pained",
-        "easy",
-        "willing",
-        "kind",
-        "caring",
-        "excited",
-        "hopeful",
-        "willing",
-        "nervous",
-        "pained",
-        "pained",
-        "wonderful",
-        "caring"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0.167",
-        "ALIVE": "0.333",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0.333",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0.333",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.167",
-        "LOVE": "0.333",
-        "OPEN": "0.333",
-        "POSITIVE": "0.833",
-        "SAD": "0.333",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-3 Month SideEffects": {
@@ -3355,24 +3179,48 @@
       "SideEffectTypeKeywords": []
     },
     "10th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "wonderful",
+        "hopeful",
+        "great",
+        "wonderful",
+        "wonderful",
+        "thoughtful",
+        "hopeful",
+        "sure",
+        "scared",
+        "glad",
+        "caring",
+        "hopeful",
+        "willing",
+        "sure",
+        "bad",
+        "hopeful",
+        "willing",
+        "pained",
+        "numb",
+        "pained",
+        "great",
+        "caring",
+        "willing"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0.143",
+        "ALIVE": "0.429",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.143",
+        "GOOD": "0",
+        "HAPPY": "0.429",
+        "HELPLESS": "0",
+        "HURT": "0.286",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.143",
+        "LOVE": "0.286",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0.143",
+        "STRONG": "0.286"
       }
     },
     "10th Month SideEffects": {
@@ -3380,24 +3228,36 @@
       "SideEffectTypeKeywords": []
     },
     "11th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "wonderful",
+        "pained",
+        "pained",
+        "hurtful",
+        "willing",
+        "sure",
+        "bad",
+        "hurtful",
+        "caring",
+        "lost",
+        "hopeful"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0",
+        "ALIVE": "0.2",
+        "ANGRY": "0",
+        "CONFUSED": "0.2",
+        "DEPRESSED": "0.2",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0.2",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.2",
+        "OPEN": "0",
+        "POSITIVE": "0.4",
+        "SAD": "0.6",
+        "STRONG": "0.2"
       }
     },
     "11th Month SideEffects": {
@@ -3405,24 +3265,57 @@
       "SideEffectTypeKeywords": []
     },
     "12th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "willing",
+        "sure",
+        "comfortable",
+        "comforted",
+        "wonderful",
+        "willing",
+        "important",
+        "cool",
+        "hopeful",
+        "thoughtful",
+        "willing",
+        "wonderful",
+        "hopeful",
+        "bad",
+        "cramped",
+        "hurtful",
+        "wonderful",
+        "hopeful",
+        "willing",
+        "tired",
+        "hurtful",
+        "pleased",
+        "thoughtful",
+        "willing",
+        "hurtful",
+        "willing",
+        "sure",
+        "wonderful",
+        "blessed",
+        "tired",
+        "fearful",
+        "wronged"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0.067",
+        "ALIVE": "0.267",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.067",
+        "GOOD": "0.267",
+        "HAPPY": "0.067",
+        "HELPLESS": "0.133",
+        "HURT": "0.133",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.133",
+        "LOVE": "0.067",
+        "OPEN": "0",
+        "POSITIVE": "0.6",
+        "SAD": "0.2",
+        "STRONG": "0.133"
       }
     },
     "12th Month SideEffects": {
@@ -3430,24 +3323,151 @@
       "SideEffectTypeKeywords": []
     },
     "13th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "glad",
+        "caring",
+        "willing",
+        "bad",
+        "kind",
+        "caring",
+        "bad",
+        "pained",
+        "pained",
+        "thoughtful",
+        "hopeful",
+        "calm",
+        "caring",
+        "hopeful",
+        "sure",
+        "pained",
+        "pained",
+        "willing",
+        "sure",
+        "caring",
+        "hopeful",
+        "sure",
+        "lost",
+        "empty",
+        "caring",
+        "hopeful",
+        "willing",
+        "pained",
+        "pained",
+        "willing",
+        "bad",
+        "nice",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "sure",
+        "bad",
+        "cold",
+        "pained",
+        "aching",
+        "ached",
+        "pained",
+        "wonderful",
+        "willing",
+        "sure",
+        "worried",
+        "willing",
+        "pained",
+        "pained",
+        "willing",
+        "hopeful",
+        "willing",
+        "great",
+        "caring",
+        "willing",
+        "sore",
+        "pained",
+        "pained",
+        "hurtful",
+        "wonderful",
+        "comfortable",
+        "nice",
+        "comforted",
+        "willing",
+        "nervous",
+        "wonderful",
+        "nice",
+        "loving",
+        "loved",
+        "willing",
+        "hateful",
+        "crying",
+        "wonderful",
+        "blessed",
+        "caring",
+        "hopeful",
+        "willing",
+        "tired",
+        "pained",
+        "pained",
+        "hopeful",
+        "willing",
+        "caring",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "hateful",
+        "tired",
+        "cold",
+        "willing",
+        "willing",
+        "hopeful",
+        "bad",
+        "cold",
+        "hopeful",
+        "blessed",
+        "close",
+        "willing",
+        "cold",
+        "pained",
+        "pained",
+        "hurtful",
+        "glad",
+        "calm",
+        "willing",
+        "pained",
+        "pained",
+        "glad",
+        "wonderful",
+        "caring",
+        "bad",
+        "cold",
+        "caring",
+        "willing",
+        "bad",
+        "willing",
+        "caring",
+        "hopeful",
+        "worried",
+        "wonderful",
+        "willing",
+        "thoughtful",
+        "willing",
+        "crying",
+        "caring",
+        "willing"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0.088",
+        "ALIVE": "0.176",
+        "ANGRY": "0.088",
+        "CONFUSED": "0.029",
+        "DEPRESSED": "0.206",
+        "GOOD": "0.235",
+        "HAPPY": "0.118",
+        "HELPLESS": "0.088",
+        "HURT": "0.324",
+        "INDIFFERENT": "0.147",
+        "INTERESTED": "0.118",
+        "LOVE": "0.471",
+        "OPEN": "0.029",
+        "POSITIVE": "1.059",
+        "SAD": "0.382",
+        "STRONG": "0.147"
       }
     },
     "13th Month SideEffects": {
@@ -3481,37 +3501,27 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
-        "kind",
-        "hopeful",
-        "willing",
-        "crying",
-        "hurtful",
-        "courageous",
+        "ok",
         "loving",
-        "touched",
-        "loved",
-        "willing",
-        "sure",
-        "pained",
-        "pained"
+        "loved"
       ],
       "Emotions": {
         "AFRAID": "0",
-        "ALIVE": "0.5",
+        "ALIVE": "0",
         "ANGRY": "0",
         "CONFUSED": "0",
         "DEPRESSED": "0",
-        "GOOD": "0",
+        "GOOD": "1",
         "HAPPY": "0",
         "HELPLESS": "0",
-        "HURT": "0.5",
+        "HURT": "0",
         "INDIFFERENT": "0",
         "INTERESTED": "0",
-        "LOVE": "1.5",
-        "OPEN": "0.5",
-        "POSITIVE": "1.5",
-        "SAD": "1.5",
-        "STRONG": "0.5"
+        "LOVE": "2",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
       }
     },
     "1st Month SideEffects": {
@@ -3594,24 +3604,29 @@
       "SideEffectTypeKeywords": []
     },
     "4th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "thoughtful",
+        "willing",
+        "fearful",
+        "worried"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "2",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
       }
     },
     "4th Month SideEffects": {
@@ -3619,109 +3634,191 @@
       "SideEffectTypeKeywords": []
     },
     "5th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "5th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "6th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "6th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "7th Month Emotions": {
       "EmotionKeywords": [
-        "amazed",
-        "wonderful",
-        "blessed",
-        "touched",
-        "caring",
+        "hopeful",
+        "bad",
+        "pained",
+        "pained",
+        "hurtful",
+        "close",
         "willing",
-        "alone",
-        "tearful",
-        "crying"
+        "worried"
       ],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "1",
+        "AFRAID": "0.5",
+        "ALIVE": "0",
         "ANGRY": "0",
         "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "1",
+        "DEPRESSED": "0.5",
+        "GOOD": "0",
         "HAPPY": "0",
-        "HELPLESS": "1",
-        "HURT": "0",
+        "HELPLESS": "0",
+        "HURT": "0.5",
         "INDIFFERENT": "0",
         "INTERESTED": "0",
-        "LOVE": "2",
-        "OPEN": "1",
+        "LOVE": "0.5",
+        "OPEN": "0",
         "POSITIVE": "1",
-        "SAD": "2",
+        "SAD": "1",
         "STRONG": "0"
       }
     },
+    "5th Month SideEffects": {
+      "SideEffectType": ["Infection"],
+      "SideEffectTypeKeywords": ["infection"]
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [
+        "kind",
+        "comfortable",
+        "comforted",
+        "willing",
+        "sore",
+        "pained",
+        "pained",
+        "concerned",
+        "willing",
+        "blessed",
+        "nice",
+        "loving",
+        "loved",
+        "caring",
+        "thoughtful",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0.25",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.75",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0.25",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.5",
+        "LOVE": "1",
+        "OPEN": "0.25",
+        "POSITIVE": "0.75",
+        "SAD": "0.25",
+        "STRONG": "0"
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [
+        "Infection",
+        "Hernia"
+      ],
+      "SideEffectTypeKeywords": [
+        "infection",
+        "lump"
+      ]
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [
+        "anxious",
+        "hopeful",
+        "sure",
+        "anxious",
+        "pained",
+        "pained",
+        "willing",
+        "sure",
+        "blessed",
+        "sure",
+        "worried",
+        "understanding",
+        "wonderful",
+        "willing",
+        "aggressive",
+        "aggressive",
+        "easy",
+        "wonderful",
+        "peaceful",
+        "comfortable",
+        "blessed",
+        "loving",
+        "loved",
+        "comforted",
+        "thoughtful",
+        "hopeful",
+        "upset",
+        "bad",
+        "upset",
+        "wonderful",
+        "wonderful",
+        "hopeful",
+        "bad",
+        "crying",
+        "kind",
+        "wonderful",
+        "sure",
+        "glad",
+        "wonderful",
+        "sure",
+        "wonderful",
+        "touched",
+        "willing",
+        "scared",
+        "glad",
+        "wonderful"
+      ],
+      "Emotions": {
+        "AFRAID": "0.214",
+        "ALIVE": "0.571",
+        "ANGRY": "0.214",
+        "CONFUSED": "0.071",
+        "DEPRESSED": "0.143",
+        "GOOD": "0.286",
+        "HAPPY": "0.143",
+        "HELPLESS": "0",
+        "HURT": "0.071",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.071",
+        "LOVE": "0.286",
+        "OPEN": "0.214",
+        "POSITIVE": "0.5",
+        "SAD": "0.143",
+        "STRONG": "0.357"
+      }
+    },
     "7th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
     },
     "8th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "understanding",
+        "wonderful",
+        "caring",
+        "willing",
+        "caring",
+        "affected",
+        "hopeful",
+        "willing",
+        "nice",
+        "supportive",
+        "hopeful",
+        "willing"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0",
+        "ALIVE": "0.25",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.25",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.25",
+        "LOVE": "0.75",
+        "OPEN": "0.25",
+        "POSITIVE": "1.25",
+        "SAD": "0",
+        "STRONG": "0"
       }
     },
     "8th Month SideEffects": {

@@ -5,9 +5,6 @@
     "EmotionKeywords": [
       "hurtful",
       "glad",
-      "loving",
-      "loved",
-      "willing",
       "lucky",
       "sunny",
       "ok",
@@ -15,6 +12,9 @@
       "willing",
       "sure",
       "hopeful",
+      "loving",
+      "loved",
+      "willing",
       "great",
       "wonderful",
       "loving",
@@ -71,6 +71,29 @@
     },
     {
       "AuthorID": "MightyBeck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=177427&p=3204",
+      "Content": " oh Luci,\n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "26/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=177427",
+      "Title": "Hellooo, I'm home...."
+    },
+    {
+      "AuthorID": "MightyBeck",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=172148&p=3204",
       "Content": " Glad to hear that all went well. I've been thinking about you lots!\nGentle hugs,\nBecky ",
       "Demographics": {
@@ -95,29 +118,6 @@
     },
     {
       "AuthorID": "MightyBeck",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=177427&p=3204",
-      "Content": " oh Luci,\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "26/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=177427",
-      "Title": "Hellooo, I'm home...."
-    },
-    {
-      "AuthorID": "MightyBeck",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169017&p=3204",
       "Content": " One of my posts disappeared too. Joyce, you are a hoot. A patio home is usually a one floor condo in a retirement community. Most have a screened porch or patio and look out over a golf course or pool. Got it?\nHugs,\nBecky ",
       "Demographics": {
@@ -135,54 +135,6 @@
       },
       "MessageIndex": 12,
       "PostDate": "23/11/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169017",
-      "Title": "Hello all !"
-    },
-    {
-      "AuthorID": "MightyBeck",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160570&p=3204",
-      "Content": " Oh I am so sorry, but she fought so hard and so long. I am privileged to have met and hugged her in St. Louis and will never forget her strong character , love of life, and ....just spunk.\nBecky ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "24/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160570",
-      "Title": "Mary T's daughter called this morning, her battle is over."
-    },
-    {
-      "AuthorID": "MightyBeck",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169017&p=3204",
-      "Content": " Haven't been around much in a while and decided I couldn't go to bed tonight without saying hi.  So sad to read about Carla.  Can't catch up on everyone right now.\n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "21/11/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169017",
       "Title": "Hello all !"
     },
@@ -212,6 +164,30 @@
     },
     {
       "AuthorID": "MightyBeck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169017&p=3204",
+      "Content": " Haven't been around much in a while and decided I couldn't go to bed tonight without saying hi.  So sad to read about Carla.  Can't catch up on everyone right now.\n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "21/11/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169017",
+      "Title": "Hello all !"
+    },
+    {
+      "AuthorID": "MightyBeck",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=3204",
       "Content": " Becky from KY\nDiagnosed 9/99 invasive ductal, soon found out it has spread to my spine\nWas able to have 4 years with just hormonal treatment\nCurrently doing adriamycin and perking along with hope and faith ",
       "Demographics": {
@@ -235,8 +211,8 @@
     },
     {
       "AuthorID": "MightyBeck",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155748&p=3204",
-      "Content": " \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160570&p=3204",
+      "Content": " Oh I am so sorry, but she fought so hard and so long. I am privileged to have met and hugged her in St. Louis and will never forget her strong character , love of life, and ....just spunk.\nBecky ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -245,16 +221,17 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 5,
-      "PostDate": "09/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155748",
-      "Title": "MRI results are in...."
+      "MessageIndex": 4,
+      "PostDate": "24/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160570",
+      "Title": "Mary T's daughter called this morning, her battle is over."
     },
     {
       "AuthorID": "MightyBeck",
@@ -303,6 +280,29 @@
       "PostDate": "10/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155933",
       "Title": "Have to share with you the best day----"
+    },
+    {
+      "AuthorID": "MightyBeck",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155748&p=3204",
+      "Content": " \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "09/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155748",
+      "Title": "MRI results are in...."
     }
   ],
   "ProfileDemographics": {
@@ -313,13 +313,18 @@
       "Value": -1
     },
     "Gender": {
-      "Gender": "male",
+      "Gender": "female",
       "NarrationType": "unknown"
     }
   },
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -358,6 +363,474 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": ["hurtful"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "1",
+        "STRONG": "0"
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": ["hopeful"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [
+        "great",
+        "wonderful",
+        "loving",
+        "loved",
+        "cold",
+        "lucky",
+        "sunny",
+        "ok",
+        "hopeful",
+        "willing",
+        "sure",
+        "loving",
+        "loved",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0.2",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.2",
+        "HAPPY": "0.6",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0.2",
+        "INTERESTED": "0",
+        "LOVE": "0.8",
+        "OPEN": "0",
+        "POSITIVE": "0.6",
+        "SAD": "0",
+        "STRONG": "0.2"
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": ["glad"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": ["Radiation"],

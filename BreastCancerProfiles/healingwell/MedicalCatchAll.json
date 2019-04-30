@@ -1,16 +1,16 @@
 {
   "AuthorID": "MedicalCatchAll",
-  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3938610&p=265207",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3819904&p=265207",
   "EmotionInfo": {
     "EmotionKeywords": [
+      "interested",
+      "hopeful",
       "understanding",
       "willing",
       "scared",
       "pained",
       "pained",
-      "hurtful",
-      "interested",
-      "hopeful"
+      "hurtful"
     ],
     "Emotions": {
       "AFRAID": "0.5",
@@ -35,135 +35,31 @@
   "NExperiencePosts": 2,
   "NPosts": 2,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
+    {
+      "AuthorID": "MedicalCatchAll",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3819904&p=265207",
+      "Content": " Iamamess... hoping you're still on this board. Interested in how everything is going as I got the same DX and may be doing a double mastectomy with reconstruction\nTruncus Arteriosus Type 1A-1979\nArnold Chiari 1 Malformation- 2011\nEndometriosis-2011\nScoliosis of the C-spine- 2014\nMajor Depressive Disorder, General Anxiety Disorder, PTSD, Insomnia & Obsessive Compulsive Tendancies-2015\nWhite Matter Disease-2017\nInvasive Ductal Carcinoma (stage 1, grade 2, ER/PR +, HER2-) - 2017 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Endometriosis"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "06/11/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3819904",
+      "Title": "Just diagnosed"
+    },
     {
       "AuthorID": "MedicalCatchAll",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3938610&p=265207",
@@ -193,30 +89,6 @@
       "PostDate": "06/11/2017",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3938610",
       "Title": "New here & Newly Diagnosed"
-    },
-    {
-      "AuthorID": "MedicalCatchAll",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3819904&p=265207",
-      "Content": " Iamamess... hoping you're still on this board. Interested in how everything is going as I got the same DX and may be doing a double mastectomy with reconstruction\nTruncus Arteriosus Type 1A-1979\nArnold Chiari 1 Malformation- 2011\nEndometriosis-2011\nScoliosis of the C-spine- 2014\nMajor Depressive Disorder, General Anxiety Disorder, PTSD, Insomnia & Obsessive Compulsive Tendancies-2015\nWhite Matter Disease-2017\nInvasive Ductal Carcinoma (stage 1, grade 2, ER/PR +, HER2-) - 2017 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["Endometriosis"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "06/11/2017",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3819904",
-      "Title": "Just diagnosed"
     }
   ],
   "ProfileDemographics": {
@@ -235,6 +107,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -477,14 +354,14 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
+        "interested",
+        "hopeful",
         "understanding",
         "willing",
         "scared",
         "pained",
         "pained",
-        "hurtful",
-        "interested",
-        "hopeful"
+        "hurtful"
       ],
       "Emotions": {
         "AFRAID": "0.5",

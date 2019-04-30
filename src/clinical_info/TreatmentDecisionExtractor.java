@@ -124,7 +124,13 @@ public class TreatmentDecisionExtractor {
 
 
             if (profile.has("TreatmentTimelineInfo")) {
-                String treatment = profile.getJSONObject("TreatmentTimelineInfo").getString("TreatmentType");
+                String treatment;
+
+                if (profile.getJSONObject("TreatmentTimelineInfo").has("TreatmentType")) {
+                    treatment = profile.getJSONObject("TreatmentTimelineInfo").getString("TreatmentType");
+                } else {
+                    treatment = "test";
+                }
 
                 List<JSONObject> posts = sortPostsByDate(profile.getJSONArray("Posts"));
                 for (JSONObject post : posts) {

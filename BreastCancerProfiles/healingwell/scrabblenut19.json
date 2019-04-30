@@ -3,9 +3,9 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "thoughtful",
       "great",
       "great news",
+      "thoughtful",
       "sore",
       "relaxed",
       "tender",
@@ -35,134 +35,6 @@
   "NExperiencePosts": 11,
   "NPosts": 11,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    }
-  },
   "Posts": [
     {
       "AuthorID": "scrabblenut19",
@@ -184,6 +56,30 @@
       },
       "MessageIndex": 2,
       "PostDate": "10/04/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
+      "Title": "Sister in England in hospital with cellulitis"
+    },
+    {
+      "AuthorID": "scrabblenut19",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
+      "Content": " Hi again, everyone: it's been a while since I last posted.  My younger sister (45) lives in London and was diagnosed a year ago, had a lumpectomy and radiation and is currently on Tamoxifen.  Her latest mammogram two weeks ago was clear, which is great news!  \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "sister"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/04/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
       "Title": "Sister in England in hospital with cellulitis"
     },
@@ -217,30 +113,6 @@
     {
       "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
-      "Content": " Hi again, everyone: it's been a while since I last posted.  My younger sister (45) lives in London and was diagnosed a year ago, had a lumpectomy and radiation and is currently on Tamoxifen.  Her latest mammogram two weeks ago was clear, which is great news!  \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "06/04/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
-      "Title": "Sister in England in hospital with cellulitis"
-    },
-    {
-      "AuthorID": "scrabblenut19",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
       "Content": " \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -260,6 +132,30 @@
       "PostDate": "07/04/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
       "Title": "Sister in England in hospital with cellulitis"
+    },
+    {
+      "AuthorID": "scrabblenut19",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=996248&p=46672",
+      "Content": " Holiday greetings to everyone!  My little sister in England (I posted about\n her back in the spring/summer) is battling an infection in her breast.  She had radiation treatment in May/June and had severe burns and chafing.  She was put on antibiotics in August when they initially diagnosed the infection, but the swelling and soreness hasn't gone away, so the specialist put her back onto them again yesterday and said to come back in three months.\n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "sister"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "18/12/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=996248",
+      "Title": "Infection question"
     },
     {
       "AuthorID": "scrabblenut19",
@@ -310,30 +206,6 @@
     },
     {
       "AuthorID": "scrabblenut19",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=996248&p=46672",
-      "Content": " Holiday greetings to everyone!  My little sister in England (I posted about\n her back in the spring/summer) is battling an infection in her breast.  She had radiation treatment in May/June and had severe burns and chafing.  She was put on antibiotics in August when they initially diagnosed the infection, but the swelling and soreness hasn't gone away, so the specialist put her back onto them again yesterday and said to come back in three months.\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "18/12/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=996248",
-      "Title": "Infection question"
-    },
-    {
-      "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=907824&p=46672",
       "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
@@ -380,30 +252,6 @@
     },
     {
       "AuthorID": "scrabblenut19",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=818109&p=46672",
-      "Content": " Hello again, everyone: I posted about\n 6 weeks ago to tell you about\n my sister in England.  She has been having radiation for the past two weeks and is doing very well so far; the only side effect is a tender nipple; the breast care nurse recommended she sew a piece of silk inside her bra, and that has helped.  She won't need chemo.  I am heading over there the day of her last treatment to take her away to relax for a few days, as we were told she may be tired by then.  Anyone out there who had radiation, no chemo?  If so, were you tired at the end of your treatments?  \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "24/05/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=818109",
-      "Title": "Update on sister in England"
-    },
-    {
-      "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=784941&p=46672",
       "Content": " Hello, everyone: I used to post regularly on the Crohn's Disease forum, but am happily in remission now after surgery 6 years ago.  I really appreciated the help I got over the years at HealingWell, and now I need your help for my sister.  \n \n \n \n ",
       "Demographics": {
@@ -425,6 +273,30 @@
       "PostDate": "13/04/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=784941",
       "Title": "Sister just diagnosed in England"
+    },
+    {
+      "AuthorID": "scrabblenut19",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=818109&p=46672",
+      "Content": " Hello again, everyone: I posted about\n 6 weeks ago to tell you about\n my sister in England.  She has been having radiation for the past two weeks and is doing very well so far; the only side effect is a tender nipple; the breast care nurse recommended she sew a piece of silk inside her bra, and that has helped.  She won't need chemo.  I am heading over there the day of her last treatment to take her away to relax for a few days, as we were told she may be tired by then.  Anyone out there who had radiation, no chemo?  If so, were you tired at the end of your treatments?  \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "sister",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "sister"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "24/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=818109",
+      "Title": "Update on sister in England"
     }
   ],
   "ProfileDemographics": {
@@ -435,13 +307,18 @@
       "Value": -1
     },
     "Gender": {
-      "Gender": "male",
+      "Gender": "female",
       "NarrationType": "unknown"
     }
   },
   "SideEffectTypeInfo": {
     "SideEffectType": ["Infection"],
     "SideEffectTypeKeywords": ["infection"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

@@ -58,9 +58,7 @@ public class CancerforumsBreastCancerMiner {
     public static void main(String... args) throws Exception {
         CancerforumsBreastCancerMiner cancerforumsMiner = new CancerforumsBreastCancerMiner();
         cancerforumsMiner.collectThreadURLS();
-        Thread.sleep(300000);
         cancerforumsMiner.readThreads();
-        Thread.sleep(300000);
         cancerforumsMiner.collectAuthorProfiles();
     }
 
@@ -229,7 +227,7 @@ public class CancerforumsBreastCancerMiner {
          //   new Resty().json("http://localhost:9200/" + index + "/" + type + "/_mapping", Resty.put(Resty.content(DataCollectionUtils.getIndexMapping()))).object();
             CSVPrinter printer = new CSVPrinter(new FileWriter(threadFileName), CSVFormat.RFC4180.withHeader(new String[]{"Title", "Link"}).withDelimiter(','));
 
-            for (int i = 1; i <= 106; i++) {
+            for (int i = 1; i <= 28; i++) {
                 String pageURL = baseURL + "forums/12-Breast-Cancer-Forum/page" + i;
                 Document doc = Jsoup.connect(pageURL).userAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36").timeout(10000).ignoreContentType(true).get();
 

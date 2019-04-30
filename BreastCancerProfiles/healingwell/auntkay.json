@@ -5,17 +5,12 @@
     "EmotionKeywords": [
       "wonderful",
       "bad",
+      "wonderful",
+      "caring",
       "glad",
       "hopeful",
       "hateful",
       "nervous",
-      "wonderful",
-      "caring",
-      "hateful",
-      "wonderful",
-      "sure",
-      "hateful",
-      "worried",
       "willing",
       "uneasy",
       "caring",
@@ -23,7 +18,12 @@
       "hurtful",
       "comfortable",
       "comforted",
-      "caring"
+      "caring",
+      "hateful",
+      "wonderful",
+      "sure",
+      "hateful",
+      "worried"
     ],
     "Emotions": {
       "AFRAID": "0.333",
@@ -100,30 +100,6 @@
     },
     {
       "AuthorID": "auntkay",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=836168&p=7147",
-      "Content": " Well here it is October already and i have my follow up visit on the 23. I really hate all the suspence and how nervous i get. I'll just be glad to get it over with. I hope you all are doing well i'll post and let you all know how my 6 month mammo goes. Thanks for everything\n Hugs to all Kay ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "03/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=836168",
-      "Title": "If this was your report what would you think?"
-    },
-    {
-      "AuthorID": "auntkay",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=841019&p=7147",
       "Content": " gosh Sniper i wish i could offer up some advice, but i haven't gone thru to much myself. I have had to come and ask a few questions of my own to these wonderful women here. Everyone here has been very helpful and i'll keep you and your wife in my prayers. Take care, Kay ",
       "Demographics": {
@@ -149,37 +125,12 @@
     {
       "AuthorID": "auntkay",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=836168&p=7147",
-      "Content": " It's the 23rd and i had my appt. today he said the right breast looks better than it did back in july. I'm having to wait on results from the radiologist on the left breast he did point out some calcifications in the left breast and said he'd see what the report says and we'd go from there. So now it just a waiting period again bummer i hate waiting if the report is good he wants to see me again in 6 months. Does that sound like standard procedure to you ? \n Thanks for letting me come here and vent Kay ",
+      "Content": " Well here it is October already and i have my follow up visit on the 23. I really hate all the suspence and how nervous i get. I'll just be glad to get it over with. I hope you all are doing well i'll post and let you all know how my 6 month mammo goes. Thanks for everything\n Hugs to all Kay ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "HealthProfessional": "radiologist",
-            "MainSubject": "radiologist",
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "23/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=836168",
-      "Title": "If this was your report what would you think?"
-    },
-    {
-      "AuthorID": "auntkay",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=798248&p=7147",
-      "Content": " Hi everyone, my name is Karen and i've been a member of hw since 04. I usually post on the crohns forum but have a few questions regarding some breast issues i'm having. I really hate to admit that i waited 10 years between mammo's and gyn visits due to the lack of insurance. I just recently got insurance that covers gyn visits so i made an appt. and my doctor had me to do a mammo while i was there. I got a call from my doctors office said they saw an area that need to be looked at better so she had me see a radiologist. I get to the radologist appt. and the girl does another mammo shows the doc he see's something so he has her do it again . I winded up having 3 mammo's and 2 ultrasounds. The radiologist said that i have a nodule under the right nipple and he'd send the report to my dr. office. My doctors office called and said the report showed that i also have enlarged ducts along with the nodule. Well yesterday i recieve a letter from the radioligst saying they want to see me again in 5 months to make sure the area is stable. My question is have any of you had this happen and if so what was the outcome. I'm trying really hard to not get worried but i just feel like i'm in limbo if you know what i mean. Thanks for letting me come here and vent a little. I have to say i have been lurking around and reading the post here you all seem to be such a wonderful group of ladies. thanks so much Karen. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -190,10 +141,10 @@
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "29/04/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=798248",
-      "Title": "Just a few questions"
+      "MessageIndex": 11,
+      "PostDate": "03/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=836168",
+      "Title": "If this was your report what would you think?"
     },
     {
       "AuthorID": "auntkay",
@@ -291,6 +242,55 @@
       "PostDate": "27/06/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=836168",
       "Title": "If this was your report what would you think?"
+    },
+    {
+      "AuthorID": "auntkay",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=836168&p=7147",
+      "Content": " It's the 23rd and i had my appt. today he said the right breast looks better than it did back in july. I'm having to wait on results from the radiologist on the left breast he did point out some calcifications in the left breast and said he'd see what the report says and we'd go from there. So now it just a waiting period again bummer i hate waiting if the report is good he wants to see me again in 6 months. Does that sound like standard procedure to you ? \n Thanks for letting me come here and vent Kay ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "radiologist",
+            "MainSubject": "radiologist",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "23/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=836168",
+      "Title": "If this was your report what would you think?"
+    },
+    {
+      "AuthorID": "auntkay",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=798248&p=7147",
+      "Content": " Hi everyone, my name is Karen and i've been a member of hw since 04. I usually post on the crohns forum but have a few questions regarding some breast issues i'm having. I really hate to admit that i waited 10 years between mammo's and gyn visits due to the lack of insurance. I just recently got insurance that covers gyn visits so i made an appt. and my doctor had me to do a mammo while i was there. I got a call from my doctors office said they saw an area that need to be looked at better so she had me see a radiologist. I get to the radologist appt. and the girl does another mammo shows the doc he see's something so he has her do it again . I winded up having 3 mammo's and 2 ultrasounds. The radiologist said that i have a nodule under the right nipple and he'd send the report to my dr. office. My doctors office called and said the report showed that i also have enlarged ducts along with the nodule. Well yesterday i recieve a letter from the radioligst saying they want to see me again in 5 months to make sure the area is stable. My question is have any of you had this happen and if so what was the outcome. I'm trying really hard to not get worried but i just feel like i'm in limbo if you know what i mean. Thanks for letting me come here and vent a little. I have to say i have been lurking around and reading the post here you all seem to be such a wonderful group of ladies. thanks so much Karen. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=798248",
+      "Title": "Just a few questions"
     }
   ],
   "ProfileDemographics": {
@@ -309,6 +309,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -347,6 +352,482 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "uneasy",
+        "wonderful",
+        "bad",
+        "caring",
+        "scared",
+        "hurtful",
+        "wonderful",
+        "caring",
+        "comfortable",
+        "comforted",
+        "caring",
+        "great",
+        "wonderful",
+        "supportive",
+        "hopeful",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0.167",
+        "ALIVE": "0.5",
+        "ANGRY": "0",
+        "CONFUSED": "0.167",
+        "DEPRESSED": "0.167",
+        "GOOD": "0.167",
+        "HAPPY": "0.167",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.833",
+        "OPEN": "0",
+        "POSITIVE": "0.5",
+        "SAD": "0.167",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [
+        "glad",
+        "hopeful",
+        "hateful",
+        "nervous"
+      ],
+      "Emotions": {
+        "AFRAID": "0.5",
+        "ALIVE": "0",
+        "ANGRY": "0.5",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.5",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": ["hateful"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "1",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

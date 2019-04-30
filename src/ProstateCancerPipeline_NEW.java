@@ -132,6 +132,10 @@ public class ProstateCancerPipeline_NEW {
                         TreatmentDecisionExtractor.extractTreatmentDecision(profile);
                     }
 
+                    if(options.contains("all") || options.contains("treatmentDecision")){
+                        SurgeryTypeExtarctor.getSurgeryTypeProfileJSON(profile, allPosts, about);
+                    }
+
 //                 extract PSA
                     if (options.contains("all") || options.contains("psa")) {
                         PSAExtractor.getPSAProfileJSON(profile, allPosts, about);

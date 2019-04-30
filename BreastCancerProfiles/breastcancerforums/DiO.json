@@ -1,38 +1,34 @@
 {
   "AuthorID": "DiO",
-  "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+  "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
   "EmotionInfo": {
     "EmotionKeywords": [
+      "hopeful",
+      "terrible",
+      "dismayed",
+      "hopeful",
+      "terrible",
+      "dismayed",
       "reliable",
       "willing",
       "sure",
       "hopeful",
       "terrible",
       "dismayed",
+      "reliable",
+      "willing",
+      "sure",
+      "blessed",
+      "great",
+      "pleased",
+      "great",
+      "pleased",
       "eager",
       "eager",
       "willing",
       "dread",
-      "hopeful",
-      "terrible",
-      "dismayed",
-      "reliable",
-      "willing",
       "sure",
-      "hopeful",
-      "terrible",
-      "dismayed",
-      "comfortable",
-      "comforted",
-      "great",
-      "pleased",
-      "understanding",
-      "supportive",
-      "affected",
       "decisive",
-      "fearful",
-      "nervous",
-      "blessed",
       "supportive",
       "anxious",
       "sure",
@@ -41,17 +37,17 @@
       "anxious",
       "pained",
       "pained",
-      "great",
-      "pleased",
-      "sure",
+      "understanding",
+      "supportive",
+      "affected",
       "decisive",
-      "easy",
-      "hopeful",
-      "pained",
-      "pained",
+      "fearful",
+      "nervous",
       "glad",
       "concerned",
       "affected",
+      "comfortable",
+      "comforted",
       "comfortable",
       "comforted",
       "easy",
@@ -65,17 +61,8 @@
       "hopeful",
       "affected",
       "insistent",
-      "concerned",
-      "willing",
-      "worried",
-      "willing",
-      "pained",
-      "pained",
-      "wonderful",
-      "relaxed",
+      "easy",
       "hopeful",
-      "willing",
-      "tired",
       "pained",
       "pained",
       "cheerful",
@@ -83,7 +70,20 @@
       "reassured",
       "supportive",
       "hopeful",
-      "alone"
+      "alone",
+      "concerned",
+      "willing",
+      "worried",
+      "pained",
+      "pained",
+      "wonderful",
+      "relaxed",
+      "hopeful",
+      "willing",
+      "tired",
+      "willing",
+      "pained",
+      "pained"
     ],
     "Emotions": {
       "AFRAID": "0.161",
@@ -108,186 +108,10 @@
   "NExperiencePosts": 31,
   "NPosts": 37,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 5,
-      "NTotal": 5,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 4,
-      "NTotal": 5,
-      "PAdvice": 0.2,
-      "PExperience": 0.8
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 4,
-      "NTotal": 8,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 4,
-      "NTotal": 4,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 4,
-      "NTotal": 4,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 3,
-      "NTotal": 4,
-      "PAdvice": 0.25,
-      "PExperience": 0.75
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    }
-  },
   "Posts": [
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "MiaNC, It's interesting to hear about your boiled water/dried fruit concoction! I finished chemo a year ago this month, and found the only liquid that tasted good enough to be able to drink as much as I needed was either lemonade or the commercially made fruit2o. Good luck to all of you with the rest of your treatment.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "22/04/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "AC Taxol questions"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I didn't have any significant eyesight problems during chemo, but have read several posts on different boards from those who have and it seems most think it's a good idea to wait until a few months after chemo to see where your vision will stablilize before spending big bucks on new glasses. I'm sure others with more reliable input will reply also!! Meanwhile, Good luck with your continued treatments!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "12/02/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/554-eyesight?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "eyesight"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Looks like we were diagnosed about the same time--mine was 12/8/03 and my surgery was 12/18, IBC, stage 2, 1 positive node, er/pr+. I had lumpectomy, 4 AC, 4 taxol and am now on Arimedex for 5 yrs. It's hard to have the usually happy holiday prep remind us of the all the anxiety and dismay we were suffering at this time last year! At my last check up end of Oct my WBC was still low, although not terribly so--3.4, normal being 4. Onc says that may be a \"new normal\" for me. RBCs have been fine. Hope you and everyone enjoy the holiday season!",
       "Demographics": {
         "AgeInfo": [],
@@ -307,37 +131,12 @@
       "MessageIndex": 21,
       "PostDate": "16/12/2004",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/330-Bloodwork-is-Low-at-1-yr-Ann?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/330-Bloodwork-is-Low-at-1-yr-Ann?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Bloodwork is Low at 1 yr Ann"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I know how you feel about wanting to hear the word \"cured\", and it just doesn't happen! I finished treatment last June eager to get on with my life, which I have done, but still with that dread of hearing \"recurrance\" or \"mets\". Over the past year that dread has been pushed further to the back of my mind as life returns nearer to normal, but it's still there and I think always will be to some extent. I started Arimidex right after finishing rads, which was about six weeks after finishing chemo. Good luck to you both!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "29/05/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1168-Finished-Chemo!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Finished Chemo!"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Looks like we were diagnosed about the same time--mine was 12/8/03 and my surgery was 12/18, IBC, stage 2, 1 positive node, er/pr+. I had lumpectomy, 4 AC, 4 taxol and am now on Arimedex for 5 yrs. It's hard to have the usually happy holiday prep remind us of the all the anxiety and dismay we were suffering at this time last year! At my last check up end of Oct my WBC was still low, although not terribly so--3.4, normal being 4. Onc says that may be a \"new normal\" for me. RBCs have been fine. Hope you and everyone enjoy the holiday season!",
       "Demographics": {
         "AgeInfo": [],
@@ -357,12 +156,62 @@
       "MessageIndex": 11,
       "PostDate": "16/12/2004",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/330-Bloodwork-is-Low-at-1-yr-Ann?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/330-Bloodwork-is-Low-at-1-yr-Ann?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Bloodwork is Low at 1 yr Ann"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I didn't have any significant eyesight problems during chemo, but have read several posts on different boards from those who have and it seems most think it's a good idea to wait until a few months after chemo to see where your vision will stablilize before spending big bucks on new glasses. I'm sure others with more reliable input will reply also!! Meanwhile, Good luck with your continued treatments!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "12/02/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/554-eyesight?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "eyesight"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Looks like we were diagnosed about the same time--mine was 12/8/03 and my surgery was 12/18, IBC, stage 2, 1 positive node, er/pr+. I had lumpectomy, 4 AC, 4 taxol and am now on Arimedex for 5 yrs. It's hard to have the usually happy holiday prep remind us of the all the anxiety and dismay we were suffering at this time last year! At my last check up end of Oct my WBC was still low, although not terribly so--3.4, normal being 4. Onc says that may be a \"new normal\" for me. RBCs have been fine. Hope you and everyone enjoy the holiday season!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "16/12/2004",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/330-Bloodwork-is-Low-at-1-yr-Ann?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Bloodwork is Low at 1 yr Ann"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "I didn't have any significant eyesight problems during chemo, but have read several posts on different boards from those who have and it seems most think it's a good idea to wait until a few months after chemo to see where your vision will stablilize before spending big bucks on new glasses. I'm sure others with more reliable input will reply also!! Meanwhile, Good luck with your continued treatments!",
       "Demographics": {
         "AgeInfo": [],
@@ -382,141 +231,12 @@
       "MessageIndex": 11,
       "PostDate": "12/02/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/554-eyesight?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/554-eyesight?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "eyesight"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Hi Shelly! Sorry to hear you're having so much nausea. Do call your onc right away and let him/her know. There are lots of different meds and it sounds like they need to try another one that will control it better for you. Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "28/01/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/503-new-member?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "new member"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Looks like we were diagnosed about the same time--mine was 12/8/03 and my surgery was 12/18, IBC, stage 2, 1 positive node, er/pr+. I had lumpectomy, 4 AC, 4 taxol and am now on Arimedex for 5 yrs. It's hard to have the usually happy holiday prep remind us of the all the anxiety and dismay we were suffering at this time last year! At my last check up end of Oct my WBC was still low, although not terribly so--3.4, normal being 4. Onc says that may be a \"new normal\" for me. RBCs have been fine. Hope you and everyone enjoy the holiday season!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "16/12/2004",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/330-Bloodwork-is-Low-at-1-yr-Ann?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Bloodwork is Low at 1 yr Ann"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I have had no scans either before or after treatment, and that with one + lymph node. My onc assumes no further spread unless symptoms are present. Just does routine bloodwork (CBC, liver enzymes) and mammos and breast exam. Not exactly comforting, but I'm learning to live with it! Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "27/04/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/951-Bone-and-CT-scans?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Bone and CT scans"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I started dose dense chemo Jan 23 04 with AC, my last taxol on Apr 29 04, then rads--last treatment July 1 04, so my chemo was just under 4 months, including rads made it almost 6 months. I was pleased with the time table, as my daughter's wedding was Sept 25 04 and was a weekend long affair on Mackinac Island, MI which we'd been planning well before my dx. I was feeling great and pretty much back to my old self by then. Good luck to all of you!",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "my daughter's wedding was Sept 25 04 and was a weekend",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 25
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 19,
-      "PostDate": "25/04/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "AC Taxol questions"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Hi Loretta! I understand exactly where you are with the fear, uncertainty! I was there in Dec 03--diagnosed on 12/8 and had surgery 12/18. I had a lumpectomy with sentinel node biopsy also, and had one positive node. I think that was the scariest news I ever got, even more so than the original diagnosis. Both of my parents died of cancer--Dad from mets from lung cancer, and Mom from brain cancer. Both were diagnosed as untreatable and Dad lived six weeks after diagnosis (that was 25 years ago) and Mom 5 months in 2002. So you can see my experience with cancer was pretty much doom and gloom. It took me several months to really convince myself on an emotional level (I knew it from an intellectual viewpoint from the start) that my case was different and that I really have a very good chance of beating this. A coworker who is a long term bc survivor and the ladies on these boards helped tremendously. 14 months out I'm doing fine and nervous about my upcoming checkups next week! I asked my surgeon before surgery if a mastectomy would provide a better prognosis if nodes proved to be positive, and he said it would not, it would just affect the post surgery treatment (I did chemo and radiation both), and that in fact odds were a little better with lumpectomy, although not statistically significant--as we all know statistics aren't meaningful to us as individuals anyway. I'm praying for you for strength and support to get through the next few difficult months of decisions and treatment, and come out the other side healthier than ever and raring to go! The fear never completely goes away for most of us, but it does get lots better and easier to handle.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "16/02/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/517-More-newbies-m?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "More newbies....m"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "I have no experience with this and can't give you any info, but if it were me I'd be on the phone to my doc! I'd rather have them say it's nothing and feel silly than find out I should have done something sooner. Good luck and God bless, Di",
       "Demographics": {
         "AgeInfo": [],
@@ -536,62 +256,12 @@
       "MessageIndex": 1,
       "PostDate": "10/08/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1756-Arm-opposite-surgery-swollen?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/1756-Arm-opposite-surgery-swollen?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Arm opposite surgery swollen"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Hi Laurajean! Welcome to the board. I'm sure you'll find all ladies (and a gent or two) here very helpful and supportive as I did! I think you'll find almost as many different experiences with both surgery and radiation as there are patients, but for me the surgery and radiation were no major problem. The hard part was the chemo, which it sounds like you probably won't need, and even that was not as bad as it could have been. After surgery I had some pain for a day or two, but only took one or two doses of the vicodin and after that just tylenlol or ibuprofin. I took two weeks off work mostly because it was over Christmas holidays--could have gone back sooner. Hardest part of surgery was it was out patient and done in the evening so they were anxious to get me out the door and sent me home before I was really out of the anesthesia completely and a little nauseous! If I'd had another hour or two to lie still it would have been much better!! Radiation for me was a breeze--minor sunburn is all. I can't really say much about the fatigue--I only know I felt much better and had much more energy during rads than I had for weeks before, but then mine followed right after chemo, so I think I was still recovering somewhat from that. I went back to work during rads after being off during the last 6 weeks of chemo. My appetite also was much better during rads after being pretty iffy during chemo. I'm sure you'll hear other experiences from other women on the boards. I know it helped me to hear different reactions and to know what side effects others had and what was \"normal\". Just remember you won't necessarily have the side effects you read about as everyone is different. Good luck with your surgery and treatments!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "16/07/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1557-Newly-diagnosed?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Newly diagnosed"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Dr Leo, I visited the new site and followed the directions to create account, was emailed a new password, but it's been 3 days and it still won't recognise the log in. Is it because it's still \"pending approval\", and if so how long does approval take? Thanks!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "08/01/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/410-website-addition?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "website addition"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "I started dose dense chemo Jan 23 04 with AC, my last taxol on Apr 29 04, then rads--last treatment July 1 04, so my chemo was just under 4 months, including rads made it almost 6 months. I was pleased with the time table, as my daughter's wedding was Sept 25 04 and was a weekend long affair on Mackinac Island, MI which we'd been planning well before my dx. I was feeling great and pretty much back to my old self by then. Good luck to all of you!",
       "Demographics": {
         "AgeInfo": [{
@@ -617,12 +287,12 @@
       "MessageIndex": 9,
       "PostDate": "25/04/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "AC Taxol questions"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "MiaNC, It's interesting to hear about your boiled water/dried fruit concoction! I finished chemo a year ago this month, and found the only liquid that tasted good enough to be able to drink as much as I needed was either lemonade or the commercially made fruit2o. Good luck to all of you with the rest of your treatment.",
       "Demographics": {
         "AgeInfo": [],
@@ -640,12 +310,458 @@
       "MessageIndex": 14,
       "PostDate": "22/04/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "AC Taxol questions"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I started dose dense chemo Jan 23 04 with AC, my last taxol on Apr 29 04, then rads--last treatment July 1 04, so my chemo was just under 4 months, including rads made it almost 6 months. I was pleased with the time table, as my daughter's wedding was Sept 25 04 and was a weekend long affair on Mackinac Island, MI which we'd been planning well before my dx. I was feeling great and pretty much back to my old self by then. Good luck to all of you!",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "my daughter's wedding was Sept 25 04 and was a weekend",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 25
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "25/04/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "AC Taxol questions"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I also feel that a second opinion sounds like the best option for you. I had dose dense chemo a year ago, and my onc said from the start that in order to do dose dense you need the Neulasta shot the day after chemo to bring your counts back up in time for the next treatment. Mine did bottom out in the 1-1.5 range, but were always back up by the second week for the treatment. I was surprised to hear that some people get through dose dense on their own without the boosters. Also don't understand why your dr says it's too late now to start with the boosters. It's clear you need some more definitive answers to your questions, and if your present dr won't give them to your satisfaction, seeing someone else is your right. Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "22/04/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/881-CA-27-29?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "CA 27-29"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "MiaNC, It's interesting to hear about your boiled water/dried fruit concoction! I finished chemo a year ago this month, and found the only liquid that tasted good enough to be able to drink as much as I needed was either lemonade or the commercially made fruit2o. Good luck to all of you with the rest of your treatment.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "22/04/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/900-AC-Taxol-questions?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "AC Taxol questions"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Hi Shelly! Sorry to hear you're having so much nausea. Do call your onc right away and let him/her know. There are lots of different meds and it sounds like they need to try another one that will control it better for you. Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "28/01/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/503-new-member?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "new member"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I also feel that a second opinion sounds like the best option for you. I had dose dense chemo a year ago, and my onc said from the start that in order to do dose dense you need the Neulasta shot the day after chemo to bring your counts back up in time for the next treatment. Mine did bottom out in the 1-1.5 range, but were always back up by the second week for the treatment. I was surprised to hear that some people get through dose dense on their own without the boosters. Also don't understand why your dr says it's too late now to start with the boosters. It's clear you need some more definitive answers to your questions, and if your present dr won't give them to your satisfaction, seeing someone else is your right. Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "22/04/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/881-CA-27-29?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "CA 27-29"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I know how you feel about wanting to hear the word \"cured\", and it just doesn't happen! I finished treatment last June eager to get on with my life, which I have done, but still with that dread of hearing \"recurrance\" or \"mets\". Over the past year that dread has been pushed further to the back of my mind as life returns nearer to normal, but it's still there and I think always will be to some extent. I started Arimidex right after finishing rads, which was about six weeks after finishing chemo. Good luck to you both!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "29/05/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1168-Finished-Chemo!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Finished Chemo!"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "When my surgeon said numbers were slightly better for lumpectomy than mastectomy he was refering to long term survival--the big picture, and said the difference was so small as to not be significant--basically it was the same--mastectomy for early stage bc did not give a better prognosis than lumpectomy with radiation. He speculated that maybe avoiding the major surgery may be easier on the body in general giving the immune system/healing mechanism more umph to fight the disease rather than the recovery from surgery--just his opinion. I'm sure there are lots of things to take into account with each individual case, and every woman needs to make her own informed decision with her Dr's guidance.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "surgeon",
+            "MainSubject": "surgeon",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "17/02/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/517-More-newbies-m?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "More newbies....m"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "If I remember correctly my AC treatments took about 1-1/2 hours with premeds then the AC. The taxol took much longer as they have to give it very slowly--I was there a good 4-5 hours each time. It's good to drink a lot during the treatment and you can also snack if you like. I always had someone bring me lunch during the taxol. Reading is definitely a help to pass the time, although I always sat in the common room rather than a private one as I'm a people watcher, and many of the patients like to chat also. Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "18/01/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/470-one-more-chemo-question?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "one more chemo question..."
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Hi Laurajean! Welcome to the board. I'm sure you'll find all ladies (and a gent or two) here very helpful and supportive as I did! I think you'll find almost as many different experiences with both surgery and radiation as there are patients, but for me the surgery and radiation were no major problem. The hard part was the chemo, which it sounds like you probably won't need, and even that was not as bad as it could have been. After surgery I had some pain for a day or two, but only took one or two doses of the vicodin and after that just tylenlol or ibuprofin. I took two weeks off work mostly because it was over Christmas holidays--could have gone back sooner. Hardest part of surgery was it was out patient and done in the evening so they were anxious to get me out the door and sent me home before I was really out of the anesthesia completely and a little nauseous! If I'd had another hour or two to lie still it would have been much better!! Radiation for me was a breeze--minor sunburn is all. I can't really say much about the fatigue--I only know I felt much better and had much more energy during rads than I had for weeks before, but then mine followed right after chemo, so I think I was still recovering somewhat from that. I went back to work during rads after being off during the last 6 weeks of chemo. My appetite also was much better during rads after being pretty iffy during chemo. I'm sure you'll hear other experiences from other women on the boards. I know it helped me to hear different reactions and to know what side effects others had and what was \"normal\". Just remember you won't necessarily have the side effects you read about as everyone is different. Good luck with your surgery and treatments!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "16/07/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1557-Newly-diagnosed?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Newly diagnosed"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Dr Leo, I visited the new site and followed the directions to create account, was emailed a new password, but it's been 3 days and it still won't recognise the log in. Is it because it's still \"pending approval\", and if so how long does approval take? Thanks!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "08/01/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/410-website-addition?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "website addition"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Hi Loretta! I understand exactly where you are with the fear, uncertainty! I was there in Dec 03--diagnosed on 12/8 and had surgery 12/18. I had a lumpectomy with sentinel node biopsy also, and had one positive node. I think that was the scariest news I ever got, even more so than the original diagnosis. Both of my parents died of cancer--Dad from mets from lung cancer, and Mom from brain cancer. Both were diagnosed as untreatable and Dad lived six weeks after diagnosis (that was 25 years ago) and Mom 5 months in 2002. So you can see my experience with cancer was pretty much doom and gloom. It took me several months to really convince myself on an emotional level (I knew it from an intellectual viewpoint from the start) that my case was different and that I really have a very good chance of beating this. A coworker who is a long term bc survivor and the ladies on these boards helped tremendously. 14 months out I'm doing fine and nervous about my upcoming checkups next week! I asked my surgeon before surgery if a mastectomy would provide a better prognosis if nodes proved to be positive, and he said it would not, it would just affect the post surgery treatment (I did chemo and radiation both), and that in fact odds were a little better with lumpectomy, although not statistically significant--as we all know statistics aren't meaningful to us as individuals anyway. I'm praying for you for strength and support to get through the next few difficult months of decisions and treatment, and come out the other side healthier than ever and raring to go! The fear never completely goes away for most of us, but it does get lots better and easier to handle.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "16/02/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/517-More-newbies-m?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "More newbies....m"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I have a heart valve murmur and have taken antibiotics for teeth cleanings for the last 30 some years, so knew about the possibilities for infection from cleanings--in my case they are concerned about the weakened valve becoming infected (but interestingly enough this didn't seem to be a concern for chemo!). I didn't, however, realize that foreign bodies such as implants also put one at risk. I had a lumpectomy and no implants so doesn't affect me at this point anyway, but still am glad to hear about it. One can never be too informed!! Thanks for sharing with us. Good luck with your upcoming surgery.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "30/06/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1419-Teeth-Cleaning-can-be-dangerous-to-implants!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Teeth Cleaning can be dangerous to implants!"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I have had no scans either before or after treatment, and that with one + lymph node. My onc assumes no further spread unless symptoms are present. Just does routine bloodwork (CBC, liver enzymes) and mammos and breast exam. Not exactly comforting, but I'm learning to live with it! Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "27/04/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/951-Bone-and-CT-scans?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Bone and CT scans"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I have had no scans either before or after treatment, and that with one + lymph node. My onc assumes no further spread unless symptoms are present. Just does routine bloodwork (CBC, liver enzymes) and mammos and breast exam. Not exactly comforting, but I'm learning to live with it! Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "27/04/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/951-Bone-and-CT-scans?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Bone and CT scans"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Hi Danielle! Sounds like your mom is having pretty much the same chemo as I did, except I had Neulasta instead of the Neupogen. I also found my last AC to be the worst. Everyone said Taxol would be much easier, but the first one didn't seem so. I found, however, that they got easier as I went along, and have decided that with the dose dense and only 2 weeks between treatments what I was feeling with the 1st Taxol was the remains of the fatigue/general malaise left over from the AC along with the Taxol side effects, which for me were mostly fatigue and mild bone pain for a couple of days. I had MUCH less nausea with the Taxol, although they changed my nausea meds between AC and Taxol because of the increased nausea after the 4th AC, so not sure how much to attribute to the change in meds or the change in chemo! Hope your mom has an easy time with the Taxol. Just tell her not to assume each one will get worse as the AC did, as that wasn't the case for me and may not be for her either. Good Luck!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "27/06/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1411-Questions-and-update-on-mom?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Questions and update on mom"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Awesome!!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "04/08/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1283-url-www-thesurvivormovie-com-url-must-see!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "[url]www.thesurvivormovie.com[/url] - must see!"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I had been taking Kytril, with Ativan and Torrecan as back up as needed, and they switched me to Emend as the main drug with the Ativan and Torrecan still as back up. Had to do some convincing to get my insurance to cover the Emend as it was fairly new and VERY expensive, but they did cover it, thank God!! Hope her counts come up with the Neupogen. Mine always went very low but then came back up with the Neulasta. Good luck!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "30/06/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1411-Questions-and-update-on-mom?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Questions and update on mom"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Welcome to the board Lindsey! I can't speak to your specific situation except to say that a second (or even third) opinion is never a bad idea, and it would seem that especially in your complicated case an opinion from a breast specialist would be helpful. I'm sure there'll be others here whose experience has been more similar to yours and can give their input. Good luck with your difficult decision and with whatever treatment you and your docs decide on.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "17/07/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1564-New-here-Chemo-Questions-(p53-specific)?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "New here, Chemo Questions (p53 specific)"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "I'm on Arimidex and have the same hand problems--I'm post menopausal, so no other drugs to suppress ovaries. I'm convinced it's the aromatase inhibitors that cause the carpal tunnel, trigger finger, hand joint problems as I've heard so many others experience the same things and mine started along with the Arimidex, not with menopause. My symptoms have improved the longer I've been on the Arimidex, so I'm happy about that! Just my opinion, my doctor isn't convinced!",
       "Demographics": {
         "AgeInfo": [],
@@ -668,281 +784,12 @@
       "MessageIndex": 2,
       "PostDate": "15/01/2006",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/2358-ovarian-suppression-w-triptorelin-vs-ovary-removal?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/2358-ovarian-suppression-w-triptorelin-vs-ovary-removal?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "ovarian suppression w/triptorelin vs. ovary removal"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "If I remember correctly my AC treatments took about 1-1/2 hours with premeds then the AC. The taxol took much longer as they have to give it very slowly--I was there a good 4-5 hours each time. It's good to drink a lot during the treatment and you can also snack if you like. I always had someone bring me lunch during the taxol. Reading is definitely a help to pass the time, although I always sat in the common room rather than a private one as I'm a people watcher, and many of the patients like to chat also. Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "18/01/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/470-one-more-chemo-question?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "one more chemo question..."
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I also feel that a second opinion sounds like the best option for you. I had dose dense chemo a year ago, and my onc said from the start that in order to do dose dense you need the Neulasta shot the day after chemo to bring your counts back up in time for the next treatment. Mine did bottom out in the 1-1.5 range, but were always back up by the second week for the treatment. I was surprised to hear that some people get through dose dense on their own without the boosters. Also don't understand why your dr says it's too late now to start with the boosters. It's clear you need some more definitive answers to your questions, and if your present dr won't give them to your satisfaction, seeing someone else is your right. Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "22/04/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/881-CA-27-29?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "CA 27-29"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I also feel that a second opinion sounds like the best option for you. I had dose dense chemo a year ago, and my onc said from the start that in order to do dose dense you need the Neulasta shot the day after chemo to bring your counts back up in time for the next treatment. Mine did bottom out in the 1-1.5 range, but were always back up by the second week for the treatment. I was surprised to hear that some people get through dose dense on their own without the boosters. Also don't understand why your dr says it's too late now to start with the boosters. It's clear you need some more definitive answers to your questions, and if your present dr won't give them to your satisfaction, seeing someone else is your right. Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 19,
-      "PostDate": "22/04/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/881-CA-27-29?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "CA 27-29"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "When my surgeon said numbers were slightly better for lumpectomy than mastectomy he was refering to long term survival--the big picture, and said the difference was so small as to not be significant--basically it was the same--mastectomy for early stage bc did not give a better prognosis than lumpectomy with radiation. He speculated that maybe avoiding the major surgery may be easier on the body in general giving the immune system/healing mechanism more umph to fight the disease rather than the recovery from surgery--just his opinion. I'm sure there are lots of things to take into account with each individual case, and every woman needs to make her own informed decision with her Dr's guidance.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "HealthProfessional": "surgeon",
-            "MainSubject": "surgeon",
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "17/02/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/517-More-newbies-m?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "More newbies....m"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Your wife's diagnosis sounds very similar to mine. My onc didn't give me an option--I did the AC + T dose dense, then on to Arimidex. Since I had a lumpectomy rather than mastectomy I also did radiation. The way I understood it, the positive lymph node, even though it's only one, means there are or have been cancer cells floating around outside the breast, and we should hit them hard from the start in hopes of getting rid of all of them! While it wasn't an easy ride, it was doable, especially knowing that there was a very good chance I'd be back to my normal self within the year, which turned out to be the case. So far I'm doing well on the Arimidex, except for some hand pain mostly in the finger joints, but this seems a minor price to pay. Good luck to your wife whatever you decide is right for you.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "11/07/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1514-Hormone-therapy-and-no-Chemo?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Hormone therapy and no Chemo?"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Welcome to the board Lindsey! I can't speak to your specific situation except to say that a second (or even third) opinion is never a bad idea, and it would seem that especially in your complicated case an opinion from a breast specialist would be helpful. I'm sure there'll be others here whose experience has been more similar to yours and can give their input. Good luck with your difficult decision and with whatever treatment you and your docs decide on.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "17/07/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1564-New-here-Chemo-Questions-(p53-specific)?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "New here, Chemo Questions (p53 specific)"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I have a heart valve murmur and have taken antibiotics for teeth cleanings for the last 30 some years, so knew about the possibilities for infection from cleanings--in my case they are concerned about the weakened valve becoming infected (but interestingly enough this didn't seem to be a concern for chemo!). I didn't, however, realize that foreign bodies such as implants also put one at risk. I had a lumpectomy and no implants so doesn't affect me at this point anyway, but still am glad to hear about it. One can never be too informed!! Thanks for sharing with us. Good luck with your upcoming surgery.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "30/06/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1419-Teeth-Cleaning-can-be-dangerous-to-implants!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Teeth Cleaning can be dangerous to implants!"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I have had no scans either before or after treatment, and that with one + lymph node. My onc assumes no further spread unless symptoms are present. Just does routine bloodwork (CBC, liver enzymes) and mammos and breast exam. Not exactly comforting, but I'm learning to live with it! Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "27/04/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/951-Bone-and-CT-scans?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Bone and CT scans"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Hi Danielle! Sounds like your mom is having pretty much the same chemo as I did, except I had Neulasta instead of the Neupogen. I also found my last AC to be the worst. Everyone said Taxol would be much easier, but the first one didn't seem so. I found, however, that they got easier as I went along, and have decided that with the dose dense and only 2 weeks between treatments what I was feeling with the 1st Taxol was the remains of the fatigue/general malaise left over from the AC along with the Taxol side effects, which for me were mostly fatigue and mild bone pain for a couple of days. I had MUCH less nausea with the Taxol, although they changed my nausea meds between AC and Taxol because of the increased nausea after the 4th AC, so not sure how much to attribute to the change in meds or the change in chemo! Hope your mom has an easy time with the Taxol. Just tell her not to assume each one will get worse as the AC did, as that wasn't the case for me and may not be for her either. Good Luck!!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "27/06/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1411-Questions-and-update-on-mom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Questions and update on mom"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I had been taking Kytril, with Ativan and Torrecan as back up as needed, and they switched me to Emend as the main drug with the Ativan and Torrecan still as back up. Had to do some convincing to get my insurance to cover the Emend as it was fairly new and VERY expensive, but they did cover it, thank God!! Hope her counts come up with the Neupogen. Mine always went very low but then came back up with the Neulasta. Good luck!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "30/06/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1411-Questions-and-update-on-mom?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "Questions and update on mom"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Awesome!!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "04/08/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1283-url-www-thesurvivormovie-com-url-must-see!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "[url]www.thesurvivormovie.com[/url] - must see!"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "I finished treatment for stage II in July 04, and am currently on Arimidex. My onc also doesn't believe in tumor markers and doesn't do them at all. He also doesn't do scans or Pet unless symptoms occur. They insist that the delay in discovering mets doesn't affect the results of treatment. I do have bloodwork every 4 months--CBC and the liver one, can't remember the letters--SMA maybe? Other than that just yearly mammogram and PAP. I do live with the \"waiting for the other shoe to drop\" feeling, but most of the time am able to put it out of mind and do just fine! Good luck with getting back to a somewhat normal life!!",
       "Demographics": {
         "AgeInfo": [],
@@ -962,12 +809,61 @@
       "MessageIndex": 4,
       "PostDate": "12/09/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1995-What-tests-do-you-get-after-all-treatment-is-over?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/1995-What-tests-do-you-get-after-all-treatment-is-over?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "What tests do you get after all treatment is over?"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Your wife's diagnosis sounds very similar to mine. My onc didn't give me an option--I did the AC + T dose dense, then on to Arimidex. Since I had a lumpectomy rather than mastectomy I also did radiation. The way I understood it, the positive lymph node, even though it's only one, means there are or have been cancer cells floating around outside the breast, and we should hit them hard from the start in hopes of getting rid of all of them! While it wasn't an easy ride, it was doable, especially knowing that there was a very good chance I'd be back to my normal self within the year, which turned out to be the case. So far I'm doing well on the Arimidex, except for some hand pain mostly in the finger joints, but this seems a minor price to pay. Good luck to your wife whatever you decide is right for you.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "11/07/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/1514-Hormone-therapy-and-no-Chemo?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "Hormone therapy and no Chemo?"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "Cheers to Dr. Leo! for giving us his time and support, and to all who offer their \"two cents worth\" to let us know we're not alone in this and there is hope and help out there--especially to those long term survivors who take the time to come back and reassure us that there are success stories out there when we're feeling doomed! Here's to a blessed, \"better than 2004\" year for everyone!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "01/01/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/394-CHEERS-and-a-toast-to-Dr-Leo!?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "CHEERS and a toast to Dr. Leo!"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Hi Jan! My onc is also one who doesn't do any scans during followup unless there are symptoms that raise concern. He also doesn't do tumor markers as he says they're too unreliable. I will have checkups every 4 months while I'm on Arimidex, with bloodwork to check blood counts and liver enzymes, as well as clinical breast exam and yearly mammo. I also worry about knowing which symptoms are significant, but at some point I feel we have to trust our docs and go on with our life. (Often easier said than done, but that's my goal!!) Good luck",
       "Demographics": {
         "AgeInfo": [],
@@ -987,12 +883,37 @@
       "MessageIndex": 1,
       "PostDate": "11/06/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1285-fololow-up-scans-tests-etc?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/1285-fololow-up-scans-tests-etc?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "fololow up scans/tests etc."
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I'm on Arimidex since 7/04. Also take Advair and Singular for mild asthmatic cough which I've had for years, just diagnosed as being caused by asthma when it worsened during chemo. Supplements: 600mg calcium + D to supplement dietary dairy foods one reg aspirin multivitamin 1000mg glucosamine 100mg vit B6 Was taking the supplements before bc dx and have just continued them. B6 was for mild carpal tunnel symptoms which have gotten worse on the Arimidex, glucosamine for joint pain in feet which I've had for several years--helped some by surgery in 97, about the same since Arimidex.",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "02/02/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/525-What-are-you-taking?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "What are you taking?"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Hi Susan! My last chemo was 4/29/04. I'd heard it takes about 6 months to get back to a normal short hairstyle, and that seems about what it was for me. I had a wig that looks much like my normal hair, so continued to wear it longer than I would have had to, but my daughter's wedding was Sept 25, '04, and wanted to look more like my normal self in the pictures than the really short \"athletic-type\" hair that I had at that point. The Monday after the wedding I took off the wig for good! I was just really happy to be feeling like my old self for the wedding--a weekend long event on Mackinac Island, MI--which was planned well before my diagnosis! It was like a fairy tale. Best wishes to you as you return to a more \"normal\" (if there is such a thing!) life style.",
       "Demographics": {
         "AgeInfo": [{
@@ -1018,12 +939,12 @@
       "MessageIndex": 6,
       "PostDate": "05/04/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/725-vitamins?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/725-vitamins?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "vitamins"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "Hi Susan! My last chemo was 4/29/04. I'd heard it takes about 6 months to get back to a normal short hairstyle, and that seems about what it was for me. I had a wig that looks much like my normal hair, so continued to wear it longer than I would have had to, but my daughter's wedding was Sept 25, '04, and wanted to look more like my normal self in the pictures than the really short \"athletic-type\" hair that I had at that point. The Monday after the wedding I took off the wig for good! I was just really happy to be feeling like my old self for the wedding--a weekend long event on Mackinac Island, MI--which was planned well before my diagnosis! It was like a fairy tale. Best wishes to you as you return to a more \"normal\" (if there is such a thing!) life style.",
       "Demographics": {
         "AgeInfo": [{
@@ -1049,12 +970,37 @@
       "MessageIndex": 16,
       "PostDate": "05/04/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/725-vitamins?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/725-vitamins?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "vitamins"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Content": "I know everyone is different, but I was much less tired during radiation than during chemo, and was actually able to go back to work during rads. I worked part time, but as soon as rads were finished went immediately back to full time with no problem. I work in retail so am on my feet and running around the store constantly all day! I was more tired at the end of the day than before bc, but even that only lasted a couple of weeks. Also, like Sharon, I had no other chronic health problems to complicate things. I should think Cathy will be just fine to enjoy a relaxing vacation as soon as treatment is over. Just don't plan on any marathons!! Hope you have a wonderful time. Good luck with radiation!",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "08/03/2005",
+      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
+      "ThreadURL": "https://www.cancerforums.net/threads/638-How-did-you-feel-after-radiation?s=1ec90e7f6033e3217d9b5cc701390411",
+      "Title": "How did you feel after radiation?"
+    },
+    {
+      "AuthorID": "DiO",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "I have been on Arimidex for about 10 months. So far only side effect is joint pain, mostly in my hands, and trigger finger in my thumbs. Hot flashes have been about the same as I had from menopause before diagnosis. Too early to tell about bone density issues. My test before starting the meds was excellent so I'm not on anything except calcium supplements at the moment. Will repeat bone density next year to see if there's been any change. I never took Tamoxifen since being post menopausal at diagnosis my doc recommended going straight to Arimidex. Good luck!",
       "Demographics": {
         "AgeInfo": [],
@@ -1078,86 +1024,12 @@
       "MessageIndex": 3,
       "PostDate": "23/05/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1130-Tamoxifen-vs-Arimidex?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/1130-Tamoxifen-vs-Arimidex?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "Tamoxifen vs Arimidex"
     },
     {
       "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I know everyone is different, but I was much less tired during radiation than during chemo, and was actually able to go back to work during rads. I worked part time, but as soon as rads were finished went immediately back to full time with no problem. I work in retail so am on my feet and running around the store constantly all day! I was more tired at the end of the day than before bc, but even that only lasted a couple of weeks. Also, like Sharon, I had no other chronic health problems to complicate things. I should think Cathy will be just fine to enjoy a relaxing vacation as soon as treatment is over. Just don't plan on any marathons!! Hope you have a wonderful time. Good luck with radiation!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "08/03/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/638-How-did-you-feel-after-radiation?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "How did you feel after radiation?"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "I'm on Arimidex since 7/04. Also take Advair and Singular for mild asthmatic cough which I've had for years, just diagnosed as being caused by asthma when it worsened during chemo. Supplements: 600mg calcium + D to supplement dietary dairy foods one reg aspirin multivitamin 1000mg glucosamine 100mg vit B6 Was taking the supplements before bc dx and have just continued them. B6 was for mild carpal tunnel symptoms which have gotten worse on the Arimidex, glucosamine for joint pain in feet which I've had for several years--helped some by surgery in 97, about the same since Arimidex.",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "02/02/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/525-What-are-you-taking?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "What are you taking?"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Content": "Cheers to Dr. Leo! for giving us his time and support, and to all who offer their \"two cents worth\" to let us know we're not alone in this and there is hope and help out there--especially to those long term survivors who take the time to come back and reassure us that there are success stories out there when we're feeling doomed! Here's to a blessed, \"better than 2004\" year for everyone!",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "01/01/2005",
-      "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/394-CHEERS-and-a-toast-to-Dr-Leo!?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
-      "Title": "CHEERS and a toast to Dr. Leo!"
-    },
-    {
-      "AuthorID": "DiO",
-      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "AuthorURL": "https://www.cancerforums.net/members/89-DiO?s=1ec90e7f6033e3217d9b5cc701390411",
       "Content": "According to the tv report I heard they said there was a slight increase in risk for women who took ibuprophen daily for 5 years. Also a slight risk of hormone negative bc for women who took daily aspirin for 5 years. They said general use did not cause a problem, whatever that means, but that NSAIDS would probably not be used to prevent bc as was suggested might be possible by previous studies! I would like to see the actual article, and hear from some of the Drs what their take is on it--what dosages were involved, etc. Anyone have any further info?",
       "Demographics": {
         "AgeInfo": [],
@@ -1177,7 +1049,7 @@
       "MessageIndex": 1,
       "PostDate": "03/06/2005",
       "Signature": "God Bless, Di IDC 12/03 at age 55 lumpectomy, SNB 12/18/03 2cm tumor, 1/6+node, stage 2, grade 2 er/pr+ her2nu- 4 AC, 4 taxol, dose dense 33 rads Arimidex started 7/04",
-      "ThreadURL": "https://www.cancerforums.net/threads/1216-questions-about-news-story?s=3fb1611d76bf1b3b6df22f117ea2b6fe",
+      "ThreadURL": "https://www.cancerforums.net/threads/1216-questions-about-news-story?s=1ec90e7f6033e3217d9b5cc701390411",
       "Title": "questions about news story"
     }
   ],
@@ -1204,6 +1076,11 @@
       "fatigue",
       "infection"
     ]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -1614,10 +1491,10 @@
       "EmotionKeywords": [
         "interested",
         "boiling",
-        "interested",
-        "boiling",
         "understanding",
         "surprised",
+        "interested",
+        "boiling",
         "understanding",
         "surprised",
         "great",

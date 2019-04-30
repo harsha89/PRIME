@@ -7,9 +7,6 @@
       "curious",
       "willing",
       "sore",
-      "loving",
-      "loved",
-      "willing",
       "nervous",
       "understanding",
       "amazed",
@@ -23,6 +20,9 @@
       "fearful",
       "pained",
       "pained",
+      "loving",
+      "loved",
+      "willing",
       "kind",
       "encouraged",
       "thoughtful",
@@ -52,134 +52,6 @@
   "NExperiencePosts": 8,
   "NPosts": 8,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 5,
-      "NTotal": 5,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "chloe727",
@@ -210,30 +82,6 @@
       "PostDate": "10/02/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=410576",
       "Title": "Chloe, I am so sorry for your news...."
-    },
-    {
-      "AuthorID": "chloe727",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=411199&p=25983",
-      "Content": " Thank you everybody, I will go into todays surgeons appointment that much more informed.  I did pickup Dr. Susan Love's Breast Book and have been busy reading that ovr the last couple of days.  I have a knot in my stomache, a pounding headache and I am week at the knees but I will walk in there today and face whatever I have to face with my best foot forward and a smile on my face..  I will keep you posted. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["Breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "02/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=411199",
-      "Title": "Lumpectomy vs Mastectomy?"
     },
     {
       "AuthorID": "chloe727",
@@ -284,6 +132,30 @@
     },
     {
       "AuthorID": "chloe727",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=411199&p=25983",
+      "Content": " Thank you everybody, I will go into todays surgeons appointment that much more informed.  I did pickup Dr. Susan Love's Breast Book and have been busy reading that ovr the last couple of days.  I have a knot in my stomache, a pounding headache and I am week at the knees but I will walk in there today and face whatever I have to face with my best foot forward and a smile on my face..  I will keep you posted. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "02/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=411199",
+      "Title": "Lumpectomy vs Mastectomy?"
+    },
+    {
+      "AuthorID": "chloe727",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=434301&p=25983",
       "Content": " Hi,\n ",
       "Demographics": {
@@ -304,29 +176,6 @@
       "PostDate": "02/03/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=434301",
       "Title": "CONFUSED"
-    },
-    {
-      "AuthorID": "chloe727",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=411199&p=25983",
-      "Content": " \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "02/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=411199",
-      "Title": "Lumpectomy vs Mastectomy?"
     },
     {
       "AuthorID": "chloe727",
@@ -375,6 +224,29 @@
       "PostDate": "27/01/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=405339",
       "Title": "Nervous"
+    },
+    {
+      "AuthorID": "chloe727",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=411199&p=25983",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "02/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=411199",
+      "Title": "Lumpectomy vs Mastectomy?"
     }
   ],
   "ProfileDemographics": {
@@ -394,6 +266,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -436,30 +313,24 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "kind",
-        "encouraged",
-        "thoughtful",
-        "willing",
-        "worried"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0.5",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0.5",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.5",
-        "LOVE": "0",
-        "OPEN": "0.5",
-        "POSITIVE": "0.5",
-        "SAD": "0",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
@@ -643,6 +514,11 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
+        "kind",
+        "encouraged",
+        "thoughtful",
+        "willing",
+        "worried",
         "understanding",
         "amazed",
         "approachable",
@@ -664,22 +540,22 @@
         "sore"
       ],
       "Emotions": {
-        "AFRAID": "0.2",
-        "ALIVE": "0.2",
-        "ANGRY": "0.2",
+        "AFRAID": "0.286",
+        "ALIVE": "0.143",
+        "ANGRY": "0.143",
         "CONFUSED": "0",
         "DEPRESSED": "0",
-        "GOOD": "0.2",
-        "HAPPY": "0.2",
+        "GOOD": "0.286",
+        "HAPPY": "0.143",
         "HELPLESS": "0",
-        "HURT": "0.2",
+        "HURT": "0.143",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.2",
-        "LOVE": "0.6",
-        "OPEN": "0.8",
-        "POSITIVE": "0.6",
-        "SAD": "0.2",
-        "STRONG": "0.2"
+        "INTERESTED": "0.286",
+        "LOVE": "0.429",
+        "OPEN": "0.714",
+        "POSITIVE": "0.571",
+        "SAD": "0.143",
+        "STRONG": "0.143"
       }
     },
     "1st Month SideEffects": {

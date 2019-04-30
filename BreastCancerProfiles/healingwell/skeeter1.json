@@ -12,13 +12,13 @@
       "willing",
       "sure",
       "bad",
+      "wonderful",
+      "hopeful",
+      "hateful",
       "interested",
       "affected",
       "thoughtful",
       "bad",
-      "wonderful",
-      "hopeful",
-      "hateful",
       "glad",
       "relaxed",
       "cool",
@@ -29,6 +29,17 @@
       "ached",
       "pained",
       "hopeful",
+      "willing",
+      "amazed",
+      "great",
+      "nice",
+      "close",
+      "bad",
+      "comfortable",
+      "ok",
+      "comforted",
+      "willing",
+      "crying",
       "interested",
       "great",
       "wonderful",
@@ -41,23 +52,29 @@
       "lucky",
       "thoughtful",
       "worried",
-      "comfortable",
-      "ok",
-      "comforted",
       "willing",
-      "crying",
-      "willing",
-      "amazed",
-      "great",
-      "nice",
-      "close",
-      "bad",
       "ok",
       "willing",
       "pained",
       "pained",
-      "willing",
+      "excited",
       "wonderful",
+      "bad",
+      "willing",
+      "sure",
+      "pained",
+      "pained",
+      "ok",
+      "thoughtful",
+      "willing",
+      "hateful",
+      "cramped",
+      "pained",
+      "pained",
+      "great",
+      "wonderful",
+      "affected",
+      "willing",
       "bad",
       "great",
       "wonderful",
@@ -67,24 +84,27 @@
       "hateful",
       "pained",
       "pained",
-      "ok",
-      "thoughtful",
-      "willing",
-      "hateful",
-      "cramped",
+      "free",
+      "glad",
+      "free",
+      "hopeful",
+      "free",
+      "upset",
+      "upset",
+      "great",
+      "great news",
+      "cool",
+      "caring",
       "willing",
       "sure",
-      "pained",
-      "pained",
       "wonderful",
       "willing",
-      "great",
-      "willing",
-      "sure",
-      "sore",
-      "hurtful",
-      "pained",
-      "pained",
+      "upset",
+      "rude",
+      "discouraged",
+      "bad",
+      "upset",
+      "crying",
       "concerned",
       "sure",
       "upset",
@@ -94,22 +114,6 @@
       "pained",
       "wronged",
       "pained",
-      "upset",
-      "rude",
-      "discouraged",
-      "bad",
-      "upset",
-      "crying",
-      "great",
-      "wonderful",
-      "affected",
-      "willing",
-      "bad",
-      "excited",
-      "great",
-      "great news",
-      "cool",
-      "caring",
       "willing",
       "sure",
       "wonderful",
@@ -117,32 +121,13 @@
       "hopeful",
       "worried",
       "hurtful",
-      "wonderful",
+      "great",
       "willing",
-      "discouraged",
-      "hopeful",
-      "willing",
-      "free",
-      "glad",
-      "free",
-      "hopeful",
-      "free",
-      "upset",
-      "upset",
-      "interested",
-      "thrilled",
-      "hopeful",
-      "willing",
-      "willing",
+      "sure",
+      "sore",
+      "hurtful",
       "touched",
       "close",
-      "free",
-      "great",
-      "free",
-      "wonderful",
-      "close",
-      "free",
-      "sure",
       "surprised",
       "pained",
       "pained",
@@ -150,18 +135,29 @@
       "snoopy",
       "hopeful",
       "willing",
+      "wonderful",
+      "free",
+      "great",
+      "free",
+      "wonderful",
+      "close",
+      "free",
+      "sure",
+      "thrilled",
+      "hopeful",
+      "willing",
+      "willing",
+      "hopeful",
       "willing",
       "sure",
+      "lost",
+      "willing",
+      "discouraged",
+      "interested",
       "wonderful",
       "willing",
       "sure",
       "hateful",
-      "sure",
-      "lost",
-      "wonderful",
-      "close",
-      "thoughtful",
-      "bad",
       "wonderful",
       "ok",
       "close",
@@ -171,6 +167,10 @@
       "bruised",
       "strained",
       "pained",
+      "wonderful",
+      "close",
+      "thoughtful",
+      "bad",
       "free",
       "glad",
       "free",
@@ -202,134 +202,6 @@
   "NExperiencePosts": 80,
   "NPosts": 96,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 5,
-      "NTotal": 6,
-      "PAdvice": 0.16666666666666666,
-      "PExperience": 0.8333333333333334
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 6,
-      "NTotal": 6,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 4,
-      "NTotal": 5,
-      "PAdvice": 0.2,
-      "PExperience": 0.8
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 23,
-      "NTotal": 27,
-      "PAdvice": 0.14814814814814814,
-      "PExperience": 0.8518518518518519
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 5,
-      "NExperience": 16,
-      "NTotal": 21,
-      "PAdvice": 0.23809523809523808,
-      "PExperience": 0.7619047619047619
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 11,
-      "NTotal": 11,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 1,
-      "NTotal": 2,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 4,
-      "NTotal": 5,
-      "PAdvice": 0.2,
-      "PExperience": 0.8
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 3,
-      "NExperience": 1,
-      "NTotal": 4,
-      "PAdvice": 0.75,
-      "PExperience": 0.25
-    }
-  },
   "Posts": [
     {
       "AuthorID": "skeeter1",
@@ -424,29 +296,6 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=521586&p=17800",
-      "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "23/06/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=521586",
-      "Title": "My latest update!"
-    },
-    {
-      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=401257&p=17800",
       "Content": " I can relate to what your talking about\n. My onc put me on 75mg of effexor and it works wonders. My flashes are all but gone. occasionally I get a sweaty face but not bad and only last a few mins but by far tons better then I was before. check into to this med and good luck, sure you will find something that works...skeeter1 ",
       "Demographics": {
@@ -471,6 +320,29 @@
     },
     {
       "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=521586&p=17800",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "23/06/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=521586",
+      "Title": "My latest update!"
+    },
+    {
+      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=587624&p=17800",
       "Content": " \n \n ",
       "Demographics": {
@@ -491,53 +363,6 @@
       "PostDate": "05/09/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=587624",
       "Title": "Arimidex"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=473155&p=17800",
-      "Content": " Its so interesting how these different medicines affect each person differently. I just wanted to share the experince I had and let people know there are other opinions out there and your not stuff with the bad side effects! At first I thought I. Skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "25/04/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=473155",
-      "Title": "Arimidex vs aromison medicine"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=473155&p=17800",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "08/05/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=473155",
-      "Title": "Arimidex vs aromison medicine"
     },
     {
       "AuthorID": "skeeter1",
@@ -588,6 +413,75 @@
     },
     {
       "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=467182&p=17800",
+      "Content": " wonderful..happy for you guess me crossing everything possible and looking like a pretzel helped ....lol no really that is great, glad you found out before the holiday.. happy easter and enjoy the being of summer k... your friend skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "15/04/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=467182",
+      "Title": "Great News"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=473155&p=17800",
+      "Content": " Its so interesting how these different medicines affect each person differently. I just wanted to share the experince I had and let people know there are other opinions out there and your not stuff with the bad side effects! At first I thought I. Skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "25/04/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=473155",
+      "Title": "Arimidex vs aromison medicine"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=473155&p=17800",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "08/05/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=473155",
+      "Title": "Arimidex vs aromison medicine"
+    },
+    {
+      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416889&p=17800",
       "Content": " \n \n \n \n \n ",
       "Demographics": {
@@ -611,8 +505,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=467182&p=17800",
-      "Content": " wonderful..happy for you guess me crossing everything possible and looking like a pretzel helped ....lol no really that is great, glad you found out before the holiday.. happy easter and enjoy the being of summer k... your friend skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=465565&p=17800",
+      "Content": " well my pink feathers are flying high... I am sprinkling pink sparkly good luck dust too.. my feathers will be flying until I hear your out of surgery and doing ok... good luck ... have fingers crossed and saying a little prayer... hope things go smoothly for you and your out of surgery in a flash... let us all know when its time to put down the feathers k...skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -626,10 +520,33 @@
           }
         }
       },
-      "MessageIndex": 6,
-      "PostDate": "15/04/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=467182",
-      "Title": "Great News"
+      "MessageIndex": 3,
+      "PostDate": "11/04/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=465565",
+      "Title": "Need the pink feather brigade"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=458088&p=17800",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 21,
+      "PostDate": "05/04/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=458088",
+      "Title": "CT results not good"
     },
     {
       "AuthorID": "skeeter1",
@@ -672,29 +589,6 @@
       },
       "MessageIndex": 18,
       "PostDate": "03/04/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=458088",
-      "Title": "CT results not good"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=458088&p=17800",
-      "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 21,
-      "PostDate": "05/04/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=458088",
       "Title": "CT results not good"
     },
@@ -746,8 +640,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=465565&p=17800",
-      "Content": " well my pink feathers are flying high... I am sprinkling pink sparkly good luck dust too.. my feathers will be flying until I hear your out of surgery and doing ok... good luck ... have fingers crossed and saying a little prayer... hope things go smoothly for you and your out of surgery in a flash... let us all know when its time to put down the feathers k...skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=431549&p=17800",
+      "Content": " \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -756,37 +650,16 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "11/04/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=465565",
-      "Title": "Need the pink feather brigade"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=403069&p=17800",
-      "Content": " gosh Ellen so sorry we all let you down. I haven't been on the internet in over a week so didn't read your message till now. Good luck in the Ct, hope results are good, man its hard to deal with some of the things we have to do to ensure we are ok. I know it hard to wait and wonder only to find out you have something else to deal with. Let us all know the results and I will keep my fingers crossed that its is something simple and easy to fix so you can get back on the road to good health. No your messages was not too neg, you have a reason to be concerned. Sorry I let you down....skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "20/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=403069",
-      "Title": "PCE request"
+      "MessageIndex": 10,
+      "PostDate": "28/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=431549",
+      "Title": "Port a cath question"
     },
     {
       "AuthorID": "skeeter1",
@@ -814,6 +687,50 @@
     },
     {
       "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=403069&p=17800",
+      "Content": " gosh Ellen so sorry we all let you down. I haven't been on the internet in over a week so didn't read your message till now. Good luck in the Ct, hope results are good, man its hard to deal with some of the things we have to do to ensure we are ok. I know it hard to wait and wonder only to find out you have something else to deal with. Let us all know the results and I will keep my fingers crossed that its is something simple and easy to fix so you can get back on the road to good health. No your messages was not too neg, you have a reason to be concerned. Sorry I let you down....skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "20/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=403069",
+      "Title": "PCE request"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=393518&p=17800",
+      "Content": " congrates, I remember that day for me It felt great. You will be surprised how quick radiation will go for you. I was nervous the first visit and first treatment, but was surprised how simple and easy it was for me,it became a routine to go there get a treatment and go home. I wish you all the luck with radiation. Glad you have made it this far, soon everything will be over, you just wait and see..I am happy for you....skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "09/01/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=393518",
+      "Title": "No more cocktails of either type"
+    },
+    {
+      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=383540&p=17800",
       "Content": " Congrats .....you've come along way girl...I hope the next year is full of joy and fun for all of us... skeeter1 ",
       "Demographics": {
@@ -838,8 +755,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=431549&p=17800",
-      "Content": " \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=351750&p=17800",
+      "Content": " Good luck but already know everything will be fine... let us know how it goes k  skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -855,9 +772,63 @@
         }
       },
       "MessageIndex": 10,
-      "PostDate": "28/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=431549",
-      "Title": "Port a cath question"
+      "PostDate": "27/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=351750",
+      "Title": "Mammo Today"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=344816&p=17800",
+      "Content": " we all are very close to each other I haven't got my hair trimmed yet waiting for it to get alittle longer. I had a lot of white in my hair too and it came back with light curls. I colored it over a month ago and it worked great I put it back to my light brown hair color. Everyone at work say they like my hair. I was amazed how it grow back with a style of its own and it really isn't bad lol I went to sally's and got the color that has conditioners in it figured that would be better for me and the color dye there is more like the color they use in beauty shops. Explore your new color and new hair and have some fun with it. I do feel more normal now. I am back to work, have my natural hair color back and each day I feel stronger and stronger. Life is going well for me now. Today I am going to a luncheon were I work for breast cancer it is \nopen to the community too and from what I hear they do it every year, guess they give us gifts and have a nice meal with linens tableclothes ect. I am looking forward to it. I guess at least 60 survivors are there. I am going to get dressed up for it. First time I have gotten dressed up since I got cancer.....gonna jet... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> I guess at least 60 survivors are there <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "17/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=344816",
+      "Title": "First hair cut!!!"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=17800",
+      "Content": " Bernadette: sorry I missed the shaving party... yikes!!!!! I had a hard time too with the shaving of my head. I had hair down to the middle of my back and it was straight. I had DS shave if off before it fell out too much. Finding long strands of hair all over was really hard on me. So I said shave it off, shave it ,all, off. I was funny cause I would laugh while he shaved it and then when I saw it fall to the ground I would cry, once it was gone I got use to it. It took 6wks after my last treatment to come back and now its only about\n 1 1/2 inches. it looks like it may have a wave but can't tell yet if it will have curles. I wear a wig cap under the wig I have. I like my wig I feel very comfortable with it, you will get more comfortable with yours too. I occasionally wear a baseball cap gosh really not into scarfs or regular hats think I look like Minnie Pearl in them lol... we went to our state fair and I wore my wig... on the way home in the car I took my wig off I was so hot...anyway it was so funny to see people look at me at the stop lights. They would glance and then take another look... lol I teased DS and told him the next one that stares at me I am gonna wink at....lol!!!needless to say I was having a good time at the stop lights.. Things will fine at work for you in the wig...... have fun with it... ok... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "07/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
+      "Title": "Hair loss"
     },
     {
       "AuthorID": "skeeter1",
@@ -909,30 +880,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=393518&p=17800",
-      "Content": " congrates, I remember that day for me It felt great. You will be surprised how quick radiation will go for you. I was nervous the first visit and first treatment, but was surprised how simple and easy it was for me,it became a routine to go there get a treatment and go home. I wish you all the luck with radiation. Glad you have made it this far, soon everything will be over, you just wait and see..I am happy for you....skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "09/01/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=393518",
-      "Title": "No more cocktails of either type"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316871&p=17800",
-      "Content": " Bernadette: sorry I missed the shaving party... yikes!!!!! I had a hard time too with the shaving of my head. I had hair down to the middle of my back and it was straight. I had DS shave if off before it fell out too much. Finding long strands of hair all over was really hard on me. So I said shave it off, shave it ,all, off. I was funny cause I would laugh while he shaved it and then when I saw it fall to the ground I would cry, once it was gone I got use to it. It took 6wks after my last treatment to come back and now its only about\n 1 1/2 inches. it looks like it may have a wave but can't tell yet if it will have curles. I wear a wig cap under the wig I have. I like my wig I feel very comfortable with it, you will get more comfortable with yours too. I occasionally wear a baseball cap gosh really not into scarfs or regular hats think I look like Minnie Pearl in them lol... we went to our state fair and I wore my wig... on the way home in the car I took my wig off I was so hot...anyway it was so funny to see people look at me at the stop lights. They would glance and then take another look... lol I teased DS and told him the next one that stares at me I am gonna wink at....lol!!!needless to say I was having a good time at the stop lights.. Things will fine at work for you in the wig...... have fun with it... ok... skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=334427&p=17800",
+      "Content": " I take caltrateD/plus for calcium and magnesium 300mg and now I will go back on my omega3 thanks to Laure. I also take a multivit too. I notice that when I took the mag and the omega3 for that week my legs felt alot better I could really tell the difference.... skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -948,33 +897,10 @@
           }
         }
       },
-      "MessageIndex": 19,
-      "PostDate": "07/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316871",
-      "Title": "Hair loss"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=351750&p=17800",
-      "Content": " Good luck but already know everything will be fine... let us know how it goes k  skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "27/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=351750",
-      "Title": "Mammo Today"
+      "MessageIndex": 4,
+      "PostDate": "01/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=334427",
+      "Title": "Omega3 gel caps from salmon for leg cramps"
     },
     {
       "AuthorID": "skeeter1",
@@ -1001,36 +927,6 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=344816&p=17800",
-      "Content": " we all are very close to each other I haven't got my hair trimmed yet waiting for it to get alittle longer. I had a lot of white in my hair too and it came back with light curls. I colored it over a month ago and it worked great I put it back to my light brown hair color. Everyone at work say they like my hair. I was amazed how it grow back with a style of its own and it really isn't bad lol I went to sally's and got the color that has conditioners in it figured that would be better for me and the color dye there is more like the color they use in beauty shops. Explore your new color and new hair and have some fun with it. I do feel more normal now. I am back to work, have my natural hair color back and each day I feel stronger and stronger. Life is going well for me now. Today I am going to a luncheon were I work for breast cancer it is \nopen to the community too and from what I hear they do it every year, guess they give us gifts and have a nice meal with linens tableclothes ect. I am looking forward to it. I guess at least 60 survivors are there. I am going to get dressed up for it. First time I have gotten dressed up since I got cancer.....gonna jet... skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "<Z> I guess at least 60 survivors are there <Z> <Z>",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 60
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "17/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=344816",
-      "Title": "First hair cut!!!"
-    },
-    {
-      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=379635&p=17800",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
@@ -1051,6 +947,29 @@
       "PostDate": "15/12/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=379635",
       "Title": "I've been missing, but back now...."
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=335810&p=17800",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 17,
+      "PostDate": "04/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=335810",
+      "Title": "Need some extra prayers from my breast buddies"
     },
     {
       "AuthorID": "skeeter1",
@@ -1101,6 +1020,30 @@
     },
     {
       "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=17800",
+      "Content": " I work as a nurse on a surgical unit... yikes 12hr excited to get back to work, nerves on how good of shape I am for the 12hrs oh well won't know until you try huh!!! so gonna take my omega3 too now skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "01/10/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
+      "Title": "leg cramps"
+    },
+    {
+      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=313286&p=17800",
       "Content": " Brnadette: I really think you need to sit down with your PC too and ask all the questions you have and hopefully he/she will be able to answer them so you can understand, and know the reasoning behind why you weren't informed, make sure they clearly understand that they need to share everything with you no matter how small they think it may be. I think if you talk with them and come to an understanding as to why they choose not to share this with you it will help you move on from this. Also if you don't understand why and how this happened you will never trust your PC again, and that would be hard to continue to have them as a PC if in your mind you will always be questioning all the care you get in the future with them. I would let them know that too, that you need to come to an understand about\n this cause otherwise you will never be able to have complete trust in the future care they give you.  I know your a very resasonable person and will be able to get past this. Its a shame it happened, you have every right to question and understand why and how this could have happened to you. I would be upset about\n this too and would want to make sure it never happened to me again...Good luck...skeeter1 ",
       "Demographics": {
@@ -1120,6 +1063,30 @@
       "PostDate": "31/08/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=313286",
       "Title": "Breast buddies I need your help!"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=17800",
+      "Content": " well went to my oncologist today and he put me on armidex. I guess my lab work came back and I am in menapause now... they did testing before chemo and I was premenapausal so guess in the few short months I am menapausal...yikes no wonder I had bad hot flashes.... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "02/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=315416",
+      "Title": "I start tamoxifan tomorrow"
     },
     {
       "AuthorID": "skeeter1",
@@ -1146,31 +1113,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=335810&p=17800",
-      "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 17,
-      "PostDate": "04/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=335810",
-      "Title": "Need some extra prayers from my breast buddies"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=334427&p=17800",
-      "Content": " I take caltrateD/plus for calcium and magnesium 300mg and now I will go back on my omega3 thanks to Laure. I also take a multivit too. I notice that when I took the mag and the omega3 for that week my legs felt alot better I could really tell the difference.... skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=322448&p=17800",
+      "Content": " Way to goooo.... I graduated too... now its back to normal life.... I start back to work at my normal job the 3rd of Oct... wish me luck I will be working 12hr shifts day/night rotation.. looking forward to getting back to normal life but not being on my feet again for 12hrs a day... I started on Arimedex too... gosh I have been getting more joint pain and leg pains more not sure if its the medicine or because I have been riding my bike for an hour each time I ride to get my strength back. I have you been getting moreof them now too? We made if girl yeehaa!!!skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1186,15 +1130,39 @@
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "01/10/2005",
+      "MessageIndex": 8,
+      "PostDate": "14/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=322448",
+      "Title": "I'M A RAD GRAD!!!"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=334427&p=17800",
+      "Content": " I called my onco office and left a message with the nurse practioner that works with my doc but have to wait until monday when she gets back to find out if its ok to take omega3 from salmon for leg cramps with armidex. Gosh hate waiting but until then I will stop taking the gel caps.. will let you know what she says. If anyone here has any ideas or thoughts on it I would appreciate it. Skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=334427",
       "Title": "Omega3 gel caps from salmon for leg cramps"
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=17800",
-      "Content": " well went to my oncologist today and he put me on armidex. I guess my lab work came back and I am in menapause now... they did testing before chemo and I was premenapausal so guess in the few short months I am menapausal...yikes no wonder I had bad hot flashes.... skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316134&p=17800",
+      "Content": " that medicine is neurotin. I don't know to much about\n it being used for hot flashes... it is used for pain, think some of us are on it right now too.skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1210,8 +1178,54 @@
           }
         }
       },
-      "MessageIndex": 3,
+      "MessageIndex": 1,
       "PostDate": "02/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316134",
+      "Title": "Drug reduces hot flashes in breast cancer patients"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=314676&p=17800",
+      "Content": " WOW!!! I agree with Sara you should write a book. lol I enjoyed reading what you wrote but can't imagine how miseriable you must be feeling with the sting and reactions and all. Take care of your self....skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "31/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=314676",
+      "Title": "Clutter: What was I thinking????"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=17800",
+      "Content": " Tammy: I go to my oncologist tomorrow too and think I will be started on tamoxifan too. I am a little leary too and wonder how it will affect me. I already gained 15lbs so really don't want to gain any more. I already take effexor for really bad hot flashes and it is working great and wonder after starting the med will the effexor still work good for me.. yikes guess time will tell huh...skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "01/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=315416",
       "Title": "I start tamoxifan tomorrow"
     },
@@ -1241,8 +1255,102 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=334427&p=17800",
-      "Content": " I called my onco office and left a message with the nurse practioner that works with my doc but have to wait until monday when she gets back to find out if its ok to take omega3 from salmon for leg cramps with armidex. Gosh hate waiting but until then I will stop taking the gel caps.. will let you know what she says. If anyone here has any ideas or thoughts on it I would appreciate it. Skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=314245&p=17800",
+      "Content": " Donna A: so glad you found us but sorry your a breast cancer buddy too. This forum has been a lifesaver for me. When I first started posting here I was so depressed and upset with what was happening to me. The girls here have help me in more ways then I can explain. Feel free to voice any and all the feelings and questions you have. I know I do..lol Hope you stick around....skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "31/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=314245",
+      "Title": "Recurrence less than a year after first diagnosis"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312701&p=17800",
+      "Content": " gosh why do they have to do radiation above your collar bone? dumb question I know but my radiations was only in my armpit and across my breast why is your radiation so high..skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "29/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312701",
+      "Title": "PAIN WITH RADS"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=311945&p=17800",
+      "Content": " Great news ....now on to the next step huh radiation...I used radia plex gel and took showers with Ivory bar soap too.. and when I felt hot and was starting to get alittle red I would take a shower to cool my skin down. My radiologist told me not to put the gel on before radiation. I guess some say to make sure you put it on 2 hours before and not closer. Mine said don't put it on that day until after tx. I got up in mornings took shower cleaned with ivory bar soap and never put the gel on, once I was done with radiation I put it on right away and then few times during the day. I took my radiation at 11:30am. I am done with my treatments now ended 1 1/2 weeks ago and during my treatments I had no burns and my skin only turned pink but was gone the next morning, but the last week with the boosters I did get more of a red color and dry skin. I used the radia plex gel for one week and now I put a light eucerin cream on. So good luck and just be persistant with your skin care and you will do fine. Now my skin is almost back to normal!!!  skeeter1\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "27/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=311945",
+      "Title": "B-9 results"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331071&p=17800",
+      "Content": " I will be returning back to work on monday. Yikes!! I have no lifting restrictions either. I had 7 lymphnodes removed. I have full range of motions. They way I look at it I never had any muscles cut so figure I  should be fine. I will have some lifting but not alot. Good luck going back to work it will we hard for us huh.. at times I can't wait to get back and than other times I wonder if I can do it... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "28/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331071",
+      "Title": "Going back to work"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331512&p=17800",
+      "Content": " I am so discouraged and upset. I decided now that my hair is growing some I would go without my wig. My hair is short, very short but if feels better to be without the wig in such hot weather. It itched all the time and I would feel the sweat under it. Well anyway I went to the car dealer and to the store today feeling pretty good but some people are so rude. They were just rude to me and treated me like a second class citizen. I think it was my hair I really do. I think they though I was a freak or something and treated me bad it made me cry when I got in the car. I just wanted to share how I felt this morning. It helps to get it off my chest. thanks for listening...skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1259,9 +1367,33 @@
         }
       },
       "MessageIndex": 0,
-      "PostDate": "30/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=334427",
-      "Title": "Omega3 gel caps from salmon for leg cramps"
+      "PostDate": "26/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331512",
+      "Title": "short hair"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312701&p=17800",
+      "Content": " This is a BIG RED FLAG for me. I am upset, concerned and worried for you. Did you have a lumphectomy or mastectomy. I had lumphectomy and before I had rad tx I had an onco nurse tell me that I shouldn't have pain in throat, neck ect only if they are radiating the neck area and that is normal with thyroid rad ect. It is caused from mucous membranes being radiated and that shouldn't happen with breast cancer radiation. If I was you I would further investigate this. See when I was mapped they took pictures of my tatoos and kept the pictures in my chart. They also drew on my chest that day in black marker exactly where the radiation would go, and put that pictures in my chart. They did xray of my chest once a week and checked each week to see if they were radiating the right area. Every treatment I was remeasured by my tatoos before they placed the radiation on me, and at least a couple times they placed a tab on me during a treatment to measure the amount of radiation I actually was getting to make sure it was right. Now if they did all of these precautions with you then you should be able to ask to look at your chart and have them explain exactly where your radiated to makes sure they aren't radiating the wrong area. I could be way off but I really think this isn't a side effect from the right radiaton tx for breast cancer. I really would hate for you to find out too late that they radiated your mucous membranes and it caused damaged where it shouldn't. My radiologist told me that no matter how well they measured and no matter what precautions they took I would have a small amount of radiation damage to my lung. A very small amount and wouldn't feel any different but in future xrays it would show up later. That was the only thing he said would happen to me other then the normal skin and tissue thickness ect. I did have small amount of pain in the muscle of my breast and my skin was like it was sunburned at times but that was it. Sorry so long.... investigate, maybe the others on this board have an opinion on this... have them show you exactly where they are radiating.... I wish you all the luck in the world... keep us posted on this ....skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "29/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312701",
+      "Title": "PAIN WITH RADS"
     },
     {
       "AuthorID": "skeeter1",
@@ -1313,8 +1445,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=322448&p=17800",
-      "Content": " Way to goooo.... I graduated too... now its back to normal life.... I start back to work at my normal job the 3rd of Oct... wish me luck I will be working 12hr shifts day/night rotation.. looking forward to getting back to normal life but not being on my feet again for 12hrs a day... I started on Arimedex too... gosh I have been getting more joint pain and leg pains more not sure if its the medicine or because I have been riding my bike for an hour each time I ride to get my strength back. I have you been getting moreof them now too? We made if girl yeehaa!!!skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=313286&p=17800",
+      "Content": " Brnadette: I would be MAD 2, not sure if I understand forsure what happened but think they found something on mammo in 03, and never told you. That would upset me2, its like they never gave you a say in what happens in your life. You have some rights there that were over looked. They seemed to be unconcerned about\n what they found back then and never even told you. That a lone would upset me and then by not telling you the care you had to watch this cyst was not there over the past 2 years and if it would have been something aggressive it could have been too late for you once you noticed it yourself. Luck was on your side, but you should have know so you weren't relying on luck, instead relying on knowledge. The knowledge to know you did everything you could to make sure you had a long happy healthy life over the past 2 years. Bummer huh but it looks like your doing ok now and will continue too. Just wish they would have been more appropriate with your care 2 years ago. I would make sure they understood what they did to you and how you have the right to know no matter what they find on your mammos. I hope all goes well for you now, can't cry over spilled milk just have to clean up the mess and move on huh and not let it get you down.... hope all is going well for you now.....skeeter1  ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1323,22 +1455,20 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 8,
-      "PostDate": "14/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=322448",
-      "Title": "I'M A RAD GRAD!!!"
+      "MessageIndex": 11,
+      "PostDate": "29/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=313286",
+      "Title": "Breast buddies I need your help!"
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331071&p=17800",
-      "Content": " I will be returning back to work on monday. Yikes!! I have no lifting restrictions either. I had 7 lymphnodes removed. I have full range of motions. They way I look at it I never had any muscles cut so figure I  should be fine. I will have some lifting but not alot. Good luck going back to work it will we hard for us huh.. at times I can't wait to get back and than other times I wonder if I can do it... skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312209&p=17800",
+      "Content": " I got that too when I finished chemo. My last dose was end of May, I think it lasted for 2 months and now I get alittle bit if I sit/stand for along time, but seems to be getting better each day. Hopefully yours will do that too. I have to go back to work and stand for long hours soon so I ordered some compression stockings to help my circulation. I think its caused from our nervious system. I think in time it goes away but have hear from others that they still have it years later. No sure but have notices mine is getting better. Congrats on being done with chemo!! thats a big hurdle you just jumped huh!!! skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1354,10 +1484,83 @@
           }
         }
       },
-      "MessageIndex": 8,
-      "PostDate": "28/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331071",
-      "Title": "Going back to work"
+      "MessageIndex": 2,
+      "PostDate": "27/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312209",
+      "Title": "restless legs"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=306270&p=17800",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "17/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=306270",
+      "Title": "My Cocktail"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=306185&p=17800",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "22/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=306185",
+      "Title": "I need the pink feathers tommorow ladies"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=327211&p=17800",
+      "Content": " Does anyone know if you can take flaxseed and soy nuts ect while on arimidex? I have been reading alot about\n the phytoestrogens. See I wonder if you take arimidex and digest flaxseed and/or soy produces would it enhance the effects of arimidex and increase your chances of not getting breast cancer again. Yikes anyway I went to health store today bought ranch soy nuts and flaxseed I ground up the flaxseed and put it on my cereal tonight and now I am worried that maybe I shouldn't have done that. does anyone have any idea if it would hurt or help... skeeter1 .. I also read that green tea is good for you too and turmeric spice... does any one know anything about\n these and if it hurts to eat any of this and also take arimidex??? I also take effexor for the hot flashes.. need help hope someone knows that answers. skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "hot flashes",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "19/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=327211",
+      "Title": "taking arimidex and flaxseed and soy nuts is it ok to take together"
     },
     {
       "AuthorID": "skeeter1",
@@ -1385,56 +1588,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316134&p=17800",
-      "Content": " that medicine is neurotin. I don't know to much about\n it being used for hot flashes... it is used for pain, think some of us are on it right now too.skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["hot flashes"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "02/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316134",
-      "Title": "Drug reduces hot flashes in breast cancer patients"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312701&p=17800",
-      "Content": " This is a BIG RED FLAG for me. I am upset, concerned and worried for you. Did you have a lumphectomy or mastectomy. I had lumphectomy and before I had rad tx I had an onco nurse tell me that I shouldn't have pain in throat, neck ect only if they are radiating the neck area and that is normal with thyroid rad ect. It is caused from mucous membranes being radiated and that shouldn't happen with breast cancer radiation. If I was you I would further investigate this. See when I was mapped they took pictures of my tatoos and kept the pictures in my chart. They also drew on my chest that day in black marker exactly where the radiation would go, and put that pictures in my chart. They did xray of my chest once a week and checked each week to see if they were radiating the right area. Every treatment I was remeasured by my tatoos before they placed the radiation on me, and at least a couple times they placed a tab on me during a treatment to measure the amount of radiation I actually was getting to make sure it was right. Now if they did all of these precautions with you then you should be able to ask to look at your chart and have them explain exactly where your radiated to makes sure they aren't radiating the wrong area. I could be way off but I really think this isn't a side effect from the right radiaton tx for breast cancer. I really would hate for you to find out too late that they radiated your mucous membranes and it caused damaged where it shouldn't. My radiologist told me that no matter how well they measured and no matter what precautions they took I would have a small amount of radiation damage to my lung. A very small amount and wouldn't feel any different but in future xrays it would show up later. That was the only thing he said would happen to me other then the normal skin and tissue thickness ect. I did have small amount of pain in the muscle of my breast and my skin was like it was sunburned at times but that was it. Sorry so long.... investigate, maybe the others on this board have an opinion on this... have them show you exactly where they are radiating.... I wish you all the luck in the world... keep us posted on this ....skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "29/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312701",
-      "Title": "PAIN WITH RADS"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331512&p=17800",
-      "Content": " I am so discouraged and upset. I decided now that my hair is growing some I would go without my wig. My hair is short, very short but if feels better to be without the wig in such hot weather. It itched all the time and I would feel the sweat under it. Well anyway I went to the car dealer and to the store today feeling pretty good but some people are so rude. They were just rude to me and treated me like a second class citizen. I think it was my hair I really do. I think they though I was a freak or something and treated me bad it made me cry when I got in the car. I just wanted to share how I felt this morning. It helps to get it off my chest. thanks for listening...skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=17800",
+      "Content": " Sorry it took me so long to answer. We are very close to the same with our cancer and treatment. My doc put me on arimedex though instead. I am doing fine on it no side effects yet anyway.. I take effexor too along with it. We do need to keep in touch with each other along with Tammy. I think JUJU is very close to us too... skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1450,39 +1605,15 @@
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "26/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331512",
-      "Title": "short hair"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=17800",
-      "Content": " Tammy: I go to my oncologist tomorrow too and think I will be started on tamoxifan too. I am a little leary too and wonder how it will affect me. I already gained 15lbs so really don't want to gain any more. I already take effexor for really bad hot flashes and it is working great and wonder after starting the med will the effexor still work good for me.. yikes guess time will tell huh...skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["hot flashes"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "01/09/2005",
+      "MessageIndex": 14,
+      "PostDate": "07/09/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=315416",
       "Title": "I start tamoxifan tomorrow"
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331596&p=17800",
-      "Content": " I work as a nurse on a surgical unit... yikes 12hr excited to get back to work, nerves on how good of shape I am for the 12hrs oh well won't know until you try huh!!! so gonna take my omega3 too now skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293526&p=17800",
+      "Content": " Beth K, I had taxol too but I had chemo before surgery. I had pain everywhere with taxol. See I have TMJ and my jaw even hurt when I tried to eat for a few days with each tx. You get pain with taxol in the joints and weak areas of your body normally. Since you just had surgery its not surprising you get the pain there too. Oh and by the way after I had surgery I got alot of pain mostly in my armpit where lymphnodes where removed I had lymphectomy and that really didn't hurt much. My doc gave me norco ( \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1498,10 +1629,34 @@
           }
         }
       },
-      "MessageIndex": 13,
-      "PostDate": "01/10/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331596",
-      "Title": "leg cramps"
+      "MessageIndex": 3,
+      "PostDate": "29/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293526",
+      "Title": "Nerve pain?"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=300880&p=17800",
+      "Content": " Congrates LORI, doin happy dance for you... I will be done with radiation next weeks then start my tamoxifen and pray and hope I can join you in 5 years and we can do a happy dance together.... keep posting here though k cause I have learned alot from you even if I don't post alot I read what you write and you have helped me tons without even knowing.... yea!!!!!! I look like snoopy right now when he does his little dance... WAY TO GOOOOOOO.......skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "12/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=300880",
+      "Title": "\"See ya next year,\" said the oncologist....."
     },
     {
       "AuthorID": "skeeter1",
@@ -1550,8 +1705,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=313286&p=17800",
-      "Content": " Brnadette: I would be MAD 2, not sure if I understand forsure what happened but think they found something on mammo in 03, and never told you. That would upset me2, its like they never gave you a say in what happens in your life. You have some rights there that were over looked. They seemed to be unconcerned about\n what they found back then and never even told you. That a lone would upset me and then by not telling you the care you had to watch this cyst was not there over the past 2 years and if it would have been something aggressive it could have been too late for you once you noticed it yourself. Luck was on your side, but you should have know so you weren't relying on luck, instead relying on knowledge. The knowledge to know you did everything you could to make sure you had a long happy healthy life over the past 2 years. Bummer huh but it looks like your doing ok now and will continue too. Just wish they would have been more appropriate with your care 2 years ago. I would make sure they understood what they did to you and how you have the right to know no matter what they find on your mammos. I hope all goes well for you now, can't cry over spilled milk just have to clean up the mess and move on huh and not let it get you down.... hope all is going well for you now.....skeeter1  ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293546&p=17800",
+      "Content": " \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1560,15 +1715,40 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
       "MessageIndex": 11,
+      "PostDate": "29/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293546",
+      "Title": "wigs"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312701&p=17800",
+      "Content": " I had radiation along the bottom rib line, from my sternum to my armpit but that was the only area uumm wonder why you have it so high????....skeeter1\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
       "PostDate": "29/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=313286",
-      "Title": "Breast buddies I need your help!"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312701",
+      "Title": "PAIN WITH RADS"
     },
     {
       "AuthorID": "skeeter1",
@@ -1595,35 +1775,13 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312701&p=17800",
-      "Content": " gosh why do they have to do radiation above your collar bone? dumb question I know but my radiations was only in my armpit and across my breast why is your radiation so high..skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295742&p=17800",
+      "Content": " Gosh Breast buddies. Something wonderful happened to me on saturday. They had Brides Against Breast Cancer in a town close to use and since I am getting married next summer we went to it. Its a wonderful program not sure if you guys have heard of it. They have tons of wedding dresses that businesses and people have donated and sell them and donate the money to makes wishes come true for breast cancer patients, anyway when they found out I had breast cancer and was in treatment she told me I could pick out any wedding dress I wanted and anything else and I could have it for free... WOW WOW WOW.. I had such a wonderful time I tried on alot of dress and finally picked one that fit me great and was absolutely beautiful looked like a princes dress. I came home glowing. It was the most wonderful experience I ever had they gave me the dress veil and slip and gloves all of it......skeeter1\n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "29/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312701",
-      "Title": "PAIN WITH RADS"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=311945&p=17800",
-      "Content": " Great news ....now on to the next step huh radiation...I used radia plex gel and took showers with Ivory bar soap too.. and when I felt hot and was starting to get alittle red I would take a shower to cool my skin down. My radiologist told me not to put the gel on before radiation. I guess some say to make sure you put it on 2 hours before and not closer. Mine said don't put it on that day until after tx. I got up in mornings took shower cleaned with ivory bar soap and never put the gel on, once I was done with radiation I put it on right away and then few times during the day. I took my radiation at 11:30am. I am done with my treatments now ended 1 1/2 weeks ago and during my treatments I had no burns and my skin only turned pink but was gone the next morning, but the last week with the boosters I did get more of a red color and dry skin. I used the radia plex gel for one week and now I put a light eucerin cream on. So good luck and just be persistant with your skin care and you will do fine. Now my skin is almost back to normal!!!  skeeter1\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": ["Breast"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -1634,10 +1792,10 @@
           }
         }
       },
-      "MessageIndex": 7,
-      "PostDate": "27/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=311945",
-      "Title": "B-9 results"
+      "MessageIndex": 0,
+      "PostDate": "01/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295742",
+      "Title": "something wonderful happened"
     },
     {
       "AuthorID": "skeeter1",
@@ -1686,200 +1844,7 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=327211&p=17800",
-      "Content": " Does anyone know if you can take flaxseed and soy nuts ect while on arimidex? I have been reading alot about\n the phytoestrogens. See I wonder if you take arimidex and digest flaxseed and/or soy produces would it enhance the effects of arimidex and increase your chances of not getting breast cancer again. Yikes anyway I went to health store today bought ranch soy nuts and flaxseed I ground up the flaxseed and put it on my cereal tonight and now I am worried that maybe I shouldn't have done that. does anyone have any idea if it would hurt or help... skeeter1 .. I also read that green tea is good for you too and turmeric spice... does any one know anything about\n these and if it hurts to eat any of this and also take arimidex??? I also take effexor for the hot flashes.. need help hope someone knows that answers. skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "hot flashes",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "19/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=327211",
-      "Title": "taking arimidex and flaxseed and soy nuts is it ok to take together"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=306185&p=17800",
-      "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "22/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=306185",
-      "Title": "I need the pink feathers tommorow ladies"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312701&p=17800",
-      "Content": " I had radiation along the bottom rib line, from my sternum to my armpit but that was the only area uumm wonder why you have it so high????....skeeter1\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "29/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312701",
-      "Title": "PAIN WITH RADS"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=314676&p=17800",
-      "Content": " WOW!!! I agree with Sara you should write a book. lol I enjoyed reading what you wrote but can't imagine how miseriable you must be feeling with the sting and reactions and all. Take care of your self....skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "31/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=314676",
-      "Title": "Clutter: What was I thinking????"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=289777&p=17800",
-      "Content": " JUJU, my hair is coming back now too but it took alittle over a month after my last treatment before I started to see new hair growth. I have my eyelashes back now and brows but my lashes aren't very long yet. my hair right now is about\n 1/2 inch and its dark brown with some blonde and white in it. I too was very discouraged when my hair didn't grow back right away, but one morning I woke up and there it was... at least some you could see anyway...lol...my doc told me by December I will be able to style it... thats is 7 months after my last treatment....its not long enough to know yet if it will be curly.. my radiologist says it will come back with waves or curls, see my hair has always been straight so that will be different for me...your hair will be back SOON...... let me know when it starts to grow again and you can see it  k.......skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "23/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=289777",
-      "Title": "Just started rads"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316505&p=17800",
-      "Content": " Kathy: good luck hope all goes well for you.. I was on my road to start RN school in Aug and was taking my last college class I needed to start the program when I was diagnosised with cancer.. bummer huh!!! So everything came to a skretching hault.....uuummm oh well that is how life goes huh... was still taking radiation when program started...with this program I would have only had to go for a year and would have had my RN but this is the was last program they are offering..... they decided to redoing the program so now I would have to go 2 to 3 years... uumm... oh well guess things happen for a reason... haven't figured it out yet what the reason is.... so you go girl .. think you will be too busy to see you much on this board... but we will be here wishing you the best.... skeeter ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "07/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316505",
-      "Title": "Started back to school"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=314245&p=17800",
-      "Content": " Donna A: so glad you found us but sorry your a breast cancer buddy too. This forum has been a lifesaver for me. When I first started posting here I was so depressed and upset with what was happening to me. The girls here have help me in more ways then I can explain. Feel free to voice any and all the feelings and questions you have. I know I do..lol Hope you stick around....skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "31/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=314245",
-      "Title": "Recurrence less than a year after first diagnosis"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=290375&p=17800",
-      "Content": " I had chemo first then surgery and I asked my onc doc the same question.. His answer was they can't tell forsure. He says but if you did have cancer in the lymphnodes you removed odds are even if it killed it the scar tissue would remain, and that would give some indication that it was present. See my lymphnodes were neg, but he said they never found any scar tissue either... but he says there never is any 100% that they got it all no matter what is always has a chance to come back...if anyone else know any more I am interested in it too.... skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "HealthProfessional": "doc",
-            "MainSubject": "doc",
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "23/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=290375",
-      "Title": "nodes"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293546&p=17800",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293143&p=17800",
       "Content": " \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -1895,10 +1860,10 @@
           }
         }
       },
-      "MessageIndex": 11,
-      "PostDate": "29/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293546",
-      "Title": "wigs"
+      "MessageIndex": 6,
+      "PostDate": "28/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293143",
+      "Title": "Hello and welcome Beth K."
     },
     {
       "AuthorID": "skeeter1",
@@ -1973,126 +1938,6 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=315416&p=17800",
-      "Content": " Sorry it took me so long to answer. We are very close to the same with our cancer and treatment. My doc put me on arimedex though instead. I am doing fine on it no side effects yet anyway.. I take effexor too along with it. We do need to keep in touch with each other along with Tammy. I think JUJU is very close to us too... skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 14,
-      "PostDate": "07/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=315416",
-      "Title": "I start tamoxifan tomorrow"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295742&p=17800",
-      "Content": " Gosh Breast buddies. Something wonderful happened to me on saturday. They had Brides Against Breast Cancer in a town close to use and since I am getting married next summer we went to it. Its a wonderful program not sure if you guys have heard of it. They have tons of wedding dresses that businesses and people have donated and sell them and donate the money to makes wishes come true for breast cancer patients, anyway when they found out I had breast cancer and was in treatment she told me I could pick out any wedding dress I wanted and anything else and I could have it for free... WOW WOW WOW.. I had such a wonderful time I tried on alot of dress and finally picked one that fit me great and was absolutely beautiful looked like a princes dress. I came home glowing. It was the most wonderful experience I ever had they gave me the dress veil and slip and gloves all of it......skeeter1\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["Breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "01/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295742",
-      "Title": "something wonderful happened"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293526&p=17800",
-      "Content": " Beth K, I had taxol too but I had chemo before surgery. I had pain everywhere with taxol. See I have TMJ and my jaw even hurt when I tried to eat for a few days with each tx. You get pain with taxol in the joints and weak areas of your body normally. Since you just had surgery its not surprising you get the pain there too. Oh and by the way after I had surgery I got alot of pain mostly in my armpit where lymphnodes where removed I had lymphectomy and that really didn't hurt much. My doc gave me norco ( \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "29/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293526",
-      "Title": "Nerve pain?"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=300880&p=17800",
-      "Content": " Congrates LORI, doin happy dance for you... I will be done with radiation next weeks then start my tamoxifen and pray and hope I can join you in 5 years and we can do a happy dance together.... keep posting here though k cause I have learned alot from you even if I don't post alot I read what you write and you have helped me tons without even knowing.... yea!!!!!! I look like snoopy right now when he does his little dance... WAY TO GOOOOOOO.......skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 18,
-      "PostDate": "12/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=300880",
-      "Title": "\"See ya next year,\" said the oncologist....."
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=312209&p=17800",
-      "Content": " I got that too when I finished chemo. My last dose was end of May, I think it lasted for 2 months and now I get alittle bit if I sit/stand for along time, but seems to be getting better each day. Hopefully yours will do that too. I have to go back to work and stand for long hours soon so I ordered some compression stockings to help my circulation. I think its caused from our nervious system. I think in time it goes away but have hear from others that they still have it years later. No sure but have notices mine is getting better. Congrats on being done with chemo!! thats a big hurdle you just jumped huh!!! skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "27/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=312209",
-      "Title": "restless legs"
-    },
-    {
-      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=291668&p=17800",
       "Content": " cool so glad I found you.... will send you an email .....skeeter1 ",
       "Demographics": {
@@ -2115,13 +1960,13 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293875&p=17800",
-      "Content": " Has anyone noticed that when they take sleeping pills with effexor that the menapause hot flashes and sweats seem to return for awhile.. See my fam doc gave me Sonata before this all started at the begining to help me sleep now that I am almost done with everything and only taking radiation occasionally I have tried to take Sonata for sleep and it seems like everytime I take it I wake up with hot flashes and sweats... the only other med I am on right now is effexor... it controls my menapause symptoms but when I take sonata it seems to come back for that night has anyone noticed this too... I looked up the side effects of Sonata and effexor and what drugs not to take with effexor and the only one I found in sleeping pill form was Ambien... they said the two drugs interact together not sure what they do... since Sonata is a sleeping pill together wonder if they interact together too.. and that is why.. has anyone run across this... I have quit taking sonata now hate how it makes me feel during the night... was thinking about\n trying tylenol PM but not sure what it will do.. any suggestions??? ..... skeeter1 ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=316505&p=17800",
+      "Content": " Kathy: good luck hope all goes well for you.. I was on my road to start RN school in Aug and was taking my last college class I needed to start the program when I was diagnosised with cancer.. bummer huh!!! So everything came to a skretching hault.....uuummm oh well that is how life goes huh... was still taking radiation when program started...with this program I would have only had to go for a year and would have had my RN but this is the was last program they are offering..... they decided to redoing the program so now I would have to go 2 to 3 years... uumm... oh well guess things happen for a reason... haven't figured it out yet what the reason is.... so you go girl .. think you will be too busy to see you much on this board... but we will be here wishing you the best.... skeeter ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["hot flashes"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -2132,15 +1977,15 @@
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "29/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293875",
-      "Title": "effexor and sleeping pills"
+      "MessageIndex": 5,
+      "PostDate": "07/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=316505",
+      "Title": "Started back to school"
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=306270&p=17800",
-      "Content": " \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295742&p=17800",
+      "Content": " \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2155,10 +2000,10 @@
           }
         }
       },
-      "MessageIndex": 1,
-      "PostDate": "17/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=306270",
-      "Title": "My Cocktail"
+      "MessageIndex": 7,
+      "PostDate": "03/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295742",
+      "Title": "something wonderful happened"
     },
     {
       "AuthorID": "skeeter1",
@@ -2186,8 +2031,8 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293143&p=17800",
-      "Content": " \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=289777&p=17800",
+      "Content": " JUJU, my hair is coming back now too but it took alittle over a month after my last treatment before I started to see new hair growth. I have my eyelashes back now and brows but my lashes aren't very long yet. my hair right now is about\n 1/2 inch and its dark brown with some blonde and white in it. I too was very discouraged when my hair didn't grow back right away, but one morning I woke up and there it was... at least some you could see anyway...lol...my doc told me by December I will be able to style it... thats is 7 months after my last treatment....its not long enough to know yet if it will be curly.. my radiologist says it will come back with waves or curls, see my hair has always been straight so that will be different for me...your hair will be back SOON...... let me know when it starts to grow again and you can see it  k.......skeeter1 ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2196,39 +2041,17 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 6,
-      "PostDate": "28/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293143",
-      "Title": "Hello and welcome Beth K."
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=281567&p=17800",
-      "Content": " \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "07/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=281567",
-      "Title": "radiation and surgery"
+      "MessageIndex": 12,
+      "PostDate": "23/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=289777",
+      "Title": "Just started rads"
     },
     {
       "AuthorID": "skeeter1",
@@ -2255,8 +2078,125 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295742&p=17800",
-      "Content": " \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=290375&p=17800",
+      "Content": " I had chemo first then surgery and I asked my onc doc the same question.. His answer was they can't tell forsure. He says but if you did have cancer in the lymphnodes you removed odds are even if it killed it the scar tissue would remain, and that would give some indication that it was present. See my lymphnodes were neg, but he said they never found any scar tissue either... but he says there never is any 100% that they got it all no matter what is always has a chance to come back...if anyone else know any more I am interested in it too.... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "23/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=290375",
+      "Title": "nodes"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=281567&p=17800",
+      "Content": " \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=281567",
+      "Title": "radiation and surgery"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293875&p=17800",
+      "Content": " Has anyone noticed that when they take sleeping pills with effexor that the menapause hot flashes and sweats seem to return for awhile.. See my fam doc gave me Sonata before this all started at the begining to help me sleep now that I am almost done with everything and only taking radiation occasionally I have tried to take Sonata for sleep and it seems like everytime I take it I wake up with hot flashes and sweats... the only other med I am on right now is effexor... it controls my menapause symptoms but when I take sonata it seems to come back for that night has anyone noticed this too... I looked up the side effects of Sonata and effexor and what drugs not to take with effexor and the only one I found in sleeping pill form was Ambien... they said the two drugs interact together not sure what they do... since Sonata is a sleeping pill together wonder if they interact together too.. and that is why.. has anyone run across this... I have quit taking sonata now hate how it makes me feel during the night... was thinking about\n trying tylenol PM but not sure what it will do.. any suggestions??? ..... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["hot flashes"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "29/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293875",
+      "Title": "effexor and sleeping pills"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=289777&p=17800",
+      "Content": " \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "23/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=289777",
+      "Title": "Just started rads"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=284608&p=17800",
+      "Content": " so sorry ....that had to be shock to you I can only imagine how you must had felt and how you feel now. I'm sending you a HUG and hope all goes well for you. It does make you wonder why the doc never detected it in May?? Lori is right there are new treatments coming out everyday so hang in there. Really have no advice just wanted you to know there are people here for you when you need them. .........skeeter1  ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "14/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=284608",
+      "Title": "more problems"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=289302&p=17800",
+      "Content": " \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2272,9 +2212,33 @@
         }
       },
       "MessageIndex": 7,
-      "PostDate": "03/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295742",
-      "Title": "something wonderful happened"
+      "PostDate": "23/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=289302",
+      "Title": "I can't believe I found you iVillage girls!!!"
+    },
+    {
+      "AuthorID": "skeeter1",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293629&p=17800",
+      "Content": " Skky, I too got pain in the elbow after my lumphectomy and occasionally get it now.. it feels like I bruised my elbow and it feels like a lump too... I asked my wonderful nurse prac a few weeks after surgery what it was and why I had that... she said with in the armpit area is a major nerve that travels down the arm  and with the swelling and irritation of the lymphnode area and during the surgery the doc moved the nerve around it can get irritated and cause the pain I was feeling but will get better ... I think if you never exercised much after your surgery and your doing it now that the nerve is being maniputated again now and moving back to where it belongs and that is what your feeling... but never assume always ask.. so call your surgeons office and talk with the nurse or doc and see if they think it could be the nerve now since you have started to exercise now and never did much before ok.. always better to be safe then sorry... occasionally when I have exercised my arm alot I feel it again... but it goes away in a day now... I am doing exercise in the gym at my hospital now and use the wt machines with little weight  to stretch my arm more now and get it back in shape going very slow with it... but it seems to be helping and my arm is getting close to feeling normal now... I really can't say enough about\n early exercise and what it does for the muscles and surgery site later on...just never do it on your own without asking your doc first cause everyone surgery is different k... you don't want to strain your muscles too soon .... skeeter1 ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "29/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293629",
+      "Title": "Lumpy elbow and other ???"
     },
     {
       "AuthorID": "skeeter1",
@@ -2325,51 +2289,6 @@
     },
     {
       "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=289777&p=17800",
-      "Content": " \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "23/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=289777",
-      "Title": "Just started rads"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=284608&p=17800",
-      "Content": " so sorry ....that had to be shock to you I can only imagine how you must had felt and how you feel now. I'm sending you a HUG and hope all goes well for you. It does make you wonder why the doc never detected it in May?? Lori is right there are new treatments coming out everyday so hang in there. Really have no advice just wanted you to know there are people here for you when you need them. .........skeeter1  ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "14/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=284608",
-      "Title": "more problems"
-    },
-    {
-      "AuthorID": "skeeter1",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=17800",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
@@ -2413,53 +2332,6 @@
       "PostDate": "20/06/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
       "Title": "menapause and breast cancer"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=289302&p=17800",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "23/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=289302",
-      "Title": "I can't believe I found you iVillage girls!!!"
-    },
-    {
-      "AuthorID": "skeeter1",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=293629&p=17800",
-      "Content": " Skky, I too got pain in the elbow after my lumphectomy and occasionally get it now.. it feels like I bruised my elbow and it feels like a lump too... I asked my wonderful nurse prac a few weeks after surgery what it was and why I had that... she said with in the armpit area is a major nerve that travels down the arm  and with the swelling and irritation of the lymphnode area and during the surgery the doc moved the nerve around it can get irritated and cause the pain I was feeling but will get better ... I think if you never exercised much after your surgery and your doing it now that the nerve is being maniputated again now and moving back to where it belongs and that is what your feeling... but never assume always ask.. so call your surgeons office and talk with the nurse or doc and see if they think it could be the nerve now since you have started to exercise now and never did much before ok.. always better to be safe then sorry... occasionally when I have exercised my arm alot I feel it again... but it goes away in a day now... I am doing exercise in the gym at my hospital now and use the wt machines with little weight  to stretch my arm more now and get it back in shape going very slow with it... but it seems to be helping and my arm is getting close to feeling normal now... I really can't say enough about\n early exercise and what it does for the muscles and surgery site later on...just never do it on your own without asking your doc first cause everyone surgery is different k... you don't want to strain your muscles too soon .... skeeter1 ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "29/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=293629",
-      "Title": "Lumpy elbow and other ???"
     },
     {
       "AuthorID": "skeeter1",
@@ -2611,6 +2483,11 @@
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -2651,34 +2528,24 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "free",
-        "glad",
-        "free",
-        "ok",
-        "caring",
-        "willing",
-        "free",
-        "wonderful",
-        "hopeful"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0.333",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0.167",
-        "HAPPY": "0.167",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0.167",
-        "OPEN": "0.167",
-        "POSITIVE": "0.333",
-        "SAD": "0",
-        "STRONG": "0.167"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
@@ -2686,29 +2553,24 @@
       "SideEffectTypeKeywords": []
     },
     "-2 Month Emotions": {
-      "EmotionKeywords": [
-        "wonderful",
-        "close",
-        "thoughtful",
-        "bad"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0.167",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0.167",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.167",
-        "LOVE": "0.167",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-2 Month SideEffects": {
@@ -2742,6 +2604,50 @@
     },
     "10th Month Emotions": {
       "EmotionKeywords": [
+        "wonderful",
+        "pleased",
+        "blessed",
+        "hopeful",
+        "willing",
+        "upset",
+        "cross",
+        "terrible",
+        "upset",
+        "scared",
+        "ok",
+        "hopeful",
+        "willing",
+        "cross",
+        "great",
+        "glad",
+        "wonderful",
+        "cross"
+      ],
+      "Emotions": {
+        "AFRAID": "0.25",
+        "ALIVE": "0.5",
+        "ANGRY": "1",
+        "CONFUSED": "0.25",
+        "DEPRESSED": "0.25",
+        "GOOD": "0.75",
+        "HAPPY": "0.5",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [
         "interested",
         "affected",
         "thoughtful",
@@ -2768,11 +2674,11 @@
         "STRONG": "0"
       }
     },
-    "10th Month SideEffects": {
+    "11th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "11th Month Emotions": {
+    "12th Month Emotions": {
       "EmotionKeywords": [
         "wonderful",
         "hopeful",
@@ -2797,11 +2703,11 @@
         "STRONG": "0"
       }
     },
-    "11th Month SideEffects": {
+    "12th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "12th Month Emotions": {
+    "13th Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
         "AFRAID": "0",
@@ -2820,31 +2726,6 @@
         "POSITIVE": "0",
         "SAD": "0",
         "STRONG": "0"
-      }
-    },
-    "12th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "13th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
       }
     },
     "13th Month SideEffects": {
@@ -2877,6 +2758,70 @@
       "SideEffectTypeKeywords": []
     },
     "1st Month Emotions": {
+      "EmotionKeywords": [
+        "wonderful",
+        "close",
+        "thoughtful",
+        "bad",
+        "free",
+        "glad",
+        "free",
+        "ok",
+        "caring",
+        "willing",
+        "free",
+        "wonderful",
+        "hopeful"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0.25",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.083",
+        "GOOD": "0.083",
+        "HAPPY": "0.083",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.083",
+        "LOVE": "0.167",
+        "OPEN": "0.083",
+        "POSITIVE": "0.167",
+        "SAD": "0",
+        "STRONG": "0.083"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
       "EmotionKeywords": [
         "willing",
         "discouraged",
@@ -2921,61 +2866,36 @@
         "hurtful",
         "willing",
         "sure",
-        "lost",
-        "great",
-        "willing",
-        "hurtful"
+        "lost"
       ],
       "Emotions": {
         "AFRAID": "0",
-        "ALIVE": "0.185",
-        "ANGRY": "0.111",
-        "CONFUSED": "0.037",
-        "DEPRESSED": "0.037",
-        "GOOD": "0.111",
-        "HAPPY": "0.148",
+        "ALIVE": "0.208",
+        "ANGRY": "0.125",
+        "CONFUSED": "0.042",
+        "DEPRESSED": "0.042",
+        "GOOD": "0.125",
+        "HAPPY": "0.125",
         "HELPLESS": "0",
-        "HURT": "0.148",
+        "HURT": "0.167",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.037",
-        "LOVE": "0.074",
-        "OPEN": "0.074",
-        "POSITIVE": "0.407",
-        "SAD": "0.185",
-        "STRONG": "0.185"
+        "INTERESTED": "0.042",
+        "LOVE": "0.083",
+        "OPEN": "0.083",
+        "POSITIVE": "0.417",
+        "SAD": "0.167",
+        "STRONG": "0.208"
       }
     },
-    "1st Month SideEffects": {
+    "2nd Month SideEffects": {
       "SideEffectType": ["Hernia"],
       "SideEffectTypeKeywords": ["lump"]
     },
-    "24th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "24th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "2nd Month Emotions": {
+    "3rd Month Emotions": {
       "EmotionKeywords": [
+        "great",
+        "willing",
+        "hurtful",
         "kind",
         "relaxed",
         "hopeful",
@@ -3051,44 +2971,44 @@
         "comforted",
         "willing",
         "crying",
-        "hopeful",
-        "willing",
         "touched",
         "close",
+        "hopeful",
+        "willing",
         "willing",
         "sure",
         "pained",
-        "pained",
-        "wonderful",
-        "hopeful",
-        "worried",
-        "hurtful"
+        "pained"
       ],
       "Emotions": {
-        "AFRAID": "0.095",
-        "ALIVE": "0.286",
-        "ANGRY": "0.381",
-        "CONFUSED": "0.19",
-        "DEPRESSED": "0.238",
-        "GOOD": "0.238",
-        "HAPPY": "0.238",
+        "AFRAID": "0.045",
+        "ALIVE": "0.227",
+        "ANGRY": "0.364",
+        "CONFUSED": "0.182",
+        "DEPRESSED": "0.227",
+        "GOOD": "0.227",
+        "HAPPY": "0.273",
         "HELPLESS": "0",
-        "HURT": "0.238",
+        "HURT": "0.227",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.095",
-        "LOVE": "0.333",
-        "OPEN": "0.238",
-        "POSITIVE": "0.714",
-        "SAD": "0.476",
-        "STRONG": "0.381"
+        "INTERESTED": "0.091",
+        "LOVE": "0.318",
+        "OPEN": "0.227",
+        "POSITIVE": "0.682",
+        "SAD": "0.455",
+        "STRONG": "0.364"
       }
     },
-    "2nd Month SideEffects": {
+    "3rd Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "3rd Month Emotions": {
+    "4th Month Emotions": {
       "EmotionKeywords": [
+        "wonderful",
+        "hopeful",
+        "worried",
+        "hurtful",
         "upset",
         "rude",
         "discouraged",
@@ -3097,6 +3017,11 @@
         "crying",
         "wonderful",
         "willing",
+        "ok",
+        "thoughtful",
+        "willing",
+        "hateful",
+        "cramped",
         "great",
         "wonderful",
         "ok",
@@ -3105,11 +3030,6 @@
         "hateful",
         "pained",
         "pained",
-        "ok",
-        "thoughtful",
-        "willing",
-        "hateful",
-        "cramped",
         "willing",
         "excited",
         "amazed",
@@ -3123,30 +3043,31 @@
         "pained"
       ],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0.182",
-        "ANGRY": "0.364",
-        "CONFUSED": "0.091",
-        "DEPRESSED": "0.273",
-        "GOOD": "0.364",
-        "HAPPY": "0.182",
+        "AFRAID": "0.077",
+        "ALIVE": "0.231",
+        "ANGRY": "0.308",
+        "CONFUSED": "0.077",
+        "DEPRESSED": "0.231",
+        "GOOD": "0.308",
+        "HAPPY": "0.154",
         "HELPLESS": "0",
-        "HURT": "0.273",
+        "HURT": "0.231",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.091",
-        "LOVE": "0.091",
-        "OPEN": "0.091",
-        "POSITIVE": "0.636",
-        "SAD": "0.273",
+        "INTERESTED": "0.077",
+        "LOVE": "0.077",
+        "OPEN": "0.077",
+        "POSITIVE": "0.615",
+        "SAD": "0.308",
         "STRONG": "0"
       }
     },
-    "3rd Month SideEffects": {
+    "4th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "4th Month Emotions": {
+    "5th Month Emotions": {
       "EmotionKeywords": [
+        "willing",
         "interested",
         "great",
         "wonderful",
@@ -3155,7 +3076,6 @@
         "cool",
         "supportive",
         "thoughtful",
-        "willing",
         "amazed",
         "lucky",
         "thoughtful",
@@ -3180,11 +3100,11 @@
         "STRONG": "0"
       }
     },
-    "4th Month SideEffects": {
+    "5th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "5th Month Emotions": {
+    "6th Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
         "AFRAID": "0",
@@ -3205,11 +3125,11 @@
         "STRONG": "0"
       }
     },
-    "5th Month SideEffects": {
+    "6th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "6th Month Emotions": {
+    "7th Month Emotions": {
       "EmotionKeywords": [
         "hopeful",
         "easy",
@@ -3238,23 +3158,16 @@
         "STRONG": "0"
       }
     },
-    "6th Month SideEffects": {
+    "7th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "7th Month Emotions": {
+    "8th Month Emotions": {
       "EmotionKeywords": [
         "wonderful",
         "willing",
         "sure",
         "bad",
-        "easy",
-        "wonderful",
-        "ok",
-        "concerned",
-        "hopeful",
-        "willing",
-        "cross",
         "glad",
         "relaxed",
         "cool",
@@ -3263,32 +3176,39 @@
         "pained",
         "aching",
         "ached",
-        "pained"
+        "pained",
+        "easy",
+        "wonderful",
+        "ok",
+        "concerned",
+        "hopeful",
+        "willing",
+        "cross"
       ],
       "Emotions": {
         "AFRAID": "0",
-        "ALIVE": "0.4",
-        "ANGRY": "0.2",
+        "ALIVE": "0.5",
+        "ANGRY": "0.25",
         "CONFUSED": "0",
-        "DEPRESSED": "0.6",
-        "GOOD": "0.6",
-        "HAPPY": "0.2",
+        "DEPRESSED": "0.75",
+        "GOOD": "0.75",
+        "HAPPY": "0.25",
         "HELPLESS": "0",
-        "HURT": "0.6",
+        "HURT": "0.75",
         "INDIFFERENT": "0",
-        "INTERESTED": "0.2",
+        "INTERESTED": "0.25",
         "LOVE": "0",
-        "OPEN": "0.2",
-        "POSITIVE": "0.6",
-        "SAD": "0.2",
-        "STRONG": "0.2"
+        "OPEN": "0.25",
+        "POSITIVE": "0.75",
+        "SAD": "0.25",
+        "STRONG": "0.25"
       }
     },
-    "7th Month SideEffects": {
+    "8th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "8th Month Emotions": {
+    "9th Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
         "AFRAID": "0",
@@ -3305,50 +3225,6 @@
         "LOVE": "0",
         "OPEN": "0",
         "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "8th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "9th Month Emotions": {
-      "EmotionKeywords": [
-        "wonderful",
-        "pleased",
-        "blessed",
-        "hopeful",
-        "willing",
-        "upset",
-        "cross",
-        "terrible",
-        "upset",
-        "scared",
-        "ok",
-        "hopeful",
-        "willing",
-        "cross",
-        "great",
-        "glad",
-        "wonderful",
-        "cross"
-      ],
-      "Emotions": {
-        "AFRAID": "0.25",
-        "ALIVE": "0.5",
-        "ANGRY": "1",
-        "CONFUSED": "0.25",
-        "DEPRESSED": "0.25",
-        "GOOD": "0.75",
-        "HAPPY": "0.5",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "1",
         "SAD": "0",
         "STRONG": "0"
       }

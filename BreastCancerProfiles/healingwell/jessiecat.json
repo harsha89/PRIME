@@ -59,16 +59,6 @@
       "ok",
       "loving",
       "loved",
-      "great",
-      "vibrant",
-      "blessed",
-      "loving",
-      "loved",
-      "thoughtful",
-      "peaceful",
-      "loving",
-      "loved",
-      "hurtful",
       "loving",
       "loved",
       "understanding",
@@ -82,7 +72,13 @@
       "lost",
       "overwhelmed",
       "cold",
-      "pleased",
+      "great",
+      "vibrant",
+      "blessed",
+      "loving",
+      "loved",
+      "thoughtful",
+      "hurtful",
       "glad",
       "cool",
       "loving",
@@ -103,6 +99,7 @@
       "loved",
       "fascinated",
       "willing",
+      "pleased",
       "great",
       "glad",
       "loving",
@@ -111,7 +108,10 @@
       "loved",
       "loving",
       "loved",
-      "willing"
+      "willing",
+      "peaceful",
+      "loving",
+      "loved"
     ],
     "Emotions": {
       "AFRAID": "0.059",
@@ -134,7 +134,7 @@
   },
   "GleasonInfo": {},
   "NExperiencePosts": 51,
-  "NPosts": 66,
+  "NPosts": 64,
   "PSAInfo": {},
   "Posts": [
     {
@@ -209,6 +209,28 @@
     },
     {
       "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1232781&p=5666",
+      "Content": " Hi girls,\nI can't let this day go by without thanking you for all you did for me seven years ago.\nI had no where to turn to, so I turned on my computer and you all picked me up and got me through everything that was asked of me.\nI will never forget your kindness and the strength you showed me.\nGod bless you. And Thank you.\nJessie\n(Seven years and two cancers and counting) ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "06/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1232781",
+      "Title": "Thank you"
+    },
+    {
+      "AuthorID": "jessiecat",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1385301&p=5666",
       "Content": " Jo-Ann,\nWhat you have endured over the years. You have fought wars. But you always came out standing tall, full of spunk, and taught us all the lessons you learned from the battlefield.\nNO- it is NOT FAIR what you have been through. Losing Mitchell was just too much to add to your burden.\nI am SO SORRY for all that you are going through. You are one, tough, Texan. But, I know, being \"tough\" gets old after a while.\nI am sending you my love and prayers and hope that things improve for you. Whether you wanted to be or not, you have always been a role model to me, someone I always looked up to.\nMay God just plain give you a break already.\nSending you Yankee Hugs (((((((((((Jo-Ann))))))))))))))\nLove\njessie ",
       "Demographics": {
@@ -250,28 +272,6 @@
       "PostDate": "22/03/2009",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1402050",
       "Title": "HOSPICE"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1232781&p=5666",
-      "Content": " Hi girls,\nI can't let this day go by without thanking you for all you did for me seven years ago.\nI had no where to turn to, so I turned on my computer and you all picked me up and got me through everything that was asked of me.\nI will never forget your kindness and the strength you showed me.\nGod bless you. And Thank you.\nJessie\n(Seven years and two cancers and counting) ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "06/09/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1232781",
-      "Title": "Thank you"
     },
     {
       "AuthorID": "jessiecat",
@@ -323,8 +323,8 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1186208&p=5666",
-      "Content": " I am on Femara and I have not been having any real problems with it.\nMy onc is a firm believer in getting the Vitamin D level up to a level above 60. I was severely deficient in it when he first tested me. Turns out, Vitamin D not only reduces your risk of recurrence, but it also helps ameliorate the symptoms from AIs.\nYou might want to get your level checked.\nGood luck to you! ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1133737&p=5666",
+      "Content": " Hey Lori,\nI am so sorry to read you had thyroid cancer. I hope you are on the mend now!\nI know a couple of gals who had it post tx and I personally think the radiation we get causes it.\nSending you good thoughts and hopes this finds you with it all behind you.\nHugs,\njessie ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -338,10 +338,10 @@
           }
         }
       },
-      "MessageIndex": 2,
+      "MessageIndex": 7,
       "PostDate": "21/07/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1186208",
-      "Title": "arimidex"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1133737",
+      "Title": "Thyroid Cancer!!!?"
     },
     {
       "AuthorID": "jessiecat",
@@ -393,8 +393,8 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1133737&p=5666",
-      "Content": " Hey Lori,\nI am so sorry to read you had thyroid cancer. I hope you are on the mend now!\nI know a couple of gals who had it post tx and I personally think the radiation we get causes it.\nSending you good thoughts and hopes this finds you with it all behind you.\nHugs,\njessie ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1186208&p=5666",
+      "Content": " I am on Femara and I have not been having any real problems with it.\nMy onc is a firm believer in getting the Vitamin D level up to a level above 60. I was severely deficient in it when he first tested me. Turns out, Vitamin D not only reduces your risk of recurrence, but it also helps ameliorate the symptoms from AIs.\nYou might want to get your level checked.\nGood luck to you! ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -408,10 +408,10 @@
           }
         }
       },
-      "MessageIndex": 7,
+      "MessageIndex": 2,
       "PostDate": "21/07/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1133737",
-      "Title": "Thyroid Cancer!!!?"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1186208",
+      "Title": "arimidex"
     },
     {
       "AuthorID": "jessiecat",
@@ -536,29 +536,6 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160205&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "22/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160205",
-      "Title": "I got to see my Rads Onc today ( the one I told and he ordered tests )"
-    },
-    {
-      "AuthorID": "jessiecat",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157346&p=5666",
       "Content": " I think that is why Arimidex is such a great alternative. It has also been shown to work 30% better than Tamox.\nBut you have to be in Meno to get it.\nSherry, aren't you getting an ooph? or a hyst? Because if you are then you can switch!\nIs that coming up soon? Let us know- we all can use our PCE Frequent Flyer Miles!\nLove,\nJessie ",
       "Demographics": {
@@ -605,8 +582,8 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158081&p=5666",
-      "Content": " \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160205&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -621,137 +598,15 @@
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "17/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158081",
-      "Title": "Hello ladies"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158087&p=5666",
-      "Content": " Thank you Luci for that! I think we all needed to hear about such a vibrant and great lady who has really survived!\nI have been grilling my docs about the \"real\" survival times and they all have said there are many women who live decades and decades! I of course thought they were lying but you made me think HMMMM- maybe it IS true!\nWhat is a Halstead Mast?\nAnd Julia Child died in her sleep from respiratory problems that had nothing at all to do with her BC...at 93 I think- bless her heart.\nLove,\nJessie ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "do with her BC   at 93 I think  bless her heart",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 93
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "16/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158087",
-      "Title": "Let's really celebrate a life....."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=156186&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "10/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156186",
-      "Title": "WARNING AREDIA AND ZOMETA GIRLS!!!"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155733&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "09/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155733",
-      "Title": "Please make this nausea go away!!!!"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157434&p=5666",
-      "Content": " \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "14/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157434",
-      "Title": "Onc. gave me the \"all clear\"...."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160186&p=5666",
-      "Content": " Praying for Mel. May she feel peace and love.\nJessie ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
+      "MessageIndex": 5,
       "PostDate": "22/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160186",
-      "Title": "Update on Mel 10/22"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160205",
+      "Title": "I got to see my Rads Onc today ( the one I told and he ordered tests )"
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155622&p=5666",
-      "Content": " \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157653&p=5666",
+      "Content": " \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -760,89 +615,21 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "08/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155622",
-      "Title": "Let the waiting game begin....."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=159323&p=5666",
-      "Content": " Hi Stef,\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "MainSubject": "Baby",
+            "NarrationType": "second-person",
+            "PatientGender": "unknown",
+            "Relation": "Baby"
           }
         }
       },
       "MessageIndex": 0,
-      "PostDate": "20/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159323",
-      "Title": "Stef- how was your Onc visit?"
+      "PostDate": "15/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157653",
+      "Title": "~Welcome Kathy (Baby Seester)~"
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155129&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 15,
-      "PostDate": "07/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155129",
-      "Title": "More bad news..."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157219&p=5666",
-      "Content": " Um...y'all know I get a lot of ovarian cysts...and well let me testify that what Ellen described can ABSOLUTELY happen.\nAnd it hurts! \n'nuf said!\nJessie ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["ovarian"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "14/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157219",
-      "Title": "Hubba Hubba OW!"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158983&p=5666",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=154228&p=5666",
       "Content": " \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -858,33 +645,10 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "19/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158983",
-      "Title": "Vioxx v. Celebrex and Bextra...."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158176&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "16/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158176",
-      "Title": "My Nikkidog died last Sunday....... (M)"
+      "MessageIndex": 12,
+      "PostDate": "03/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154228",
+      "Title": "Never thought that I would be posting this..................(m)"
     },
     {
       "AuthorID": "jessiecat",
@@ -909,28 +673,6 @@
       "PostDate": "14/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157086",
       "Title": "Going to see surgeon next week..."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157337&p=5666",
-      "Content": " It was my pleasure MK!\nAnd Sara!! THANK YOU for feathering ME! You made my week!\nLove,\nJessie ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "14/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157337",
-      "Title": "I am now a certified Pink Boa owner...."
     },
     {
       "AuthorID": "jessiecat",
@@ -1005,32 +747,8 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=159798&p=5666",
-      "Content": " Annette, please wish her well for me. I am so sorry I missed that post last night and didn't give her a proper send off!\nShe is in my prayers as are you.\nJessie ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "21/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159798",
-      "Title": "Kathy (Babyseester) told her brother she is doing okay..."
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157588&p=5666",
-      "Content": " Hi - \n \n \n \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=156186&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1046,37 +764,14 @@
         }
       },
       "MessageIndex": 0,
-      "PostDate": "14/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157588",
-      "Title": "Get this one ER/PR negative girls!"
+      "PostDate": "10/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156186",
+      "Title": "WARNING AREDIA AND ZOMETA GIRLS!!!"
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160219&p=5666",
-      "Content": " Hey Vicky?\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "22/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160219",
-      "Title": "VICKY???"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158239&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155733&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1092,14 +787,37 @@
         }
       },
       "MessageIndex": 3,
-      "PostDate": "19/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158239",
-      "Title": "only forum with the word \"Cancer\""
+      "PostDate": "09/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155733",
+      "Title": "Please make this nausea go away!!!!"
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157942&p=5666",
-      "Content": " Well I am going into overtime prayers for you Shell- NO MORE CANCER FOR YOU- you are done. \nGod better be listening real hard the next few days!\nTry and think of a Pork Chop Bone OK???\nLove,\nJessie ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158081&p=5666",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "17/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158081",
+      "Title": "Hello ladies"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=159323&p=5666",
+      "Content": " Hi Stef,\n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1113,38 +831,44 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "16/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157942",
-      "Title": "Shells, how did the appointment go?"
+      "MessageIndex": 0,
+      "PostDate": "20/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159323",
+      "Title": "Stef- how was your Onc visit?"
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157653&p=5666",
-      "Content": " \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158087&p=5666",
+      "Content": " Thank you Luci for that! I think we all needed to hear about such a vibrant and great lady who has really survived!\nI have been grilling my docs about the \"real\" survival times and they all have said there are many women who live decades and decades! I of course thought they were lying but you made me think HMMMM- maybe it IS true!\nWhat is a Halstead Mast?\nAnd Julia Child died in her sleep from respiratory problems that had nothing at all to do with her BC...at 93 I think- bless her heart.\nLove,\nJessie ",
       "Demographics": {
-        "AgeInfo": [],
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "do with her BC   at 93 I think  bless her heart",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 93
+        }],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "Baby",
-            "NarrationType": "second-person",
-            "PatientGender": "unknown",
-            "Relation": "Baby"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "15/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157653",
-      "Title": "~Welcome Kathy (Baby Seester)~"
+      "MessageIndex": 12,
+      "PostDate": "16/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158087",
+      "Title": "Let's really celebrate a life....."
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=154228&p=5666",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158983&p=5666",
       "Content": " \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -1160,10 +884,33 @@
           }
         }
       },
-      "MessageIndex": 12,
-      "PostDate": "03/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154228",
-      "Title": "Never thought that I would be posting this..................(m)"
+      "MessageIndex": 2,
+      "PostDate": "19/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158983",
+      "Title": "Vioxx v. Celebrex and Bextra...."
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158176&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "16/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158176",
+      "Title": "My Nikkidog died last Sunday....... (M)"
     },
     {
       "AuthorID": "jessiecat",
@@ -1190,30 +937,7 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=159603&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "20/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159603",
-      "Title": "SPECIAL MESSAGE FOR VICKY"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158838&p=5666",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155129&p=5666",
       "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -1229,15 +953,15 @@
           }
         }
       },
-      "MessageIndex": 10,
-      "PostDate": "18/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158838",
-      "Title": "Well, well, well......"
+      "MessageIndex": 15,
+      "PostDate": "07/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155129",
+      "Title": "More bad news..."
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155733&p=5666",
-      "Content": " \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158239&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1252,10 +976,146 @@
           }
         }
       },
-      "MessageIndex": 9,
-      "PostDate": "10/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155733",
-      "Title": "Please make this nausea go away!!!!"
+      "MessageIndex": 3,
+      "PostDate": "19/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158239",
+      "Title": "only forum with the word \"Cancer\""
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155622&p=5666",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155622",
+      "Title": "Let the waiting game begin....."
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157434&p=5666",
+      "Content": " \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157434",
+      "Title": "Onc. gave me the \"all clear\"...."
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157942&p=5666",
+      "Content": " Well I am going into overtime prayers for you Shell- NO MORE CANCER FOR YOU- you are done. \nGod better be listening real hard the next few days!\nTry and think of a Pork Chop Bone OK???\nLove,\nJessie ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "16/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157942",
+      "Title": "Shells, how did the appointment go?"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155691&p=5666",
+      "Content": " Happy Birthday Glenda! I sure hope your day is special and that you have MANY MANY MORE!!!\nJessie ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "09/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155691",
+      "Title": "Happy Birthday Glenda (Undefeated) !!!!!"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157219&p=5666",
+      "Content": " Um...y'all know I get a lot of ovarian cysts...and well let me testify that what Ellen described can ABSOLUTELY happen.\nAnd it hurts! \n'nuf said!\nJessie ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["ovarian"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157219",
+      "Title": "Hubba Hubba OW!"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157337&p=5666",
+      "Content": " It was my pleasure MK!\nAnd Sara!! THANK YOU for feathering ME! You made my week!\nLove,\nJessie ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157337",
+      "Title": "I am now a certified Pink Boa owner...."
     },
     {
       "AuthorID": "jessiecat",
@@ -1328,29 +1188,6 @@
       "PostDate": "20/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159100",
       "Title": "Need Good Vibes"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155466&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "08/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155466",
-      "Title": "Scared stiff"
     },
     {
       "AuthorID": "jessiecat",
@@ -1431,8 +1268,8 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=154988&p=5666",
-      "Content": " Hi Connie,\n \n \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=159798&p=5666",
+      "Content": " Annette, please wish her well for me. I am so sorry I missed that post last night and didn't give her a proper send off!\nShe is in my prayers as are you.\nJessie ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1441,15 +1278,40 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "21/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159798",
+      "Title": "Kathy (Babyseester) told her brother she is doing okay..."
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=157588&p=5666",
+      "Content": " Hi - \n \n \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
       "MessageIndex": 0,
-      "PostDate": "06/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154988",
-      "Title": "Connie if you are out there???"
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157588",
+      "Title": "Get this one ER/PR negative girls!"
     },
     {
       "AuthorID": "jessiecat",
@@ -1521,8 +1383,54 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=154228&p=5666",
-      "Content": " \n \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=159603&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=159603",
+      "Title": "SPECIAL MESSAGE FOR VICKY"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=158838&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=158838",
+      "Title": "Well, well, well......"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155733&p=5666",
+      "Content": " \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1538,9 +1446,9 @@
         }
       },
       "MessageIndex": 9,
-      "PostDate": "15/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154228",
-      "Title": "Never thought that I would be posting this..................(m)"
+      "PostDate": "10/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155733",
+      "Title": "Please make this nausea go away!!!!"
     },
     {
       "AuthorID": "jessiecat",
@@ -1616,8 +1524,8 @@
     },
     {
       "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155691&p=5666",
-      "Content": " Happy Birthday Glenda! I sure hope your day is special and that you have MANY MANY MORE!!!\nJessie ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160186&p=5666",
+      "Content": " Praying for Mel. May she feel peace and love.\nJessie ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1626,15 +1534,85 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 12,
-      "PostDate": "09/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155691",
-      "Title": "Happy Birthday Glenda (Undefeated) !!!!!"
+      "MessageIndex": 8,
+      "PostDate": "22/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160186",
+      "Title": "Update on Mel 10/22"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155466&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "08/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155466",
+      "Title": "Scared stiff"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=154228&p=5666",
+      "Content": " \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "15/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154228",
+      "Title": "Never thought that I would be posting this..................(m)"
+    },
+    {
+      "AuthorID": "jessiecat",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160219&p=5666",
+      "Content": " Hey Vicky?\n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "22/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160219",
+      "Title": "VICKY???"
     },
     {
       "AuthorID": "jessiecat",
@@ -1658,28 +1636,6 @@
       "PostDate": "06/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154679",
       "Title": "Luci, how did it go today?"
-    },
-    {
-      "AuthorID": "jessiecat",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=154988&p=5666",
-      "Content": " Connie,\nTHANK YOU SO MUCH!!!\nI am printing this out and I am going to bring it to Kathy.\nSHe is being treated in NYC so they should be up on this stuff!\nI too hope you have a wonderful and safe trip!\nYou are the best Connie.\nThank you.\nLove,\nJessie ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "07/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=154988",
-      "Title": "Connie if you are out there???"
     }
   ],
   "ProfileDemographics": {
@@ -1699,6 +1655,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -1738,10 +1699,539 @@
       "Value": 0
     }
   },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "hopeful",
+        "sure",
+        "glad",
+        "cool",
+        "loving",
+        "loved",
+        "willing",
+        "loving",
+        "loved",
+        "willing",
+        "thoughtful",
+        "determined",
+        "willing",
+        "loving",
+        "loved",
+        "hurtful",
+        "loving",
+        "loved",
+        "great",
+        "glad",
+        "loving",
+        "loved",
+        "loving",
+        "loved",
+        "great",
+        "loving",
+        "loved",
+        "ok",
+        "loving",
+        "loved",
+        "great",
+        "vibrant",
+        "blessed",
+        "loving",
+        "loved",
+        "thoughtful",
+        "ok",
+        "loving",
+        "loved",
+        "loving",
+        "loved",
+        "willing",
+        "loving",
+        "loved",
+        "hopeful",
+        "ok",
+        "loving",
+        "loved",
+        "nervous",
+        "interested",
+        "ok",
+        "loving",
+        "loved",
+        "fascinated",
+        "willing",
+        "understanding",
+        "wonderful",
+        "ok",
+        "loving",
+        "loved",
+        "willing",
+        "sure",
+        "resentful",
+        "lost",
+        "overwhelmed",
+        "cold",
+        "loving",
+        "loved",
+        "concerned",
+        "pained",
+        "pained",
+        "pleased",
+        "peaceful",
+        "loving",
+        "loved"
+      ],
+      "Emotions": {
+        "AFRAID": "0.02",
+        "ALIVE": "0.041",
+        "ANGRY": "0.02",
+        "CONFUSED": "0.02",
+        "DEPRESSED": "0",
+        "GOOD": "0.184",
+        "HAPPY": "0.102",
+        "HELPLESS": "0.02",
+        "HURT": "0.02",
+        "INDIFFERENT": "0.02",
+        "INTERESTED": "0.082",
+        "LOVE": "0.694",
+        "OPEN": "0.041",
+        "POSITIVE": "0.184",
+        "SAD": "0.041",
+        "STRONG": "0.041"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
+  },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],
     "TreatmentType": "Surgery",
     "TreatmentTypeKeywords": ["surgery"]
   },
-  "WordCount": 4360
+  "WordCount": 4300
 }

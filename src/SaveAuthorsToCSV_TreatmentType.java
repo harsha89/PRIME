@@ -93,8 +93,10 @@ public class SaveAuthorsToCSV_TreatmentType {
         if (hasProfileGender && (!profileDemographics.getJSONObject("Gender").getString("NarrationType").equalsIgnoreCase("second-person"))) {
             narrator.put("Gender", profileDemographics.getJSONObject("Gender").getString("Gender"));
             narrator.put("HasGender", 1);
+            narrator.put("NarrationType", profileDemographics.getJSONObject("Gender").getString("NarrationType"));
         } else {
             narrator.put("HasGender", 0);
+            narrator.put("NarrationType", profileDemographics.getJSONObject("Gender").getString("NarrationType"));
         }
 
         profile.remove("ProfileDemographics");
@@ -231,7 +233,11 @@ public class SaveAuthorsToCSV_TreatmentType {
             }
 
             if (doc.has("SurgeryTypeInfo")) {
-                values.add(doc.getJSONObject("SurgeryTypeInfo").getInt("Verified"));
+                          if(doc.getJSONObject("SurgeryTypeInfo").has("Verified")) {
+                              values.add(doc.getJSONObject("SurgeryTypeInfo").getInt("Verified"));
+                          } else {
+                              values.add(0);
+                          }
             } else {
                 values.add(0);
             }
@@ -312,6 +318,10 @@ public class SaveAuthorsToCSV_TreatmentType {
 //                values.add(pD.getInt(category));
 //            }
 
+            if (doc.has("ProfileDemographics")) {
+                JSONObject profileDemo = doc.getJSONObject("ProfileDemographics");
+                values.add(profileDemo.getString("NarrationType"));
+            }
         } catch (JSONException e) {
             e.printStackTrace();
         }
@@ -330,6 +340,8 @@ public class SaveAuthorsToCSV_TreatmentType {
         titles.add("Verified Treatment");
         titles.add("Treatment Decision");
         for(String category: SurgeryDecisionCategory.getHeader()) titles.add("R: " + category);
+
+        titles.add("NarrationType");
         String[] titleArray = new String[titles.size()];
         titles.toArray(titleArray);
         return titleArray;

@@ -3,12 +3,12 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "wonderful",
-      "willing",
       "nice",
       "concerned",
       "willing",
-      "fearful"
+      "fearful",
+      "wonderful",
+      "willing"
     ],
     "Emotions": {
       "AFRAID": "0.333",
@@ -34,85 +34,6 @@
   "NPosts": 4,
   "PSAInfo": {},
   "Posts": [
-    {
-      "AuthorID": "LIFEBEAR",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
-      "Content": " Oh thank you so much... I was referred to one and am awaiting my appointment, its all the way in November...:( What will the possible outcomes be? what is an obscured mass? They want me to do another mamo in 6 mths but my dr referred me to a general surgeon. The mamo report said they wanted another mamo to assess stability of this obscured mass? Whats does that mean, really? Previous mamo didn't say that?\ntk u so much for any.....advice or personal experience. Thank you. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "18/09/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
-      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
-    },
-    {
-      "AuthorID": "LIFEBEAR",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
-      "Content": " GIven my background and risk will having my breasts removed and placing implants in avoid a any risk of breast cancer? I guess i am wondering if it will lower the risk or even prevent it?\nlife bear ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "breast",
-              "breasts"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "18/09/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
-      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
-    },
-    {
-      "AuthorID": "LIFEBEAR",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
-      "Content": " lol thank you, I can't stop thinking about\n it. My minds a blur. How will i function at work or think of other stuff. I really don't wanna do chemo or anything i prefer to remove them. I think the knowledge of knowing what i can do makes me stronger. I was near my mother when she go BC and it was such a horrible time in our lives. She was in her 60ies but now I fear the worst. I always said to my self if it is... i would remove them and get implants. I was to concerned that i would get it again...and so on. Now I am faced with this possibility and its stressing me out because i don't know as much as i bought i did. Anyone who has advice or gone through this....anything will be nice even just information. If the cancer is caught early, is there a chance i can just remove it and proceed to place implants in. I would like to just avoid having to suffer with chemo and possibly having cancer return....if its in the family already.\nI know I sound insane but I am trying to cope and move on...in case. Im very afraid.. ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "<Z> She was in her 60ies but now I fear the",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 60
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "17/09/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
-      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
-    },
     {
       "AuthorID": "LIFEBEAR",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
@@ -161,6 +82,85 @@
       "PostDate": "16/09/2011",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
       "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
+    },
+    {
+      "AuthorID": "LIFEBEAR",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
+      "Content": " Oh thank you so much... I was referred to one and am awaiting my appointment, its all the way in November...:( What will the possible outcomes be? what is an obscured mass? They want me to do another mamo in 6 mths but my dr referred me to a general surgeon. The mamo report said they wanted another mamo to assess stability of this obscured mass? Whats does that mean, really? Previous mamo didn't say that?\ntk u so much for any.....advice or personal experience. Thank you. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "18/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
+      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
+    },
+    {
+      "AuthorID": "LIFEBEAR",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
+      "Content": " lol thank you, I can't stop thinking about\n it. My minds a blur. How will i function at work or think of other stuff. I really don't wanna do chemo or anything i prefer to remove them. I think the knowledge of knowing what i can do makes me stronger. I was near my mother when she go BC and it was such a horrible time in our lives. She was in her 60ies but now I fear the worst. I always said to my self if it is... i would remove them and get implants. I was to concerned that i would get it again...and so on. Now I am faced with this possibility and its stressing me out because i don't know as much as i bought i did. Anyone who has advice or gone through this....anything will be nice even just information. If the cancer is caught early, is there a chance i can just remove it and proceed to place implants in. I would like to just avoid having to suffer with chemo and possibly having cancer return....if its in the family already.\nI know I sound insane but I am trying to cope and move on...in case. Im very afraid.. ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "<Z> She was in her 60ies but now I fear the",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 60
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "17/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
+      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
+    },
+    {
+      "AuthorID": "LIFEBEAR",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2213692&p=131404",
+      "Content": " GIven my background and risk will having my breasts removed and placing implants in avoid a any risk of breast cancer? I guess i am wondering if it will lower the risk or even prevent it?\nlife bear ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "breast",
+              "breasts"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "18/09/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2213692",
+      "Title": "IM 33 YEARS OLD. ULTRASOUND AND MAMMO NOW REFERRED TO A GENERAL SURGEON-CONCERNED HELP!"
     }
   ],
   "ProfileDemographics": {
@@ -180,6 +180,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -218,6 +223,467 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "nice",
+        "concerned",
+        "willing",
+        "fearful",
+        "willing",
+        "wonderful",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0.25",
+        "ALIVE": "0.25",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.25",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.25",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.75",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

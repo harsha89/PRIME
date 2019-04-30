@@ -1,9 +1,8 @@
 {
   "AuthorID": "Joeyx",
-  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=926948&p=54088",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=958717&p=54088",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "willing",
       "glad",
       "certain",
       "loving",
@@ -12,8 +11,11 @@
       "willing",
       "certain",
       "rejected",
+      "hopeful",
+      "willing",
       "close",
       "hopeful",
+      "willing",
       "great",
       "ok",
       "supportive",
@@ -22,19 +24,17 @@
       "cheerful",
       "close",
       "caring",
-      "willing",
-      "pained",
-      "pained",
-      "supportive",
-      "hopeful",
-      "willing",
-      "hopeful",
-      "willing",
-      "hopeful",
       "supportive",
       "thoughtful",
       "hopeful",
-      "willing"
+      "willing",
+      "willing",
+      "pained",
+      "pained",
+      "supportive",
+      "hopeful",
+      "willing",
+      "hopeful"
     ],
     "Emotions": {
       "AFRAID": "0",
@@ -62,13 +62,19 @@
   "Posts": [
     {
       "AuthorID": "Joeyx",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=926948&p=54088",
-      "Content": " Hi Mary and Bev, \nJust went for the ultrasound. Similar results as the previous ultrasound session (apparently the one I just had is higher-end; but still dont know what is the diff), they still see a cyst/lump/bubble on my right breast. Left breast seem clear.\nI will only know what it means on 17/10/07. I will keep you guys updated still. By the way, I'm from Singapore, a very small dot on the map. \nThanks for your replies, it means alot to me. \nRegards,\nJoeyx ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=958717&p=54088",
+      "Content": " Hi Jazz, \ni do agree with MK...\nI am glad that my 2nd doc is more responsive (he was fast in replying my email before I even booked him for an appointment), more caring, more willing to listen and assured me and advice me to a certain extent compared to my 1st doc I had in another hospital. I am glad I seeked a 2nd doc and now even with the 2nd ultrasound in 6 months time, I felt emotionally better after visiting my 2nd doc as compared with my 1st doc. My 2nd doc (he is called Dr. Hong Ga Sze, based in Singapore) even told me that my insurance company should not reject me on my 'critical illness' coverage based on the earlier medical report - he felt the move was ridiculous and he did tell me to get my insurance company to write to him, so he can write a better medical report, which will at least have the underwriters of teh insurance company to reconsider my application. \nJust based on my personal experience and on a side note - do buy insurance early for yourself and for your loved ones as early as possible. My family was quite poor back then (I'm not complaining, I'm indeed very grateful of how my parents have brought me up), and after paying my degree's school fees, I finally can buy some insurance at this age of 26. Of cos, teh older you are, the higher the fees I will have to pay. \nAnyway, keep me posted yeah and I promised to keep mine posted.\nTake care everyone! ",
       "Demographics": {
-        "AgeInfo": [],
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "insurance at this age of 26 <Z> <Z> <Z> <Z> <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 26
+        }],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -79,10 +85,33 @@
           }
         }
       },
-      "MessageIndex": 14,
-      "PostDate": "30/09/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=926948",
-      "Title": "26 years old...unsure of what may brings"
+      "MessageIndex": 1,
+      "PostDate": "16/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=958717",
+      "Title": "Scheduled For Ultrasound"
+    },
+    {
+      "AuthorID": "Joeyx",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953182&p=54088",
+      "Content": " Hi Chicken, \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "16/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=953182",
+      "Title": "I just can't think of anything but Cancer"
     },
     {
       "AuthorID": "Joeyx",
@@ -106,6 +135,30 @@
       "PostDate": "16/11/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=926948",
       "Title": "26 years old...unsure of what may brings"
+    },
+    {
+      "AuthorID": "Joeyx",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=963033&p=54088",
+      "Content": " Hi gals, \nI will be praying for her too. Although my next ultrasound test is in 6 months time, I will be reading these posts often. I really hope all goes well for Stella and her hubby. \nJoeyx ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "16/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=963033",
+      "Title": "Some prayers for a friend and a need to vent............."
     },
     {
       "AuthorID": "Joeyx",
@@ -155,59 +208,6 @@
     },
     {
       "AuthorID": "Joeyx",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=953182&p=54088",
-      "Content": " Hi Chicken, \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "16/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=953182",
-      "Title": "I just can't think of anything but Cancer"
-    },
-    {
-      "AuthorID": "Joeyx",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=958717&p=54088",
-      "Content": " Hi Jazz, \ni do agree with MK...\nI am glad that my 2nd doc is more responsive (he was fast in replying my email before I even booked him for an appointment), more caring, more willing to listen and assured me and advice me to a certain extent compared to my 1st doc I had in another hospital. I am glad I seeked a 2nd doc and now even with the 2nd ultrasound in 6 months time, I felt emotionally better after visiting my 2nd doc as compared with my 1st doc. My 2nd doc (he is called Dr. Hong Ga Sze, based in Singapore) even told me that my insurance company should not reject me on my 'critical illness' coverage based on the earlier medical report - he felt the move was ridiculous and he did tell me to get my insurance company to write to him, so he can write a better medical report, which will at least have the underwriters of teh insurance company to reconsider my application. \nJust based on my personal experience and on a side note - do buy insurance early for yourself and for your loved ones as early as possible. My family was quite poor back then (I'm not complaining, I'm indeed very grateful of how my parents have brought me up), and after paying my degree's school fees, I finally can buy some insurance at this age of 26. Of cos, teh older you are, the higher the fees I will have to pay. \nAnyway, keep me posted yeah and I promised to keep mine posted.\nTake care everyone! ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "insurance at this age of 26 <Z> <Z> <Z> <Z> <Z>",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 26
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "16/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=958717",
-      "Title": "Scheduled For Ultrasound"
-    },
-    {
-      "AuthorID": "Joeyx",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=945347&p=54088",
       "Content": " Hey jazzy, \nhere is my medical report from the 1st hospital I went to. I didnt get the 2nd one from the 2nd doc (to show my insurance) cos teh 2nd doc wants my insurance company to write a formal letter to him (hope what he said to me is consistent in his writings). \nAnyway, here is my medical report from the 1st hopsital's ultrasound report:\n\"Both ultasound of the breasts were performed. Both breast tissue shows raised and heterogenous fibroglandular echotexture, with fat globules interspersed amongst the dense fibroglandular tissues. There are two hypoechioc leisons with circumscribed margins seen in the (R) breast at 12 o'clock position, which are subcentimeter in size. These 2 hypoechoic lesions do not show significant posterior acoustic shadowing, internal vasularity or surrounding architectural distortion. They are likely to be begnin such as fibroadenomata. However, due to lack of previous comparison study, close interval follow-up is recommended to access for stability.\"\nJoeyx ",
       "Demographics": {
@@ -233,6 +233,30 @@
       "PostDate": "16/11/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=945347",
       "Title": "Got my report...."
+    },
+    {
+      "AuthorID": "Joeyx",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=926948&p=54088",
+      "Content": " Hi Mary and Bev, \nJust went for the ultrasound. Similar results as the previous ultrasound session (apparently the one I just had is higher-end; but still dont know what is the diff), they still see a cyst/lump/bubble on my right breast. Left breast seem clear.\nI will only know what it means on 17/10/07. I will keep you guys updated still. By the way, I'm from Singapore, a very small dot on the map. \nThanks for your replies, it means alot to me. \nRegards,\nJoeyx ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "30/09/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=926948",
+      "Title": "26 years old...unsure of what may brings"
     },
     {
       "AuthorID": "Joeyx",
@@ -305,6 +329,59 @@
       },
       "MessageIndex": 20,
       "PostDate": "21/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=926948",
+      "Title": "26 years old...unsure of what may brings"
+    },
+    {
+      "AuthorID": "Joeyx",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=963021&p=54088",
+      "Content": " Hi jen, \nI am very grateful of your thought of me and is grateful to many people here for listening, advice and support. I replied vis my last post area. Anyway, my 2nd doc is against doing a biopsy but will want me to do the 2nd ultrasound in 6 months time. i think if i have not heard wrongly, my 2nd doc did mentioned the ultrasound is not very good for health but guess it is the only way for me now since mammo gram is not the option for me, being 26 yeras old this year (as per the doc's advcie). \nAlthough my ultrasound is in 6 months time, I will be visiting here very often. \nHow yours getting on? Hope it is good.\nJoeyx ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "the option for me  being 26 yeras old this year  as",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 26
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "16/11/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=963021",
+      "Title": "JOEYX"
+    },
+    {
+      "AuthorID": "Joeyx",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=926948&p=54088",
+      "Content": " Hi Bev, \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "03/10/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=926948",
       "Title": "26 years old...unsure of what may brings"
     },
@@ -404,30 +481,6 @@
     },
     {
       "AuthorID": "Joeyx",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=963033&p=54088",
-      "Content": " Hi gals, \nI will be praying for her too. Although my next ultrasound test is in 6 months time, I will be reading these posts often. I really hope all goes well for Stella and her hubby. \nJoeyx ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "16/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=963033",
-      "Title": "Some prayers for a friend and a need to vent............."
-    },
-    {
-      "AuthorID": "Joeyx",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=957517&p=54088",
       "Content": " Hi Gwen, \ni really hope all goes well and i just prayed for your bro and sis in law and you. hang on. \nJoeyx ",
       "Demographics": {
@@ -449,59 +502,6 @@
       "PostDate": "16/11/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=957517",
       "Title": "My Sis in Law is loosing her battle need support"
-    },
-    {
-      "AuthorID": "Joeyx",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=963021&p=54088",
-      "Content": " Hi jen, \nI am very grateful of your thought of me and is grateful to many people here for listening, advice and support. I replied vis my last post area. Anyway, my 2nd doc is against doing a biopsy but will want me to do the 2nd ultrasound in 6 months time. i think if i have not heard wrongly, my 2nd doc did mentioned the ultrasound is not very good for health but guess it is the only way for me now since mammo gram is not the option for me, being 26 yeras old this year (as per the doc's advcie). \nAlthough my ultrasound is in 6 months time, I will be visiting here very often. \nHow yours getting on? Hope it is good.\nJoeyx ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "the option for me  being 26 yeras old this year  as",
-          "Relation": "unknown",
-          "Tense": "unknown",
-          "Value": 26
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "16/11/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=963021",
-      "Title": "JOEYX"
-    },
-    {
-      "AuthorID": "Joeyx",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=926948&p=54088",
-      "Content": " Hi Bev, \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "03/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=926948",
-      "Title": "26 years old...unsure of what may brings"
     }
   ],
   "ProfileDemographics": {
@@ -521,6 +521,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -559,6 +564,493 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "great",
+        "ok",
+        "supportive",
+        "determined",
+        "willing",
+        "willing",
+        "pained",
+        "pained",
+        "cheerful",
+        "close",
+        "caring",
+        "supportive",
+        "hopeful",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.1",
+        "HAPPY": "0.2",
+        "HELPLESS": "0",
+        "HURT": "0.1",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.4",
+        "OPEN": "0",
+        "POSITIVE": "0.6",
+        "SAD": "0.1",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [
+        "glad",
+        "certain",
+        "loving",
+        "loved",
+        "caring",
+        "willing",
+        "certain",
+        "rejected",
+        "hopeful",
+        "willing",
+        "close",
+        "hopeful",
+        "supportive",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "hopeful"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.143",
+        "HAPPY": "0.143",
+        "HELPLESS": "0",
+        "HURT": "0.143",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.143",
+        "LOVE": "0.714",
+        "OPEN": "0",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "0.143"
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

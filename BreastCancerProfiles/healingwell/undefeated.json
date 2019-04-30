@@ -24,20 +24,20 @@
       "loving",
       "loved",
       "thoughtful",
-      "pleased",
-      "loving",
-      "loved",
-      "interested",
-      "kind",
       "kind",
       "willing",
       "sure",
       "hateful",
       "frightened",
+      "pleased",
+      "loving",
+      "loved",
       "approachable",
       "glad",
       "loving",
       "loved",
+      "interested",
+      "kind",
       "loving",
       "loved",
       "thoughtful",
@@ -45,15 +45,15 @@
       "pleased",
       "loving",
       "loved",
-      "loving",
-      "loved",
-      "cross",
+      "blessed",
+      "willing",
       "spirited",
       "loving",
       "loved",
       "willing",
-      "blessed",
-      "willing",
+      "loving",
+      "loved",
+      "cross",
       "surprised",
       "reassured",
       "loving",
@@ -64,19 +64,10 @@
       "irritated",
       "inflamed",
       "bad",
-      "sunny",
-      "easy",
-      "considerate",
-      "devoted",
-      "pained",
-      "pained",
-      "loving",
-      "loved",
-      "caring",
-      "hopeful",
-      "loving",
-      "loved",
+      "understanding",
       "willing",
+      "sure",
+      "sunny",
       "interested",
       "glad",
       "hopeful",
@@ -86,12 +77,18 @@
       "ached",
       "cramped",
       "pained",
-      "understanding",
+      "loving",
+      "loved",
+      "caring",
+      "hopeful",
+      "easy",
+      "considerate",
+      "devoted",
+      "pained",
+      "pained",
+      "loving",
+      "loved",
       "willing",
-      "sure",
-      "peaceful",
-      "sympathy",
-      "excited",
       "sympathy",
       "supportive",
       "caring",
@@ -105,19 +102,22 @@
       "thoughtful",
       "pained",
       "pained",
-      "blessed",
-      "thoughtful",
-      "cross",
-      "surprised",
-      "nice",
-      "loving",
-      "loved",
-      "wronged",
       "loving",
       "loved",
       "thoughtful",
       "pathetic",
       "grief",
+      "blessed",
+      "thoughtful",
+      "cross",
+      "peaceful",
+      "sympathy",
+      "excited",
+      "surprised",
+      "nice",
+      "loving",
+      "loved",
+      "wronged",
       "blessed",
       "loving",
       "loved",
@@ -154,134 +154,6 @@
   "NExperiencePosts": 55,
   "NPosts": 75,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 3,
-      "NTotal": 7,
-      "PAdvice": 0.5714285714285714,
-      "PExperience": 0.42857142857142855
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 3,
-      "NExperience": 5,
-      "NTotal": 8,
-      "PAdvice": 0.375,
-      "PExperience": 0.625
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 5,
-      "NTotal": 7,
-      "PAdvice": 0.2857142857142857,
-      "PExperience": 0.7142857142857143
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 6,
-      "NTotal": 10,
-      "PAdvice": 0.4,
-      "PExperience": 0.6
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 4,
-      "NTotal": 4,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 1,
-      "NTotal": 2,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    }
-  },
   "Posts": [
     {
       "AuthorID": "undefeated",
@@ -355,6 +227,28 @@
     },
     {
       "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1563757&p=3243",
+      "Content": " Oh, Mary K, wish I were close enough to lend you a hand.  You and your will be in my prayers.\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "24/08/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1563757",
+      "Title": "Hospice will be helping me now."
+    },
+    {
+      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1680301&p=3243",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
@@ -375,6 +269,29 @@
       "PostDate": "01/01/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1680301",
       "Title": "Femara vs. Tamoxifin"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1613306&p=3243",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "15/11/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1613306",
+      "Title": "Advice needed - mom is getting Mastectomy"
     },
     {
       "AuthorID": "undefeated",
@@ -405,74 +322,6 @@
       "PostDate": "02/01/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1680301",
       "Title": "Femara vs. Tamoxifin"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1563757&p=3243",
-      "Content": " Oh, Mary K, wish I were close enough to lend you a hand.  You and your will be in my prayers.\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 16,
-      "PostDate": "24/08/2009",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1563757",
-      "Title": "Hospice will be helping me now."
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1613306&p=3243",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "15/11/2009",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1613306",
-      "Title": "Advice needed - mom is getting Mastectomy"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1385301&p=3243",
-      "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "05/03/2009",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1385301",
-      "Title": "My latest gifts from b/c"
     },
     {
       "AuthorID": "undefeated",
@@ -522,8 +371,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1294029&p=3243",
-      "Content": " Heard from Shelley today that Fran Berg had posted on the iv board that she has a recurrence.  Those of you who were out in Louisville remember that we went to her home one night and were so graciously welcomed.  What fun we had.\n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1385301&p=3243",
+      "Content": " \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -532,15 +381,16 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "13/11/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1294029",
-      "Title": "Old ivillage member has a recurrence"
+      "MessageIndex": 7,
+      "PostDate": "05/03/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1385301",
+      "Title": "My latest gifts from b/c"
     },
     {
       "AuthorID": "undefeated",
@@ -567,8 +417,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=946509&p=3243",
-      "Content": " \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1294029&p=3243",
+      "Content": " Heard from Shelley today that Fran Berg had posted on the iv board that she has a recurrence.  Those of you who were out in Louisville remember that we went to her home one night and were so graciously welcomed.  What fun we had.\n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -577,16 +427,15 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 7,
-      "PostDate": "22/10/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=946509",
-      "Title": "My path report"
+      "MessageIndex": 0,
+      "PostDate": "13/11/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1294029",
+      "Title": "Old ivillage member has a recurrence"
     },
     {
       "AuthorID": "undefeated",
@@ -610,6 +459,29 @@
       "PostDate": "10/01/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1014248",
       "Title": "Glenda it is good to see your post."
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=946509&p=3243",
+      "Content": " \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "22/10/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=946509",
+      "Title": "My path report"
     },
     {
       "AuthorID": "undefeated",
@@ -705,29 +577,6 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=712090&p=3243",
-      "Content": " \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "28/01/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=712090",
-      "Title": "question re: 5-FU..."
-    },
-    {
-      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=675760&p=3243",
       "Content": " \n \n \n \n \n ",
       "Demographics": {
@@ -748,29 +597,6 @@
       "PostDate": "29/12/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=675760",
       "Title": "Diagnosed today - advice needed"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=629500&p=3243",
-      "Content": " \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "20/10/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=629500",
-      "Title": "need guidance"
     },
     {
       "AuthorID": "undefeated",
@@ -797,8 +623,31 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=530939&p=3243",
-      "Content": " \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=712090&p=3243",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "28/01/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=712090",
+      "Title": "question re: 5-FU..."
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=629500&p=3243",
+      "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -814,9 +663,9 @@
         }
       },
       "MessageIndex": 1,
-      "PostDate": "05/07/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=530939",
-      "Title": "What kinds of follow-up appts?"
+      "PostDate": "20/10/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=629500",
+      "Title": "need guidance"
     },
     {
       "AuthorID": "undefeated",
@@ -840,6 +689,29 @@
       "PostDate": "31/05/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=501397",
       "Title": "6 YEARS OUT!!!"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=530939&p=3243",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "05/07/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=530939",
+      "Title": "What kinds of follow-up appts?"
     },
     {
       "AuthorID": "undefeated",
@@ -982,28 +854,6 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=274269&p=3243",
-      "Content": " Dak, welcome to the board, but sorry about\n the bc. I just read your new member info, and wondered how the bone scan and other tests turned out. I know you started chemo last week and hope you are not feeling too bad this week. Good luck with treatments, and hope all scans and tests were negative.\nGlenda \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "28/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=274269",
-      "Title": "treatment question"
-    },
-    {
-      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272470&p=3243",
       "Content": " So, Luci, dear lady\nHow about\n coming east of Asheville and visiting me!!! It's only about\n a four hour drive - I-40 East and I-85 North. I'm a mile and 4/10ths off of 85 or better yet come and visit on your way back from Jersey!!! You just take 95 south to 85 south - probably six hours. I'm more or less taking off from the 4th to the 6th. This is a serious invite. Would love to entertain you and Barry.\nHave BIG fun on the trip and drive safely.\nLove, Glenda ",
       "Demographics": {
@@ -1028,8 +878,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=256208&p=3243",
-      "Content": " My onc started them after I was five years out. She said (Duke Cancer Center doc) that she had just started using them because of some study or other re early detection of recurrence, blah, blah; but only used them on patients five years out.\nHowever, I'm going to ask at my next annual appt. in Aug. if they really are necessary, because I've read a LOT on tumor markers in the past year and it seems that the majority opinion is that, yes, they would detect recurrence early, but detecting recurrences early plays no part in prognosis - so my question is, why have them? I'll have that answer this August.\nAll this research on tumor markers occurred when mine went from their usual 34 to 49. Had to go back in, give more blood and retest. This time it came back at my usual numbers. Of course, I asked why the increase if not cancer related, and, guess what, labs make mistakes, the blood could have gotten contaminated, it could have coagulated quickly and --- anyway, lots of reasons.\nMy best to you, Glenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=274269&p=3243",
+      "Content": " Dak, welcome to the board, but sorry about\n the bc. I just read your new member info, and wondered how the bone scan and other tests turned out. I know you started chemo last week and hope you are not feeling too bad this week. Good luck with treatments, and hope all scans and tests were negative.\nGlenda \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1038,17 +888,37 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 1,
-      "PostDate": "23/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=256208",
-      "Title": "Tumor Markers, another question or two"
+      "MessageIndex": 8,
+      "PostDate": "28/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=274269",
+      "Title": "treatment question"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259301&p=3243",
+      "Content": " That's wonderful, Cathi, on both the stable and the tm drop - big drop, too!!! Really happy for you and send you lots of love.\nGlenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "29/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259301",
+      "Title": "Finally some good news..."
     },
     {
       "AuthorID": "undefeated",
@@ -1076,8 +946,32 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259301&p=3243",
-      "Content": " That's wonderful, Cathi, on both the stable and the tm drop - big drop, too!!! Really happy for you and send you lots of love.\nGlenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=256208&p=3243",
+      "Content": " My onc started them after I was five years out. She said (Duke Cancer Center doc) that she had just started using them because of some study or other re early detection of recurrence, blah, blah; but only used them on patients five years out.\nHowever, I'm going to ask at my next annual appt. in Aug. if they really are necessary, because I've read a LOT on tumor markers in the past year and it seems that the majority opinion is that, yes, they would detect recurrence early, but detecting recurrences early plays no part in prognosis - so my question is, why have them? I'll have that answer this August.\nAll this research on tumor markers occurred when mine went from their usual 34 to 49. Had to go back in, give more blood and retest. This time it came back at my usual numbers. Of course, I asked why the increase if not cancer related, and, guess what, labs make mistakes, the blood could have gotten contaminated, it could have coagulated quickly and --- anyway, lots of reasons.\nMy best to you, Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "23/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=256208",
+      "Title": "Tumor Markers, another question or two"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=251449&p=3243",
+      "Content": " Dearest Cathi,\nSo glad you're home. I'm praying that the docs will come up with a plan that doesn't make you feel so very bad. Please don't give up. Okay? I love you.\nGlenda ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1091,10 +985,40 @@
           }
         }
       },
+      "MessageIndex": 12,
+      "PostDate": "16/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=251449",
+      "Title": "Home again....."
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=264729&p=3243",
+      "Content": " Ditto to above. Except for the dang needle, nothing to it. I was able to see my skeleton while the test was going on, which I found awesome, even if a little frightening. I saw my right ankle really glow, and was able to say I broke it when I was 27, so I had something to compare to. I happened to know this tech and maybe that's why he'd let me look, but maybe everyone above saw theirs too. You will have to wait several hours after the shot so that you'll be sure to glow. I did kind of hate thinking there was radioactive material of some sort being injected into this old body, but so is the nature of the bc beast.\nGood luck, \nGlenda ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "broke it when I was 27  so I had something to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 27
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
       "MessageIndex": 5,
-      "PostDate": "29/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259301",
-      "Title": "Finally some good news..."
+      "PostDate": "07/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=264729",
+      "Title": "Bone Scan this Thursday, what should I expect?"
     },
     {
       "AuthorID": "undefeated",
@@ -1144,28 +1068,6 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=251449&p=3243",
-      "Content": " Dearest Cathi,\nSo glad you're home. I'm praying that the docs will come up with a plan that doesn't make you feel so very bad. Please don't give up. Okay? I love you.\nGlenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "16/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=251449",
-      "Title": "Home again....."
-    },
-    {
-      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=254423&p=3243",
       "Content": " Jackie, glad the Abraxane is working. And big congrats on the Master's degree. So glad I got to meet you in person. You're a lovely woman. Also, as I have told you many times before, you were the first person to post to me when I began posting on iv six years ago. \nYou gave me hope. Thank you, and prayers for a clean scan.\nL+H, Glenda ",
       "Demographics": {
@@ -1185,60 +1087,6 @@
       "PostDate": "20/05/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=254423",
       "Title": "To Jackie (bandlady)"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=256171&p=3243",
-      "Content": " Interesting discussion. I had one dot only. I think it was because before I began treatments had to go over to Duke be positioned using all kinds of lasers (looked like a laser light show) and when I was positioned exactly where they wanted me -- by the way, I was laying on some big plastic thing -- they poured some quick hardening foam stuff around me in that exact position. Each time I went for rads I was placed in this mold on the table which apparently put me in the exact position they wanted me. It even included my arm in an upward out-streached position. Strange to see that 6 foot cast every time I went. There was always some small adjustment I'd make, but the whole treatment never took over five minutes, so suited me. When I had finished treatment, the sweet but silly techs asked if I'd like to take the d*mn thing home with me. Imagine my response! LOL Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "24/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=256171",
-      "Title": "Question about rad dots"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=264729&p=3243",
-      "Content": " Ditto to above. Except for the dang needle, nothing to it. I was able to see my skeleton while the test was going on, which I found awesome, even if a little frightening. I saw my right ankle really glow, and was able to say I broke it when I was 27, so I had something to compare to. I happened to know this tech and maybe that's why he'd let me look, but maybe everyone above saw theirs too. You will have to wait several hours after the shot so that you'll be sure to glow. I did kind of hate thinking there was radioactive material of some sort being injected into this old body, but so is the nature of the bc beast.\nGood luck, \nGlenda ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "broke it when I was 27  so I had something to",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 27
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "07/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=264729",
-      "Title": "Bone Scan this Thursday, what should I expect?"
     },
     {
       "AuthorID": "undefeated",
@@ -1263,6 +1111,30 @@
       "PostDate": "18/05/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253223",
       "Title": "Got my test results today"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=256171&p=3243",
+      "Content": " Interesting discussion. I had one dot only. I think it was because before I began treatments had to go over to Duke be positioned using all kinds of lasers (looked like a laser light show) and when I was positioned exactly where they wanted me -- by the way, I was laying on some big plastic thing -- they poured some quick hardening foam stuff around me in that exact position. Each time I went for rads I was placed in this mold on the table which apparently put me in the exact position they wanted me. It even included my arm in an upward out-streached position. Strange to see that 6 foot cast every time I went. There was always some small adjustment I'd make, but the whole treatment never took over five minutes, so suited me. When I had finished treatment, the sweet but silly techs asked if I'd like to take the d*mn thing home with me. Imagine my response! LOL Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "24/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=256171",
+      "Title": "Question about rad dots"
     },
     {
       "AuthorID": "undefeated",
@@ -1358,26 +1230,33 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218134&p=3243",
-      "Content": " Well, that's the pits, Bev. Always something to keep us afraid. Have all crossable parts crossed, and sending special prayers that it's just Arthur.\nLove, Glenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=217982&p=3243",
+      "Content": " Add my congratulations, Mary K. My aunt had Down's, and was a most special person, so very sweet. She was born in 1918 and my grandmother was told she wouldn't survive, but my grandmother, already mother of eight, had a different plan. I am happy to be able to write her name in remembrance, Helen Claire Frazier. She lived to be 72 and was a blessing to all our family.\nI know your sweet baby girl will bless your family's life.\nBig, big hug, Glenda ",
       "Demographics": {
-        "AgeInfo": [],
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> She lived to be 72 and was a blessing to",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 72
+        }],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "grandmother",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "grandmother"
           }
         }
       },
       "MessageIndex": 7,
       "PostDate": "24/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218134",
-      "Title": "Bone scan last week..."
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=217982",
+      "Title": "We could use some prayers, please."
     },
     {
       "AuthorID": "undefeated",
@@ -1427,6 +1306,29 @@
     },
     {
       "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218134&p=3243",
+      "Content": " Well, that's the pits, Bev. Always something to keep us afraid. Have all crossable parts crossed, and sending special prayers that it's just Arthur.\nLove, Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "24/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218134",
+      "Title": "Bone scan last week..."
+    },
+    {
+      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=222056&p=3243",
       "Content": " Maybe I've missed good news posting, but just wanted to let you know I was thinking of you.\nLove, Glenda ",
       "Demographics": {
@@ -1449,33 +1351,25 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=217982&p=3243",
-      "Content": " Add my congratulations, Mary K. My aunt had Down's, and was a most special person, so very sweet. She was born in 1918 and my grandmother was told she wouldn't survive, but my grandmother, already mother of eight, had a different plan. I am happy to be able to write her name in remembrance, Helen Claire Frazier. She lived to be 72 and was a blessing to all our family.\nI know your sweet baby girl will bless your family's life.\nBig, big hug, Glenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=184279&p=3243",
+      "Content": " Hey, girl,\nWhat a lovely post to read. Yeah, I remember your second diagnosis. That was a bad time in a lot of ways. So very glad that your tests were so ho-hum. Let's hope the Arimidex will treat you better. Femara is kicking my knee joints BAD, so I'm going to talk to my onc about switching also. Tell me about this stopping everything after 10 years. What did your onc tell you about that? In my pre-bc days, I used to be so brave and fearless, but I wonder if I'll ever feel comfortable again just hanging out there without meds (sigh).\nAnyway, congrats and love to you - Glenda ",
       "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> She lived to be 72 and was a blessing to",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 72
-        }],
+        "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
             "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "grandmother",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "grandmother"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 7,
-      "PostDate": "24/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=217982",
-      "Title": "We could use some prayers, please."
+      "MessageIndex": 15,
+      "PostDate": "19/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=184279",
+      "Title": "Got the results from my tests today......."
     },
     {
       "AuthorID": "undefeated",
@@ -1503,8 +1397,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=184279&p=3243",
-      "Content": " Hey, girl,\nWhat a lovely post to read. Yeah, I remember your second diagnosis. That was a bad time in a lot of ways. So very glad that your tests were so ho-hum. Let's hope the Arimidex will treat you better. Femara is kicking my knee joints BAD, so I'm going to talk to my onc about switching also. Tell me about this stopping everything after 10 years. What did your onc tell you about that? In my pre-bc days, I used to be so brave and fearless, but I wonder if I'll ever feel comfortable again just hanging out there without meds (sigh).\nAnyway, congrats and love to you - Glenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=176660&p=3243",
+      "Content": " Tamaralynn, you may not have a plan (might not need one) but you sure are on the right, positive track. This disease turned me on to Relay for Life, the ACS major event. In hopefully helping others, I ended up helping myself. You're right, the possibilities are endless. I've made so many new friends in my volunteer efforts; and like the friends I've met and made on this board and others, they are friends for life. I've got to admit that I was mad at God at first, but who am I to understand his plans? But I know he has one for me, and I'm just along for the ride doing the best I can. You will too.\nGood luck, Glenda ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1513,15 +1407,17 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 15,
-      "PostDate": "19/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=184279",
-      "Title": "Got the results from my tests today......."
+      "MessageIndex": 2,
+      "PostDate": "22/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=176660",
+      "Title": "nervous the night before"
     },
     {
       "AuthorID": "undefeated",
@@ -1548,8 +1444,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=176650&p=3243",
-      "Content": " Frank, I think the secret is getting the swelling down, and the pain lessens considerably - re my experience. My suggestion would be to keep the ice applied as long as she can, take a break and then put it back on. It's just one of those things that she's going to have to work through. Seems there's nothing easy about this whole disease process.\nGood luck and praises to you for being such a devoted husband.\nStay positive and strong, Glenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=170639&p=3243",
+      "Content": " I'm sorry you are in such a down period, but I think we all probably experience what you're experiencing. Hoping things get better for you soon.\nNOW, what an interesting discussion about aches and pains, chemo and Femara. I had the chemo and am taking the Femara now and have been having major problems with my knees. I was blaming it on being 56 and maybe it is, but I remember well when my parents were 56 and they didn't have this knee thing. My Mom had arthritis in her hands later in life but not at 56. Maybe it is the Femara. I'll surely run that by my onc. Of course, I blame a lot of things on chemo and rightly so. It changed my immune system. All of a sudden I get warts??? All of a sudden I sometimes break out in hives??? All of a sudden I am alergic to things I was never allergic to before??? And when I was taking Tamox for 5 years, I had leg cramps with some frequency, and since I've been off that for almost 2 years, I NEVER have them now. There must be a correlation.\nEveryone speak up. Are others of you younger, my age or older having similar problems?\nAnyway, hope I hear from some of you. And I'm glad I could get on the Board. This morning I was told our Board didn't exist when I tried to log on. Had to send out the emergency emails to MaryK and Jo-Ann!\nHugs to all, Glenda ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1565,10 +1461,10 @@
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "22/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=176650",
-      "Title": "how much pain and swelling?"
+      "MessageIndex": 3,
+      "PostDate": "30/11/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=170639",
+      "Title": "new to message board, need to vent............."
     },
     {
       "AuthorID": "undefeated",
@@ -1618,6 +1514,30 @@
     },
     {
       "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=176650&p=3243",
+      "Content": " Frank, I think the secret is getting the swelling down, and the pain lessens considerably - re my experience. My suggestion would be to keep the ice applied as long as she can, take a break and then put it back on. It's just one of those things that she's going to have to work through. Seems there's nothing easy about this whole disease process.\nGood luck and praises to you for being such a devoted husband.\nStay positive and strong, Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "22/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=176650",
+      "Title": "how much pain and swelling?"
+    },
+    {
+      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=165574&p=3243",
       "Content": " Luci,\nFinally got the card I wanted to send last night, and will mail it to you today. Read in our local papers that the nodes were clean!!\nThey also gave a new address: Elizabeth Edwards, P.O. Box 5428, Washington 20013.\nLove, Glenda ",
       "Demographics": {
@@ -1639,78 +1559,6 @@
       "PostDate": "11/11/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=165574",
       "Title": "Elizabeth Edwards' cards...."
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=170639&p=3243",
-      "Content": " I'm sorry you are in such a down period, but I think we all probably experience what you're experiencing. Hoping things get better for you soon.\nNOW, what an interesting discussion about aches and pains, chemo and Femara. I had the chemo and am taking the Femara now and have been having major problems with my knees. I was blaming it on being 56 and maybe it is, but I remember well when my parents were 56 and they didn't have this knee thing. My Mom had arthritis in her hands later in life but not at 56. Maybe it is the Femara. I'll surely run that by my onc. Of course, I blame a lot of things on chemo and rightly so. It changed my immune system. All of a sudden I get warts??? All of a sudden I sometimes break out in hives??? All of a sudden I am alergic to things I was never allergic to before??? And when I was taking Tamox for 5 years, I had leg cramps with some frequency, and since I've been off that for almost 2 years, I NEVER have them now. There must be a correlation.\nEveryone speak up. Are others of you younger, my age or older having similar problems?\nAnyway, hope I hear from some of you. And I'm glad I could get on the Board. This morning I was told our Board didn't exist when I tried to log on. Had to send out the emergency emails to MaryK and Jo-Ann!\nHugs to all, Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "30/11/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=170639",
-      "Title": "new to message board, need to vent............."
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=176660&p=3243",
-      "Content": " Tamaralynn, you may not have a plan (might not need one) but you sure are on the right, positive track. This disease turned me on to Relay for Life, the ACS major event. In hopefully helping others, I ended up helping myself. You're right, the possibilities are endless. I've made so many new friends in my volunteer efforts; and like the friends I've met and made on this board and others, they are friends for life. I've got to admit that I was mad at God at first, but who am I to understand his plans? But I know he has one for me, and I'm just along for the ride doing the best I can. You will too.\nGood luck, Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "22/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=176660",
-      "Title": "nervous the night before"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160640&p=3243",
-      "Content": " Susan, my heartfelt sympathies to you and your family. Mary was a special person. She and her DH were the very first people I met at our very first meeting in Cincy. She was sitting on the sofa at the Inn when Peg Gray and I walked in. Peg had met her and knew who she was. She was excited about meeting everyone, and I was excited about meeting her.\nAlong with the others from this board who met her, I'll always remember her. Rest in peace, Mary.\nHugs, Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "25/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160640",
-      "Title": "MaryT's Passing"
     },
     {
       "AuthorID": "undefeated",
@@ -1771,50 +1619,6 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=166231&p=3243",
-      "Content": " Great news! So pleased for you on all counts.\nHugs, Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "13/11/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=166231",
-      "Title": "Good News!!!"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=162530&p=3243",
-      "Content": " Happy, happy birthday, dear Luci. I hope all your birthday wishes come true. Enjoy the beginning of another year for a wonderful person.\nLove, Glenda\nP.S. Thanks Cathi for letting us know. Love you, too. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "31/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=162530",
-      "Title": "Happy Birthday to our sweet Luci......!!!!"
-    },
-    {
-      "AuthorID": "undefeated",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=165828&p=3243",
       "Content": " I called her yesterday afternoon, and she sounds like her \"old\" self. Told me what MK related, especially the part where the antibiotics seem to be kicking in. It was good to hear her voice.\nL&H, Glenda ",
       "Demographics": {
@@ -1839,8 +1643,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=156925&p=3243",
-      "Content": " Julie, all positive thoughts and crossable body parts crossed (prayers too) that checkup was normal. And I agree that it doesn't get easier at each visit, but the longer out in remission, for me, and hopefully for you, it has gotten easier NOT thinking about it in between. God Bless - L&H Glenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155933&p=3243",
+      "Content": " Becky, glad your day was wonderful. And your daughter's birthday is the same as mine! Libras are interesting people. You must remember to WATCH HER CAREFULLY!!! LOL \n My mother could have bent your ear about girls born on 10-9!!\nMega prayers that the chemos will do their magic. And remember 10 years from now when DD gets her license, that we Libra girls drive like \"the wind.\"\nLove you, Becky!\nGlenda ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1849,41 +1653,15 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 12,
-      "PostDate": "14/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156925",
-      "Title": "Onc. visit on Thursday....m"
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=156020&p=3243",
-      "Content": " ...and thanks to you all for your good wishes. I stop in weekly for updates, but those of you who know me know how many \"hats\" I'm wearing these days in the work department. I haven't figured out if I do all this for the money or to just stay so busy so as not to think about bc!! My bd was a good day. I actually didn't even think about work, was taken to dinner, received nice \n surprises, and dd and sil are taking me out to dinner tonight. I LOVE getting older now - just LOVE it!!\nHad my yearly onc exam the end of August. All the blood work, exam and vital signs were very, very good. Went skipping home, and a week later, get the call from the onc saying, \"Your tumor markers are elevated\"!!! He thinks there's some lab mistake. Back in the next day for repeat of test. Ask my friends the nurses if the lab has been wrong before - long pause - and then, \"No.\" I spiral down, down. Ask for their prayers, and doggone if we don't have a \"prayer session\" right then and there. One of the nurses asked in her prayer that I be able to enjoy the upcoming Labor Day weekend without dwelling on this news. God was listening and I was able to put it from my mind. Came back home Saturday afternoon, listened to my phone messages, and there was one from one of the onc nurses. They had put a rush on the lab work, she was there on Sat. administering chemo to someone, saw the results were in and here is what her message said. \"Old buddy, this is Teresa. God was listening. Your tumor markers are back to what they've always been. I repeat, markers are NORMAL. (Laughs) We love you. Bye.\" What can I say?? Although I am one year older, I feel 20 years younger. \n \nLove to you all and in honor of Connie - Seven years and 1 month - Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
+      "MessageIndex": 9,
       "PostDate": "10/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156020",
-      "Title": "Thank you for remembering, Cathi..."
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155933",
+      "Title": "Have to share with you the best day----"
     },
     {
       "AuthorID": "undefeated",
@@ -1911,8 +1689,8 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=3243",
-      "Content": " Glenda, 55, North Carolina. Diagosed 9/97, er/pr+++, stage IIb, 2 pos. nodes, mastectomy, CMF for 6 months, radiation, tamoxifen for 5 years, now taking femara as recurrence preventative, 6yrs 7mos NED (knock wood).\nMarried for 34 years, 1 daughter (26). Very active in local ACS Relay for Life ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=162530&p=3243",
+      "Content": " Happy, happy birthday, dear Luci. I hope all your birthday wishes come true. Enjoy the beginning of another year for a wonderful person.\nLove, Glenda\nP.S. Thanks Cathi for letting us know. Love you, too. ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1921,17 +1699,15 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "daughter",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "daughter"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 25,
-      "PostDate": "01/05/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=110474",
-      "Title": "ROLL CALL name, age, state and any other info to share"
+      "MessageIndex": 1,
+      "PostDate": "31/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=162530",
+      "Title": "Happy Birthday to our sweet Luci......!!!!"
     },
     {
       "AuthorID": "undefeated",
@@ -1957,8 +1733,32 @@
     },
     {
       "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155933&p=3243",
-      "Content": " Becky, glad your day was wonderful. And your daughter's birthday is the same as mine! Libras are interesting people. You must remember to WATCH HER CAREFULLY!!! LOL \n My mother could have bent your ear about girls born on 10-9!!\nMega prayers that the chemos will do their magic. And remember 10 years from now when DD gets her license, that we Libra girls drive like \"the wind.\"\nLove you, Becky!\nGlenda ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=156925&p=3243",
+      "Content": " Julie, all positive thoughts and crossable body parts crossed (prayers too) that checkup was normal. And I agree that it doesn't get easier at each visit, but the longer out in remission, for me, and hopefully for you, it has gotten easier NOT thinking about it in between. God Bless - L&H Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "14/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156925",
+      "Title": "Onc. visit on Thursday....m"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=166231&p=3243",
+      "Content": " Great news! So pleased for you on all counts.\nHugs, Glenda ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1972,10 +1772,104 @@
           }
         }
       },
-      "MessageIndex": 9,
+      "MessageIndex": 3,
+      "PostDate": "13/11/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=166231",
+      "Title": "Good News!!!"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155748&p=3243",
+      "Content": " Yippee!!! And the second opinion is the only way to go. As always, your take-charge of your own health mode is inspiring and educational. Recommending surgery without even seeing the pictures is astounding to me. Here's a thought - have you noticed that your pants or skirts have gotten looser?? Maybe it's just a little hip fat moving down! LOL - a good thing. \nSo happy for you, dear Luci.\nLove, Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 16,
       "PostDate": "10/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155933",
-      "Title": "Have to share with you the best day----"
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155748",
+      "Title": "MRI results are in...."
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160640&p=3243",
+      "Content": " Susan, my heartfelt sympathies to you and your family. Mary was a special person. She and her DH were the very first people I met at our very first meeting in Cincy. She was sitting on the sofa at the Inn when Peg Gray and I walked in. Peg had met her and knew who she was. She was excited about meeting everyone, and I was excited about meeting her.\nAlong with the others from this board who met her, I'll always remember her. Rest in peace, Mary.\nHugs, Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "25/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160640",
+      "Title": "MaryT's Passing"
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=156020&p=3243",
+      "Content": " ...and thanks to you all for your good wishes. I stop in weekly for updates, but those of you who know me know how many \"hats\" I'm wearing these days in the work department. I haven't figured out if I do all this for the money or to just stay so busy so as not to think about bc!! My bd was a good day. I actually didn't even think about work, was taken to dinner, received nice \n surprises, and dd and sil are taking me out to dinner tonight. I LOVE getting older now - just LOVE it!!\nHad my yearly onc exam the end of August. All the blood work, exam and vital signs were very, very good. Went skipping home, and a week later, get the call from the onc saying, \"Your tumor markers are elevated\"!!! He thinks there's some lab mistake. Back in the next day for repeat of test. Ask my friends the nurses if the lab has been wrong before - long pause - and then, \"No.\" I spiral down, down. Ask for their prayers, and doggone if we don't have a \"prayer session\" right then and there. One of the nurses asked in her prayer that I be able to enjoy the upcoming Labor Day weekend without dwelling on this news. God was listening and I was able to put it from my mind. Came back home Saturday afternoon, listened to my phone messages, and there was one from one of the onc nurses. They had put a rush on the lab work, she was there on Sat. administering chemo to someone, saw the results were in and here is what her message said. \"Old buddy, this is Teresa. God was listening. Your tumor markers are back to what they've always been. I repeat, markers are NORMAL. (Laughs) We love you. Bye.\" What can I say?? Although I am one year older, I feel 20 years younger. \n \nLove to you all and in honor of Connie - Seven years and 1 month - Glenda ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "10/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156020",
+      "Title": "Thank you for remembering, Cathi..."
+    },
+    {
+      "AuthorID": "undefeated",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=3243",
+      "Content": " Glenda, 55, North Carolina. Diagosed 9/97, er/pr+++, stage IIb, 2 pos. nodes, mastectomy, CMF for 6 months, radiation, tamoxifen for 5 years, now taking femara as recurrence preventative, 6yrs 7mos NED (knock wood).\nMarried for 34 years, 1 daughter (26). Very active in local ACS Relay for Life ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "daughter",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "daughter"
+          }
+        }
+      },
+      "MessageIndex": 25,
+      "PostDate": "01/05/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=110474",
+      "Title": "ROLL CALL name, age, state and any other info to share"
     },
     {
       "AuthorID": "undefeated",
@@ -2024,28 +1918,6 @@
       "PostDate": "14/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=157434",
       "Title": "Onc. gave me the \"all clear\"...."
-    },
-    {
-      "AuthorID": "undefeated",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155748&p=3243",
-      "Content": " Yippee!!! And the second opinion is the only way to go. As always, your take-charge of your own health mode is inspiring and educational. Recommending surgery without even seeing the pictures is astounding to me. Here's a thought - have you noticed that your pants or skirts have gotten looser?? Maybe it's just a little hip fat moving down! LOL - a good thing. \nSo happy for you, dear Luci.\nLove, Glenda ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 16,
-      "PostDate": "10/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155748",
-      "Title": "MRI results are in...."
     }
   ],
   "ProfileDemographics": {
@@ -2065,6 +1937,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -2207,11 +2084,11 @@
     },
     "11th Month Emotions": {
       "EmotionKeywords": [
+        "blessed",
+        "willing",
         "loving",
         "loved",
-        "cross",
-        "blessed",
-        "willing"
+        "cross"
       ],
       "Emotions": {
         "AFRAID": "0",
@@ -2515,11 +2392,6 @@
     },
     "6th Month Emotions": {
       "EmotionKeywords": [
-        "surprised",
-        "nice",
-        "loving",
-        "loved",
-        "wronged",
         "interested",
         "glad",
         "wonderful",
@@ -2530,6 +2402,11 @@
         "loved",
         "thoughtful",
         "inspired",
+        "surprised",
+        "nice",
+        "loving",
+        "loved",
+        "wronged",
         "blessed",
         "thoughtful",
         "cross",
@@ -2646,15 +2523,15 @@
         "ached",
         "cramped",
         "pained",
+        "understanding",
+        "willing",
+        "sure",
         "sunny",
         "easy",
         "considerate",
         "devoted",
         "pained",
-        "pained",
-        "understanding",
-        "willing",
-        "sure"
+        "pained"
       ],
       "Emotions": {
         "AFRAID": "0",
@@ -2681,16 +2558,6 @@
     },
     "9th Month Emotions": {
       "EmotionKeywords": [
-        "surprised",
-        "reassured",
-        "loving",
-        "loved",
-        "thoughtful",
-        "hopeful",
-        "willing",
-        "irritated",
-        "inflamed",
-        "bad",
         "glad",
         "wonderful",
         "comfortable",
@@ -2700,6 +2567,16 @@
         "brave",
         "hopeful",
         "willing",
+        "bad",
+        "surprised",
+        "reassured",
+        "loving",
+        "loved",
+        "thoughtful",
+        "hopeful",
+        "willing",
+        "irritated",
+        "inflamed",
         "bad"
       ],
       "Emotions": {

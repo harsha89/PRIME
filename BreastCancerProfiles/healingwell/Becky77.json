@@ -3,17 +3,17 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1655232&p=24570",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "wonderful",
-      "bad",
-      "pained",
-      "pained",
       "tender",
       "thoughtful",
       "worried",
       "pained",
       "offended",
       "pained",
-      "hurtful"
+      "hurtful",
+      "wonderful",
+      "bad",
+      "pained",
+      "pained"
     ],
     "Emotions": {
       "AFRAID": "0.5",
@@ -38,165 +38,7 @@
   "NExperiencePosts": 2,
   "NPosts": 2,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
-    {
-      "AuthorID": "Becky77",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1655232&p=24570",
-      "Content": " I don't think it's the Intercostalbrachial nerve...it's only actually pain in the breast. I don't feel any pain coming from my back, but more from the front where the incisions were. It's not bad enough to need a nerve block. Really I'm just wondering if nerve pain goes away on it's own. If it's a minor nerve that was cut, does it grow back or fix itself?\nThanks to both of you for responding. I appreciate it!\nBecky\n31 yr old female-dx with Crohn's in '97 after emergency resection and appendectomy, 2nd resection '05, Bilateral pulmonary emboli 10/09\nCurrently on Humira, Omeprazole, Effexor, Seroquel, Calcium, Vit D, sublingual B12, Coumadin\n ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> <Z> <Z> Becky\n31 yr old female dx with",
-          "Relation": "unknown",
-          "Tense": "unknown",
-          "Value": 31
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "30/11/2009",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1655232",
-      "Title": "Nerve pain in breasts"
-    },
     {
       "AuthorID": "Becky77",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1655232&p=24570",
@@ -229,6 +71,36 @@
       "PostDate": "28/11/2009",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1655232",
       "Title": "Nerve pain in breasts"
+    },
+    {
+      "AuthorID": "Becky77",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1655232&p=24570",
+      "Content": " I don't think it's the Intercostalbrachial nerve...it's only actually pain in the breast. I don't feel any pain coming from my back, but more from the front where the incisions were. It's not bad enough to need a nerve block. Really I'm just wondering if nerve pain goes away on it's own. If it's a minor nerve that was cut, does it grow back or fix itself?\nThanks to both of you for responding. I appreciate it!\nBecky\n31 yr old female-dx with Crohn's in '97 after emergency resection and appendectomy, 2nd resection '05, Bilateral pulmonary emboli 10/09\nCurrently on Humira, Omeprazole, Effexor, Seroquel, Calcium, Vit D, sublingual B12, Coumadin\n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> Becky\n31 yr old female dx with",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 31
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "30/11/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1655232",
+      "Title": "Nerve pain in breasts"
     }
   ],
   "ProfileDemographics": {
@@ -248,6 +120,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

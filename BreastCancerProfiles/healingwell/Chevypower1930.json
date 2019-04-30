@@ -36,135 +36,36 @@
   "NExperiencePosts": 5,
   "NPosts": 5,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 5,
-      "NTotal": 5,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
+    {
+      "AuthorID": "Chevypower1930",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2179379&p=90330",
+      "Content": " Nobody???\n21 Year Old Male\nDiagnosed with Moderate/Severe Ulcerative Colitis May 2008\n3 Flair ups (first flair- 2 months/Second Flair- 2 months/ Third flair- One week, then surgery)\n-Full Ileostomy surgery done on july 22! \n-J pouch DONE--January 6th\nLiving a COMPLETELY normal and active life with a J pouch! ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> <Z> Nobody   \n21 Year Old Male\nDiagnosed with",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 21
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "05/08/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2179379",
+      "Title": "Lump found under nipple 21 year old male"
+    },
     {
       "AuthorID": "Chevypower1930",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2179379&p=90330",
@@ -230,35 +131,6 @@
       },
       "MessageIndex": 6,
       "PostDate": "06/08/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2179379",
-      "Title": "Lump found under nipple 21 year old male"
-    },
-    {
-      "AuthorID": "Chevypower1930",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2179379&p=90330",
-      "Content": " Nobody???\n21 Year Old Male\nDiagnosed with Moderate/Severe Ulcerative Colitis May 2008\n3 Flair ups (first flair- 2 months/Second Flair- 2 months/ Third flair- One week, then surgery)\n-Full Ileostomy surgery done on july 22! \n-J pouch DONE--January 6th\nLiving a COMPLETELY normal and active life with a J pouch! ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> <Z> <Z> Nobody   \n21 Year Old Male\nDiagnosed with",
-          "Relation": "unknown",
-          "Tense": "unknown",
-          "Value": 21
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "05/08/2011",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2179379",
       "Title": "Lump found under nipple 21 year old male"
     },
@@ -362,6 +234,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

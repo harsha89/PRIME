@@ -3,6 +3,13 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1096635&p=61677",
   "EmotionInfo": {
     "EmotionKeywords": [
+      "pleased",
+      "encouraged",
+      "hopeful",
+      "willing",
+      "sure",
+      "encouraged",
+      "hopeful",
       "accepting",
       "pleased",
       "concerned",
@@ -17,19 +24,12 @@
       "willing",
       "sure",
       "numb",
-      "pleased",
-      "encouraged",
-      "hopeful",
-      "willing",
-      "sure",
       "willing",
       "sure",
       "aggressive",
       "aggressive",
       "tearful",
-      "desperate",
-      "encouraged",
-      "hopeful"
+      "desperate"
     ],
     "Emotions": {
       "AFRAID": "0.143",
@@ -54,134 +54,6 @@
   "NExperiencePosts": 7,
   "NPosts": 7,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 7,
-      "NTotal": 7,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "cujlm",
@@ -205,6 +77,55 @@
       "PostDate": "14/04/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1096635",
       "Title": "My Mom is diagnosed with Stage IV Breast Cancer"
+    },
+    {
+      "AuthorID": "cujlm",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1096635&p=61677",
+      "Content": " Dear all,\nthanks for all your advice.\nMy mom will start FAC chemo on the coming Mon. Doc siad her hormone report is pretty encouraging and it may go well with just chemo. If chemo fails, he thinks Femara (Not sure about\n the spelling) can work well. I am still looking for Chinese medicine practitioner to seek further opinion on her treatment. Hope all go well. and please keep me updated. Thanks. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "practitioner",
+            "MainSubject": "practitioner",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "19/04/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1096635",
+      "Title": "My Mom is diagnosed with Stage IV Breast Cancer"
+    },
+    {
+      "AuthorID": "cujlm",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1108325&p=61677",
+      "Content": " Hi, This is john from HK. Thanks all your advice and encouragement.\nAs mentioned earlier, her pathologist's report showed that she was ER+, PR-and HER2+(weakly). The doctor suggested that we should go ahead with CAF chemo, and tried out Femara later.\nMy mom had its first chemo last week, and she has been extremely weak during these days.\nAns I am now reading a book called\"Advanced Breast Cancer--A guide to living with metastatic disease\" by Musa Mayer. Hope I might get new insights from reading it.\nPls keep me informed about\n updated treatment. And I wish you all triumph during this journey. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["Breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/04/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1108325",
+      "Title": "Updates on my mom"
     },
     {
       "AuthorID": "cujlm",
@@ -281,31 +202,6 @@
     {
       "AuthorID": "cujlm",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1096635&p=61677",
-      "Content": " Dear all,\nthanks for all your advice.\nMy mom will start FAC chemo on the coming Mon. Doc siad her hormone report is pretty encouraging and it may go well with just chemo. If chemo fails, he thinks Femara (Not sure about\n the spelling) can work well. I am still looking for Chinese medicine practitioner to seek further opinion on her treatment. Hope all go well. and please keep me updated. Thanks. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "HealthProfessional": "practitioner",
-            "MainSubject": "practitioner",
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "19/04/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1096635",
-      "Title": "My Mom is diagnosed with Stage IV Breast Cancer"
-    },
-    {
-      "AuthorID": "cujlm",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1096635&p=61677",
       "Content": " Good to find this forum.\nI am from Hong Kong.\nMy mom is diagnosed with recurring Stage IV Breast Cancer in her first Biopsy. She has just completed her second biopsy because her doctor is not sure whether it is really a recurrence or new cancer. The report will be ready tomorrow.\nCan you all give my some advice on this? I am now desperate about\n what treatments should be adopted. On one hand, chemotherapy is too expensive and aggressive, and on the other hand, I am not sure if we can just depend upon Chinese Medicine. I am thinking a combination of both but learning about\n the meagre 10% 5-year survival rate, it brings out my tears... ",
       "Demographics": {
         "AgeInfo": [],
@@ -326,30 +222,6 @@
       "PostDate": "13/04/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1096635",
       "Title": "My Mom is diagnosed with Stage IV Breast Cancer"
-    },
-    {
-      "AuthorID": "cujlm",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1108325&p=61677",
-      "Content": " Hi, This is john from HK. Thanks all your advice and encouragement.\nAs mentioned earlier, her pathologist's report showed that she was ER+, PR-and HER2+(weakly). The doctor suggested that we should go ahead with CAF chemo, and tried out Femara later.\nMy mom had its first chemo last week, and she has been extremely weak during these days.\nAns I am now reading a book called\"Advanced Breast Cancer--A guide to living with metastatic disease\" by Musa Mayer. Hope I might get new insights from reading it.\nPls keep me informed about\n updated treatment. And I wish you all triumph during this journey. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["Breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "25/04/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1108325",
-      "Title": "Updates on my mom"
     }
   ],
   "ProfileDemographics": {
@@ -368,6 +240,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

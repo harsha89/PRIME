@@ -28,9 +28,14 @@
       "thoughtful",
       "independent",
       "frustrated",
+      "wonderful",
       "loving",
       "loved",
-      "wonderful",
+      "loving",
+      "loved",
+      "thoughtful",
+      "hopeful",
+      "hateful",
       "loving",
       "loved",
       "glad",
@@ -40,11 +45,6 @@
       "loved",
       "willing",
       "hardy",
-      "loving",
-      "loved",
-      "thoughtful",
-      "hopeful",
-      "hateful",
       "loving",
       "close",
       "loved",
@@ -72,13 +72,13 @@
       "loving",
       "loved",
       "impressed",
+      "wonderful",
+      "hopeful",
+      "disappointed",
       "glad",
       "loving",
       "loved",
       "willing",
-      "wonderful",
-      "hopeful",
-      "disappointed",
       "loving",
       "touched",
       "loved",
@@ -95,9 +95,9 @@
       "supportive",
       "loving",
       "loved",
+      "rude",
       "loving",
-      "loved",
-      "rude"
+      "loved"
     ],
     "Emotions": {
       "AFRAID": "0.024",
@@ -122,134 +122,6 @@
   "NExperiencePosts": 41,
   "NPosts": 51,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 2,
-      "NTotal": 2,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 1,
-      "NTotal": 3,
-      "PAdvice": 0.6666666666666666,
-      "PExperience": 0.3333333333333333
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 3,
-      "NTotal": 4,
-      "PAdvice": 0.25,
-      "PExperience": 0.75
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 1,
-      "NTotal": 3,
-      "PAdvice": 0.6666666666666666,
-      "PExperience": 0.3333333333333333
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 5,
-      "NTotal": 6,
-      "PAdvice": 0.16666666666666666,
-      "PExperience": 0.8333333333333334
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 2,
-      "NExperience": 2,
-      "NTotal": 4,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 1,
-      "NTotal": 2,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    }
-  },
   "Posts": [
     {
       "AuthorID": "Pegzilla#2",
@@ -402,30 +274,6 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=810717&p=3467",
-      "Content": " Hi, folks, long time no post! (Sorry -- I'm still working full time, that's my excuse and I'm sticking to it)\nAnyhow, I'm walking the 5k in this Saturday's Race for the Cure, with my DH, DD, and two of her friends. I'll be thinking of you all !!!!\nWhatever happened to our proposed get-together in May? \nLove and kisses, Peg ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "15/05/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=810717",
-      "Title": "Race for the Cure in Columbus"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=724886&p=3467",
       "Content": " Sounds so wonderful...the last concert I went to was Elton John, and it was FABULOUS. I bought foam ear plugs, and didn't use them, but the sound was the best I think I've ever experience for a large venue. But of course, the ears still were ringing for a while.\nThanks for the list of all of those songs, I've got to go to iTunes and grab a few!\nlove, Peg ",
       "Demographics": {
@@ -450,8 +298,32 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=727368&p=3467",
-      "Content": " Well, it's still snowing here. They were saying we're having the coldest February on record. \nabout\n the robins...on the news yesterday they said that the robins that stick around in central Ohio all winter are usually a hardy lot, but they're dying now because all of their food supply is frozen. They don't eat birdseed (so the normal bird feeder won't help), but they do eat suet. Their normal diet is insects (hah! they're long gone or buried) and berries, which are frozen. Poor things!\nI worked from home two days last week when Delaware county was at level 2 and then 3...I would have gotten a lot more done if my DH weren't also home, and interrupting me all the time!! He works for Dublin schools (two suburbs to the west of us), so he was home when they closed. Some of the school districts have used more than their planned five \"calamity days.\" Westerville schools will have to forgo a day off on Memorial Day to make up the sixth day they used last week. I'm glad my kids are in college, and I don't have to mess with babysitters and fouled-up Memorial Day plans.\nI'm getting cabin fever, though, so my sister and I are going to venture out today to explore a knitting store in Columbus I heard about\n. The roads have been cleared for the most part, so I don't expect any problems....\nStay warm, everybody!!!\nLove, Peg ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=731333&p=3467",
+      "Content": " I hate that word, \"abnormal.\" My thoughts are with you, Debbie! I hope it's a simple fix. I had an \"abnormal\" Pap smear last year, and they just told me to come back in three months for a second one, and the second one was normal. Wishing that good luck for you as well....\nLove, Peg ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["smear"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "18/02/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=731333",
+      "Title": "OK, I am trying not to freak out here.........."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=810717&p=3467",
+      "Content": " Hi, folks, long time no post! (Sorry -- I'm still working full time, that's my excuse and I'm sticking to it)\nAnyhow, I'm walking the 5k in this Saturday's Race for the Cure, with my DH, DD, and two of her friends. I'll be thinking of you all !!!!\nWhatever happened to our proposed get-together in May? \nLove and kisses, Peg ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -467,10 +339,10 @@
           }
         }
       },
-      "MessageIndex": 7,
-      "PostDate": "18/02/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=727368",
-      "Title": "Baby it's cold outside!!!!"
+      "MessageIndex": 0,
+      "PostDate": "15/05/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=810717",
+      "Title": "Race for the Cure in Columbus"
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -498,13 +370,13 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=731333&p=3467",
-      "Content": " I hate that word, \"abnormal.\" My thoughts are with you, Debbie! I hope it's a simple fix. I had an \"abnormal\" Pap smear last year, and they just told me to come back in three months for a second one, and the second one was normal. Wishing that good luck for you as well....\nLove, Peg ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=686037&p=3467",
+      "Content": " 2006 was my 7-year mark, and my hair is thinner everywhere even now (good news for the legs and pits, not so good for the head). My eyelashes are the closest to being the same as before, yay!! Also don't need to tweeze my eyebrows anymore. Unfortunately, I have a little more of a mustache, but that could be related to age and chemo-induced menopause. Fortunatly, the hair on my face is mostly blonde, LOL....\nPegzilla#2 (an old-timer from WAY BACK - originally from the iVillage board) ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["smear"],
+            "FemaleMedicalTerms": ["menopause"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -515,10 +387,34 @@
           }
         }
       },
-      "MessageIndex": 10,
+      "MessageIndex": 8,
+      "PostDate": "31/12/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=686037",
+      "Title": "Today marks 1 year..."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=727368&p=3467",
+      "Content": " Well, it's still snowing here. They were saying we're having the coldest February on record. \nabout\n the robins...on the news yesterday they said that the robins that stick around in central Ohio all winter are usually a hardy lot, but they're dying now because all of their food supply is frozen. They don't eat birdseed (so the normal bird feeder won't help), but they do eat suet. Their normal diet is insects (hah! they're long gone or buried) and berries, which are frozen. Poor things!\nI worked from home two days last week when Delaware county was at level 2 and then 3...I would have gotten a lot more done if my DH weren't also home, and interrupting me all the time!! He works for Dublin schools (two suburbs to the west of us), so he was home when they closed. Some of the school districts have used more than their planned five \"calamity days.\" Westerville schools will have to forgo a day off on Memorial Day to make up the sixth day they used last week. I'm glad my kids are in college, and I don't have to mess with babysitters and fouled-up Memorial Day plans.\nI'm getting cabin fever, though, so my sister and I are going to venture out today to explore a knitting store in Columbus I heard about\n. The roads have been cleared for the most part, so I don't expect any problems....\nStay warm, everybody!!!\nLove, Peg ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
       "PostDate": "18/02/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=731333",
-      "Title": "OK, I am trying not to freak out here.........."
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=727368",
+      "Title": "Baby it's cold outside!!!!"
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -565,30 +461,6 @@
       "PostDate": "31/12/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=686059",
       "Title": "Cathi...how was chemo?"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=686037&p=3467",
-      "Content": " 2006 was my 7-year mark, and my hair is thinner everywhere even now (good news for the legs and pits, not so good for the head). My eyelashes are the closest to being the same as before, yay!! Also don't need to tweeze my eyebrows anymore. Unfortunately, I have a little more of a mustache, but that could be related to age and chemo-induced menopause. Fortunatly, the hair on my face is mostly blonde, LOL....\nPegzilla#2 (an old-timer from WAY BACK - originally from the iVillage board) ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["menopause"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "31/12/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=686037",
-      "Title": "Today marks 1 year..."
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -664,52 +536,6 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=421683&p=3467",
-      "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "17/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=421683",
-      "Title": "GONNA BE A GRANDMA AGAIN!!!!!!"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416316&p=3467",
-      "Content": " \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "17/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416316",
-      "Title": "Sorry to show up only when I need help..."
-    },
-    {
-      "AuthorID": "Pegzilla#2",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416316&p=3467",
       "Content": " I have been really busy for the last couple of years, working full time and going to school in the evenings toward my Masters degree in Marketing and Communication. I haven't had much opportunity to even read posts, let alone respond. I apologize for that!\n \n \n \n \n \n ",
       "Demographics": {
@@ -731,6 +557,53 @@
       "PostDate": "07/02/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416316",
       "Title": "Sorry to show up only when I need help..."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=424171&p=3467",
+      "Content": " Cathi, and I wish we could each take away a little of your pain and share it among ourselves, and make you feel better. I know we would all be more than happy to do that. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "17/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=424171",
+      "Title": "My 6 year anniversary was on February 14th...but....."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=421683&p=3467",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "17/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=421683",
+      "Title": "GONNA BE A GRANDMA AGAIN!!!!!!"
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -757,6 +630,29 @@
     },
     {
       "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416316&p=3467",
+      "Content": " \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "17/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416316",
+      "Title": "Sorry to show up only when I need help..."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=416784&p=3467",
       "Content": " \n \n \n \n ",
       "Demographics": {
@@ -777,30 +673,6 @@
       "PostDate": "07/02/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=416784",
       "Title": "Mom is temporarily in a nursing home and I am having pre-cancer surgery"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=424171&p=3467",
-      "Content": " Cathi, and I wish we could each take away a little of your pain and share it among ourselves, and make you feel better. I know we would all be more than happy to do that. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "17/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=424171",
-      "Title": "My 6 year anniversary was on February 14th...but....."
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -900,28 +772,6 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=278239&p=3467",
-      "Content": " Cathi, you dear, sweet person...do whatever feels right. If you're not up to demanding the $600, it's only money. But I hope you have a nice big glass of wine at lunch, and go back into that sphincter's office and give him a piece of your mind. Then go on disability, and quilt your heart out. They'll miss you terribly in a month or two, and your family, especially those grandbabies, WON'T !!!\nWe love you !! ((((((((((((((((((CATHI))))))))))))))))))))\nLove, Peg ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "02/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=278239",
-      "Title": "Having a bad day ......"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=278189&p=3467",
       "Content": " Hey, Mikki, your birthday is the same day as my son's !!! He turned 20, just a couple of years younger than you, LOL !!!\nHappy birthday a couple of days late, sorry I missed the real date. Don't get on the board much these days.\nLove, Peg ",
       "Demographics": {
@@ -952,8 +802,8 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=258344&p=3467",
-      "Content": " OMG, that is TOO funny. Yes, I remember that bus very well, since I was sitting right next to you with my chin on the floor of the bus. I was SO impressed.\nThanks for a good laugh!\nLove, Peg ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=278239&p=3467",
+      "Content": " Cathi, you dear, sweet person...do whatever feels right. If you're not up to demanding the $600, it's only money. But I hope you have a nice big glass of wine at lunch, and go back into that sphincter's office and give him a piece of your mind. Then go on disability, and quilt your heart out. They'll miss you terribly in a month or two, and your family, especially those grandbabies, WON'T !!!\nWe love you !! ((((((((((((((((((CATHI))))))))))))))))))))\nLove, Peg ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -962,17 +812,15 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "You",
+            "NarrationType": "advice"
           }
         }
       },
-      "MessageIndex": 6,
-      "PostDate": "26/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=258344",
-      "Title": "Shades of San Antonio, LOL...."
+      "MessageIndex": 7,
+      "PostDate": "02/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=278239",
+      "Title": "Having a bad day ......"
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -1000,8 +848,8 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=254761&p=3467",
-      "Content": " And now for your Marketing 101 lecture....\n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=258344&p=3467",
+      "Content": " OMG, that is TOO funny. Yes, I remember that bus very well, since I was sitting right next to you with my chin on the floor of the bus. I was SO impressed.\nThanks for a good laugh!\nLove, Peg ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1010,15 +858,40 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
       "MessageIndex": 6,
+      "PostDate": "26/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=258344",
+      "Title": "Shades of San Antonio, LOL...."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=255351&p=3467",
+      "Content": " \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
       "PostDate": "22/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=254761",
-      "Title": "Clutter: Discontinued items...."
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=255351",
+      "Title": "No diabetes and thankful for small things......"
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -1044,8 +917,8 @@
     },
     {
       "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=255351&p=3467",
-      "Content": " \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=254761&p=3467",
+      "Content": " And now for your Marketing 101 lecture....\n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1054,16 +927,64 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "22/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=254761",
+      "Title": "Clutter: Discontinued items...."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=238326&p=3467",
+      "Content": " Gail, I went through some of that myself. After three years of taking my temperature, charting my cycles, and being disappointed monthly, I had a laparoscopy. They found the problem (in my case, endometriosis), and put me on hormones to shut my system down for 9 months. It worked, and I have two wonderful, healthy kids.\nMy uterus is also tipped, but not at the angle that they usually find. I don't think that's a fertility issue, but it may interfere with diagnosis, as Michelle said.\nStay hopeful, lots can be done!\nFrom snowy (!!!!) Ohio, \nPeg ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "endometriosis",
+              "uterus"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 10,
-      "PostDate": "22/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=255351",
-      "Title": "No diabetes and thankful for small things......"
+      "MessageIndex": 4,
+      "PostDate": "24/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=238326",
+      "Title": "Prayers please..."
+    },
+    {
+      "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=230738&p=3467",
+      "Content": " Oh, CR@P, SH#T, and all of the other words I can't type for fear of getting banned from the Internet. This s*cks big time. Cathi is the LAST person who should be going through this. She has helped so many people on this board and previous boards.\nLuci, please tell Cathi we all love her, but don't want to flood her with phone calls. I think she knows anyway. Strong but gentle pink hugs for you, for Cathi, and for all of us.\nHow about a card shower, everybody????? Maybe we can all send the FUNNIEST cards we can find, for any occasion, just as long as they are funny....what do you think? Cathi would probably appreciate the weird humor in getting a Halloween card right now!\nLove you all, Peg V ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "12/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=230738",
+      "Title": "Cathi is in the hospital...."
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -1112,55 +1033,6 @@
       "PostDate": "12/04/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=226024",
       "Title": "Cleveland Dates to choose from"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=230738&p=3467",
-      "Content": " Oh, CR@P, SH#T, and all of the other words I can't type for fear of getting banned from the Internet. This s*cks big time. Cathi is the LAST person who should be going through this. She has helped so many people on this board and previous boards.\nLuci, please tell Cathi we all love her, but don't want to flood her with phone calls. I think she knows anyway. Strong but gentle pink hugs for you, for Cathi, and for all of us.\nHow about a card shower, everybody????? Maybe we can all send the FUNNIEST cards we can find, for any occasion, just as long as they are funny....what do you think? Cathi would probably appreciate the weird humor in getting a Halloween card right now!\nLove you all, Peg V ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "12/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=230738",
-      "Title": "Cathi is in the hospital...."
-    },
-    {
-      "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=238326&p=3467",
-      "Content": " Gail, I went through some of that myself. After three years of taking my temperature, charting my cycles, and being disappointed monthly, I had a laparoscopy. They found the problem (in my case, endometriosis), and put me on hormones to shut my system down for 9 months. It worked, and I have two wonderful, healthy kids.\nMy uterus is also tipped, but not at the angle that they usually find. I don't think that's a fertility issue, but it may interfere with diagnosis, as Michelle said.\nStay hopeful, lots can be done!\nFrom snowy (!!!!) Ohio, \nPeg ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "endometriosis",
-              "uterus"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "24/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=238326",
-      "Title": "Prayers please..."
     },
     {
       "AuthorID": "Pegzilla#2",
@@ -1407,6 +1279,30 @@
     },
     {
       "AuthorID": "Pegzilla#2",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=3467",
+      "Content": " Peg, 52 (sigh), from Westerville, Ohio (born and raised in Fairborn, OH)\nDiagnosed stage II invasive lobular June 1999, lumpectomy with axillary dissection (one positive node), AC/Taxol and radiation. NED since then. Mother had modified radical mast 20+ years ago, and she's still kickin', one sister had lumpectomy about 10 years ago, and then recurrence requiring mast (with tram flap reconstruction) while I was doing radiation...ON MY BIRTHDAY, how rude. Other sister thankfully still healthy. Three women, four cancers, THREE SURVIVORS.\nMarried 30 years this September (to same man, LOL!). 2 kids, son graduating from high school this year, and daughter graduating next year. We'll be poor for a while, thanks to college expenses. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "Mother",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "Mother"
+          }
+        }
+      },
+      "MessageIndex": 19,
+      "PostDate": "06/10/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=110474",
+      "Title": "ROLL CALL name, age, state and any other info to share"
+    },
+    {
+      "AuthorID": "Pegzilla#2",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155748&p=3467",
       "Content": " Luci, tell your second opinion onc to look for something kind of t-shaped....like a pork chop bone, right????\nSo glad to hear the initial dx is good, but sad you had to get that surgery word thrown at you. Keep us posted on what you find out from your second opinion.\nLove, Peg ",
       "Demographics": {
@@ -1449,30 +1345,6 @@
       "PostDate": "31/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=162530",
       "Title": "Happy Birthday to our sweet Luci......!!!!"
-    },
-    {
-      "AuthorID": "Pegzilla#2",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=110474&p=3467",
-      "Content": " Peg, 52 (sigh), from Westerville, Ohio (born and raised in Fairborn, OH)\nDiagnosed stage II invasive lobular June 1999, lumpectomy with axillary dissection (one positive node), AC/Taxol and radiation. NED since then. Mother had modified radical mast 20+ years ago, and she's still kickin', one sister had lumpectomy about 10 years ago, and then recurrence requiring mast (with tram flap reconstruction) while I was doing radiation...ON MY BIRTHDAY, how rude. Other sister thankfully still healthy. Three women, four cancers, THREE SURVIVORS.\nMarried 30 years this September (to same man, LOL!). 2 kids, son graduating from high school this year, and daughter graduating next year. We'll be poor for a while, thanks to college expenses. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "Mother",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "Mother"
-          }
-        }
-      },
-      "MessageIndex": 19,
-      "PostDate": "28/04/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=110474",
-      "Title": "ROLL CALL name, age, state and any other info to share"
     }
   ],
   "ProfileDemographics": {
@@ -1492,6 +1364,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -1965,14 +1842,14 @@
     },
     "7th Month Emotions": {
       "EmotionKeywords": [
-        "glad",
-        "loving",
-        "loved",
-        "willing",
         "pleased",
         "loving",
         "loved",
         "fearful",
+        "glad",
+        "loving",
+        "loved",
+        "willing",
         "loving",
         "touched",
         "loved",
@@ -2036,13 +1913,13 @@
     },
     "9th Month Emotions": {
       "EmotionKeywords": [
+        "loving",
+        "loved",
         "nice",
         "loving",
         "loved",
         "hopeful",
-        "terrible",
-        "loving",
-        "loved"
+        "terrible"
       ],
       "Emotions": {
         "AFRAID": "0",

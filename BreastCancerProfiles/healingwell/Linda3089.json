@@ -1,6 +1,6 @@
 {
   "AuthorID": "Linda3089",
-  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=774061&p=45911",
+  "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=770322&p=45911",
   "EmotionInfo": {
     "EmotionKeywords": [
       "confident",
@@ -30,19 +30,19 @@
       "willing",
       "sure",
       "hopeful",
-      "lucky",
-      "courageous",
-      "calm",
-      "supportive",
-      "insistent",
-      "willing",
       "great",
       "lucky",
       "glad",
       "hopeful",
       "willing",
       "pained",
-      "pained"
+      "pained",
+      "lucky",
+      "courageous",
+      "calm",
+      "supportive",
+      "insistent",
+      "willing"
     ],
     "Emotions": {
       "AFRAID": "0.429",
@@ -68,6 +68,30 @@
   "NPosts": 9,
   "PSAInfo": {},
   "Posts": [
+    {
+      "AuthorID": "Linda3089",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=770322&p=45911",
+      "Content": " I saw the surgeon on Wednesday. He is doing a removal biopsy on Thursday and he is pretty sure the biopsy results are benign. His office was so plain and almost shabby and while I was waiting for him, I thought about\n leaving and finding another surgeon. Boy am I glad I didn't. He gave my husband and I all the time we needed, answered every question and he kept telling us to concentrate on the removal biopsy. He was really calm and thoughtful and helped us to calm down.\nOn a side note. one reason we were so scared was that when we read the reports,which we had to get to bring to the surgeon, we saw that in 2001 the report noted a \"suspicious area\" and no one ever mentioned it to me. The 2003 report noted the same area and again no one ever mentioned it to me.\nThe problem with that was that after 20 years of mammograms with nothing unusual ever report, I became over-confident and careless about\n getting in annually. I know I was wrong and foolish, but I certainly would have been more diligent about\n annual exams if I had know that there was a suspicious area they wanted to keep an eye on. \nFrom now on when I have a mammogram, I going to make certain that my primary care doctor gets a copy since I see him every 3 months.\nI want to thank everyone for their support over the past week. I will get back to all after Thursday and certainly let everyone know the biopsy results. Daily I try to ask for mercies for all people dealing with illness. I have done this for years as it helps me to think about\n others and keep my life in perspective and be grateful for all I have. Of course this means more to me now than ever before. Best wishes to all. Linda\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "07/04/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=770322",
+      "Title": "Needle biopsy"
+    },
     {
       "AuthorID": "Linda3089",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=774061&p=45911",
@@ -109,30 +133,6 @@
       },
       "MessageIndex": 7,
       "PostDate": "29/03/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=770322",
-      "Title": "Needle biopsy"
-    },
-    {
-      "AuthorID": "Linda3089",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=770322&p=45911",
-      "Content": " I saw the surgeon on Wednesday. He is doing a removal biopsy on Thursday and he is pretty sure the biopsy results are benign. His office was so plain and almost shabby and while I was waiting for him, I thought about\n leaving and finding another surgeon. Boy am I glad I didn't. He gave my husband and I all the time we needed, answered every question and he kept telling us to concentrate on the removal biopsy. He was really calm and thoughtful and helped us to calm down.\nOn a side note. one reason we were so scared was that when we read the reports,which we had to get to bring to the surgeon, we saw that in 2001 the report noted a \"suspicious area\" and no one ever mentioned it to me. The 2003 report noted the same area and again no one ever mentioned it to me.\nThe problem with that was that after 20 years of mammograms with nothing unusual ever report, I became over-confident and careless about\n getting in annually. I know I was wrong and foolish, but I certainly would have been more diligent about\n annual exams if I had know that there was a suspicious area they wanted to keep an eye on. \nFrom now on when I have a mammogram, I going to make certain that my primary care doctor gets a copy since I see him every 3 months.\nI want to thank everyone for their support over the past week. I will get back to all after Thursday and certainly let everyone know the biopsy results. Daily I try to ask for mercies for all people dealing with illness. I have done this for years as it helps me to think about\n others and keep my life in perspective and be grateful for all I have. Of course this means more to me now than ever before. Best wishes to all. Linda\n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 8,
-      "PostDate": "07/04/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=770322",
       "Title": "Needle biopsy"
     },
@@ -255,30 +255,6 @@
     },
     {
       "AuthorID": "Linda3089",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=795063&p=45911",
-      "Content": " I am one of the lucky ones. it was benign. And I want to share something else. When this whole thing started back in March, I tried to stay calm, stay in the present, deal with the facts and stop myself(and others) from dealing with the what ifs. I had to keep telling myself that God had a plan for me and that whatever the outcome, if I stayed in the present, I would be able to handle it -one day at a time.\nI had lots of support from my family and from this board. I didn't tell anyone outside of the family and this board gave me all of the support I needed. Like many other women, I do a lot of caretaking. My mother, my disabled son, help my daughter & her family. But on March 27th when the radiologist told me that there was a nodule, the \"I don't give a darn\" button got switched on. Suddenly I jumped to the head of the line in terms of needing my attention. I insisted that my husband and son learn how to shop and cook, which they are still doing. If my mother doesn't want to take her medicine, it doesn't bother me. The doctor will put her in a nursing home sooner than later, which is what I am trying to postpone.\n And the strangest thing happened last Monday. I was thinking about\n all of the changes I made in the past 6 weeks and I was suddenly grateful for the nodual. Honestly grateful. \n I know that those of you who have have a different biopsy are fighting with all your courage to get well. And I want you to know that every night I say a prayer that soon things may turn around for you.\nThank you once again for all the support in the past 6 weeks. Linda \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "25/04/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=795063",
-      "Title": "removal biopsy"
-    },
-    {
-      "AuthorID": "Linda3089",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=789328&p=45911",
       "Content": " I had the nodual removed last Friday. First the radiologist put the wire through the tumor and then I had 2 mammagramps. Next thing up to surgery. I was lucky that I only needed local anesthesia with something that put me to sleep. I woke up almost immediately and felt great. In about\n 20 minutes I felt some stinging and they gave me some morphine and in another 20 minutes I left worse again. My breast was very hard and they gave me an icepack thinking it was from the local. \nSoon they took me to a discharge room, gave me some cranberry juice , took out the IV and let me go to the toilet. I started to get dressed putting on my underwear and jeans,but leaving the hospital gown on top since they wanted to check the bandage.\n The RN moved the bandage a little and this look of horror came over her face and she ran out to call the surgeon. He stepped into the room and the same look came onto his face. It seems there was a hemotoma and I was back off the OR. It was a good thing because an artery had burst. Once again I was able to have a local and everything was repaired and I was home in no time. In fact, my husband and I went out for dinner.\nI am soo glad I didn't have general anesthesia or I might not have felt the pain as soon as I did and while my surgeon was still in the building. My breast is deep purple over most of it. but it feel fine and I will get the results of the biopsy next Wednesday. And everyday that I don't get a call to come in to the office immediate, is a good day. \nI want to thank everyone for listening to me and I will post the results as soon as I get them. Everyone on this board has my good wishes and hope for the best possible outcome. ",
       "Demographics": {
@@ -300,6 +276,30 @@
       "PostDate": "18/04/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=789328",
       "Title": "Removal Biopsy"
+    },
+    {
+      "AuthorID": "Linda3089",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=795063&p=45911",
+      "Content": " I am one of the lucky ones. it was benign. And I want to share something else. When this whole thing started back in March, I tried to stay calm, stay in the present, deal with the facts and stop myself(and others) from dealing with the what ifs. I had to keep telling myself that God had a plan for me and that whatever the outcome, if I stayed in the present, I would be able to handle it -one day at a time.\nI had lots of support from my family and from this board. I didn't tell anyone outside of the family and this board gave me all of the support I needed. Like many other women, I do a lot of caretaking. My mother, my disabled son, help my daughter & her family. But on March 27th when the radiologist told me that there was a nodule, the \"I don't give a darn\" button got switched on. Suddenly I jumped to the head of the line in terms of needing my attention. I insisted that my husband and son learn how to shop and cook, which they are still doing. If my mother doesn't want to take her medicine, it doesn't bother me. The doctor will put her in a nursing home sooner than later, which is what I am trying to postpone.\n And the strangest thing happened last Monday. I was thinking about\n all of the changes I made in the past 6 weeks and I was suddenly grateful for the nodual. Honestly grateful. \n I know that those of you who have have a different biopsy are fighting with all your courage to get well. And I want you to know that every night I say a prayer that soon things may turn around for you.\nThank you once again for all the support in the past 6 weeks. Linda \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "25/04/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=795063",
+      "Title": "removal biopsy"
     }
   ],
   "ProfileDemographics": {
@@ -319,6 +319,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -357,6 +362,502 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "accepting",
+        "wonderful",
+        "understanding",
+        "willing",
+        "lost",
+        "worried",
+        "thoughtful",
+        "scared",
+        "fortunate",
+        "bright",
+        "touched",
+        "caring",
+        "willing",
+        "sure",
+        "hopeful",
+        "confident",
+        "glad",
+        "calm",
+        "certain",
+        "supportive",
+        "caring",
+        "thoughtful",
+        "confident",
+        "willing",
+        "sure",
+        "certain",
+        "suspicious",
+        "scared",
+        "wronged",
+        "great",
+        "lucky",
+        "glad",
+        "hopeful",
+        "willing",
+        "pained",
+        "pained",
+        "lucky",
+        "courageous",
+        "calm",
+        "supportive",
+        "insistent",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0.444",
+        "ALIVE": "0.222",
+        "ANGRY": "0",
+        "CONFUSED": "0.111",
+        "DEPRESSED": "0",
+        "GOOD": "0.444",
+        "HAPPY": "0.667",
+        "HELPLESS": "0",
+        "HURT": "0.222",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.222",
+        "LOVE": "0.556",
+        "OPEN": "0.333",
+        "POSITIVE": "1",
+        "SAD": "0.111",
+        "STRONG": "0.333"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": ["Surgery"],

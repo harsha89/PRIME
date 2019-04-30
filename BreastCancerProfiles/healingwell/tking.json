@@ -25,6 +25,15 @@
       "upset",
       "upset",
       "crying",
+      "approachable",
+      "proactive",
+      "willing",
+      "hurtful",
+      "willing",
+      "cold",
+      "worried",
+      "hurtful",
+      "caring",
       "great",
       "glad",
       "peaceful",
@@ -36,58 +45,55 @@
       "hateful",
       "pained",
       "pained",
-      "approachable",
-      "proactive",
-      "willing",
-      "sure",
-      "caring",
-      "great",
-      "glad",
-      "willing",
-      "sure",
-      "impressed",
       "bad",
-      "lost",
-      "cold",
-      "worried",
-      "hurtful",
-      "hopeful",
+      "willing",
+      "sure",
       "willing",
       "worried",
       "wronged",
+      "impressed",
+      "bad",
+      "lost",
       "okay",
       "thoughtful",
       "bad",
       "scared",
+      "great",
+      "glad",
+      "willing",
+      "sure",
+      "pleased",
       "bad",
-      "willing",
-      "hurtful",
-      "willing",
+      "lost",
+      "hopeful",
       "great",
       "great news",
       "hopeful",
       "great",
       "great news",
+      "bad",
+      "thoughtful",
+      "willing",
       "willing",
       "pained",
       "aching",
       "ached",
       "pained",
-      "pleased",
-      "bad",
-      "lost",
-      "willing",
-      "bad",
       "willing",
       "willing",
-      "thoughtful",
-      "bad",
       "wonderful",
       "willing",
       "sore",
       "worried",
+      "bad",
       "sure",
+      "glad",
+      "pained",
+      "pained",
       "pleased",
+      "glad",
+      "hopeful",
+      "numb",
       "satisfied",
       "satisfied",
       "glad",
@@ -96,24 +102,14 @@
       "affected",
       "hopeful",
       "willing",
-      "glad",
-      "pained",
-      "pained",
-      "glad",
-      "hopeful",
       "lucky",
+      "upbeat",
+      "supportive",
+      "upbeat",
       "comfortable",
       "comforted",
       "willing",
       "sure",
-      "numb",
-      "great",
-      "merry",
-      "nice",
-      "loving",
-      "loved",
-      "willing",
-      "scared",
       "nice",
       "hateful",
       "worried",
@@ -121,9 +117,13 @@
       "aching",
       "ached",
       "pained",
-      "upbeat",
-      "supportive",
-      "upbeat",
+      "great",
+      "merry",
+      "nice",
+      "loving",
+      "loved",
+      "willing",
+      "scared",
       "sure",
       "great",
       "kind",
@@ -159,134 +159,6 @@
   "NExperiencePosts": 106,
   "NPosts": 114,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 10,
-      "NTotal": 10,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 7,
-      "NTotal": 8,
-      "PAdvice": 0.125,
-      "PExperience": 0.875
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 3,
-      "NExperience": 22,
-      "NTotal": 25,
-      "PAdvice": 0.12,
-      "PExperience": 0.88
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 10,
-      "NTotal": 10,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 10,
-      "NTotal": 10,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 3,
-      "NTotal": 3,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 1,
-      "NTotal": 1,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "tking",
@@ -454,32 +326,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324253&p=9815",
-      "Content": " I think it's different for everyone and you'll have to see how things go.  I just began to have fewer and fewer periods until I had none at all.  Took me about\n 2 or maybe 3 years in all. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["periods"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "15/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324253",
-      "Title": "Ok, so here's a stupid question..."
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331512&p=9815",
-      "Content": " \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=319039&p=9815",
+      "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -494,10 +342,10 @@
           }
         }
       },
-      "MessageIndex": 8,
-      "PostDate": "26/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331512",
-      "Title": "short hair"
+      "MessageIndex": 4,
+      "PostDate": "07/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=319039",
+      "Title": "Femura?"
     },
     {
       "AuthorID": "tking",
@@ -525,7 +373,7 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=305985&p=9815",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=331512&p=9815",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -541,33 +389,34 @@
           }
         }
       },
-      "MessageIndex": 1,
-      "PostDate": "17/08/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=305985",
-      "Title": "kids and chemo"
+      "MessageIndex": 8,
+      "PostDate": "26/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=331512",
+      "Title": "short hair"
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=319039&p=9815",
-      "Content": " \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=324253&p=9815",
+      "Content": " I think it's different for everyone and you'll have to see how things go.  I just began to have fewer and fewer periods until I had none at all.  Took me about\n 2 or maybe 3 years in all. \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": ["periods"],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 4,
-      "PostDate": "07/09/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=319039",
-      "Title": "Femura?"
+      "MessageIndex": 9,
+      "PostDate": "15/09/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=324253",
+      "Title": "Ok, so here's a stupid question..."
     },
     {
       "AuthorID": "tking",
@@ -619,6 +468,29 @@
     },
     {
       "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=305985&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "17/08/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=305985",
+      "Title": "kids and chemo"
+    },
+    {
+      "AuthorID": "tking",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=300769&p=9815",
       "Content": " I had Taxotere.  I had to take cortesteroids to alleviate allergic reaction but still had trouble with swelling in feet and legs and a \"full\" feeling kind of breathless.  Sometimes worse than others. It's not a good feeling...  As to losing the hair, it's really traumatic but you do learn to deal with it.  Go ahead and cry - it's okay to be upset but remember you're going thru this to get better and it's been done before by others.  We have survived and you will too.  I cried and whined (have to tell the truth) about\n my hair but even my onc didn't know I had on a wig until I told him...You'll learn to put it in perspective when you can. \n \n \n \n ",
       "Demographics": {
@@ -640,36 +512,6 @@
       "PostDate": "09/08/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=300769",
       "Title": "Reaction to chemo..loss of breath??"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295398&p=9815",
-      "Content": " Well, we got in Sun am at 4:00.  Left on July 14 for State Championship - 15 year old sons team won!!!  It was so exciting.  Went to St. Augustine, FL for a week - so relaxing and peaceful.  Left on the 23rd of July for Seattle - got aboard the Diamond Princess and cruised to Alaska.  It was so nice!!! We did the Glacier Bay, Skagway, Ketchikan, Juneau, etc.  It was so nice being waited on hand and foot!!!  I did miss my 3 boys last week but my sisterinlaw kept them fed.  I go back to work tomorrow.  IT's THAT TIME AGAIN!!! SCHOOL!!!  Praying for a great year.  I saw that we have new members to the board and that Denise is out of pain now.  I never met Denise but I kept up with her reports thru the board.  I hate that we have had to have new members added to this board - hate bc but I'm glad that they found this board  and will have someone to help answer their questions and give support.  \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "July 14 for State Championship   15 year old sons team won",
-          "Relation": "unknown",
-          "Tense": "unknown",
-          "Value": 15
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "31/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295398",
-      "Title": "Back from Alaska"
     },
     {
       "AuthorID": "tking",
@@ -696,29 +538,6 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "20/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
-      "Title": "menapause and breast cancer"
-    },
-    {
-      "AuthorID": "tking",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295398&p=9815",
       "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
@@ -739,6 +558,29 @@
       "PostDate": "01/08/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295398",
       "Title": "Back from Alaska"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "20/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
+      "Title": "menapause and breast cancer"
     },
     {
       "AuthorID": "tking",
@@ -787,441 +629,6 @@
       "PostDate": "17/08/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=305418",
       "Title": "starting Tamoxifen"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=273038&p=9815",
-      "Content": " I will say that I wished that I had a bilateral mastectomy in 1996.  That wasn't that common in 96 though.  It surely would have saved me a lot of trouble last year when I had a recurrence on the other side.  I can say that I feel so much better without my old chest (it let me down).  If I had it to do over again, I would have tried my best to have a bilateral.  It's not worth the trouble having to think about\n it constantly. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 14,
-      "PostDate": "21/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=273038",
-      "Title": "Found another lump.....now what?"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267529&p=9815",
-      "Content": " That was really neat - I wish I had seen it last year when I was going thru my last episode with bc. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "10/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267529",
-      "Title": "This is Beautiful"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=274568&p=9815",
-      "Content": " I took Tamoxifen for 5 years and had no problems with drug interactions.  You can search on the web for sites that show drug interactions that you don't have to be a member of.  I'm on Femara now but I finally went to a diet doctor to find out what I could take.  She gave me a prescript\nion and then I checked the web also for drug interactions, told my onc.  I take Adipex - took Bontril first.  I've had no problems.  Good Luck.  Onc said to be careful before taking anything off the counter because some of the natural ingredients work like hormones and I was estrogen positive.  So you have to be careful. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["estrogen"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "24/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=274568",
-      "Title": "Any drug interactions with Tamoxifen?"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=255688&p=9815",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "17/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=255688",
-      "Title": "Just started rads with week"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259726&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259726",
-      "Title": "Finally starting rads"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=284224&p=9815",
-      "Content": " Well, we leave Thursday for the State Championship for our district in Georgia (school baseball team).  The tournament will be over on Sat, (if we're still in it by then) - then it's off to St. Augustine Beach, FL for a week.  Then, my husband and I meet my sister-in-law and her husband on Fri. July 22.  We leave on Sat. morning for Seattle, there we will embark for an Alaskan cruise on the Princess cruise line.  Yes, it's going to be a busy couple of weeks.  I've been trying to make sure we have clothes for all three events, and room to pack them all as we won't be home again until July 31th.  I'm sure that we will have a great time but trying to prepare for three completely different events is hair-raising!!!  But, just glad that I finally have hair to raise!!! HA HA  When, I return it's back to school on Monday.  Bummer!!! But glad that I am facing a new school year without chemo treatments this year!!!!\n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "12/07/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=284224",
-      "Title": "Gone for a couple of weeks!"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267604&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "12/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267604",
-      "Title": "Finally saw the doc...."
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=268544&p=9815",
-      "Content": " We now have another angel in heaven.  8 years ago, I met Gwen, she was 61 at the time and had just been diagnosed with bc.  She was very impressed with my curls (chemo curls) and was waiting to begin chemo.  She told her doc that she wanted to look just like me when she was finished. HA  Unfortunately, she began to feel bad a few months ago.  They kept doing tests and couldn't find an answer.  She was taken to ER this past week and was diagnosed with leukemia the night before she died.  Say a prayer for her DH and family as they have lost a very sweet wife, mother and grandmother!  \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 0.9,
-          "Phrase": "I met Gwen  she was 61 at the time and had",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 61
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "HealthProfessional": "doc",
-            "MainSubject": "doc",
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "12/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=268544",
-      "Title": "GWEN"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267673&p=9815",
-      "Content": " Yeah, it stinks doesn't it?  I've turned into a cancer hypochondriac... Every time, something new hurts (which isn't uncommon at 48) - I worry about\n cancer.  I even KNOW that I have arthritis in my knees and ankles and still when they hurt - which is which it rains or is very cold - I still think cancer first, arthritis second.  Oh well, think of it this way, other people could be walking around with cancer and not knowing about\n it - we are always being checked and staying on top of our situations.  Don't know if that's a good thing, always but there it is...... \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "hurts  which isn't uncommon at 48    I worry about\n cancer <Z>",
-          "Relation": "unknown",
-          "Tense": "past",
-          "Value": 48
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "10/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267673",
-      "Title": "PET Scan Results"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=266151&p=9815",
-      "Content": " I, too, had a reaction to Taxotere.  I ran a fever and my feet and legs were very swollen.  They counteracted by giving the Benadryl and doubled the courtesteroids that they give you before you take the Taxotere.  It meant more weight gain but I handled the Taxotere a lot better.  I hope she is feeling better soon. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 9,
-      "PostDate": "08/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=266151",
-      "Title": "Cathi was admitted again!"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=269193&p=9815",
-      "Content": " \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 5,
-      "PostDate": "14/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=269193",
-      "Title": "Snufflesmom"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=263304&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "06/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=263304",
-      "Title": "Got the dreaded Tamoxifen prescription today"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267554&p=9815",
-      "Content": " Will be praying on the 15th for GOOD NEWS!  While I have had bc twice, my s-i-l has been called in twice after her annual mammos and there was nothing wrong.  But, it's good that they actually were diligent when they saw something unusual.  Unfortunately, they read my mammo as normal in Jan. 2004 and then blood work in Feb. 2004 showed elevated tumor markers which eventually led to tests that confirmed recurrence.  Don't worry, too much, until you have something to worry about\n.  It's hard to do, I'm a die-hard worrier but it doesn't change the outcome or make things any better so enjoy each day and then after the test - hopefully, you can go out and celebrate the GOOD NEWS!!!  LET US KNOW!!! \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "12/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267554",
-      "Title": "Bad Mammo-Scared w/ ?'s"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=260568&p=9815",
-      "Content": " Tell your family.  Everything that happens to us isn't cancer.....remember that!!!  I know the fear that living with having had cancer is like but stress can do so much and mimic many diseases.  Your family would want to know, trust me.  Also, if you go have it checked out now and nothing is wrong - imagine how good you will feel.  If something by chance is going on, it can be treated IF you let someone know and do what you can do to find out what's going on. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=260568",
-      "Title": "Advice... worried."
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=268067&p=9815",
-      "Content": " I am so glad that your PET scan results were normal!  It feels great to be called \"normal\" doesn't it?  As for the other, keep in touch with you gyn.  The change in my periods began after chemo and then finished completely with the Tamoxifen.  I don't remember if you had chemo or not but all that medicine that we have to take can bring on a change in periods, according to my onc and gyn.  Thankfully, I had few problems and now have no period which is great.  ( I used to have major cramps, etc.)  I'm like you, I'd wait until the kids were back in school before doing anything.  Enjoy your summer as best as you can.  Let the other wait, if you can. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["periods"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "12/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=268067",
-      "Title": "Bone Scan Results"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=273381&p=9815",
-      "Content": " What you are feeling is perfectly normal.  I just finished a little over a year of surgeries, chemo, etc.  I had my checkup on Tuesday and was called on Thursday or Friday that blood work and tumor markers were normal.  I immediately went into a funk.  I was so depressed all weekend.  I feel better today and don't go back for 3 more months.  But I thought about\n it - for the past year I've been doing everything the onc knows to get me well.  Now all that is over and it's just the Femara and 3 month check ups.  It's kinda scary like now I'm not doing anything to stay well. Also, I think you're so busy coping that when it's all over, it finally REALLY hits you that you've had cancer.  I thought I had dealt with it before but I was focused on the surgery, chemo and then reconstruction.  Now that's all behind me and I can be kinda normal and it scared me...Don't be hard on yourself, bc is not fun and it's okay to have some bad days.  Just don't let it take all the fun out of your life.  I've decided I can be pretty scary too - WATCH OUT CANCER!!!!!  ha ha  \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "21/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=273381",
-      "Title": "Feeling depressed......"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267814&p=9815",
-      "Content": " I, too, am dubious about\n the Health News.  Remember when aspirin lowered your risk of bc?  Well, I could have told them that was false.  I've taken Goody's forever (bad for your stomach, I know) and I had bc twice.  I've also taken a lot of ibuprofen.  Still had bc.  I guess maybe they really \"don't know\" how to prevent it.  \n    Just wish they would keep there little theories to themselves until proven....but oh well.\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "12/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267814",
-      "Title": "Acid Reflux..the latest"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272340&p=9815",
-      "Content": " \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "21/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272340",
-      "Title": "Well meaning family and friends????"
     },
     {
       "AuthorID": "tking",
@@ -1296,6 +703,655 @@
     },
     {
       "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267673&p=9815",
+      "Content": " Yeah, it stinks doesn't it?  I've turned into a cancer hypochondriac... Every time, something new hurts (which isn't uncommon at 48) - I worry about\n cancer.  I even KNOW that I have arthritis in my knees and ankles and still when they hurt - which is which it rains or is very cold - I still think cancer first, arthritis second.  Oh well, think of it this way, other people could be walking around with cancer and not knowing about\n it - we are always being checked and staying on top of our situations.  Don't know if that's a good thing, always but there it is...... \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "hurts  which isn't uncommon at 48    I worry about\n cancer <Z>",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 48
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "10/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267673",
+      "Title": "PET Scan Results"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=274568&p=9815",
+      "Content": " I took Tamoxifen for 5 years and had no problems with drug interactions.  You can search on the web for sites that show drug interactions that you don't have to be a member of.  I'm on Femara now but I finally went to a diet doctor to find out what I could take.  She gave me a prescript\nion and then I checked the web also for drug interactions, told my onc.  I take Adipex - took Bontril first.  I've had no problems.  Good Luck.  Onc said to be careful before taking anything off the counter because some of the natural ingredients work like hormones and I was estrogen positive.  So you have to be careful. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["estrogen"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "24/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=274568",
+      "Title": "Any drug interactions with Tamoxifen?"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=255688&p=9815",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "17/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=255688",
+      "Title": "Just started rads with week"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272340&p=9815",
+      "Content": " \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "21/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272340",
+      "Title": "Well meaning family and friends????"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=295398&p=9815",
+      "Content": " Well, we got in Sun am at 4:00.  Left on July 14 for State Championship - 15 year old sons team won!!!  It was so exciting.  Went to St. Augustine, FL for a week - so relaxing and peaceful.  Left on the 23rd of July for Seattle - got aboard the Diamond Princess and cruised to Alaska.  It was so nice!!! We did the Glacier Bay, Skagway, Ketchikan, Juneau, etc.  It was so nice being waited on hand and foot!!!  I did miss my 3 boys last week but my sisterinlaw kept them fed.  I go back to work tomorrow.  IT's THAT TIME AGAIN!!! SCHOOL!!!  Praying for a great year.  I saw that we have new members to the board and that Denise is out of pain now.  I never met Denise but I kept up with her reports thru the board.  I hate that we have had to have new members added to this board - hate bc but I'm glad that they found this board  and will have someone to help answer their questions and give support.  \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "July 14 for State Championship   15 year old sons team won",
+          "Relation": "unknown",
+          "Tense": "unknown",
+          "Value": 15
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=295398",
+      "Title": "Back from Alaska"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=268067&p=9815",
+      "Content": " I am so glad that your PET scan results were normal!  It feels great to be called \"normal\" doesn't it?  As for the other, keep in touch with you gyn.  The change in my periods began after chemo and then finished completely with the Tamoxifen.  I don't remember if you had chemo or not but all that medicine that we have to take can bring on a change in periods, according to my onc and gyn.  Thankfully, I had few problems and now have no period which is great.  ( I used to have major cramps, etc.)  I'm like you, I'd wait until the kids were back in school before doing anything.  Enjoy your summer as best as you can.  Let the other wait, if you can. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["periods"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "12/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=268067",
+      "Title": "Bone Scan Results"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267814&p=9815",
+      "Content": " I, too, am dubious about\n the Health News.  Remember when aspirin lowered your risk of bc?  Well, I could have told them that was false.  I've taken Goody's forever (bad for your stomach, I know) and I had bc twice.  I've also taken a lot of ibuprofen.  Still had bc.  I guess maybe they really \"don't know\" how to prevent it.  \n    Just wish they would keep there little theories to themselves until proven....but oh well.\n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "12/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267814",
+      "Title": "Acid Reflux..the latest"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259726&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259726",
+      "Title": "Finally starting rads"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259041&p=9815",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259041",
+      "Title": "Chemo Cocktail"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259298&p=9815",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259298",
+      "Title": "Last Radiation Treatment Today!!"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=273038&p=9815",
+      "Content": " I will say that I wished that I had a bilateral mastectomy in 1996.  That wasn't that common in 96 though.  It surely would have saved me a lot of trouble last year when I had a recurrence on the other side.  I can say that I feel so much better without my old chest (it let me down).  If I had it to do over again, I would have tried my best to have a bilateral.  It's not worth the trouble having to think about\n it constantly. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "21/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=273038",
+      "Title": "Found another lump.....now what?"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267554&p=9815",
+      "Content": " Will be praying on the 15th for GOOD NEWS!  While I have had bc twice, my s-i-l has been called in twice after her annual mammos and there was nothing wrong.  But, it's good that they actually were diligent when they saw something unusual.  Unfortunately, they read my mammo as normal in Jan. 2004 and then blood work in Feb. 2004 showed elevated tumor markers which eventually led to tests that confirmed recurrence.  Don't worry, too much, until you have something to worry about\n.  It's hard to do, I'm a die-hard worrier but it doesn't change the outcome or make things any better so enjoy each day and then after the test - hopefully, you can go out and celebrate the GOOD NEWS!!!  LET US KNOW!!! \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "12/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267554",
+      "Title": "Bad Mammo-Scared w/ ?'s"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=269193&p=9815",
+      "Content": " \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 5,
+      "PostDate": "14/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=269193",
+      "Title": "Snufflesmom"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267604&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "12/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267604",
+      "Title": "Finally saw the doc...."
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=268544&p=9815",
+      "Content": " We now have another angel in heaven.  8 years ago, I met Gwen, she was 61 at the time and had just been diagnosed with bc.  She was very impressed with my curls (chemo curls) and was waiting to begin chemo.  She told her doc that she wanted to look just like me when she was finished. HA  Unfortunately, she began to feel bad a few months ago.  They kept doing tests and couldn't find an answer.  She was taken to ER this past week and was diagnosed with leukemia the night before she died.  Say a prayer for her DH and family as they have lost a very sweet wife, mother and grandmother!  \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 0.9,
+          "Phrase": "I met Gwen  she was 61 at the time and had",
+          "Relation": "unknown",
+          "Tense": "past",
+          "Value": 61
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "HealthProfessional": "doc",
+            "MainSubject": "doc",
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=268544",
+      "Title": "GWEN"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=273381&p=9815",
+      "Content": " What you are feeling is perfectly normal.  I just finished a little over a year of surgeries, chemo, etc.  I had my checkup on Tuesday and was called on Thursday or Friday that blood work and tumor markers were normal.  I immediately went into a funk.  I was so depressed all weekend.  I feel better today and don't go back for 3 more months.  But I thought about\n it - for the past year I've been doing everything the onc knows to get me well.  Now all that is over and it's just the Femara and 3 month check ups.  It's kinda scary like now I'm not doing anything to stay well. Also, I think you're so busy coping that when it's all over, it finally REALLY hits you that you've had cancer.  I thought I had dealt with it before but I was focused on the surgery, chemo and then reconstruction.  Now that's all behind me and I can be kinda normal and it scared me...Don't be hard on yourself, bc is not fun and it's okay to have some bad days.  Just don't let it take all the fun out of your life.  I've decided I can be pretty scary too - WATCH OUT CANCER!!!!!  ha ha  \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "21/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=273381",
+      "Title": "Feeling depressed......"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=284224&p=9815",
+      "Content": " Well, we leave Thursday for the State Championship for our district in Georgia (school baseball team).  The tournament will be over on Sat, (if we're still in it by then) - then it's off to St. Augustine Beach, FL for a week.  Then, my husband and I meet my sister-in-law and her husband on Fri. July 22.  We leave on Sat. morning for Seattle, there we will embark for an Alaskan cruise on the Princess cruise line.  Yes, it's going to be a busy couple of weeks.  I've been trying to make sure we have clothes for all three events, and room to pack them all as we won't be home again until July 31th.  I'm sure that we will have a great time but trying to prepare for three completely different events is hair-raising!!!  But, just glad that I finally have hair to raise!!! HA HA  When, I return it's back to school on Monday.  Bummer!!! But glad that I am facing a new school year without chemo treatments this year!!!!\n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "12/07/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=284224",
+      "Title": "Gone for a couple of weeks!"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=267529&p=9815",
+      "Content": " That was really neat - I wish I had seen it last year when I was going thru my last episode with bc. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "10/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=267529",
+      "Title": "This is Beautiful"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=260438&p=9815",
+      "Content": " Well, I had my last reconstruction surgery last Monday.  It went very well.  I am pleased with the results!  I have stitches taken out on Wed.  Had drain tube removed last Thursday.  So far, I am very happy with the surgery.  I am a bit smaller than I was B.C. which is a good thing.  I feel much better with a smaller chest and am on a diet have lost 13 pounds so waist is looking better.  I have my next onc visit on 6/14 so send up prayers.  I don't expect any bad news just a regular checkup but then  I never expected to have cancer once, much less twice....\n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=260438",
+      "Title": "Reconstruction"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "20/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
+      "Title": "menapause and breast cancer"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272340&p=9815",
+      "Content": " \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "19/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272340",
+      "Title": "Well meaning family and friends????"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=266151&p=9815",
+      "Content": " I, too, had a reaction to Taxotere.  I ran a fever and my feet and legs were very swollen.  They counteracted by giving the Benadryl and doubled the courtesteroids that they give you before you take the Taxotere.  It meant more weight gain but I handled the Taxotere a lot better.  I hope she is feeling better soon. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 9,
+      "PostDate": "08/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=266151",
+      "Title": "Cathi was admitted again!"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=9815",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 16,
+      "PostDate": "21/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
+      "Title": "menapause and breast cancer"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=260568&p=9815",
+      "Content": " Tell your family.  Everything that happens to us isn't cancer.....remember that!!!  I know the fear that living with having had cancer is like but stress can do so much and mimic many diseases.  Your family would want to know, trust me.  Also, if you go have it checked out now and nothing is wrong - imagine how good you will feel.  If something by chance is going on, it can be treated IF you let someone know and do what you can do to find out what's going on. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=260568",
+      "Title": "Advice... worried."
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259149&p=9815",
+      "Content": " So sorry to hear that you didn't get great news but like everyone has said - treatable is good.  Your doctor is obviously on top of this and hopeful for another remission.  I will be praying for you daily - keep us updated. \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259149",
+      "Title": "CT Scan Results"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259115&p=9815",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "30/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259115",
+      "Title": "Viagra/Cialis"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=263304&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 7,
+      "PostDate": "06/06/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=263304",
+      "Title": "Got the dreaded Tamoxifen prescription today"
+    },
+    {
+      "AuthorID": "tking",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=266339&p=9815",
       "Content": " Great News!!!  I hope that little tumor marker stays low for you!!! \n \n \n \n ",
       "Demographics": {
@@ -1320,8 +1376,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259115&p=9815",
-      "Content": " \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=251916&p=9815",
+      "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1336,10 +1392,10 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259115",
-      "Title": "Viagra/Cialis"
+      "MessageIndex": 7,
+      "PostDate": "16/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=251916",
+      "Title": "Your Experience with Chemo"
     },
     {
       "AuthorID": "tking",
@@ -1391,283 +1447,6 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "20/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
-      "Title": "menapause and breast cancer"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272340&p=9815",
-      "Content": " \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "19/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272340",
-      "Title": "Well meaning family and friends????"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=272916&p=9815",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 16,
-      "PostDate": "21/06/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=272916",
-      "Title": "menapause and breast cancer"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259041&p=9815",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259041",
-      "Title": "Chemo Cocktail"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259149&p=9815",
-      "Content": " So sorry to hear that you didn't get great news but like everyone has said - treatable is good.  Your doctor is obviously on top of this and hopeful for another remission.  I will be praying for you daily - keep us updated. \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259149",
-      "Title": "CT Scan Results"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=259298&p=9815",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=259298",
-      "Title": "Last Radiation Treatment Today!!"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=241647&p=9815",
-      "Content": " Don't know what drugs you are on but I had my chemo on Mon. or Tues.'s and by Thursday - I always was running a temp and felt like I had the flu - multiple aches and pains - and extremely worn out.  The first treatment was the worst - I seemed to get over it quicker with most of the others.  Maybe that will help, maybe not.  Always tell you onc! \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "28/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=241647",
-      "Title": "Prayers please"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=240525&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "26/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=240525",
-      "Title": "Tumor Markers-what levels are normal and is this reliable"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=251916&p=9815",
-      "Content": " \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 7,
-      "PostDate": "16/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=251916",
-      "Title": "Your Experience with Chemo"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=260438&p=9815",
-      "Content": " Well, I had my last reconstruction surgery last Monday.  It went very well.  I am pleased with the results!  I have stitches taken out on Wed.  Had drain tube removed last Thursday.  So far, I am very happy with the surgery.  I am a bit smaller than I was B.C. which is a good thing.  I feel much better with a smaller chest and am on a diet have lost 13 pounds so waist is looking better.  I have my next onc visit on 6/14 so send up prayers.  I don't expect any bad news just a regular checkup but then  I never expected to have cancer once, much less twice....\n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "30/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=260438",
-      "Title": "Reconstruction"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=241504&p=9815",
-      "Content": " Will be praying!!!!!  Good luck!!! \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "28/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=241504",
-      "Title": "Asking for some hand holding from the PCE"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=248483&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "10/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=248483",
-      "Title": "DRAINS - how to deal with THEM!!!!"
-    },
-    {
-      "AuthorID": "tking",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=240968&p=9815",
       "Content": " I took Tamoxifen for 5 years.  I had a period off and on for a couple of years but since then - not a one in years.  I think I was around 40 when I started taking it.  NO period is NOT bad news! \n \n \n \n ",
       "Demographics": {
@@ -1698,7 +1477,7 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=245251&p=9815",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=240525&p=9815",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -1715,9 +1494,56 @@
         }
       },
       "MessageIndex": 4,
-      "PostDate": "04/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=245251",
-      "Title": "dose dense chemo"
+      "PostDate": "26/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=240525",
+      "Title": "Tumor Markers-what levels are normal and is this reliable"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=238435&p=9815",
+      "Content": " The best place I found for wigs was \n.  I had two wigs from their - even my onc thought it was my hair!\n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 8,
+      "PostDate": "22/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=238435",
+      "Title": "Wigs"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=248483&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "10/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=248483",
+      "Title": "DRAINS - how to deal with THEM!!!!"
     },
     {
       "AuthorID": "tking",
@@ -1745,8 +1571,32 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=220650&p=9815",
-      "Content": " \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=241647&p=9815",
+      "Content": " Don't know what drugs you are on but I had my chemo on Mon. or Tues.'s and by Thursday - I always was running a temp and felt like I had the flu - multiple aches and pains - and extremely worn out.  The first treatment was the worst - I seemed to get over it quicker with most of the others.  Maybe that will help, maybe not.  Always tell you onc! \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "28/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=241647",
+      "Title": "Prayers please"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=245251&p=9815",
+      "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1761,10 +1611,79 @@
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "28/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=220650",
-      "Title": "Hair is falling out..........."
+      "MessageIndex": 4,
+      "PostDate": "04/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=245251",
+      "Title": "dose dense chemo"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=240143&p=9815",
+      "Content": " \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "26/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=240143",
+      "Title": "sore mouth"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=241504&p=9815",
+      "Content": " Will be praying!!!!!  Good luck!!! \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 10,
+      "PostDate": "28/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=241504",
+      "Title": "Asking for some hand holding from the PCE"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=238435&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "24/04/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=238435",
+      "Title": "Wigs"
     },
     {
       "AuthorID": "tking",
@@ -1792,30 +1711,7 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=240143&p=9815",
-      "Content": " \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "26/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=240143",
-      "Title": "sore mouth"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=238435&p=9815",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=9815",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -1831,15 +1727,15 @@
           }
         }
       },
-      "MessageIndex": 13,
-      "PostDate": "24/04/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=238435",
-      "Title": "Wigs"
+      "MessageIndex": 10,
+      "PostDate": "24/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218707",
+      "Title": "new here with questions"
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=238435&p=9815",
-      "Content": " The best place I found for wigs was \n.  I had two wigs from their - even my onc thought it was my hair!\n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=213819&p=9815",
+      "Content": " Will keep you and your family in our prayers.  And yes, we all do a lot of worrying don't we?  I guess you finally get used to it.  I find myself worrying about little things - like walk a couple of miles and then wonder why my legs are sore?!?  You do have better days though.  There are some days now that I don't worry about anything at all (healthwise) and others when the least little thing makes me want to scream!!!!  That could mean I'm a female over 40 though and have nothing to do with BC. HA  Oh well, whatever, it is good to be alive!!!!!!!!!!!!! \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -1850,15 +1746,38 @@
           "NounBasedGender": {
             "MainSubject": "I",
             "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "24/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=213819",
+      "Title": "need some help,please"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=220650&p=9815",
+      "Content": " \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 8,
-      "PostDate": "06/10/2017",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=238435",
-      "Title": "Wigs"
+      "MessageIndex": 3,
+      "PostDate": "28/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=220650",
+      "Title": "Hair is falling out..........."
     },
     {
       "AuthorID": "tking",
@@ -1882,29 +1801,6 @@
       "PostDate": "28/03/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=220650",
       "Title": "Hair is falling out..........."
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=218707&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 10,
-      "PostDate": "24/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=218707",
-      "Title": "new here with questions"
     },
     {
       "AuthorID": "tking",
@@ -1957,30 +1853,6 @@
       "PostDate": "28/03/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=220807",
       "Title": "Atypical Lobular Hyperplasia"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=213819&p=9815",
-      "Content": " Will keep you and your family in our prayers.  And yes, we all do a lot of worrying don't we?  I guess you finally get used to it.  I find myself worrying about little things - like walk a couple of miles and then wonder why my legs are sore?!?  You do have better days though.  There are some days now that I don't worry about anything at all (healthwise) and others when the least little thing makes me want to scream!!!!  That could mean I'm a female over 40 though and have nothing to do with BC. HA  Oh well, whatever, it is good to be alive!!!!!!!!!!!!! \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "24/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=213819",
-      "Title": "need some help,please"
     },
     {
       "AuthorID": "tking",
@@ -2082,8 +1954,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=183559&p=9815",
-      "Content": "  Has anyone out there that did the reconstruction ever had trouble with itching?  I remember having some problems the first time but it might be under my arm or somewhere else.  Today, one of the twins has gone thru spells of itching like crazy.  Scratching doesn't help!!!!  I see plastic surgeon again on Wed. for another expansion and I guess I'll see what he has to say.  But, if anyone on here has any advice - please, please, please let me know.  \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=182096&p=9815",
+      "Content": " \n \n \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2092,41 +1964,16 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
+            "NarrationType": "unknown",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "14/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=183559",
-      "Title": "Twins"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179482&p=9815",
-      "Content": " Just wanted to say the \"twins\" were born on Wednesday.  Surgery went well but two different nurses gave me meperghan? and that's not a good thing.  I was being walked around, given Narcon and other meds to wake me up.  Can you believe it?  OH well, the twins weren't affected and I predict I will be very satisfied with them.  It will be a while before I have a nice size chest and more hair but that day is coming.  I told my friends that I foresee a lowcut shirt in the future.  She suggested a nice diamond to lay in just the right place.  HA!  Of couse, after all my medical bills, a diamond is out of the question, but cubic zirconia sounds okay.   Oh well, one day at a time...glad for each day. Hope this proves to be a good New Year for all of you!!!  I know the disase is always on  our mind but we are SURVIVORS!!!!!!!!!!!!!!!\n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "03/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179482",
-      "Title": "TWINS"
+      "MessageIndex": 12,
+      "PostDate": "13/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=182096",
+      "Title": "Tests all done, now I wait...."
     },
     {
       "AuthorID": "tking",
@@ -2154,8 +2001,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=182506&p=9815",
-      "Content": " \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=183559&p=9815",
+      "Content": "  Has anyone out there that did the reconstruction ever had trouble with itching?  I remember having some problems the first time but it might be under my arm or somewhere else.  Today, one of the twins has gone thru spells of itching like crazy.  Scratching doesn't help!!!!  I see plastic surgeon again on Wed. for another expansion and I guess I'll see what he has to say.  But, if anyone on here has any advice - please, please, please let me know.  \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2164,83 +2011,17 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 13,
-      "PostDate": "13/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=182506",
-      "Title": "More good news!"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=182096&p=9815",
-      "Content": " \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "13/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=182096",
-      "Title": "Tests all done, now I wait...."
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=191185&p=9815",
-      "Content": " Can't dance very well but I'm jumping up and down for you!!!!!  Don't you love the B-9 word?!?!?!! \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 11,
-      "PostDate": "02/02/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=191185",
-      "Title": "Results are IN!"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179482&p=9815",
-      "Content": " Twins are still doing well.  They still make me ache a little but oh well, so do my three sons at times. HA Ha  Will keep you posted on their development!\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 3,
-      "PostDate": "10/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179482",
-      "Title": "TWINS"
+      "MessageIndex": 0,
+      "PostDate": "14/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=183559",
+      "Title": "Twins"
     },
     {
       "AuthorID": "tking",
@@ -2267,7 +2048,30 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=180971&p=9815",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=182043&p=9815",
+      "Content": " \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 15,
+      "PostDate": "13/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=182043",
+      "Title": "Paper's done"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=175630&p=9815",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -2283,10 +2087,10 @@
           }
         }
       },
-      "MessageIndex": 2,
-      "PostDate": "10/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=180971",
-      "Title": "thanks & surgery happy drs?"
+      "MessageIndex": 5,
+      "PostDate": "19/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=175630",
+      "Title": "Yoohoo! for benign results!!!"
     },
     {
       "AuthorID": "tking",
@@ -2307,7 +2111,7 @@
         }
       },
       "MessageIndex": 3,
-      "PostDate": "02/02/2005",
+      "PostDate": "03/02/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=191274",
       "Title": "Anyone on Doxil?"
     },
@@ -2337,6 +2141,76 @@
     },
     {
       "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=178229&p=9815",
+      "Content": " To Port or not to Port - that is the question.  I have had cancer twice.  First time, no port.  Second time - port.  I have to say that the port has been a life saver for ME.  My veins aren't much good and it makes things a lot easier, but you should go with your heart.  I didn't want a port but am so thankful for it now.  My surgeon also says it can be taken out in the office now with a medication to numb the area.  I think I'll keep it a while longer.\n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 12,
+      "PostDate": "03/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=178229",
+      "Title": "tests and surgery"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=191185&p=9815",
+      "Content": " Can't dance very well but I'm jumping up and down for you!!!!!  Don't you love the B-9 word?!?!?!! \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "02/02/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=191185",
+      "Title": "Results are IN!"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179482&p=9815",
+      "Content": " Just wanted to say the \"twins\" were born on Wednesday.  Surgery went well but two different nurses gave me meperghan? and that's not a good thing.  I was being walked around, given Narcon and other meds to wake me up.  Can you believe it?  OH well, the twins weren't affected and I predict I will be very satisfied with them.  It will be a while before I have a nice size chest and more hair but that day is coming.  I told my friends that I foresee a lowcut shirt in the future.  She suggested a nice diamond to lay in just the right place.  HA!  Of couse, after all my medical bills, a diamond is out of the question, but cubic zirconia sounds okay.   Oh well, one day at a time...glad for each day. Hope this proves to be a good New Year for all of you!!!  I know the disase is always on  our mind but we are SURVIVORS!!!!!!!!!!!!!!!\n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "03/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179482",
+      "Title": "TWINS"
+    },
+    {
+      "AuthorID": "tking",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179809&p=9815",
       "Content": " Wait for the doctor's report.  Yes, it is hard but every cyst is Not cancer and You Can be one of the lucky ones.  Try to keep a positive attitude and Expect the Best!!!!!! \n \n \n \n ",
       "Demographics": {
@@ -2359,6 +2233,29 @@
       "PostDate": "04/01/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179809",
       "Title": "Cysts / Painful breasts"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=182506&p=9815",
+      "Content": " \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "13/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=182506",
+      "Title": "More good news!"
     },
     {
       "AuthorID": "tking",
@@ -2385,7 +2282,29 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=175630&p=9815",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179482&p=9815",
+      "Content": " Twins are still doing well.  They still make me ache a little but oh well, so do my three sons at times. HA Ha  Will keep you posted on their development!\n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "10/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179482",
+      "Title": "TWINS"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=180971&p=9815",
       "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
@@ -2401,15 +2320,15 @@
           }
         }
       },
-      "MessageIndex": 5,
-      "PostDate": "19/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=175630",
-      "Title": "Yoohoo! for benign results!!!"
+      "MessageIndex": 2,
+      "PostDate": "10/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=180971",
+      "Title": "thanks & surgery happy drs?"
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=182043&p=9815",
-      "Content": " \n \n \n \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=172453&p=9815",
+      "Content": " One thing that I really appreciated was POSITIVE support.  I had some very good friends who were NEVER negative about my illness and were very upbeat about my ability to get thru it.  Of course, there were some who would act like I was dying, even though I had a good pathology report.  They would be so sad and depressed.  I had one friend who always wanted to come \"sit\" with me....I was always on my way to my youngest son's baseball game!  I told my DH that I wasn't in hospice - I was going to LIVE and enjoy my time here!!!  BTW, his team won the State Championship for their division this summer!!!!!!!! and I didn't miss a game!  Treat her like she is NORMAL and is going to get thru it.  Also, one of my favorite gifts was a gift certificate for a manicure and a pedicure...pamper, pamper, pamper!!!!!! \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2418,16 +2337,41 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "NarrationType": "unknown",
+            "MainSubject": "I",
+            "NarrationType": "first-person",
             "NarratorGender": "unknown",
             "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 15,
-      "PostDate": "13/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=182043",
-      "Title": "Paper's done"
+      "MessageIndex": 6,
+      "PostDate": "06/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=172453",
+      "Title": "my friend just found out"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=178229&p=9815",
+      "Content": " Guess I was a little late with my response.  Sorry, I've been busy having \"twins\"!  Starting to feel better and can't wait to see the final result! \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "03/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=178229",
+      "Title": "tests and surgery"
     },
     {
       "AuthorID": "tking",
@@ -2501,30 +2445,6 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=178229&p=9815",
-      "Content": " To Port or not to Port - that is the question.  I have had cancer twice.  First time, no port.  Second time - port.  I have to say that the port has been a life saver for ME.  My veins aren't much good and it makes things a lot easier, but you should go with your heart.  I didn't want a port but am so thankful for it now.  My surgeon also says it can be taken out in the office now with a medication to numb the area.  I think I'll keep it a while longer.\n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 12,
-      "PostDate": "03/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=178229",
-      "Title": "tests and surgery"
-    },
-    {
-      "AuthorID": "tking",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=181530&p=9815",
       "Content": " \n \n \n \n \n \n \n ",
       "Demographics": {
@@ -2545,100 +2465,6 @@
       "PostDate": "10/01/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=181530",
       "Title": "good news"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169300&p=9815",
-      "Content": " \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "23/11/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169300",
-      "Title": "Emotional response to bi-lateral mastectomies"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=177379&p=9815",
-      "Content": " Sorry, I haven't posted much.  Christmas is wild around here with my three sons!!! I'm loving every minute of it.  Funny how the big C makes you appreciate each and every moment with yout family!!! (It's almost worth it - but not quite - know what I mean?)  I had to have a colonoscopy on Tuesday.  It scared the crap (literally, sorry) out of me but my reports were GREAT!!!!!!  I was so relieved!  I begin my reconstruction on Wed. in Jacksonville.  I really can't wait!  Told my mom that I was having \"twins\" on Wednesday!!!  HA HA  It will be nice to feel halfway normal.  Although, normal is never a word I'll use about myself again.  Survivor, warrior, etc....but normal?  I don't think so!!!\n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "25/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=177379",
-      "Title": "Merry Christmas!!!"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179482&p=9815",
-      "Content": " \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "04/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179482",
-      "Title": "TWINS"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=178229&p=9815",
-      "Content": " Guess I was a little late with my response.  Sorry, I've been busy having \"twins\"!  Starting to feel better and can't wait to see the final result! \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "03/01/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=178229",
-      "Title": "tests and surgery"
     },
     {
       "AuthorID": "tking",
@@ -2666,8 +2492,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=172453&p=9815",
-      "Content": " One thing that I really appreciated was POSITIVE support.  I had some very good friends who were NEVER negative about my illness and were very upbeat about my ability to get thru it.  Of course, there were some who would act like I was dying, even though I had a good pathology report.  They would be so sad and depressed.  I had one friend who always wanted to come \"sit\" with me....I was always on my way to my youngest son's baseball game!  I told my DH that I wasn't in hospice - I was going to LIVE and enjoy my time here!!!  BTW, his team won the State Championship for their division this summer!!!!!!!! and I didn't miss a game!  Treat her like she is NORMAL and is going to get thru it.  Also, one of my favorite gifts was a gift certificate for a manicure and a pedicure...pamper, pamper, pamper!!!!!! \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=177379&p=9815",
+      "Content": " Sorry, I haven't posted much.  Christmas is wild around here with my three sons!!! I'm loving every minute of it.  Funny how the big C makes you appreciate each and every moment with yout family!!! (It's almost worth it - but not quite - know what I mean?)  I had to have a colonoscopy on Tuesday.  It scared the crap (literally, sorry) out of me but my reports were GREAT!!!!!!  I was so relieved!  I begin my reconstruction on Wed. in Jacksonville.  I really can't wait!  Told my mom that I was having \"twins\" on Wednesday!!!  HA HA  It will be nice to feel halfway normal.  Although, normal is never a word I'll use about myself again.  Survivor, warrior, etc....but normal?  I don't think so!!!\n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2683,33 +2509,10 @@
           }
         }
       },
-      "MessageIndex": 6,
-      "PostDate": "06/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=172453",
-      "Title": "my friend just found out"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=167874&p=9815",
-      "Content": " \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "23/11/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=167874",
-      "Title": "Chemo starting"
+      "MessageIndex": 0,
+      "PostDate": "25/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=177379",
+      "Title": "Merry Christmas!!!"
     },
     {
       "AuthorID": "tking",
@@ -2736,8 +2539,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169300&p=9815",
-      "Content": " \n \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=179482&p=9815",
+      "Content": " \n \n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2752,10 +2555,33 @@
           }
         }
       },
-      "MessageIndex": 14,
-      "PostDate": "23/11/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169300",
-      "Title": "Emotional response to bi-lateral mastectomies"
+      "MessageIndex": 2,
+      "PostDate": "04/01/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=179482",
+      "Title": "TWINS"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=172104&p=9815",
+      "Content": " \n \n \n \n \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 4,
+      "PostDate": "05/12/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=172104",
+      "Title": "side effects of tamoxifen"
     },
     {
       "AuthorID": "tking",
@@ -2783,8 +2609,8 @@
     },
     {
       "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160063&p=9815",
-      "Content": " \n \n \n ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=167874&p=9815",
+      "Content": " \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -2799,33 +2625,10 @@
           }
         }
       },
-      "MessageIndex": 3,
-      "PostDate": "22/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160063",
-      "Title": "Tamoxifen question"
-    },
-    {
-      "AuthorID": "tking",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=172104&p=9815",
-      "Content": " \n \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 4,
-      "PostDate": "05/12/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=172104",
-      "Title": "side effects of tamoxifen"
+      "MessageIndex": 6,
+      "PostDate": "23/11/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=167874",
+      "Title": "Chemo starting"
     },
     {
       "AuthorID": "tking",
@@ -2876,6 +2679,75 @@
       "PostDate": "30/11/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=170639",
       "Title": "new to message board, need to vent............."
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169300&p=9815",
+      "Content": " \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "23/11/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169300",
+      "Title": "Emotional response to bi-lateral mastectomies"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=160063&p=9815",
+      "Content": " \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 3,
+      "PostDate": "22/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=160063",
+      "Title": "Tamoxifen question"
+    },
+    {
+      "AuthorID": "tking",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=169300&p=9815",
+      "Content": " \n \n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "NarrationType": "unknown",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 14,
+      "PostDate": "23/11/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=169300",
+      "Title": "Emotional response to bi-lateral mastectomies"
     },
     {
       "AuthorID": "tking",
@@ -3018,6 +2890,11 @@
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -3058,32 +2935,24 @@
   },
   "TreatmentTimelineInfo": {
     "-1 Month Emotions": {
-      "EmotionKeywords": [
-        "willing",
-        "pained",
-        "aching",
-        "ached",
-        "pained",
-        "willing",
-        "bad"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0.1",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0.3",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0.2",
-        "SAD": "0.1",
-        "STRONG": "0"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-1 Month SideEffects": {
@@ -3091,39 +2960,29 @@
       "SideEffectTypeKeywords": []
     },
     "-2 Month Emotions": {
-      "EmotionKeywords": [
-        "willing",
-        "easy",
-        "willing",
-        "wonderful",
-        "willing",
-        "sore",
-        "worried",
-        "sure",
-        "bad"
-      ],
+      "EmotionKeywords": [],
       "Emotions": {
-        "AFRAID": "0.125",
-        "ALIVE": "0.125",
-        "ANGRY": "0.125",
-        "CONFUSED": "0",
-        "DEPRESSED": "0.125",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0.125",
-        "POSITIVE": "0.375",
-        "SAD": "0",
-        "STRONG": "0.125"
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
       }
     },
     "-2 Month SideEffects": {
-      "SideEffectType": ["Hernia"],
-      "SideEffectTypeKeywords": ["lump"]
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
     },
     "-3 Month Emotions": {
       "EmotionKeywords": [],
@@ -3151,24 +3010,43 @@
       "SideEffectTypeKeywords": []
     },
     "10th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "great",
+        "glad",
+        "touched",
+        "cramped",
+        "bad",
+        "willing",
+        "worried",
+        "wronged",
+        "impressed",
+        "bad",
+        "lost",
+        "willing",
+        "sure",
+        "okay",
+        "thoughtful",
+        "bad",
+        "scared",
+        "caring"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0.133",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0.067",
+        "DEPRESSED": "0.2",
+        "GOOD": "0.067",
+        "HAPPY": "0.133",
+        "HELPLESS": "0",
+        "HURT": "0.133",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.133",
+        "LOVE": "0.133",
+        "OPEN": "0",
+        "POSITIVE": "0.133",
+        "SAD": "0",
+        "STRONG": "0.067"
       }
     },
     "10th Month SideEffects": {
@@ -3176,229 +3054,11 @@
       "SideEffectTypeKeywords": []
     },
     "11th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "11th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "12th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "12th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "13th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "13th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "18th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "18th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "1st Month Emotions": {
       "EmotionKeywords": [
-        "great",
-        "great news",
-        "willing",
-        "willing",
-        "fearful",
-        "wronged",
-        "great",
-        "great news",
-        "hopeful",
-        "willing",
-        "pleased",
-        "bad",
-        "lost",
-        "willing",
-        "hurtful",
-        "willing",
-        "hopeful",
-        "great",
-        "great news",
-        "hopeful",
-        "cold",
-        "worried",
-        "hurtful",
-        "impressed",
-        "bad",
-        "lost",
-        "willing",
-        "worried",
-        "wronged",
         "great",
         "glad",
-        "touched",
-        "cramped",
-        "bad"
-      ],
-      "Emotions": {
-        "AFRAID": "0.12",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0.08",
-        "DEPRESSED": "0.12",
-        "GOOD": "0.04",
-        "HAPPY": "0.32",
-        "HELPLESS": "0",
-        "HURT": "0.12",
-        "INDIFFERENT": "0.04",
-        "INTERESTED": "0.04",
-        "LOVE": "0.04",
-        "OPEN": "0",
-        "POSITIVE": "0.36",
-        "SAD": "0.08",
-        "STRONG": "0"
-      }
-    },
-    "1st Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "24th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "24th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "2nd Month Emotions": {
-      "EmotionKeywords": [
         "willing",
         "sure",
-        "okay",
-        "thoughtful",
-        "bad",
-        "scared",
-        "caring",
-        "great",
-        "glad",
-        "willing",
-        "sure"
-      ],
-      "Emotions": {
-        "AFRAID": "0.1",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0.1",
-        "GOOD": "0.1",
-        "HAPPY": "0.2",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0.1",
-        "LOVE": "0.1",
-        "OPEN": "0",
-        "POSITIVE": "0.2",
-        "SAD": "0",
-        "STRONG": "0.2"
-      }
-    },
-    "2nd Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "3rd Month Emotions": {
-      "EmotionKeywords": [
         "great",
         "glad",
         "peaceful",
@@ -3420,27 +3080,27 @@
       "Emotions": {
         "AFRAID": "0",
         "ALIVE": "0",
-        "ANGRY": "0.667",
-        "CONFUSED": "0.333",
+        "ANGRY": "0.5",
+        "CONFUSED": "0.25",
         "DEPRESSED": "0",
-        "GOOD": "1.333",
-        "HAPPY": "0.667",
+        "GOOD": "1",
+        "HAPPY": "1",
         "HELPLESS": "0",
-        "HURT": "0.333",
+        "HURT": "0.25",
         "INDIFFERENT": "0",
         "INTERESTED": "0",
-        "LOVE": "0.333",
-        "OPEN": "0.333",
+        "LOVE": "0.25",
+        "OPEN": "0.25",
         "POSITIVE": "1",
-        "SAD": "0.667",
-        "STRONG": "0"
+        "SAD": "0.5",
+        "STRONG": "0.25"
       }
     },
-    "3rd Month SideEffects": {
+    "11th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "4th Month Emotions": {
+    "12th Month Emotions": {
       "EmotionKeywords": [
         "approachable",
         "proactive",
@@ -3478,11 +3138,11 @@
         "STRONG": "0.1"
       }
     },
-    "4th Month SideEffects": {
+    "12th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "5th Month Emotions": {
+    "13th Month Emotions": {
       "EmotionKeywords": [
         "hopeful",
         "willing"
@@ -3506,11 +3166,97 @@
         "STRONG": "0"
       }
     },
-    "5th Month SideEffects": {
+    "13th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "6th Month Emotions": {
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "hateful",
+        "scared",
+        "kind",
+        "thoughtful",
+        "willing",
+        "upset",
+        "upset",
+        "nervous",
+        "wronged",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0.4",
+        "ALIVE": "0",
+        "ANGRY": "0.4",
+        "CONFUSED": "0.2",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0.2",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.2",
+        "LOVE": "0",
+        "OPEN": "0.2",
+        "POSITIVE": "0.4",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
         "AFRAID": "0",
@@ -3531,11 +3277,134 @@
         "STRONG": "0"
       }
     },
-    "6th Month SideEffects": {
+    "2nd Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "7th Month Emotions": {
+    "3rd Month Emotions": {
+      "EmotionKeywords": [
+        "sure",
+        "nice",
+        "hateful",
+        "worried",
+        "pained",
+        "aching",
+        "ached",
+        "pained",
+        "upbeat",
+        "supportive",
+        "upbeat"
+      ],
+      "Emotions": {
+        "AFRAID": "0.1",
+        "ALIVE": "0",
+        "ANGRY": "0.1",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.1",
+        "HAPPY": "0.1",
+        "HELPLESS": "0",
+        "HURT": "0.3",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.1",
+        "OPEN": "0",
+        "POSITIVE": "0.1",
+        "SAD": "0.1",
+        "STRONG": "0.1"
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [
+        "comfortable",
+        "comforted",
+        "willing",
+        "sure",
+        "great",
+        "nice",
+        "loving",
+        "loved",
+        "willing",
+        "scared",
+        "numb",
+        "satisfied",
+        "satisfied",
+        "glad",
+        "nice",
+        "okay",
+        "affected",
+        "hopeful",
+        "willing",
+        "lucky",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0.071",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.286",
+        "HAPPY": "0.286",
+        "HELPLESS": "0",
+        "HURT": "0.071",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.071",
+        "LOVE": "0.214",
+        "OPEN": "0.071",
+        "POSITIVE": "0.357",
+        "SAD": "0",
+        "STRONG": "0.071"
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [
+        "pleased",
+        "glad",
+        "pained",
+        "pained",
+        "glad",
+        "hopeful",
+        "loving",
+        "loved",
+        "amazed",
+        "important",
+        "encouraged",
+        "supportive",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0.167",
+        "HAPPY": "0.25",
+        "HELPLESS": "0",
+        "HURT": "0.083",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0.25",
+        "OPEN": "0.083",
+        "POSITIVE": "0.167",
+        "SAD": "0.083",
+        "STRONG": "0"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
       "EmotionKeywords": [],
       "Emotions": {
         "AFRAID": 0,
@@ -3556,29 +3425,73 @@
         "STRONG": 0
       }
     },
-    "7th Month SideEffects": {
+    "6th Month SideEffects": {
       "SideEffectType": [],
       "SideEffectTypeKeywords": []
     },
-    "8th Month Emotions": {
-      "EmotionKeywords": [],
+    "7th Month Emotions": {
+      "EmotionKeywords": [
+        "willing",
+        "wonderful",
+        "willing",
+        "sore",
+        "worried",
+        "easy",
+        "willing",
+        "sure",
+        "bad"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0.125",
+        "ALIVE": "0.125",
+        "ANGRY": "0.125",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.125",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0.125",
+        "POSITIVE": "0.375",
+        "SAD": "0",
+        "STRONG": "0.125"
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [
+        "thoughtful",
+        "bad",
+        "willing",
+        "pained",
+        "aching",
+        "ached",
+        "pained",
+        "willing"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0.1",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0.3",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.1",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.2",
+        "SAD": "0.1",
+        "STRONG": "0"
       }
     },
     "8th Month SideEffects": {
@@ -3586,24 +3499,48 @@
       "SideEffectTypeKeywords": []
     },
     "9th Month Emotions": {
-      "EmotionKeywords": [],
+      "EmotionKeywords": [
+        "great",
+        "great news",
+        "willing",
+        "pleased",
+        "bad",
+        "lost",
+        "willing",
+        "fearful",
+        "wronged",
+        "great",
+        "great news",
+        "hopeful",
+        "willing",
+        "willing",
+        "hurtful",
+        "willing",
+        "hopeful",
+        "great",
+        "great news",
+        "hopeful",
+        "cold",
+        "worried",
+        "hurtful"
+      ],
       "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
+        "AFRAID": "0.1",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0.05",
+        "DEPRESSED": "0.05",
+        "GOOD": "0.05",
+        "HAPPY": "0.3",
+        "HELPLESS": "0",
+        "HURT": "0.05",
+        "INDIFFERENT": "0.05",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0.4",
+        "SAD": "0.1",
+        "STRONG": "0"
       }
     },
     "9th Month SideEffects": {

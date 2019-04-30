@@ -3,15 +3,6 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=214280&p=14235",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "glad",
-      "calm",
-      "loving",
-      "loved",
-      "supportive",
-      "brave",
-      "lost",
-      "suspicious",
-      "scared",
       "great",
       "upbeat",
       "energetic",
@@ -31,11 +22,20 @@
       "aggressive",
       "aggressive",
       "willing",
-      "ok",
-      "concerned",
       "fortunate",
       "hopeful",
-      "cross"
+      "cross",
+      "ok",
+      "concerned",
+      "glad",
+      "calm",
+      "loving",
+      "loved",
+      "supportive",
+      "brave",
+      "lost",
+      "suspicious",
+      "scared"
     ],
     "Emotions": {
       "AFRAID": "0.286",
@@ -60,184 +60,7 @@
   "NExperiencePosts": 7,
   "NPosts": 7,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 7,
-      "NTotal": 7,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
-    {
-      "AuthorID": "Time",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=214280&p=14235",
-      "Content": " I am in the biopsy wait stage.  45 years old.  Freshly out of 19 year abusive marriage.  On my own with 16 year old son, and loving it.  Now this.  Mother had bc at 40.  Have been expecting this shoe to drop so not hitting \"out of the blue\" yet still very unsettling.  Mammogram last Thursday came back suspicious.  Ultrasound this Wednesday, biopsy yesterday.  Won't get results until after the weekend.  Just under 1 cm x .5 x .5  at 11:00 right breast.  Watched the whole biopsy on ultrasound, very brave, calm asked questions, got in car and lost it.  I'm scared.  Have been pink ribbon supporter for years and know many incredibly brave women, such as all you.  Glad to have found this site.  The waiting is so hard.  I have not told many.  Want to wait to see what the results are.  In process of negotiating child support, parenting plan, etc and that has been contentious so don't want to complicate things if this is all for naught.  just want to say you are all so remarkable.  \n ",
-      "Demographics": {
-        "AgeInfo": [
-          {
-            "Confidence": 1,
-            "Phrase": "<Z> <Z> <Z> <Z> <Z> 45 years old <Z> <Z> <Z>",
-            "Relation": "unknown",
-            "Tense": "unknown",
-            "Value": 45
-          },
-          {
-            "Confidence": 0.8,
-            "Phrase": "<Z> On my own with 16 year old son  and loving",
-            "Relation": "unknown",
-            "Tense": "unknown",
-            "Value": 16
-          },
-          {
-            "Confidence": 1,
-            "Phrase": "<Z> Mother had bc at 40   Have been expecting this",
-            "Relation": "unknown",
-            "Tense": "past",
-            "Value": 40
-          }
-        ],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "Mammogram",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "18/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=214280",
-      "Title": "New To Site"
-    },
     {
       "AuthorID": "Time",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=214280&p=14235",
@@ -341,6 +164,30 @@
     },
     {
       "AuthorID": "Time",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=216368&p=14235",
+      "Content": " Fingers crossed for the biopsy. Even though the radiologist said 80% chance b-9 of course I spent my weekend mentally in the 20% zone. Fortunately they were right this time. I hope you have similar news but if not, thank goodness it is small and other signs point to a good early detection. Saying prayers for you and all others in this waiting game. Don't forget to breathe.\n-Jennifer ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "21/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=216368",
+      "Title": "Update on visit with surgeon"
+    },
+    {
+      "AuthorID": "Time",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=214280&p=14235",
       "Content": " OK, can't keep these wheels from turning. Just possibly making a connection now. Last summer had extensive blood tests for possible thyroid problem. Results came back, borderline watch for Grave's Disease. Everything else looked very healthy. But my question is more around other thing that has since happened. Blood tests showed no sign of pre-menopausal. Then, suddenly, abruptly, periods have stopped. Haven't had a period since late last summer. Who's complaining, right? It's not like I miss them lol. And since I am separated and sexually inactive I am not concerned about pregnancy. But now I am thinking...is there a connection. I mentioned to my GP last visit about the no period and she said strange but with all I've been through with divorce it could be stress related but to keep an eye. I had forgotten about this so haven't mentioned it to breast center. Know you all aren't doctors but have you heard of anything like this related to bc?? ",
       "Demographics": {
@@ -370,13 +217,38 @@
     },
     {
       "AuthorID": "Time",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=216368&p=14235",
-      "Content": " Fingers crossed for the biopsy. Even though the radiologist said 80% chance b-9 of course I spent my weekend mentally in the 20% zone. Fortunately they were right this time. I hope you have similar news but if not, thank goodness it is small and other signs point to a good early detection. Saying prayers for you and all others in this waiting game. Don't forget to breathe.\n-Jennifer ",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=214280&p=14235",
+      "Content": " I am in the biopsy wait stage.  45 years old.  Freshly out of 19 year abusive marriage.  On my own with 16 year old son, and loving it.  Now this.  Mother had bc at 40.  Have been expecting this shoe to drop so not hitting \"out of the blue\" yet still very unsettling.  Mammogram last Thursday came back suspicious.  Ultrasound this Wednesday, biopsy yesterday.  Won't get results until after the weekend.  Just under 1 cm x .5 x .5  at 11:00 right breast.  Watched the whole biopsy on ultrasound, very brave, calm asked questions, got in car and lost it.  I'm scared.  Have been pink ribbon supporter for years and know many incredibly brave women, such as all you.  Glad to have found this site.  The waiting is so hard.  I have not told many.  Want to wait to see what the results are.  In process of negotiating child support, parenting plan, etc and that has been contentious so don't want to complicate things if this is all for naught.  just want to say you are all so remarkable.  \n ",
       "Demographics": {
-        "AgeInfo": [],
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> <Z> 45 years old <Z> <Z> <Z>",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 45
+          },
+          {
+            "Confidence": 0.8,
+            "Phrase": "<Z> On my own with 16 year old son  and loving",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 16
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> Mother had bc at 40   Have been expecting this",
+            "Relation": "unknown",
+            "Tense": "past",
+            "Value": 40
+          }
+        ],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
+            "FemaleMedicalTerms": [
+              "Mammogram",
+              "breast"
+            ],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
@@ -387,10 +259,10 @@
           }
         }
       },
-      "MessageIndex": 1,
-      "PostDate": "21/03/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=216368",
-      "Title": "Update on visit with surgeon"
+      "MessageIndex": 0,
+      "PostDate": "18/03/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=214280",
+      "Title": "New To Site"
     }
   ],
   "ProfileDemographics": {
@@ -410,6 +282,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -652,15 +529,6 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
-        "glad",
-        "calm",
-        "loving",
-        "loved",
-        "supportive",
-        "brave",
-        "lost",
-        "suspicious",
-        "scared",
         "great",
         "upbeat",
         "energetic",
@@ -673,6 +541,15 @@
         "injured",
         "ok",
         "concerned",
+        "glad",
+        "calm",
+        "loving",
+        "loved",
+        "supportive",
+        "brave",
+        "lost",
+        "suspicious",
+        "scared",
         "wonderful",
         "blessed",
         "ok",

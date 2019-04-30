@@ -8,14 +8,14 @@
       "enthusiastic",
       "optimistic",
       "upbeat",
-      "hopeful",
-      "willing",
       "glad",
       "loving",
       "loved",
       "supportive",
       "worried",
       "numb",
+      "hopeful",
+      "willing",
       "peaceful",
       "supportive",
       "panic",
@@ -92,7 +92,7 @@
     {
       "AuthorID": "Clairem_uk",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=595252&p=11790",
-      "Content": " Hi Laurie,\nThanks! I'm sorry I didn't include you along with MK and Joyce in my original post, I still totally associate you with iV (I know you still post there, we've hugged over there a couple of times in the past year or so I think!) and my brain hasn't quite computed that you belong here too \nIts good to hear another 'coping with drains' tale, I'm passing them all on to her this weekend. Just knowing people go back to work with their drains will hearten her, knowing Helen!\nHope alls well with you and yours!\nxxClaire ",
+      "Content": " ...but first, hello and hugs to old friends MK and Joyce, and special hello to Mia-whom-I-almost-met!  And anyone else who might remember me from the old iVillage bb a few years ago.\n \n \n \n \n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -101,15 +101,15 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "MainSubject": "aunt",
+            "NarrationType": "second-person",
+            "PatientGender": "female",
+            "Relation": "aunt"
           }
         }
       },
-      "MessageIndex": 10,
-      "PostDate": "14/09/2006",
+      "MessageIndex": 0,
+      "PostDate": "12/09/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=595252",
       "Title": "Looking for some help for aunt about to have mastectomy and node removal...."
     },
@@ -140,7 +140,7 @@
     {
       "AuthorID": "Clairem_uk",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=595252&p=11790",
-      "Content": " ...but first, hello and hugs to old friends MK and Joyce, and special hello to Mia-whom-I-almost-met!  And anyone else who might remember me from the old iVillage bb a few years ago.\n \n \n \n \n ",
+      "Content": " Hi Laurie,\nThanks! I'm sorry I didn't include you along with MK and Joyce in my original post, I still totally associate you with iV (I know you still post there, we've hugged over there a couple of times in the past year or so I think!) and my brain hasn't quite computed that you belong here too \nIts good to hear another 'coping with drains' tale, I'm passing them all on to her this weekend. Just knowing people go back to work with their drains will hearten her, knowing Helen!\nHope alls well with you and yours!\nxxClaire ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
@@ -149,37 +149,15 @@
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "aunt",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "aunt"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 0,
-      "PostDate": "12/09/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=595252",
-      "Title": "Looking for some help for aunt about to have mastectomy and node removal...."
-    },
-    {
-      "AuthorID": "Clairem_uk",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=595252&p=11790",
-      "Content": " Hi MK, and thanks, and congratulations on your little great grand-daughter!  You don't sound nearly old enough to have one, but in any case your'e right - age irrelevent, daughter, greatgranddauhter, whatever, they're wonderful.\n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "27/09/2006",
+      "MessageIndex": 10,
+      "PostDate": "14/09/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=595252",
       "Title": "Looking for some help for aunt about to have mastectomy and node removal...."
     },
@@ -225,6 +203,28 @@
       },
       "MessageIndex": 5,
       "PostDate": "19/09/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=595252",
+      "Title": "Looking for some help for aunt about to have mastectomy and node removal...."
+    },
+    {
+      "AuthorID": "Clairem_uk",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=595252&p=11790",
+      "Content": " Hi MK, and thanks, and congratulations on your little great grand-daughter!  You don't sound nearly old enough to have one, but in any case your'e right - age irrelevent, daughter, greatgranddauhter, whatever, they're wonderful.\n \n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "27/09/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=595252",
       "Title": "Looking for some help for aunt about to have mastectomy and node removal...."
     },
@@ -303,28 +303,6 @@
     },
     {
       "AuthorID": "Clairem_uk",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=419926&p=11790",
-      "Content": " Congratulations Joyce!! Gia Marie sound gorgeous - I'm glad you (and she!) get to enjoy cuddles this time.\nThere's nothing quite like a new little life arriving...storms, sad news (I just read your post about\n Shells), and then a brand new person...what an amazingly rich world we live in.\nMay you and Gia Marie have many, many good times together!\nClaire xxx ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 13,
-      "PostDate": "14/02/2006",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=419926",
-      "Title": "New Granddaughter!"
-    },
-    {
-      "AuthorID": "Clairem_uk",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=446878&p=11790",
       "Content": " Hi Simone\nI am an occasional lurker - used to post on another board with some of the oldtimers here, who helped me out when I was going through a very similar time to you. I had no family history, but lots of fertility treatment and miscarriages...which my surgeon explained had probably added to the fibrocystic changes. I had lumpy areas in tne breast (nowadays in both) and was diagnosed with fibrocystic changes after a core biopsy. I still have mammos and u/s every year, and exams - it would be hard to biopsy every lumpy bit these days, but they all feel the same: sort of rubbery, ridgy, and lumpy as opposed to distinct lumps. When I doubt something I feel, I run back to my surgeon - just in case.\nI was told it was quite common for women to develop these changes in their forties (I was 40 when I first had them) as hormones fluctuate more, but mine were not cyclical and never left - in fact, they have increased. Not unusual, in midlife, apparently. \nMy big miracle..I had a daughter at 43, and after that the pains and lumpiness calmed down considerably for a couple of years: again, my surgeon had told me to expect that. Unfortunately, its temporary! Though they are likely to calm down again in menopause.\nAnyway..I do'nt usually chip in here, except to check on old friends, but could relate so much to your situation. I hope this helps even a little, and am glad you found the same amazing support from these women as I did five years ago.\nxxxClaire ps if you are not satisfied with a FNA, you could ask for a core biopsy? If you trust your surgeon, discuss it with him - he may have good reason not to need one, but I would want to know what those reasons were and be satisfied too! ",
       "Demographics": {
@@ -355,6 +333,28 @@
       "PostDate": "18/03/2006",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=446878",
       "Title": "Biopsy results - fibrocystic changes???"
+    },
+    {
+      "AuthorID": "Clairem_uk",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=419926&p=11790",
+      "Content": " Congratulations Joyce!! Gia Marie sound gorgeous - I'm glad you (and she!) get to enjoy cuddles this time.\nThere's nothing quite like a new little life arriving...storms, sad news (I just read your post about\n Shells), and then a brand new person...what an amazingly rich world we live in.\nMay you and Gia Marie have many, many good times together!\nClaire xxx ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 13,
+      "PostDate": "14/02/2006",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=419926",
+      "Title": "New Granddaughter!"
     },
     {
       "AuthorID": "Clairem_uk",
@@ -515,6 +515,11 @@
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -552,6 +557,470 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": ["glad"],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "1",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "loving",
+        "loved"
+      ],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "2",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [
+        "forgiving",
+        "great",
+        "wonderful",
+        "reassured",
+        "hopeful",
+        "sure",
+        "worried"
+      ],
+      "Emotions": {
+        "AFRAID": "1",
+        "ALIVE": "1",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "1",
+        "HAPPY": "1",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "1",
+        "POSITIVE": "1",
+        "SAD": "0",
+        "STRONG": "1"
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": "0",
+        "ALIVE": "0",
+        "ANGRY": "0",
+        "CONFUSED": "0",
+        "DEPRESSED": "0",
+        "GOOD": "0",
+        "HAPPY": "0",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0",
+        "LOVE": "0",
+        "OPEN": "0",
+        "POSITIVE": "0",
+        "SAD": "0",
+        "STRONG": "0"
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

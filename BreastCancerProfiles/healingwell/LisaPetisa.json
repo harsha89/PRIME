@@ -5,13 +5,13 @@
     "EmotionKeywords": [
       "supportive",
       "worried",
+      "glad",
+      "wonderful",
+      "caring",
       "sensitive",
       "supportive",
       "wonderful",
-      "warm",
-      "glad",
-      "wonderful",
-      "caring"
+      "warm"
     ],
     "Emotions": {
       "AFRAID": "0.25",
@@ -36,134 +36,6 @@
   "NExperiencePosts": 4,
   "NPosts": 5,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 4,
-      "NTotal": 5,
-      "PAdvice": 0.2,
-      "PExperience": 0.8
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "LisaPetisa",
@@ -188,6 +60,33 @@
       "PostDate": "23/05/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=256260",
       "Title": "found a lump - have a question"
+    },
+    {
+      "AuthorID": "LisaPetisa",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253845&p=16619",
+      "Content": " Thanks for the replies Lori and Laure'. It was actually a breast specialist in a breast clinic that recommended the MRI. This was the first time a doctor suggested I get an MRI for follow-up but I'm glad to hear about\n your experience Lori because now I know that the mammograms I had been getting was also a good screening tool. Laure', you're so right about\n demanding good follow-up care! In the past 20 years when I moved to a new city for college, new job, etc., I've found that doctors didn't always know what sort of follow-up care to offer. Can I ask you what follow-up care your husband gets (I'm glad to hear he's doing well)? The oncologist that originally treated me used to regularly order mammogram and blood work (CBC w/differential and chemistry profile) for me. Then I moved to a new city and saw an oncologist that added a thyroid panel to the blood work order (because of the site of the radiation treatment). Then I went to this breast specialist who suggested an MRI. I'm wondering what else I might add to this list!\nThanks again!\nLisa ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "19/05/2005",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253845",
+      "Title": "MRI for screening"
     },
     {
       "AuthorID": "LisaPetisa",
@@ -258,33 +157,6 @@
       "PostDate": "20/05/2005",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253845",
       "Title": "MRI for screening"
-    },
-    {
-      "AuthorID": "LisaPetisa",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=253845&p=16619",
-      "Content": " Thanks for the replies Lori and Laure'. It was actually a breast specialist in a breast clinic that recommended the MRI. This was the first time a doctor suggested I get an MRI for follow-up but I'm glad to hear about\n your experience Lori because now I know that the mammograms I had been getting was also a good screening tool. Laure', you're so right about\n demanding good follow-up care! In the past 20 years when I moved to a new city for college, new job, etc., I've found that doctors didn't always know what sort of follow-up care to offer. Can I ask you what follow-up care your husband gets (I'm glad to hear he's doing well)? The oncologist that originally treated me used to regularly order mammogram and blood work (CBC w/differential and chemistry profile) for me. Then I moved to a new city and saw an oncologist that added a thyroid panel to the blood work order (because of the site of the radiation treatment). Then I went to this breast specialist who suggested an MRI. I'm wondering what else I might add to this list!\nThanks again!\nLisa ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "mammogram",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "19/05/2005",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=253845",
-      "Title": "MRI for screening"
     }
   ],
   "ProfileDemographics": {
@@ -303,6 +175,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

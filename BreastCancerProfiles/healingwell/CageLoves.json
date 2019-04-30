@@ -6,11 +6,11 @@
       "concerned",
       "willing",
       "hurtful",
+      "supportive",
+      "hurtful",
       "pleased",
       "pained",
-      "pained",
-      "supportive",
-      "hurtful"
+      "pained"
     ],
     "Emotions": {
       "AFRAID": "0",
@@ -35,135 +35,29 @@
   "NExperiencePosts": 4,
   "NPosts": 6,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 1,
-      "NTotal": 2,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 3,
-      "NTotal": 4,
-      "PAdvice": 0.25,
-      "PExperience": 0.75
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
+    {
+      "AuthorID": "CageLoves",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1847026&p=104461",
+      "Content": " Thank you barkyboys. I really appreciate your reply. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "14/07/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1847026",
+      "Title": "Breast lump"
+    },
     {
       "AuthorID": "CageLoves",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1847026&p=104461",
@@ -193,28 +87,6 @@
     },
     {
       "AuthorID": "CageLoves",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1847026&p=104461",
-      "Content": " Thank you barkyboys. I really appreciate your reply. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "14/07/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1847026",
-      "Title": "Breast lump"
-    },
-    {
-      "AuthorID": "CageLoves",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1887439&p=104461",
       "Content": " Thank you POSTAL2. I truly appreciate it. ",
       "Demographics": {
@@ -234,6 +106,30 @@
       },
       "MessageIndex": 1,
       "PostDate": "28/08/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1887439",
+      "Title": "Excisional Biopsy"
+    },
+    {
+      "AuthorID": "CageLoves",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1887439&p=104461",
+      "Content": " I just saw the wound today. It is still very fresh. I'm supposed to go back to work tomorrow but I don't think I should. My right chest still hurts when I move around. My post-op is on Friday. \nPostal2, barkyboys, and everyone else... thank you for your prayers and support. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "29/08/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1887439",
       "Title": "Excisional Biopsy"
     },
@@ -282,30 +178,6 @@
       "PostDate": "03/09/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1887439",
       "Title": "Excisional Biopsy"
-    },
-    {
-      "AuthorID": "CageLoves",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1887439&p=104461",
-      "Content": " I just saw the wound today. It is still very fresh. I'm supposed to go back to work tomorrow but I don't think I should. My right chest still hurts when I move around. My post-op is on Friday. \nPostal2, barkyboys, and everyone else... thank you for your prayers and support. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "29/08/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1887439",
-      "Title": "Excisional Biopsy"
     }
   ],
   "ProfileDemographics": {
@@ -324,6 +196,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

@@ -63,7 +63,7 @@ public class AggregateDemographics_ProstateCancer {
 
     public static JSONObject getProfileDemographics(JSONObject profile) throws JSONException {
         int ageThreshold= 25;
-        String defaultGender = "male";
+        String defaultGender = "female";
         JSONObject resolvedAge = resolveAge(profile,ageThreshold);
         JSONObject resolvedGender = resolveGender(profile, defaultGender);
         JSONObject profileDemographics = new JSONObject();

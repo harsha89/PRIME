@@ -7,6 +7,13 @@
       "loving",
       "loved",
       "irritated",
+      "wonderful",
+      "ok",
+      "determined",
+      "willing",
+      "sure",
+      "bad",
+      "numb",
       "pleased",
       "inspired",
       "willing",
@@ -26,14 +33,7 @@
       "scared",
       "doubtful",
       "obsess",
-      "despairing",
-      "wonderful",
-      "ok",
-      "determined",
-      "willing",
-      "sure",
-      "bad",
-      "numb"
+      "despairing"
     ],
     "Emotions": {
       "AFRAID": "0.8",
@@ -58,134 +58,6 @@
   "NExperiencePosts": 5,
   "NPosts": 5,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 5,
-      "NTotal": 5,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "OhioRed59",
@@ -237,6 +109,30 @@
     },
     {
       "AuthorID": "OhioRed59",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155129&p=7641",
+      "Content": " I've been MIA on the board with good reason...I've been in the hospital!!  The nausea and vomiting that I was having just did not go away and kept getting worse, so last Saturday my doc admitted me to the hospital.  They did a bunch of tests and put me on higher doses of decadron and discovered the worst possible cause... brain mets.  There was only one visible spot, and I have had no other symptoms like headaches or blurred vision, but my doc still thinks it may be the casue of the nausea.  I started whole head radiation yesterday.  I feel like Frankensteins's monster.  After 14 days of this I will probably have the gamma knife thing too.  I'm still a little numb from this and my family is devastated.  My Dad met my onc at the hospital Tuesday night and followed him into the hall when he left to make him tell him FOR SURE I was going to be OK.  He and the radiation onc both say the treatment is very effective, but I have to wonder, since this thing seems determined to spread everywhere, how realistic is is to expect too much more time.\n \n((((Hugs))))\n \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "07/10/2004",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155129",
+      "Title": "More bad news..."
+    },
+    {
+      "AuthorID": "OhioRed59",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155733&p=7641",
       "Content": " I am still pretty nauseous and I don't know how much more I can take.  Saw my onc yesterday and both me and my DH left feeling a little discouraged.  We are starting to feel that he is grasping at straws because he thinks the nausea should be much better or gone.  I feel like people are starting to think I'm faking it!  He had no rememdies except more drugs and more tests.  I have to go in at 7AM Monday for an endoscopy of my stomach and then Tuesday for a CT of my chest, abdomen, and pelvis (which means drinking that stuff which will no doubt make me puke).  If anything significant is found then I will probably have to start chemo immediately along with rads.  Just don't know if I can do it.  I don't feel like I have anything to look forward to anymore except more of the same: treatment, illness, puking, fatigue.  And my DH gets mad because all I want to do is lay around and \"not try\".  I can't help it.  I have no motivation or inspiration left in me.  I just want it to be over.\n((((Hugs))))\n \n ",
       "Demographics": {
@@ -282,30 +178,6 @@
       "PostDate": "13/10/2004",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=156925",
       "Title": "Onc. visit on Thursday....m"
-    },
-    {
-      "AuthorID": "OhioRed59",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=155129&p=7641",
-      "Content": " I've been MIA on the board with good reason...I've been in the hospital!!  The nausea and vomiting that I was having just did not go away and kept getting worse, so last Saturday my doc admitted me to the hospital.  They did a bunch of tests and put me on higher doses of decadron and discovered the worst possible cause... brain mets.  There was only one visible spot, and I have had no other symptoms like headaches or blurred vision, but my doc still thinks it may be the casue of the nausea.  I started whole head radiation yesterday.  I feel like Frankensteins's monster.  After 14 days of this I will probably have the gamma knife thing too.  I'm still a little numb from this and my family is devastated.  My Dad met my onc at the hospital Tuesday night and followed him into the hall when he left to make him tell him FOR SURE I was going to be OK.  He and the radiation onc both say the treatment is very effective, but I have to wonder, since this thing seems determined to spread everywhere, how realistic is is to expect too much more time.\n \n((((Hugs))))\n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "07/10/2004",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=155129",
-      "Title": "More bad news..."
     }
   ],
   "ProfileDemographics": {
@@ -316,13 +188,18 @@
       "Value": -1
     },
     "Gender": {
-      "Gender": "male",
+      "Gender": "female",
       "NarrationType": "unknown"
     }
   },
   "SideEffectTypeInfo": {
     "SideEffectType": ["Tiredness"],
     "SideEffectTypeKeywords": ["fatigue"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

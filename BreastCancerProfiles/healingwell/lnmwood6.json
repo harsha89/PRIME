@@ -18,10 +18,6 @@
       "scared",
       "worried",
       "crying",
-      "hopeful",
-      "nervous",
-      "willing",
-      "worried",
       "great",
       "perky",
       "thoughtful",
@@ -29,15 +25,19 @@
       "worried",
       "willing",
       "worried",
+      "hopeful",
+      "nervous",
+      "willing",
+      "worried",
       "encouraged",
       "blessed",
       "concerned",
       "thoughtful",
       "willing",
-      "concerned",
       "encouraged",
       "willing",
-      "worried"
+      "worried",
+      "concerned"
     ],
     "Emotions": {
       "AFRAID": "0.889",
@@ -104,6 +104,60 @@
     },
     {
       "AuthorID": "lnmwood6",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1228277&p=68449",
+      "Content": "  I went to get a sonogram Friday because I felt a new lump. I have had them before but my doctor thought I now had 2 in my left breast and 1 in the other. The nurse found three lumps, one under my arm, and one at the bottom of my breast. Both of these are only the size of a nickel at the most. The other one is under the breast muscle and cover most of my breast. She messured it at 2 inches by 1 inch. I have lost an aunt, and my grandmother to breast cancer. My other aunt this summer had a double masectomy for breast cancer. She is doing great and her out look looks great. The nurse asked me during the sonogram if I had breast implants and I don't. She told me to try not to worry this weekend. I have been trying to see if other people have had lumps that big and them not be cancerous but I cannot find anyone with a lump that big. Does anyone know of anyone else like this. I am not worried too much about\n having breast cancer, I would just like to be prepared. I am 39 years old with four children and two grabdchildren. I am in school to become a teacher, and already work in a school with children. If I have to be out of work I would like to be prepared and prepare my family. Anyway I wouldn't mind having perky new breast after all this time. \n ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> <Z> I am 39 years old with four children",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 39
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "31/08/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1228277",
+      "Title": "2 inch lump"
+    },
+    {
+      "AuthorID": "lnmwood6",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1249666&p=68449",
+      "Content": " I know it is hard not to worry. I am having a biopsy and they are draining a cyst next Friday. I have four poeple on my mother's side that have battled Cancer. Three were breast cancer. Like they say though most of the time a lump is not Cancer. Good Luck and we will pray for you.\n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "28/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1249666",
+      "Title": "So scared.."
+    },
+    {
+      "AuthorID": "lnmwood6",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1237017&p=68449",
       "Content": " Well wish me luck, I go to the doctor today to hopefully find out more about\n the big lump in my breast. A little nervous but am hopeful. \n \n ",
       "Demographics": {
@@ -153,60 +207,6 @@
     },
     {
       "AuthorID": "lnmwood6",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1228277&p=68449",
-      "Content": "  I went to get a sonogram Friday because I felt a new lump. I have had them before but my doctor thought I now had 2 in my left breast and 1 in the other. The nurse found three lumps, one under my arm, and one at the bottom of my breast. Both of these are only the size of a nickel at the most. The other one is under the breast muscle and cover most of my breast. She messured it at 2 inches by 1 inch. I have lost an aunt, and my grandmother to breast cancer. My other aunt this summer had a double masectomy for breast cancer. She is doing great and her out look looks great. The nurse asked me during the sonogram if I had breast implants and I don't. She told me to try not to worry this weekend. I have been trying to see if other people have had lumps that big and them not be cancerous but I cannot find anyone with a lump that big. Does anyone know of anyone else like this. I am not worried too much about\n having breast cancer, I would just like to be prepared. I am 39 years old with four children and two grabdchildren. I am in school to become a teacher, and already work in a school with children. If I have to be out of work I would like to be prepared and prepare my family. Anyway I wouldn't mind having perky new breast after all this time. \n ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> <Z> I am 39 years old with four children",
-          "Relation": "unknown",
-          "Tense": "present",
-          "Value": 39
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "01/09/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1228277",
-      "Title": "2 inch lump"
-    },
-    {
-      "AuthorID": "lnmwood6",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1249666&p=68449",
-      "Content": " I know it is hard not to worry. I am having a biopsy and they are draining a cyst next Friday. I have four poeple on my mother's side that have battled Cancer. Three were breast cancer. Like they say though most of the time a lump is not Cancer. Good Luck and we will pray for you.\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "28/09/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1249666",
-      "Title": "So scared.."
-    },
-    {
-      "AuthorID": "lnmwood6",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1237017&p=68449",
       "Content": " Well I have to have another mamo. then my doctor said at least one of the lumps will have to be biopsied. They still have not figured out what the big lump is but are concerned about\n a cluster of that I thought was jsut on small one, but she said that it was more like three or four. I go to have the mamo not this Monday but the next. I then Back to the doctor the Thursday after. Hurry up and wait. I think this is the hardest part. My middle son has a pacemaker. He is fifteen now and has had it since the age of 3. The first three years of trying to figure out what was going on with him and waiting for the shoe to fall was a lot harder than knowing what to expect. God Bless everyone and thanks for the encouragement. \n ",
       "Demographics": {
@@ -234,30 +234,6 @@
       "PostDate": "11/09/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1237017",
       "Title": "wish me luck"
-    },
-    {
-      "AuthorID": "lnmwood6",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1228277&p=68449",
-      "Content": " Thank you, I think the waiting is the hardest part. I know it is probrably not cancer just concerned. \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "01/09/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1228277",
-      "Title": "2 inch lump"
     },
     {
       "AuthorID": "lnmwood6",
@@ -306,6 +282,30 @@
       "PostDate": "25/09/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1247120",
       "Title": "biopsy here i come"
+    },
+    {
+      "AuthorID": "lnmwood6",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1228277&p=68449",
+      "Content": " Thank you, I think the waiting is the hardest part. I know it is probrably not cancer just concerned. \n ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "01/09/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1228277",
+      "Title": "2 inch lump"
     }
   ],
   "ProfileDemographics": {
@@ -325,6 +325,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Hernia"],
     "SideEffectTypeKeywords": ["lump"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -363,6 +368,495 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "great",
+        "perky",
+        "thoughtful",
+        "lost",
+        "worried",
+        "concerned",
+        "hopeful",
+        "nervous",
+        "encouraged",
+        "blessed",
+        "concerned",
+        "thoughtful",
+        "willing",
+        "willing",
+        "worried",
+        "encouraged",
+        "willing",
+        "worried",
+        "willing",
+        "worried",
+        "easy",
+        "great",
+        "wonderful",
+        "blessed",
+        "loving",
+        "loved",
+        "thoughtful",
+        "inspired",
+        "willing",
+        "sure",
+        "bad",
+        "fearful",
+        "scared",
+        "worried",
+        "crying"
+      ],
+      "Emotions": {
+        "AFRAID": "0.889",
+        "ALIVE": "0.222",
+        "ANGRY": "0",
+        "CONFUSED": "0.111",
+        "DEPRESSED": "0.111",
+        "GOOD": "0.444",
+        "HAPPY": "0.222",
+        "HELPLESS": "0",
+        "HURT": "0",
+        "INDIFFERENT": "0",
+        "INTERESTED": "0.556",
+        "LOVE": "0.222",
+        "OPEN": "0.111",
+        "POSITIVE": "0.778",
+        "SAD": "0.111",
+        "STRONG": "0.111"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Hernia"],
+      "SideEffectTypeKeywords": ["lump"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

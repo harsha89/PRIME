@@ -3,12 +3,6 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120345",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "wonderful",
-      "kind",
-      "caring",
-      "hopeful",
-      "willing",
-      "scared",
       "pleased",
       "caring",
       "concerned",
@@ -16,6 +10,12 @@
       "hopeful",
       "willing",
       "rude",
+      "wonderful",
+      "kind",
+      "caring",
+      "hopeful",
+      "willing",
+      "scared",
       "willing",
       "bad"
     ],
@@ -42,135 +42,35 @@
   "NExperiencePosts": 5,
   "NPosts": 5,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 5,
-      "NTotal": 5,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
+    {
+      "AuthorID": "tinygina",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120345",
+      "Content": " I live in Oregon. The state program covers a mammogram, pap smear, things related to breast exams, and give me a physical. I go for the physical tomorrow. I am hoping if they find anything, they will put me on Oregon Health Plan, or or maybe medicaid. It took them a week to call me with the results of the mammogram. Gonna see if my moms doctor will see me, when we take her in on Thursday. Im not impressed with the care at the CHC. I will pay to have the biopsy, if i have to. I need to know! I have too much on my plate to have to deal with this unknown. I will let you know when i know more. \nThank you again, for you concern. Dont wait for them to call you, you need answers. If they dont do things like they should, go somewhere else. Im going to go to the other hospital for a biopsy. The tech. at the one i went to was so rude. \nPlease let me know what you find out. I will be praying for you. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [
+              "smear",
+              "mammogram",
+              "breast"
+            ],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "10/04/2011",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079309",
+      "Title": "hard, unmoveable, pea size lump"
+    },
     {
       "AuthorID": "tinygina",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120345",
@@ -248,34 +148,6 @@
     {
       "AuthorID": "tinygina",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120345",
-      "Content": " I live in Oregon. The state program covers a mammogram, pap smear, things related to breast exams, and give me a physical. I go for the physical tomorrow. I am hoping if they find anything, they will put me on Oregon Health Plan, or or maybe medicaid. It took them a week to call me with the results of the mammogram. Gonna see if my moms doctor will see me, when we take her in on Thursday. Im not impressed with the care at the CHC. I will pay to have the biopsy, if i have to. I need to know! I have too much on my plate to have to deal with this unknown. I will let you know when i know more. \nThank you again, for you concern. Dont wait for them to call you, you need answers. If they dont do things like they should, go somewhere else. Im going to go to the other hospital for a biopsy. The tech. at the one i went to was so rude. \nPlease let me know what you find out. I will be praying for you. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "smear",
-              "mammogram",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "10/04/2011",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2079309",
-      "Title": "hard, unmoveable, pea size lump"
-    },
-    {
-      "AuthorID": "tinygina",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2079309&p=120345",
       "Content": " The clinic called this am, i have a biopsy on the 19th at 1:00pm. But i have to pay for it, it isnt cheap, $2000. to $3000. But i figure it is a small price to pay, for my health. They will make payment arragements with me. too much cancer in my family to take a risk. Im also now borderline diabetic. Will bad news ever stop?!!\nThank you Bev. I will try to find a Womens Foundation between now and the biopsy. It would be awesome to find help for this. \nPoochi, let me know how things go with your visit. Thanks for taking the time to chat with me. ",
       "Demographics": {
         "AgeInfo": [],
@@ -320,6 +192,11 @@
       "infection",
       "lump"
     ]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
@@ -562,11 +439,6 @@
     },
     "1st Month Emotions": {
       "EmotionKeywords": [
-        "kind",
-        "caring",
-        "hopeful",
-        "willing",
-        "scared",
         "pleased",
         "caring",
         "concerned",
@@ -574,6 +446,11 @@
         "hopeful",
         "willing",
         "rude",
+        "kind",
+        "caring",
+        "hopeful",
+        "willing",
+        "scared",
         "willing",
         "bad",
         "wonderful"

@@ -3,18 +3,18 @@
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4111827&p=278746",
   "EmotionInfo": {
     "EmotionKeywords": [
-      "willing",
-      "bad",
-      "wonderful",
-      "willing",
-      "alone",
       "calm",
       "willing",
       "sure",
       "cold",
       "worried",
+      "wonderful",
+      "willing",
+      "alone",
       "relaxed",
       "willing",
+      "willing",
+      "bad",
       "supportive",
       "thoughtful",
       "willing",
@@ -55,39 +55,24 @@
     {
       "AuthorID": "Smoo",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4111827&p=278746",
-      "Content": " Thx guys. I see breast surgeon on Tuesday and I will ask for the reports. I have been trying to manage stress but it is difficult. I keep thinking of my kids if this doesn\u2019t go well. My 16 year old just got her first serious boyfriend and my 18 year old is going to be going to college in the fall. I just don\u2019t want them to have bad memories of this time. ",
+      "Content": " Thx for the reply. Staying calm I am finding is not an option. Tuesday cannot come soon enough. I am feeling quite stupid because when they called me Thursday afternoon and said we can get you in first thing that next day Friday. I said no and then they said how about\n first thing Monday and I said no. I was worried about\n work being mad. So I opted for Tuesday afternoon. It did not dawn on me about\n the anxiety I would be feeling until then even more so with the urgency of them trying to get me in as soon as possible. So now I wait. I am also feeling the effects of not having anyone there with me. I went with my husband through all of it and I am not sure if this doesn't go right who will be with me. I do NOT do well with things like this when it is me. I do not even take Tylenol or cold meds. \nBut for now I wait.\nI am so sorry to hear about\n you losing your mom. My husband was told he was going for the cure and was even told he was in remission but was dead 2 months later. ",
       "Demographics": {
-        "AgeInfo": [
-          {
-            "Confidence": 1,
-            "Phrase": "<Z> <Z> <Z> <Z> My 16 year old just got her",
-            "Relation": "unknown",
-            "Tense": "unknown",
-            "Value": 16
-          },
-          {
-            "Confidence": 1,
-            "Phrase": "first serious boyfriend and my 18 year old is going to",
-            "Relation": "unknown",
-            "Tense": "present",
-            "Value": 18
-          }
-        ],
+        "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
             "MainSubject": "I",
             "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
+            "NarratorGender": "female",
+            "PatientGender": "female"
           }
         }
       },
-      "MessageIndex": 11,
-      "PostDate": "14/03/2019",
+      "MessageIndex": 1,
+      "PostDate": "10/03/2019",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4111827",
       "Title": "New here. Call back and ultrasound from 3D Mammo"
     },
@@ -115,30 +100,6 @@
       },
       "MessageIndex": 2,
       "PostDate": "13/03/2019",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4111827",
-      "Title": "New here. Call back and ultrasound from 3D Mammo"
-    },
-    {
-      "AuthorID": "Smoo",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4111827&p=278746",
-      "Content": " Thx for the reply. Staying calm I am finding is not an option. Tuesday cannot come soon enough. I am feeling quite stupid because when they called me Thursday afternoon and said we can get you in first thing that next day Friday. I said no and then they said how about\n first thing Monday and I said no. I was worried about\n work being mad. So I opted for Tuesday afternoon. It did not dawn on me about\n the anxiety I would be feeling until then even more so with the urgency of them trying to get me in as soon as possible. So now I wait. I am also feeling the effects of not having anyone there with me. I went with my husband through all of it and I am not sure if this doesn't go right who will be with me. I do NOT do well with things like this when it is me. I do not even take Tylenol or cold meds. \nBut for now I wait.\nI am so sorry to hear about\n you losing your mom. My husband was told he was going for the cure and was even told he was in remission but was dead 2 months later. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "10/03/2019",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4111827",
       "Title": "New here. Call back and ultrasound from 3D Mammo"
     },
@@ -185,6 +146,45 @@
       },
       "MessageIndex": 14,
       "PostDate": "22/03/2019",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4111827",
+      "Title": "New here. Call back and ultrasound from 3D Mammo"
+    },
+    {
+      "AuthorID": "Smoo",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=4111827&p=278746",
+      "Content": " Thx guys. I see breast surgeon on Tuesday and I will ask for the reports. I have been trying to manage stress but it is difficult. I keep thinking of my kids if this doesn\u2019t go well. My 16 year old just got her first serious boyfriend and my 18 year old is going to be going to college in the fall. I just don\u2019t want them to have bad memories of this time. ",
+      "Demographics": {
+        "AgeInfo": [
+          {
+            "Confidence": 1,
+            "Phrase": "<Z> <Z> <Z> <Z> My 16 year old just got her",
+            "Relation": "unknown",
+            "Tense": "unknown",
+            "Value": 16
+          },
+          {
+            "Confidence": 1,
+            "Phrase": "first serious boyfriend and my 18 year old is going to",
+            "Relation": "unknown",
+            "Tense": "present",
+            "Value": 18
+          }
+        ],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 11,
+      "PostDate": "14/03/2019",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=4111827",
       "Title": "New here. Call back and ultrasound from 3D Mammo"
     },
@@ -261,6 +261,11 @@
     "SideEffectType": ["Bladder Irritation"],
     "SideEffectTypeKeywords": ["urgency"]
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -298,6 +303,485 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "supportive",
+        "thoughtful",
+        "willing",
+        "lost",
+        "nervous",
+        "scared",
+        "worried",
+        "calm",
+        "willing",
+        "sure",
+        "cold",
+        "worried",
+        "wonderful",
+        "willing",
+        "alone",
+        "willing",
+        "bad",
+        "kind",
+        "at ease",
+        "relaxed",
+        "nice",
+        "willing",
+        "relaxed",
+        "willing",
+        "encouraged"
+      ],
+      "Emotions": {
+        "AFRAID": "0.571",
+        "ALIVE": "0.143",
+        "ANGRY": "0",
+        "CONFUSED": "0.143",
+        "DEPRESSED": "0.143",
+        "GOOD": "0.857",
+        "HAPPY": "0",
+        "HELPLESS": "0.143",
+        "HURT": "0",
+        "INDIFFERENT": "0.143",
+        "INTERESTED": "0.143",
+        "LOVE": "0.143",
+        "OPEN": "0.143",
+        "POSITIVE": "0.857",
+        "SAD": "0",
+        "STRONG": "0.143"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": ["Bladder Irritation"],
+      "SideEffectTypeKeywords": ["urgency"]
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

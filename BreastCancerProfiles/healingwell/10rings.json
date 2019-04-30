@@ -23,14 +23,17 @@
       "willing",
       "pained",
       "pained",
-      "pleased",
-      "concerned",
-      "pained",
-      "pained",
       "worried",
       "great",
       "warm",
       "sure",
+      "willing",
+      "sure",
+      "tired",
+      "pleased",
+      "concerned",
+      "pained",
+      "pained",
       "kind",
       "touched",
       "caring",
@@ -40,10 +43,7 @@
       "bad",
       "tired",
       "thoughtful",
-      "sure",
-      "willing",
-      "sure",
-      "tired"
+      "sure"
     ],
     "Emotions": {
       "AFRAID": "0.091",
@@ -68,134 +68,6 @@
   "NExperiencePosts": 11,
   "NPosts": 15,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 4,
-      "NExperience": 11,
-      "NTotal": 15,
-      "PAdvice": 0.26666666666666666,
-      "PExperience": 0.7333333333333333
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "10rings",
@@ -335,52 +207,6 @@
     {
       "AuthorID": "10rings",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
-      "Content": " Jane, \nHow are you doing? ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 29,
-      "PostDate": "10/02/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
-      "Title": "Jane, how are things going for you???"
-    },
-    {
-      "AuthorID": "10rings",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1680301&p=95993",
-      "Content": " I am to begin taking Femara this month. I am afraid of some of the side effects. I had partial knee replacements 2 and 3 years ago, and I know about\n bone pain. I do not want to feel that pain again. I am also concerned about\n the bone density as when I had the density test they found osteopina in two areas. \nI know that I may never have either one of these side effects and I know I should at least try Femara. I need some feedback from those who have experience with Femara. Please help enlighten me. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "21/01/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1680301",
-      "Title": "Femara vs. Tamoxifin"
-    },
-    {
-      "AuthorID": "10rings",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
       "Content": " Jane, \nI worried about\n my lung as I am a 17 year survivor of lung cancer. No radiation, no chemo, just surgery to remove 1 1/2 lobes of right lung. \nEnjoy your weekend. We are getting a foot of snow today. It's pretty, but I've had enough winter. \nRobin ",
       "Demographics": {
         "AgeInfo": [],
@@ -447,6 +273,98 @@
       "PostDate": "05/02/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
       "Title": "Jane, how are things going for you???"
+    },
+    {
+      "AuthorID": "10rings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
+      "Content": " Jane, \nHow are you doing? ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 29,
+      "PostDate": "10/02/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
+      "Title": "Jane, how are things going for you???"
+    },
+    {
+      "AuthorID": "10rings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
+      "Content": " Jane, \nI mentioned in another post that I only had 16 rad. treatments. They gave me a cream/lotion to use after my treatment and at bedtime. Make sure you put it ALL over the area being treated and on your underarm!!! I was only told to stay within the markings and my underarm was not part of that. I noticed after the 13th treatment my underarm was raw and very dark. It took about\n 2 weeks for that discomfort to go away. I would not have had a problem if I had known to use the lotion under my arm. \nI will tell you that even though I only had the 16 treatments I was very tired. Radiologist told me to expect that and she was right! \nCompared to the chemo radiation was a breeze. Going every day was a drag, but each day was a little closer to the end of the journey. \nRobin ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 18,
+      "PostDate": "25/01/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
+      "Title": "Jane, how are things going for you???"
+    },
+    {
+      "AuthorID": "10rings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
+      "Content": " Jane, \nMy lymph nodes were clear also, but the angle at which they had to put the radiation machine caused the underarm to be involved. Make sure you ask about\n this when they are showing you how and were to put the cream. I was not told that my underarm would be affected, but it was and it got very sore. \nHang in there. Feb. 2nd .... ground hogs day. Some times going every day to radiation felt like that movie ground hogs day. It got old at only 16 treatments. \nRobin ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 21,
+      "PostDate": "27/01/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
+      "Title": "Jane, how are things going for you???"
+    },
+    {
+      "AuthorID": "10rings",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1680301&p=95993",
+      "Content": " I am to begin taking Femara this month. I am afraid of some of the side effects. I had partial knee replacements 2 and 3 years ago, and I know about\n bone pain. I do not want to feel that pain again. I am also concerned about\n the bone density as when I had the density test they found osteopina in two areas. \nI know that I may never have either one of these side effects and I know I should at least try Femara. I need some feedback from those who have experience with Femara. Please help enlighten me. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 2,
+      "PostDate": "21/01/2010",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1680301",
+      "Title": "Femara vs. Tamoxifin"
     },
     {
       "AuthorID": "10rings",
@@ -523,52 +441,6 @@
       "PostDate": "01/02/2010",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
       "Title": "Jane, how are things going for you???"
-    },
-    {
-      "AuthorID": "10rings",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
-      "Content": " Jane, \nI mentioned in another post that I only had 16 rad. treatments. They gave me a cream/lotion to use after my treatment and at bedtime. Make sure you put it ALL over the area being treated and on your underarm!!! I was only told to stay within the markings and my underarm was not part of that. I noticed after the 13th treatment my underarm was raw and very dark. It took about\n 2 weeks for that discomfort to go away. I would not have had a problem if I had known to use the lotion under my arm. \nI will tell you that even though I only had the 16 treatments I was very tired. Radiologist told me to expect that and she was right! \nCompared to the chemo radiation was a breeze. Going every day was a drag, but each day was a little closer to the end of the journey. \nRobin ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 18,
-      "PostDate": "25/01/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
-      "Title": "Jane, how are things going for you???"
-    },
-    {
-      "AuthorID": "10rings",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1690009&p=95993",
-      "Content": " Jane, \nMy lymph nodes were clear also, but the angle at which they had to put the radiation machine caused the underarm to be involved. Make sure you ask about\n this when they are showing you how and were to put the cream. I was not told that my underarm would be affected, but it was and it got very sore. \nHang in there. Feb. 2nd .... ground hogs day. Some times going every day to radiation felt like that movie ground hogs day. It got old at only 16 treatments. \nRobin ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 21,
-      "PostDate": "27/01/2010",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1690009",
-      "Title": "Jane, how are things going for you???"
     }
   ],
   "ProfileDemographics": {
@@ -588,6 +460,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

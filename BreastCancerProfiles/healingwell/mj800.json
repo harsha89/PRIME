@@ -38,6 +38,14 @@
       "numb",
       "pained",
       "hurtful",
+      "understanding",
+      "hopeful",
+      "willing",
+      "hateful",
+      "alone",
+      "fearful",
+      "terrified",
+      "panic",
       "kind",
       "pleased",
       "willing",
@@ -54,15 +62,7 @@
       "willing",
       "sure",
       "panic",
-      "tortured",
-      "understanding",
-      "hopeful",
-      "willing",
-      "hateful",
-      "alone",
-      "fearful",
-      "terrified",
-      "panic"
+      "tortured"
     ],
     "Emotions": {
       "AFRAID": "1.75",
@@ -87,134 +87,6 @@
   "NExperiencePosts": 8,
   "NPosts": 8,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 8,
-      "NTotal": 8,
-      "PAdvice": 0,
-      "PExperience": 1
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "mj800",
@@ -285,6 +157,30 @@
       },
       "MessageIndex": 8,
       "PostDate": "14/03/2009",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1396088",
+      "Title": "breast biopsy"
+    },
+    {
+      "AuthorID": "mj800",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1396088&p=77918",
+      "Content": " little star,\nI understand your fears completley. I hate that anyone else out there has the fear panic depression and anxiety as I do, but know now I am not alone. Terrified but not alone. My doctor comfirmed to me today he will no longer be my physicean. My husband said write Dr. Phil maybe he can get you a doctor who will put you out. So, I just wrote to him, that would be awsome and a relief if Dr. Phil would help me out with this. Because again today I spent the entire day on the phone looking for a doctor or surgeon who would give me general anestisia. Oh, I know my spelling is way off, sorry I can't think it has be 3 days since I slept or ate anything. Well, Hope some out there can help me. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": [],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "female",
+            "PatientGender": "female"
+          }
+        }
+      },
+      "MessageIndex": 6,
+      "PostDate": "09/03/2009",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1396088",
       "Title": "breast biopsy"
     },
@@ -363,30 +259,6 @@
     {
       "AuthorID": "mj800",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1396088&p=77918",
-      "Content": " little star,\nI understand your fears completley. I hate that anyone else out there has the fear panic depression and anxiety as I do, but know now I am not alone. Terrified but not alone. My doctor comfirmed to me today he will no longer be my physicean. My husband said write Dr. Phil maybe he can get you a doctor who will put you out. So, I just wrote to him, that would be awsome and a relief if Dr. Phil would help me out with this. Because again today I spent the entire day on the phone looking for a doctor or surgeon who would give me general anestisia. Oh, I know my spelling is way off, sorry I can't think it has be 3 days since I slept or ate anything. Well, Hope some out there can help me. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "female",
-            "PatientGender": "female"
-          }
-        }
-      },
-      "MessageIndex": 6,
-      "PostDate": "09/03/2009",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1396088",
-      "Title": "breast biopsy"
-    },
-    {
-      "AuthorID": "mj800",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1396088&p=77918",
       "Content": " For all the people out there maybe it was not on this site but have been looking for a video of a stereotactic breast biopsy http://www.brustzentrum-wen-mak.de/englisch/brust_mak_dia.php# ",
       "Demographics": {
         "AgeInfo": [],
@@ -424,6 +296,11 @@
   "SideEffectTypeInfo": {
     "SideEffectType": ["Bladder Irritation"],
     "SideEffectTypeKeywords": ["burning"]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {

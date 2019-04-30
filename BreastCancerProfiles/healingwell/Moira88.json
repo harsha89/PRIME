@@ -13,10 +13,6 @@
       "frightened",
       "doubtful",
       "wronged",
-      "glad",
-      "affected",
-      "thoughtful",
-      "lost",
       "understanding",
       "pleased",
       "caring",
@@ -25,6 +21,10 @@
       "willing",
       "bad",
       "crying",
+      "glad",
+      "affected",
+      "thoughtful",
+      "lost",
       "glad",
       "wonderful",
       "concerned",
@@ -59,6 +59,28 @@
     {
       "AuthorID": "Moira88",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3681365&p=254211",
+      "Content": " Exqualls, I am also one of the many people following your posts in this forum...sending healing thoughts and prayers your way for a speedy recovery. Although your treatment for cancer may be on hold for months, I somehow believe that the treatments you have done so far have eliminated the cancer from your body. In your first post, when you described your history of going to the GYN and doctors, you could have been writing about\n my medical history as well. After finally going for a mammogram and having totally normal results, I realize how important these tests are, not only for one's physical health, but for their mental health as well. Thank you for your wonderful strength and for sharing all that you're going through...whether you realize it or not, you're helping a lot of people. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 111,
+      "PostDate": "14/04/2017",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3681365",
+      "Title": "new to forum, diagnostic mammo and ultrasound found large lumps"
+    },
+    {
+      "AuthorID": "Moira88",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3681365&p=254211",
       "Content": " Hi Exqualis, so sorry to hear of your further complications, but I'm glad your feeling better now. Unfortunately, I had a \"light\" case of Guillain-Barre' syndrome about\n five years ago after a flu shot...it was a misery, and I can remember feeling like I had a 50 pound weight wrapped around each leg when I wanted to walk. From your descript\nion, it sounds like you had a worse case than I did, but with time I'm sure yours will go away completely. I had other health issues going on at time, but from what I remember, it took about\n two or three months for me to start feeling better. I had no permanent after effects from the GB, but it was really frightening at the time because I didn't know what was wrong with me. My medical nightmares have been orthopedic in nature with neurological complications from surgeries, but eventually everything healed even although my doctors were doubtful about\n how I would land up. At the time I just decided to calm down, tune out the negativity, and try to enjoy my healing process. That's sounds crazy, doesn't it, but it made things easier to enjoy the help of friends and family, to savor all of the delicious food brought into the house, and to take great joy from very small things like a visit from a good friend. Keep getting better, and I'm sending you prayers and positive healing thoughts... ",
       "Demographics": {
         "AgeInfo": [],
@@ -77,30 +99,6 @@
       },
       "MessageIndex": 125,
       "PostDate": "15/04/2017",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3681365",
-      "Title": "new to forum, diagnostic mammo and ultrasound found large lumps"
-    },
-    {
-      "AuthorID": "Moira88",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3681365&p=254211",
-      "Content": " Hi Exqualls...bet you thought I left the planet...really serious computer problems here, and my passwords and IDs got so messed up, I couldn't even log into my accounts anymore. I needed a new cable to the motherboard in my laptop, and I'm so glad that's over. I've been reading your posts today, and it does seem that your finally making progress. My bout with GB was very mild next to yours, and I never did have any involvement of the arms or hands. Listening to you describe your symptoms, I feel that I really didn't have GB at all...\nI really don't know anything about\n Taxol and GB, but I can pass on a anecdote about\n chemo affecting leg function...a work aquaintance from a sister company was in the process of having chemo for colorectal cancer. I asked her how she was doing, and she told me that the chemo had brought on peripheral neuropathy in her legs and feet and that this that was affecting her ability to walk and drive...she was going to move near her family in Florida. We lost contact after that, so I don't know if these matters ever resolved, but perhaps this would be another avenue for you to research. \nSending you prayers and positive healing thoughts...\n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 143,
-      "PostDate": "03/05/2017",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3681365",
       "Title": "new to forum, diagnostic mammo and ultrasound found large lumps"
     },
@@ -131,22 +129,24 @@
     {
       "AuthorID": "Moira88",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=3681365&p=254211",
-      "Content": " Exqualls, I am also one of the many people following your posts in this forum...sending healing thoughts and prayers your way for a speedy recovery. Although your treatment for cancer may be on hold for months, I somehow believe that the treatments you have done so far have eliminated the cancer from your body. In your first post, when you described your history of going to the GYN and doctors, you could have been writing about\n my medical history as well. After finally going for a mammogram and having totally normal results, I realize how important these tests are, not only for one's physical health, but for their mental health as well. Thank you for your wonderful strength and for sharing all that you're going through...whether you realize it or not, you're helping a lot of people. ",
+      "Content": " Hi Exqualls...bet you thought I left the planet...really serious computer problems here, and my passwords and IDs got so messed up, I couldn't even log into my accounts anymore. I needed a new cable to the motherboard in my laptop, and I'm so glad that's over. I've been reading your posts today, and it does seem that your finally making progress. My bout with GB was very mild next to yours, and I never did have any involvement of the arms or hands. Listening to you describe your symptoms, I feel that I really didn't have GB at all...\nI really don't know anything about\n Taxol and GB, but I can pass on a anecdote about\n chemo affecting leg function...a work aquaintance from a sister company was in the process of having chemo for colorectal cancer. I asked her how she was doing, and she told me that the chemo had brought on peripheral neuropathy in her legs and feet and that this that was affecting her ability to walk and drive...she was going to move near her family in Florida. We lost contact after that, so I don't know if these matters ever resolved, but perhaps this would be another avenue for you to research. \nSending you prayers and positive healing thoughts...\n ",
       "Demographics": {
         "AgeInfo": [],
         "GenderInfo": {
           "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
+            "FemaleMedicalTerms": [],
             "MaleMedicalTerms": []
           },
           "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
           }
         }
       },
-      "MessageIndex": 111,
-      "PostDate": "14/04/2017",
+      "MessageIndex": 143,
+      "PostDate": "03/05/2017",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=3681365",
       "Title": "new to forum, diagnostic mammo and ultrasound found large lumps"
     },
@@ -214,6 +214,11 @@
     "SideEffectType": [],
     "SideEffectTypeKeywords": []
   },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
+  },
   "TreatmentDecision": {
     "DoctorRecommended": {
       "Age": 0,
@@ -251,6 +256,493 @@
       "Urinary incontinence": 0,
       "Value": 0
     }
+  },
+  "TreatmentTimelineInfo": {
+    "-1 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-1 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-2 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-2 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "-3 Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "-3 Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "10th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "10th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "11th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "11th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "12th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "12th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "13th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "13th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "18th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "18th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "1st Month Emotions": {
+      "EmotionKeywords": [
+        "important",
+        "wonderful",
+        "thoughtful",
+        "great",
+        "glad",
+        "calm",
+        "thoughtful",
+        "willing",
+        "sure",
+        "doubtful",
+        "frightened",
+        "doubtful",
+        "wronged",
+        "understanding",
+        "pleased",
+        "caring",
+        "affected",
+        "thoughtful",
+        "willing",
+        "bad",
+        "crying",
+        "glad",
+        "affected",
+        "thoughtful",
+        "lost",
+        "glad",
+        "wonderful",
+        "concerned",
+        "affected",
+        "thoughtful",
+        "hopeful",
+        "thoughtful",
+        "hopeful"
+      ],
+      "Emotions": {
+        "AFRAID": "0.333",
+        "ALIVE": "0.333",
+        "ANGRY": "0",
+        "CONFUSED": "0.333",
+        "DEPRESSED": "0.167",
+        "GOOD": "0.333",
+        "HAPPY": "0.833",
+        "HELPLESS": "0",
+        "HURT": "0.167",
+        "INDIFFERENT": "0",
+        "INTERESTED": "1.667",
+        "LOVE": "0.167",
+        "OPEN": "0.167",
+        "POSITIVE": "0.667",
+        "SAD": "0.167",
+        "STRONG": "0.167"
+      }
+    },
+    "1st Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "24th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "24th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "2nd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "2nd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "3rd Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "3rd Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "4th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "4th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "5th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "5th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "6th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "6th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "7th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "7th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "8th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "8th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "9th Month Emotions": {
+      "EmotionKeywords": [],
+      "Emotions": {
+        "AFRAID": 0,
+        "ALIVE": 0,
+        "ANGRY": 0,
+        "CONFUSED": 0,
+        "DEPRESSED": 0,
+        "GOOD": 0,
+        "HAPPY": 0,
+        "HELPLESS": 0,
+        "HURT": 0,
+        "INDIFFERENT": 0,
+        "INTERESTED": 0,
+        "LOVE": 0,
+        "OPEN": 0,
+        "POSITIVE": 0,
+        "SAD": 0,
+        "STRONG": 0
+      }
+    },
+    "9th Month SideEffects": {
+      "SideEffectType": [],
+      "SideEffectTypeKeywords": []
+    },
+    "Verified": 0
   },
   "TreatmentTypeInfo": {
     "TreatmentMentions": [],

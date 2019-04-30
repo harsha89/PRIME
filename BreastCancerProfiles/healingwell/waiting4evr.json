@@ -11,10 +11,10 @@
       "worried",
       "thoughtful",
       "apprehensive",
-      "ok",
-      "hopeful",
       "sure",
-      "paranoid"
+      "paranoid",
+      "ok",
+      "hopeful"
     ],
     "Emotions": {
       "AFRAID": "0.75",
@@ -39,134 +39,6 @@
   "NExperiencePosts": 4,
   "NPosts": 6,
   "PSAInfo": {},
-  "PostTypeInfo": {
-    "-1 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-2 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "-3 Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "10th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "11th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "12th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "13th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "18th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "1st Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 1,
-      "NTotal": 2,
-      "PAdvice": 0.5,
-      "PExperience": 0.5
-    },
-    "24th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "2nd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "3rd Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "4th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "5th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "6th Month PostTypeInfo": {
-      "NAdvice": 1,
-      "NExperience": 3,
-      "NTotal": 4,
-      "PAdvice": 0.25,
-      "PExperience": 0.75
-    },
-    "7th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "8th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    },
-    "9th Month PostTypeInfo": {
-      "NAdvice": 0,
-      "NExperience": 0,
-      "NTotal": 0,
-      "PAdvice": 0,
-      "PExperience": 0
-    }
-  },
   "Posts": [
     {
       "AuthorID": "waiting4evr",
@@ -240,6 +112,58 @@
     },
     {
       "AuthorID": "waiting4evr",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385531&p=143635",
+      "Content": " I had both the diagnostic mammogram and the ultrasound on April 4th for my 6 month check up and also back in October on my first call back. I guess I'm just paranoid. I just wasnt sure if the Radiologist tells you something right away or send the report to your doctor so your doctor can tell you. ",
+      "Demographics": {
+        "AgeInfo": [],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["mammogram"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "I",
+            "NarrationType": "first-person",
+            "NarratorGender": "unknown",
+            "PatientGender": "unknown"
+          }
+        }
+      },
+      "MessageIndex": 1,
+      "PostDate": "08/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385531",
+      "Title": "(No Subject)"
+    },
+    {
+      "AuthorID": "waiting4evr",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385531&p=143635",
+      "Content": " I'm 45 been having mammos forever it seams, this past September I had a call back to do a diagnostic mammo and ultra sound. Took a long time to read it and then said that everything looked ok and said we will see you in six months. I went back yesterday for my six months check up, the x-ray tech said that if they need to see me sooner they will let me know but otherwise they would see me in six months for my regular mammo. I was wondering does the radiologist let you know when your there if you would need a biopsi. My mom had breast cancer. They caught it extremely early and she just had to do radiation. I hate this waiting. Cant they just let you know while your there!  ",
+      "Demographics": {
+        "AgeInfo": [{
+          "Confidence": 1,
+          "Phrase": "<Z> <Z> No Subject   I'm 45 been having mammos forever it",
+          "Relation": "unknown",
+          "Tense": "present",
+          "Value": 45
+        }],
+        "GenderInfo": {
+          "MedicalTermBasedGender": {
+            "FemaleMedicalTerms": ["breast"],
+            "MaleMedicalTerms": []
+          },
+          "NounBasedGender": {
+            "MainSubject": "You",
+            "NarrationType": "advice"
+          }
+        }
+      },
+      "MessageIndex": 0,
+      "PostDate": "05/04/2012",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385531",
+      "Title": "(No Subject)"
+    },
+    {
+      "AuthorID": "waiting4evr",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2451698&p=143635",
       "Content": " I hope that everything went ok. I was 14 or 15 when i found a lump on my left breast, went to the doctor and he said that it was an infected milk gland. The infection made my breast swell so big, it was the first and last time that I had a big boob:). Everything turned out ok. I am now 45. ",
       "Demographics": {
@@ -276,64 +200,12 @@
       "PostDate": "28/09/2012",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2451698",
       "Title": "worryed"
-    },
-    {
-      "AuthorID": "waiting4evr",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385531&p=143635",
-      "Content": " I'm 45 been having mammos forever it seams, this past September I had a call back to do a diagnostic mammo and ultra sound. Took a long time to read it and then said that everything looked ok and said we will see you in six months. I went back yesterday for my six months check up, the x-ray tech said that if they need to see me sooner they will let me know but otherwise they would see me in six months for my regular mammo. I was wondering does the radiologist let you know when your there if you would need a biopsi. My mom had breast cancer. They caught it extremely early and she just had to do radiation. I hate this waiting. Cant they just let you know while your there!  ",
-      "Demographics": {
-        "AgeInfo": [{
-          "Confidence": 1,
-          "Phrase": "<Z> <Z> No Subject   I'm 45 been having mammos forever it",
-          "Relation": "unknown",
-          "Tense": "present",
-          "Value": 45
-        }],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "You",
-            "NarrationType": "advice"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "05/04/2012",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385531",
-      "Title": "(No Subject)"
-    },
-    {
-      "AuthorID": "waiting4evr",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=2385531&p=143635",
-      "Content": " I had both the diagnostic mammogram and the ultrasound on April 4th for my 6 month check up and also back in October on my first call back. I guess I'm just paranoid. I just wasnt sure if the Radiologist tells you something right away or send the report to your doctor so your doctor can tell you. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 1,
-      "PostDate": "08/04/2012",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=2385531",
-      "Title": "(No Subject)"
     }
   ],
   "ProfileDemographics": {
     "Age": {
       "Confidence": 1,
-      "Phrase": "<Z> <Z> I am now 45 <Z> <Z> <Z> <Z> <Z>",
+      "Phrase": "<Z> <Z> No Subject   I'm 45 been having mammos forever it",
       "Relation": "unknown",
       "Tense": "present",
       "Value": 45
@@ -353,6 +225,11 @@
       "infection",
       "lump"
     ]
+  },
+  "SurgeryTypeInfo": {
+    "SurgeryMentions": [],
+    "SurgeryType": "",
+    "SurgeryTypeKeywords": []
   },
   "TreatmentDecision": {
     "DoctorRecommended": {
