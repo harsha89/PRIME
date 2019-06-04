@@ -1,0 +1,13 @@
+{
+  "AuthorID": "fadhlyemen",
+  "AuthorURL": "https://www.cancercompass.comhttps://www.cancercompass.com/profile/fadhlyemen",
+  "Posts": [{
+    "AuthorID": "fadhlyemen",
+    "AuthorURL": "https://www.cancercompass.comhttps://www.cancercompass.com/profile/fadhlyemen",
+    "Content": "I read a paper about breast cancer subclassification. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705275/ I build the below matrix: EP    PR    HERO2    Subtype 0          0        0               4 0          0        1               3 0          1        0              2 0          1        1              1 1           0        0              2 1           0         1             1 1           1          0             2 1           1           1             1 I have a data set which has EP/PR and Hero2. Some of the patients under Hero2 are \"equivocal (score 2+)\" So I am confused to consider Hero2 as 1 or 0? I appreciate your clarification on this.",
+    "MessageIndex": 0,
+    "PostDate": "22/11/2016",
+    "ThreadURL": "https://www.cancercompass.com/message-board/message/all,93743,0.htm",
+    "Title": "asking about breast cancer sub-classification"
+  }]
+}

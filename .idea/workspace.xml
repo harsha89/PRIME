@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5424805-ef56-46ec-b743-eb43bb3044c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.author timeline data surgery.csv.swp" beforeDir="false" afterPath="$PROJECT_DIR$/.author timeline data surgery.csv.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/CommunityBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/ForumBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_collection/UstooBreastCancerMiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.breastcancerforums_forum_threads.csv.swp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/.wagirl.json.swp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/100plus.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/100plus.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/1109debbie.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/1109debbie.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/111lisam.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/111lisam.json" afterDir="false" />
@@ -914,6 +925,7 @@
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mruczko.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mruczko.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/msbob.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/msbob.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/msmom.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/msmom.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/msnurse74.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mssue.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mssue.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mthem2003.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mthem2003.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mtr3350.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/breastcancerforums/mtr3350.json" afterDir="false" />
@@ -2511,7 +2523,7 @@
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grannymae.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grannymae.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grateful.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grateful.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grcful_girl.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grcful_girl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/greatHealth.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/greatHealth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/greatHealth.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grlfrnd.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/grlfrnd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/gtgirl24.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/gtgirl24.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/gulis.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/gulis.json" afterDir="false" />
@@ -3225,18 +3237,13 @@
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/zwillis77.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/zwillis77.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/~CroniesKid2~.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/~CroniesKid2~.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/~SimplyUs~.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreastCancerProfiles/healingwell/~SimplyUs~.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author data [treatment type].csv" beforeDir="false" afterPath="$PROJECT_DIR$/author data [treatment type].csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author timeline data surgery.csv" beforeDir="false" afterPath="$PROJECT_DIR$/author timeline data surgery.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breastcancerforums_authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/breastcancerforums_authors.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/breastcancerforums_forum_threads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/breastcancerforums_forum_threads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProstateCancerPipeline_NEW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProstateCancerPipeline_NEW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveAuthorsToCSV_TreatmentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SaveAuthorsToCSV_TreatmentType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveTimeLineInfoToCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SaveTimeLineInfoToCSV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clinical_info/TreatmentDecisionExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clinical_info/TreatmentDecisionExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clinical_info/TreatmentTimelineExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clinical_info/TreatmentTimelineExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clinical_info/TreatmentTypeExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clinical_info/TreatmentTypeExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_collection/CancerforumsBreastCancerMiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_collection/CancerforumsBreastCancerMiner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demographic/AggregateDemographics_ProstateCancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demographic/AggregateDemographics_ProstateCancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/healingwell_forum_authors_all.txt" beforeDir="false" afterPath="$PROJECT_DIR$/healingwell_forum_authors_all.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/healingwell_forum_threads_all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/healingwell_forum_threads_all.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/genderClassifier/female_medical_terms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/genderClassifier/female_medical_terms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/treatment_type/treatment_type_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/treatment_type/treatment_type_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/treatment_type/treatment_type_side_effects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/treatment_type/treatment_type_side_effects.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -3246,102 +3253,131 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SaveTimeLineInfoToCSV.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SaveTimeLineInfoToCSV.java">
+      <file leaf-file-name="CancerCompassBreastCancerMiner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="2329">
+              <caret line="177" column="87" selection-start-line="177" selection-start-column="87" selection-end-line="177" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="decisionWords_Confirmation.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/decisionWords_Confirmation.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="surgeryDecisionCatergories.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/surgeryDecisionCatergories.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="SaveAuthorsToCSV_TreatmentType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SaveAuthorsToCSV_TreatmentType.java">
+      <file leaf-file-name="HealthBoardsforumsBreastCancerMiner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="322" selection-start-line="322" selection-end-line="322" />
+            <state relative-caret-position="2023">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmotionToCSVHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/emotion/EmotionToCSVHelper.java">
+      <file leaf-file-name="Sample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/Sample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PatientInfoBreastCancerMiner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="49" column="79" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UstooAdvancedBreastCancerMiner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="250" column="51" selection-start-line="250" selection-start-column="45" selection-end-line="250" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UstooBreastCancerMiner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/UstooBreastCancerMiner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3502">
+              <caret line="246" column="45" selection-start-line="246" selection-start-column="45" selection-end-line="246" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MacmillanukBreastCancerMiner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="234" selection-start-line="234" selection-end-line="234" />
               <folding>
-                <element signature="e#1902#1903#0" expanded="true" />
-                <element signature="e#1931#1932#0" expanded="true" />
+                <element signature="e#4684#5410#0" expanded="true" />
+                <element signature="e#5409#5410#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="surgery_type_list.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/treatment_type/surgery_type_list.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="decisionWords_TakingDecision.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/decisionWords_TakingDecision.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ProstateCancerPipeline_NEW.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProstateCancerPipeline_NEW.java">
+      <file leaf-file-name="CommunityBreastCancerMiner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/CommunityBreastCancerMiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="118" column="60" selection-start-line="118" selection-start-column="60" selection-end-line="118" selection-end-column="60" />
+            <state relative-caret-position="335">
+              <caret line="596" column="9" selection-start-line="596" selection-start-column="9" selection-end-line="596" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmotionExtractor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/emotion/EmotionExtractor.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_111/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="104" column="96" selection-start-line="104" selection-start-column="92" selection-end-line="104" selection-end-column="96" />
+            <state relative-caret-position="32215">
+              <caret line="1966" selection-start-line="1966" selection-end-line="1966" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="surgeryTimeline.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/surgeryTimeline.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Message.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_collection/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+              <folding>
+                <element signature="e#1537#1538#0" expanded="true" />
+                <element signature="e#1564#1565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>AFRAID</find>
-      <find>Processed</find>
-      <find>file</find>
-      <find>type</find>
-      <find>PostTypeInfo</find>
-      <find>Prost</find>
-      <find>f.getVal</find>
-      <find>nPages</find>
-      <find>getMessageText</find>
-      <find>1299443</find>
-      <find>pageNo</find>
-      <find>EmotionKeywords</find>
-      <find>healingwell</find>
-      <find>postTypeInfo</find>
-      <find>SurgeryTypeInfo</find>
-      <find>getSurgeryTypeProfileJSON</find>
       <find>TreatmentTimelineInfo</find>
       <find>post</find>
       <find>treatmentTimelineInfo</find>
@@ -3356,11 +3392,31 @@
       <find>Tiredness</find>
       <find>HasGen</find>
       <find>HasGender</find>
+      <find>index</find>
+      <find>csn</find>
+      <find>threadFileName</find>
+      <find>Processed Page:</find>
+      <find>brachytherapy</find>
+      <find>chemo</find>
+      <find>.txt</find>
+      <find>mood</find>
+      <find>tamoxifen</find>
+      <find>base</find>
+      <find>message.set</find>
+      <find>on</find>
+      <find>Processed</find>
+      <find>macmillanukbreastcancerforums_authors</find>
+      <find>slee</find>
+      <find>authorFileName</find>
     </findStrings>
+    <replaceStrings>
+      <replace>healthboards</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/bin/PRIME/org</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/BreastCancerProfiles_processed</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -3382,6 +3438,20 @@
         <option value="$PROJECT_DIR$/src/util/Utils.java" />
         <option value="$PROJECT_DIR$/src/data_collection/CancerforumsBreastCancerMiner.java" />
         <option value="$PROJECT_DIR$/src/SaveAuthorsToCSV_TreatmentType.java" />
+        <option value="$PROJECT_DIR$/models/surgeryKeywords/decisionWords_Confirmation.txt" />
+        <option value="$PROJECT_DIR$/src/data_collection/ForumBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/models/treatment_type/treatment_type_list.txt" />
+        <option value="$PROJECT_DIR$/models/genderClassifier/female_medical_terms.txt" />
+        <option value="$PROJECT_DIR$/models/treatment_type/treatment_type_side_effects.txt" />
+        <option value="$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/UstooBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/Sample.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java" />
+        <option value="$PROJECT_DIR$/src/data_collection/CommunityBreastCancerMiner.java" />
       </list>
     </option>
   </component>
@@ -3390,6 +3460,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -3406,8 +3482,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -3424,6 +3501,24 @@
               <item name="PRIME" type="b2602c69:ProjectViewProjectNode" />
               <item name="PRIME" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRIME" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIME" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="ageClassifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRIME" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIME" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="emotions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRIME" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRIME" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="genderClassifier" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PRIME" type="b2602c69:ProjectViewProjectNode" />
@@ -3467,7 +3562,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3497,9 +3591,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SaveAuthorsToCSV_TreatmentType">
-    <configuration name="CancerforumsBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_collection.CancerforumsBreastCancerMiner" />
+  <component name="RunManager" selected="Application.CommunityBreastCancerMiner">
+    <configuration name="CancerCompassBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_collection.CancerCompassBreastCancerMiner" />
       <module name="PRIME" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -3509,8 +3603,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HealingwellBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_collection.HealingwellBreastCancerMiner" />
+    <configuration name="CommunityBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_collection.CommunityBreastCancerMiner" />
       <module name="PRIME" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -3520,20 +3614,49 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ProstateCancerPipeline_NEW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProstateCancerPipeline_NEW" />
+    <configuration name="MacmillanukBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_collection.MacmillanukBreastCancerMiner" />
       <module name="PRIME" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="SaveAuthorsToCSV_TreatmentType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveAuthorsToCSV_TreatmentType" />
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_collection.Sample" />
       <module name="PRIME" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="SaveTimeLineInfoToCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveTimeLineInfoToCSV" />
+    <configuration name="UstooAdvancedBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_collection.UstooAdvancedBreastCancerMiner" />
       <module name="PRIME" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UstooBreastCancerMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_collection.UstooBreastCancerMiner" />
+      <module name="PRIME" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -3577,19 +3700,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SaveTimeLineInfoToCSV" />
-      <item itemvalue="Application.ProstateCancerPipeline_NEW" />
-      <item itemvalue="Application.CancerforumsBreastCancerMiner" />
-      <item itemvalue="Application.SaveAuthorsToCSV_TreatmentType" />
-      <item itemvalue="Application.HealingwellBreastCancerMiner" />
+      <item itemvalue="Application.UstooAdvancedBreastCancerMiner" />
+      <item itemvalue="Application.Sample" />
+      <item itemvalue="Application.UstooBreastCancerMiner" />
+      <item itemvalue="Application.MacmillanukBreastCancerMiner" />
+      <item itemvalue="Application.CommunityBreastCancerMiner" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SaveAuthorsToCSV_TreatmentType" />
-        <item itemvalue="Application.SaveTimeLineInfoToCSV" />
-        <item itemvalue="Application.ProstateCancerPipeline_NEW" />
-        <item itemvalue="Application.HealingwellBreastCancerMiner" />
-        <item itemvalue="Application.CancerforumsBreastCancerMiner" />
+        <item itemvalue="Application.CommunityBreastCancerMiner" />
+        <item itemvalue="Application.MacmillanukBreastCancerMiner" />
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.UstooBreastCancerMiner" />
+        <item itemvalue="Application.UstooAdvancedBreastCancerMiner" />
       </list>
     </recent_temporary>
   </component>
@@ -3608,12 +3731,18 @@
       <workItem from="1554838597093" duration="15698000" />
       <workItem from="1555057644115" duration="47833000" />
       <workItem from="1555782534274" duration="106100000" />
-      <workItem from="1556612160034" duration="26961000" />
+      <workItem from="1556612160034" duration="34295000" />
+      <workItem from="1556966034502" duration="61436000" />
+      <workItem from="1557770201228" duration="25857000" />
+      <workItem from="1558590681756" duration="27508000" />
+      <workItem from="1559321612037" duration="8673000" />
+      <workItem from="1559412540829" duration="49855000" />
+      <workItem from="1559562142599" duration="39473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220411000" />
+    <option name="totallyTimeSpent" value="440547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -3629,28 +3758,28 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32998884" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49363586" weight="0.32998884" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.44604316" side_tool="true" weight="0.41025642" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32982844" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42028984" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975097" weight="0.3199554" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998884" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26120642" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28112894" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32982844" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2831661" />
       <window_info id="Learn" order="2" weight="0.32982844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958494" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37235227" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5539568" weight="0.4381271" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -3897,8 +4026,206 @@
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java</url>
+          <line>205</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java</url>
+          <line>204</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>216</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java</url>
+          <line>181</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java</url>
+          <line>217</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java</url>
+          <line>251</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java</url>
+          <line>185</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java</url>
+          <line>178</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java</url>
+          <line>185</line>
+          <properties />
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java</url>
+          <line>255</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java</url>
+          <line>260</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CommunityBreastCancerMiner.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_collection/CommunityBreastCancerMiner.java</url>
+          <line>233</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="98" />
+      <option name="time" value="185" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -3906,125 +4233,254 @@
       </configuration>
     </watches-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>DataCollectionUtils.getAuthoredPosts(authorID,esBulkFeeder.getClient(),index,type)</expression-string>
+        <expression-string>messageElement.select(&quot;div[class=user-post]&quot;).first().text()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sortedPosts.get(0).get(&quot;PostDate&quot;).toString()</expression-string>
+        <expression-string>messageElement.select(&quot;p[class=clearfix]&gt;span&quot;).text()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>doc.select(&quot;div[class=page-listing-top]&quot;)</expression-string>
+        <expression-string>messageElement.select(&quot;p[class=clearfix]&gt;span&quot;).text();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>doc.select(&quot;div[class=page-listing-top]&quot;).get(0).children()</expression-string>
+        <expression-string>messageElement.select(&quot;p[class=clearfix]&gt;span&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>doc.select(&quot;div[class=page-listing-top]&quot;).elementData.length</expression-string>
+        <expression-string>messageElement.select(&quot;p[class=clearfix]&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>doc.select(&quot;div[class=page-listing-top]&quot;).elementData</expression-string>
+        <expression-string>messageElement.select(&quot;div[class^=user-post]&quot;).select(&quot;a&quot;).first().attr(&quot;href&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>messageBody.textNodes().get(0).text</expression-string>
+        <expression-string>messageElement.select(&quot;div[class^=user-post]&quot;).select(&quot;a&quot;).first().attr(&quot;href&quot;).text()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>messageBody.textNodes().get(0)</expression-string>
+        <expression-string>messageElement.select(&quot;div[class^=user-post]&quot;).select(&quot;a&quot;).text()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>messageBody.textNodes()</expression-string>
+        <expression-string>messageElement.select(&quot;div[class^=user-post]&quot;).select(&quot;a&quot;).first().text()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/org/apache/lucene/index/MappedMultiFields.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/org/elasticsearch/cluster/action/index/MappingUpdatedAction.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/org/elasticsearch/index/aliases/IndexAliasesService.class">
+    <entry file="file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1171" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/org/elasticsearch/index/aliases/IndexAliasesServiceModule.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/org/elasticsearch/index/indexing/IndexingOperationListener.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.2/jsoup-1.8.2.jar!/org/jsoup/helper/HttpConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        <state relative-caret-position="2329">
+          <caret line="177" column="87" selection-start-line="177" selection-start-column="87" selection-end-line="177" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/clinical_info/DateTypeMentionExtractor.class">
+    <entry file="file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="2720">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/de/jollyday/CalendarHierarchy.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/ForumThread.java">
+    <entry file="file://$PROJECT_DIR$/src/data_collection/Sample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demographic/AggregateDemographics.java">
+    <entry file="file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="34" />
+        <state relative-caret-position="153">
+          <caret line="49" column="79" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="250" column="51" selection-start-line="250" selection-start-column="45" selection-end-line="250" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/UstooBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3502">
+          <caret line="246" column="45" selection-start-line="246" selection-start-column="45" selection-end-line="246" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33422">
+          <caret line="1966" selection-start-line="1966" selection-end-line="1966" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_111/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7140">
+          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
           <folding>
-            <element signature="e#0#15470#0" expanded="true" />
+            <element signature="e#1537#1538#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/collect OSG data.bat">
+    <entry file="file://$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="68" selection-start-line="1" selection-end-line="1" selection-end-column="68" />
+        <state relative-caret-position="2754">
+          <caret line="202" column="64" selection-start-line="202" selection-start-column="27" selection-end-line="202" selection-end-column="64" />
+          <folding>
+            <element signature="e#4684#5410#0" expanded="true" />
+            <element signature="e#5409#5410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SaveTimeLineInfoToCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emotion/EmotionToCSVHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emotion/EmotionExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="104" column="96" selection-start-line="104" selection-start-column="92" selection-end-line="104" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipelineProperties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/HealingwellMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_111/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5372">
+          <caret line="365" selection-start-line="365" selection-end-line="365" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/CancerforumsMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="40" column="65" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/ForumBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="47" column="66" lean-forward="true" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/DateTypeMentionExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/DecisionConfirmationExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="38" column="81" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/DecisionTermExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="37" column="122" selection-start-line="37" selection-start-column="94" selection-end-line="37" selection-end-column="122" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clinical_info/GleasonScoreExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/sample.json">
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/TimelineInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="85">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/TreatmentDecisionExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="36" column="82" selection-start-line="36" selection-start-column="74" selection-end-line="36" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/TreatmentTimelineExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SaveAuthorsToCSV_TreatmentType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4505">
+          <caret line="294" column="42" selection-start-line="294" selection-start-column="42" selection-end-line="294" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/CancerforumsBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -4037,253 +4493,174 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/ageClassifier/age_phrase_features.arff">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
+        <state relative-caret-position="-46280">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demographic/PostTypeCountExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="117" column="54" selection-start-line="117" selection-start-column="54" selection-end-line="117" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.2/jsoup-1.8.2.jar!/org/jsoup/nodes/Element.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-          <folding>
-            <element signature="e#4768#4769#0" expanded="true" />
-            <element signature="e#4822#4823#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/sample_processed.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipelineProperties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/SurgeryTypeDecisionExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="120" column="46" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/PRIME/clinical_info/SurgeryTypeExtarctor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/SurgeryTypeExtarctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/SurgeryTimelineExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1479">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/TimelineInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/TreatmentTimelineExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="236" selection-start-line="236" selection-end-line="236" />
-          <folding>
-            <element signature="e#9038#9046#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/TreatmentTypeExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/CancerforumsMiner.java">
+    <entry file="file://$PROJECT_DIR$/models/emotions/emotions_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="40" column="65" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="65" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/HealingwellMiner.java">
+    <entry file="file://$PROJECT_DIR$/models/genderClassifier/medical_professions.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/prepare authors CSV.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demographic/AggregateDemographics_New.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="81" column="24" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#15761#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demographic/AggregateDemographics_ProstateCancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="50" />
+        <state relative-caret-position="404">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_collection/HealingwellBreastCancerMiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2958">
-          <caret line="218" column="9" selection-start-line="218" selection-start-column="9" selection-end-line="218" selection-end-column="9" />
+        <state relative-caret-position="291">
+          <caret line="167" column="40" selection-start-line="167" selection-start-column="40" selection-end-line="167" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Utils.java">
+    <entry file="file://$PROJECT_DIR$/models/treatment_type/treatment_type_list.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/ESBulkFeeder.java">
+    <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/decisionWords_Confirmation.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.3.2/elasticsearch-2.3.2.jar!/org/elasticsearch/index/query/QueryBuilders.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinical_info/TreatmentDecisionExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="143" column="43" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/DataCollectionUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_collection/CancerforumsBreastCancerMiner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/genderClassifier/female_medical_terms.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/decisionWords_TakingDecision.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/decisionWords_Confirmation.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/surgeryTimeline.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/surgeryKeywords/surgeryDecisionCatergories.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/treatment_type/surgery_type_list.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SaveTimeLineInfoToCSV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="406">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/emotion/EmotionToCSVHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/TreatmentTypeExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-          <folding>
-            <element signature="e#1902#1903#0" expanded="true" />
-            <element signature="e#1931#1932#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SaveAuthorsToCSV_TreatmentType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="322" selection-start-line="322" selection-end-line="322" />
+        <state relative-caret-position="155">
+          <caret line="180" column="24" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProstateCancerPipeline_NEW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="118" column="60" selection-start-line="118" selection-start-column="60" selection-end-line="118" selection-end-column="60" />
+        <state relative-caret-position="391">
+          <caret line="113" column="53" selection-start-line="113" selection-start-column="53" selection-end-line="113" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/emotion/EmotionExtractor.java">
+    <entry file="file://$PROJECT_DIR$/src/clinical_info/SideEffectExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="104" column="96" selection-start-line="104" selection-start-column="92" selection-end-line="104" selection-end-column="96" />
+        <state relative-caret-position="145">
+          <caret line="98" column="122" selection-start-line="98" selection-start-column="95" selection-end-line="98" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/treatment_type/treatment_type_side_effects.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/CSNforumsBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="255" column="31" selection-start-line="255" selection-start-column="31" selection-end-line="255" selection-end-column="31" />
+          <folding>
+            <element signature="e#4595#5321#0" expanded="true" />
+            <element signature="e#5320#5321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_111/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6256">
+          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/HealthBoardsforumsBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding>
+            <element signature="e#1537#1538#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/CancerCompassBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="177" column="87" selection-start-line="177" selection-start-column="87" selection-end-line="177" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/PatientInfoBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="49" column="79" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32215">
+          <caret line="1966" selection-start-line="1966" selection-end-line="1966" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/UstooBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3502">
+          <caret line="246" column="45" selection-start-line="246" selection-start-column="45" selection-end-line="246" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/UstooAdvancedBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="250" column="51" selection-start-line="250" selection-start-column="45" selection-end-line="250" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/MacmillanukBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+          <folding>
+            <element signature="e#4684#5410#0" expanded="true" />
+            <element signature="e#5409#5410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_collection/CommunityBreastCancerMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="596" column="9" selection-start-line="596" selection-start-column="9" selection-end-line="596" selection-end-column="9" />
         </state>
       </provider>
     </entry>

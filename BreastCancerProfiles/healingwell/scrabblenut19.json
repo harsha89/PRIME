@@ -1,59 +1,11 @@
 {
   "AuthorID": "scrabblenut19",
   "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
-  "EmotionInfo": {
-    "EmotionKeywords": [
-      "great",
-      "great news",
-      "thoughtful",
-      "sore",
-      "relaxed",
-      "tender",
-      "caring",
-      "tired"
-    ],
-    "Emotions": {
-      "AFRAID": "0",
-      "ALIVE": "0",
-      "ANGRY": "0.091",
-      "CONFUSED": "0",
-      "DEPRESSED": "0",
-      "GOOD": "0.091",
-      "HAPPY": "0.182",
-      "HELPLESS": "0.091",
-      "HURT": "0",
-      "INDIFFERENT": "0",
-      "INTERESTED": "0.091",
-      "LOVE": "0.182",
-      "OPEN": "0",
-      "POSITIVE": "0",
-      "SAD": "0",
-      "STRONG": "0"
-    }
-  },
-  "GleasonInfo": {},
-  "NExperiencePosts": 11,
-  "NPosts": 11,
-  "PSAInfo": {},
   "Posts": [
     {
       "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
       "Content": " \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
       "MessageIndex": 2,
       "PostDate": "10/04/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
@@ -61,50 +13,8 @@
     },
     {
       "AuthorID": "scrabblenut19",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
-      "Content": " Hi again, everyone: it's been a while since I last posted.  My younger sister (45) lives in London and was diagnosed a year ago, had a lumpectomy and radiation and is currently on Tamoxifen.  Her latest mammogram two weeks ago was clear, which is great news!  \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["mammogram"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "06/04/2008",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
-      "Title": "Sister in England in hospital with cellulitis"
-    },
-    {
-      "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1156315&p=46672",
       "Content": " Hello, everyone: I'm the one with the sister in England who has been having non-stop complications since her lumpectomy and radiation a year ago.  Back in April she was hospitalized for 8 days with cellulitis.  Now she has another infection!  She saw her breast surgeon a week ago; he did an ultrasound, saw something suspicious and aspirated some nasty-looking fluid.  It turns out that what they thought was scar tissue on her last mammogram was in fact this infection, which has probably been brewing for a long time.  \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [
-              "mammogram",
-              "breast"
-            ],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
       "MessageIndex": 0,
       "PostDate": "16/06/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1156315",
@@ -113,21 +23,16 @@
     {
       "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
+      "Content": " Hi again, everyone: it's been a while since I last posted.  My younger sister (45) lives in London and was diagnosed a year ago, had a lumpectomy and radiation and is currently on Tamoxifen.  Her latest mammogram two weeks ago was clear, which is great news!  \n \n \n \n \n ",
+      "MessageIndex": 0,
+      "PostDate": "06/04/2008",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
+      "Title": "Sister in England in hospital with cellulitis"
+    },
+    {
+      "AuthorID": "scrabblenut19",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=1090192&p=46672",
       "Content": " \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
       "MessageIndex": 1,
       "PostDate": "07/04/2008",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=1090192",
@@ -137,21 +42,6 @@
       "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=996248&p=46672",
       "Content": " Holiday greetings to everyone!  My little sister in England (I posted about\n her back in the spring/summer) is battling an infection in her breast.  She had radiation treatment in May/June and had severe burns and chafing.  She was put on antibiotics in August when they initially diagnosed the infection, but the swelling and soreness hasn't gone away, so the specialist put her back onto them again yesterday and said to come back in three months.\n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
       "MessageIndex": 0,
       "PostDate": "18/12/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=996248",
@@ -160,22 +50,16 @@
     {
       "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=907824&p=46672",
+      "Content": " \n \n \n \n \n \n \n ",
+      "MessageIndex": 2,
+      "PostDate": "11/09/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=907824",
+      "Title": "Radiation after-effect?"
+    },
+    {
+      "AuthorID": "scrabblenut19",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=907824&p=46672",
       "Content": " Hi, everyone: I'm the one with the sister in England who underwent radiation in June.  Well, after quite a long healing period her breast is suddenly hot and red again and she's quite uncomfortable.  Also, the swelling from the treatment never went down.  Has anyone had this problem? She's seeing the specialist again on Sept 21st.  Should she wait or should she go sooner?  Thanks so much for any advice. ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
       "MessageIndex": 0,
       "PostDate": "06/09/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=907824",
@@ -185,20 +69,6 @@
       "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=907824&p=46672",
       "Content": " \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
       "MessageIndex": 1,
       "PostDate": "09/09/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=907824",
@@ -206,45 +76,8 @@
     },
     {
       "AuthorID": "scrabblenut19",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=907824&p=46672",
-      "Content": " \n \n \n \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 2,
-      "PostDate": "11/09/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=907824",
-      "Title": "Radiation after-effect?"
-    },
-    {
-      "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=784941&p=46672",
       "Content": " \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "NarrationType": "unknown",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
       "MessageIndex": 6,
       "PostDate": "19/04/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=784941",
@@ -252,582 +85,21 @@
     },
     {
       "AuthorID": "scrabblenut19",
-      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=784941&p=46672",
-      "Content": " Hello, everyone: I used to post regularly on the Crohn's Disease forum, but am happily in remission now after surgery 6 years ago.  I really appreciated the help I got over the years at HealingWell, and now I need your help for my sister.  \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": [],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "I",
-            "NarrationType": "first-person",
-            "NarratorGender": "unknown",
-            "PatientGender": "unknown"
-          }
-        }
-      },
-      "MessageIndex": 0,
-      "PostDate": "13/04/2007",
-      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=784941",
-      "Title": "Sister just diagnosed in England"
-    },
-    {
-      "AuthorID": "scrabblenut19",
       "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=818109&p=46672",
       "Content": " Hello again, everyone: I posted about\n 6 weeks ago to tell you about\n my sister in England.  She has been having radiation for the past two weeks and is doing very well so far; the only side effect is a tender nipple; the breast care nurse recommended she sew a piece of silk inside her bra, and that has helped.  She won't need chemo.  I am heading over there the day of her last treatment to take her away to relax for a few days, as we were told she may be tired by then.  Anyone out there who had radiation, no chemo?  If so, were you tired at the end of your treatments?  \n \n \n \n ",
-      "Demographics": {
-        "AgeInfo": [],
-        "GenderInfo": {
-          "MedicalTermBasedGender": {
-            "FemaleMedicalTerms": ["breast"],
-            "MaleMedicalTerms": []
-          },
-          "NounBasedGender": {
-            "MainSubject": "sister",
-            "NarrationType": "second-person",
-            "PatientGender": "female",
-            "Relation": "sister"
-          }
-        }
-      },
       "MessageIndex": 0,
       "PostDate": "24/05/2007",
       "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=818109",
       "Title": "Update on sister in England"
+    },
+    {
+      "AuthorID": "scrabblenut19",
+      "AuthorURL": "http://www.healingwell.com/community/profile.aspx?f=14&m=784941&p=46672",
+      "Content": " Hello, everyone: I used to post regularly on the Crohn's Disease forum, but am happily in remission now after surgery 6 years ago.  I really appreciated the help I got over the years at HealingWell, and now I need your help for my sister.  \n \n \n \n ",
+      "MessageIndex": 0,
+      "PostDate": "13/04/2007",
+      "ThreadURL": "http://www.healingwell.com/community/default.aspx?f=14&m=784941",
+      "Title": "Sister just diagnosed in England"
     }
-  ],
-  "ProfileDemographics": {
-    "Age": {
-      "Confidence": 0,
-      "Relation": "unknown",
-      "Tense": "unknown",
-      "Value": -1
-    },
-    "Gender": {
-      "Gender": "female",
-      "NarrationType": "unknown"
-    }
-  },
-  "SideEffectTypeInfo": {
-    "SideEffectType": ["Infection"],
-    "SideEffectTypeKeywords": ["infection"]
-  },
-  "SurgeryTypeInfo": {
-    "SurgeryMentions": [],
-    "SurgeryType": "",
-    "SurgeryTypeKeywords": []
-  },
-  "TreatmentDecision": {
-    "DoctorRecommended": {
-      "Age": 0,
-      "Best Cancer Control": 0,
-      "Bowel Symptoms": 0,
-      "Doctor Skill": 0,
-      "Erectile dysfunction": 0,
-      "Financial": 0,
-      "GP Mentioned": 0,
-      "Less Invasive": 0,
-      "Medical Indication": 0,
-      "Nerve": 0,
-      "Radiologist": 0,
-      "Recovery Time": 0,
-      "Source": 0,
-      "Surgeon": 0,
-      "Urinary incontinence": 0,
-      "Value": 0
-    },
-    "PatientDecided": {
-      "Age": 0,
-      "Best Cancer Control": 0,
-      "Bowel Symptoms": 0,
-      "Doctor Skill": 0,
-      "Erectile dysfunction": 0,
-      "Financial": 0,
-      "GP Mentioned": 0,
-      "Less Invasive": 0,
-      "Medical Indication": 0,
-      "Nerve": 0,
-      "Radiologist": 0,
-      "Recovery Time": 0,
-      "Source": 0,
-      "Surgeon": 0,
-      "Urinary incontinence": 0,
-      "Value": 0
-    }
-  },
-  "TreatmentTimelineInfo": {
-    "-1 Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "-1 Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "-2 Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "-2 Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "-3 Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "-3 Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "10th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "10th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "11th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "11th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "12th Month Emotions": {
-      "EmotionKeywords": [
-        "great",
-        "great news"
-      ],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "1",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "12th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "13th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "13th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "18th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "18th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "1st Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "1st Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "24th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "24th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "2nd Month Emotions": {
-      "EmotionKeywords": [
-        "relaxed",
-        "tender",
-        "caring",
-        "tired"
-      ],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "1",
-        "HAPPY": "0",
-        "HELPLESS": "1",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "2",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "2nd Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "3rd Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "3rd Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "4th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "4th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "5th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "5th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "6th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "0",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "6th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "7th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "7th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "8th Month Emotions": {
-      "EmotionKeywords": [],
-      "Emotions": {
-        "AFRAID": 0,
-        "ALIVE": 0,
-        "ANGRY": 0,
-        "CONFUSED": 0,
-        "DEPRESSED": 0,
-        "GOOD": 0,
-        "HAPPY": 0,
-        "HELPLESS": 0,
-        "HURT": 0,
-        "INDIFFERENT": 0,
-        "INTERESTED": 0,
-        "LOVE": 0,
-        "OPEN": 0,
-        "POSITIVE": 0,
-        "SAD": 0,
-        "STRONG": 0
-      }
-    },
-    "8th Month SideEffects": {
-      "SideEffectType": [],
-      "SideEffectTypeKeywords": []
-    },
-    "9th Month Emotions": {
-      "EmotionKeywords": ["sore"],
-      "Emotions": {
-        "AFRAID": "0",
-        "ALIVE": "0",
-        "ANGRY": "1",
-        "CONFUSED": "0",
-        "DEPRESSED": "0",
-        "GOOD": "0",
-        "HAPPY": "0",
-        "HELPLESS": "0",
-        "HURT": "0",
-        "INDIFFERENT": "0",
-        "INTERESTED": "0",
-        "LOVE": "0",
-        "OPEN": "0",
-        "POSITIVE": "0",
-        "SAD": "0",
-        "STRONG": "0"
-      }
-    },
-    "9th Month SideEffects": {
-      "SideEffectType": ["Infection"],
-      "SideEffectTypeKeywords": ["infection"]
-    },
-    "DateOfTreatment": "13/04/2007",
-    "TreatmentType": "Surgery",
-    "Verified": 1
-  },
-  "TreatmentTypeInfo": {
-    "TreatmentMentions": ["Radiation"],
-    "TreatmentType": "Radiation",
-    "TreatmentTypeKeywords": [
-      "radiation",
-      "surgery"
-    ]
-  },
-  "WordCount": 472
+  ]
 }

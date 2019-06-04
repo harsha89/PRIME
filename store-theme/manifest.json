@@ -1,0 +1,33 @@
+{
+  "vendor": "biscoindqa",
+  "name": "order-app",
+  "version": "0.1.0",
+  "builders": {
+    "styles": "1.x",
+    "store": "0.x"
+  },
+  "mustUpdateAt": "2020-05-01",
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
+  "dependencies": {
+    "vtex.store": "2.x",
+    "vtex.store-header": "2.x",
+    "vtex.store-footer": "2.x",
+    "vtex.store-components": "3.x",
+    "vtex.carousel": "2.x",
+    "vtex.shelf": "1.x",
+    "vtex.menu": "2.x",
+    "vtex.minicart": "2.x",
+    "vtex.product-details": "1.x",
+    "vtex.product-kit": "1.x",
+    "vtex.search-result": "3.x",
+    "vtex.login": "2.x",
+    "vtex.my-account": "1.x"
+  },
+  "title": "Non Web Orders",
+  "description": "Non Web Orders",
+  "registries": [
+    "smartcheckout"
+  ]
+}

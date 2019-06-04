@@ -1,4 +1,4 @@
-types=breastcancerforums,healingwell
+types=breastcancerforums,healingwell,cancercompassbreastcancerforums,communitybreastcancerforums,csnbreastcancerforums,healthboardsbreastcancerforums,inspireadvancedbreastcancerforums,inspirebreastcancerforums,macmillanukbreastcancerforums,patientinfobreastcancerforums
 options=all
 folderPath =BreastCancerProfiles/
 #options: 'all' executes the entire PEAP pipeline while individual stages can be executed using the following options: demographics, gleason, treatmentType, sideEffects, emotions, sentiment, psa, postTypeInfo, treatmentConfirmation, treatmentDecision
